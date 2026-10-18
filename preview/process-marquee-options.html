@@ -49,7 +49,7 @@ a{text-decoration:none;color:inherit}
 /* Common section eyebrow + heading utilities */
 .s-eye{display:inline-flex;align-items:center;gap:14px;font-family:'Montserrat',sans-serif;font-size:9px;font-weight:300;letter-spacing:7px;text-transform:uppercase;color:var(--gold-soft);margin-bottom:22px}
 .s-eye::before{content:'';width:44px;height:1px;background:var(--gold);opacity:.55}
-.s-title{font-family:'Bebas Neue',cursive;font-size:clamp(48px,5.6vw,86px);line-height:.92;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 4px rgba(0,0,0,.7),0 0 12px rgba(240,234,214,.08)}
+.s-title{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(48px,5.6vw,86px);line-height:.92;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 4px rgba(0,0,0,.7),0 0 12px rgba(240,234,214,.08)}
 
 /* =====================================================================
    OPTION A — VERTICAL CINEMA TIMELINE (sticky pinned)
@@ -60,12 +60,12 @@ a{text-decoration:none;color:inherit}
 .optA-eye{font-family:'Montserrat',sans-serif;font-size:9px;font-weight:300;letter-spacing:7px;text-transform:uppercase;color:var(--gold-soft);display:inline-flex;align-items:center;gap:14px}
 .optA-eye::before{content:'';width:44px;height:1px;background:var(--gold);opacity:.55}
 .optA-numwrap{position:relative;height:clamp(160px,22vw,300px);overflow:hidden}
-.optA-num{font-family:'Bebas Neue',cursive;font-size:clamp(180px,24vw,340px);line-height:.85;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 4px rgba(0,0,0,.7),0 0 12px rgba(240,234,214,.08);position:absolute;left:0;top:0;opacity:0;transform:translateY(40%);transition:opacity .55s var(--ease),transform .65s var(--ease)}
+.optA-num{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(180px,24vw,340px);line-height:.85;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 4px rgba(0,0,0,.7),0 0 12px rgba(240,234,214,.08);position:absolute;left:0;top:0;opacity:0;transform:translateY(40%);transition:opacity .55s var(--ease),transform .65s var(--ease)}
 .optA-num.is-on{opacity:1;transform:translateY(0)}
 .optA-titles{position:relative;min-height:140px}
 .optA-title{position:absolute;left:0;top:0;display:flex;flex-direction:column;gap:14px;opacity:0;transform:translateY(20px);transition:opacity .55s var(--ease) .08s,transform .65s var(--ease) .08s}
 .optA-title.is-on{opacity:1;transform:translateY(0)}
-.optA-title h3{font-family:'Bebas Neue',cursive;font-size:clamp(32px,3.6vw,52px);line-height:.95;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.6)}
+.optA-title h3{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(32px,3.6vw,52px);line-height:.95;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.6)}
 .optA-title .pulse{font-family:'Montserrat',sans-serif;font-weight:500;font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-pulse);text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);animation:goldPulse 4.2s ease-in-out infinite}
 .optA-title p{font-family:'Montserrat',sans-serif;font-size:13px;font-weight:300;line-height:1.85;color:rgba(240,234,214,.62);max-width:420px}
 .optA-right{position:relative;overflow:hidden;background:#0d0d0d}
@@ -112,7 +112,7 @@ a{text-decoration:none;color:inherit}
 .optB-num::before{content:'';width:18px;height:1px;background:var(--gold-pulse);box-shadow:0 0 8px rgba(232,196,90,.6)}
 .optB-station-4 .optB-num{flex-direction:row-reverse}
 .optB-station-4 .optB-num::before{order:0}
-.optB-h{font-family:'Bebas Neue',cursive;font-size:32px;letter-spacing:2px;line-height:1.05;color:var(--cream);margin-bottom:12px;text-shadow:0 2px 8px rgba(0,0,0,.6)}
+.optB-h{font-family:'Bebas Neue',Impact,sans-serif;font-size:32px;letter-spacing:2px;line-height:1.05;color:var(--cream);margin-bottom:12px;text-shadow:0 2px 8px rgba(0,0,0,.6)}
 .optB-p{font-family:'Montserrat',sans-serif;font-size:11px;font-weight:300;line-height:1.85;color:rgba(240,234,214,.62)}
 .optB-tick{font-family:'Montserrat',sans-serif;font-size:8px;font-weight:300;letter-spacing:4px;text-transform:uppercase;color:rgba(240,234,214,.32);margin-top:10px}
 
@@ -130,12 +130,12 @@ a{text-decoration:none;color:inherit}
 .optC-band.in .optC-bg{transform:scale(1.0);filter:grayscale(.7) brightness(.5) contrast(1.1)}
 .optC-band::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.85) 0%,rgba(0,0,0,.55) 35%,rgba(0,0,0,.25) 70%,rgba(0,0,0,.65) 100%);pointer-events:none}
 .optC-inner{position:relative;z-index:2;height:100%;max-width:1480px;margin:0 auto;padding:0 60px;display:grid;grid-template-columns:0.85fr 1fr;gap:80px;align-items:center}
-.optC-num{font-family:'Bebas Neue',cursive;font-size:clamp(160px,22vw,320px);line-height:.84;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.7);opacity:0;transform:translateX(-30px);transition:opacity 1.0s var(--ease),transform 1.0s var(--ease)}
+.optC-num{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(160px,22vw,320px);line-height:.84;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.7);opacity:0;transform:translateX(-30px);transition:opacity 1.0s var(--ease),transform 1.0s var(--ease)}
 .optC-band.in .optC-num{opacity:1;transform:translateX(0)}
 .optC-content{display:flex;flex-direction:column;gap:18px;opacity:0;transform:translateY(24px);transition:opacity .9s var(--ease) .1s,transform .9s var(--ease) .1s}
 .optC-band.in .optC-content{opacity:1;transform:translateY(0)}
 .optC-content .pulse{font-family:'Montserrat',sans-serif;font-weight:500;font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-pulse);text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);animation:goldPulse 4.2s ease-in-out infinite}
-.optC-content h3{font-family:'Bebas Neue',cursive;font-size:clamp(40px,5vw,72px);line-height:.95;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.6)}
+.optC-content h3{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(40px,5vw,72px);line-height:.95;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 8px rgba(0,0,0,.6)}
 .optC-content p{font-family:'Montserrat',sans-serif;font-size:13px;font-weight:300;line-height:1.85;color:rgba(240,234,214,.72);max-width:520px}
 /* Vertical scroll-through rail on the right edge of all bands */
 .optC-rail{position:fixed;right:32px;top:50%;transform:translateY(-50%);z-index:30;display:flex;flex-direction:column;gap:42px;pointer-events:none;opacity:0;transition:opacity .4s ease}
@@ -180,7 +180,7 @@ a{text-decoration:none;color:inherit}
 .optD-card.below .leg{top:-32px;height:32px;background:linear-gradient(180deg,rgba(232,196,90,.5),rgba(232,196,90,.05))}
 
 .optD-num{font-family:'Montserrat',sans-serif;font-weight:500;font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-pulse);text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);animation:goldPulse 4.2s ease-in-out infinite;margin-bottom:8px}
-.optD-h{font-family:'Bebas Neue',cursive;font-size:24px;letter-spacing:2px;line-height:1.1;color:var(--cream);margin-bottom:8px;text-shadow:0 2px 8px rgba(0,0,0,.6);transition:color .35s,letter-spacing .35s}
+.optD-h{font-family:'Bebas Neue',Impact,sans-serif;font-size:24px;letter-spacing:2px;line-height:1.1;color:var(--cream);margin-bottom:8px;text-shadow:0 2px 8px rgba(0,0,0,.6);transition:color .35s,letter-spacing .35s}
 .optD-p{font-family:'Montserrat',sans-serif;font-size:10.5px;font-weight:300;line-height:1.65;color:rgba(240,234,214,.6)}
 .optD-card:hover{transform:translateX(-50%) translateY(-4px)!important}
 .optD-card:hover .optD-h{color:var(--gold-pulse);letter-spacing:3px}
@@ -189,7 +189,7 @@ a{text-decoration:none;color:inherit}
    BANNER OPTIONS
 ===================================================================== */
 .bnr-head{padding:90px 60px 36px;max-width:1480px;margin:0 auto;text-align:center}
-.bnr-head h2{font-family:'Bebas Neue',cursive;font-size:clamp(40px,4.4vw,68px);letter-spacing:2px;color:var(--cream);margin-bottom:8px}
+.bnr-head h2{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(40px,4.4vw,68px);letter-spacing:2px;color:var(--cream);margin-bottom:8px}
 .bnr-head .lead{font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-soft)}
 
 /* ── BANNER 1 — Dual Counter-Scroll Thin Strip ── */
@@ -213,14 +213,14 @@ a{text-decoration:none;color:inherit}
 .bnr2-cell{display:flex;flex-direction:column;align-items:center;gap:8px;padding:0 18px;position:relative}
 .bnr2-cell+.bnr2-cell::before{content:'';position:absolute;left:0;top:18%;bottom:18%;width:1px;background:linear-gradient(180deg,transparent,rgba(232,196,90,.25),transparent)}
 .bnr2-eb{font-family:'Montserrat',sans-serif;font-size:8px;font-weight:300;letter-spacing:6px;text-transform:uppercase;color:var(--gold-soft)}
-.bnr2-num{font-family:'Bebas Neue',cursive;font-size:clamp(48px,5.5vw,82px);line-height:1;letter-spacing:2px;color:var(--gold-pulse);text-shadow:0 0 28px rgba(232,196,90,.45),0 0 64px rgba(201,168,76,.22),0 0 120px rgba(232,196,90,.12);animation:goldPulse 4.2s ease-in-out infinite}
+.bnr2-num{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(48px,5.5vw,82px);line-height:1;letter-spacing:2px;color:var(--gold-pulse);text-shadow:0 0 28px rgba(232,196,90,.45),0 0 64px rgba(201,168,76,.22),0 0 120px rgba(232,196,90,.12);animation:goldPulse 4.2s ease-in-out infinite}
 .bnr2-sub{font-family:'Montserrat',sans-serif;font-size:9px;font-weight:400;letter-spacing:3px;text-transform:uppercase;color:rgba(240,234,214,.45)}
 
 /* ── BANNER 3 — Kinetic Scroll-Reactive Strip ── */
 .bnr3{background:var(--dark2);border-top:1px solid rgba(232,196,90,.10);border-bottom:1px solid rgba(232,196,90,.10);overflow:hidden;height:84px;display:flex;align-items:center}
 .bnr3-track{display:flex;white-space:nowrap;will-change:transform}
-.bnr3-w{font-family:'Bebas Neue',cursive;font-size:54px;letter-spacing:5px;color:rgba(240,234,214,.78);padding:0 36px;flex-shrink:0}
-.bnr3-sep{font-family:'Bebas Neue',cursive;font-size:54px;color:var(--gold-pulse);padding:0 12px;flex-shrink:0;text-shadow:0 0 18px rgba(232,196,90,.45)}
+.bnr3-w{font-family:'Bebas Neue',Impact,sans-serif;font-size:54px;letter-spacing:5px;color:rgba(240,234,214,.78);padding:0 36px;flex-shrink:0}
+.bnr3-sep{font-family:'Bebas Neue',Impact,sans-serif;font-size:54px;color:var(--gold-pulse);padding:0 12px;flex-shrink:0;text-shadow:0 0 18px rgba(232,196,90,.45)}
 
 /* ── footer note ── */
 .foot-note{background:#050504;padding:40px 30px;text-align:center;font-family:'Montserrat',sans-serif;font-size:9px;font-weight:300;letter-spacing:7px;text-transform:uppercase;color:rgba(232,160,32,.55);border-top:1px solid rgba(232,196,90,.1)}

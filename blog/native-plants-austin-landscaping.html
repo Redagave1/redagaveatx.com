@@ -48,7 +48,7 @@ a{text-decoration:none;color:inherit}
 #nav{position:fixed;top:0;left:0;right:0;z-index:800;padding:0 60px;transition:all .4s}
 #nav.scrolled{background:rgba(8,11,6,0.94);backdrop-filter:blur(20px);border-bottom:1px solid rgba(201,168,76,0.1)}
 .nav-inner{display:flex;justify-content:space-between;align-items:center;height:76px;max-width:1440px;margin:0 auto}
-.nav-logo{font-family:'Bebas Neue',cursive;font-size:28px;letter-spacing:5px;color:var(--gold);text-shadow:0 0 20px rgba(201,168,76,0.28)}
+.nav-logo{font-family:'Bebas Neue',Impact,sans-serif;font-size:28px;letter-spacing:5px;color:var(--gold);text-shadow:0 0 20px rgba(201,168,76,0.28)}
 .nav-links{display:flex;gap:28px;list-style:none}
 .nav-links a{font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--cream60);transition:color .3s;position:relative;padding-bottom:3px}
 .nav-links a::after{content:'';position:absolute;bottom:0;left:0;width:100%;height:1px;background:var(--gold);transform:scaleX(0);transform-origin:right;transition:transform .3s var(--ease)}
@@ -71,7 +71,7 @@ a{text-decoration:none;color:inherit}
 .mob-nav{display:flex;flex-direction:column;gap:4px}
 .mob-eyebrow{font-size:8px;letter-spacing:6px;text-transform:uppercase;color:rgba(201,168,76,0.45);margin-bottom:28px;display:flex;align-items:center;gap:12px}
 .mob-eyebrow::before{content:'';width:28px;height:1px;background:var(--gold);opacity:.5}
-#mob-menu a.mob-link{font-family:'Bebas Neue',cursive;font-size:clamp(44px,11vw,72px);letter-spacing:3px;color:rgba(240,234,214,0.22);line-height:1.05;display:block;opacity:0;transform:translateX(-24px);transition:opacity .5s ease,transform .5s var(--ease),color .3s,letter-spacing .3s}
+#mob-menu a.mob-link{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(44px,11vw,72px);letter-spacing:3px;color:rgba(240,234,214,0.22);line-height:1.05;display:block;opacity:0;transform:translateX(-24px);transition:opacity .5s ease,transform .5s var(--ease),color .3s,letter-spacing .3s}
 #mob-menu.open a.mob-link{opacity:1;transform:translateX(0)}
 #mob-menu.open a.mob-link:nth-child(1){transition-delay:.08s}
 #mob-menu.open a.mob-link:nth-child(2){transition-delay:.14s}
@@ -84,19 +84,19 @@ a{text-decoration:none;color:inherit}
 #mob-menu.open .mob-divider{opacity:1}
 .mob-bottom{opacity:0;transform:translateY(16px);transition:opacity .5s ease .4s,transform .5s var(--ease) .4s}
 #mob-menu.open .mob-bottom{opacity:1;transform:translateY(0)}
-.mob-phone{font-family:'Bebas Neue',cursive;font-size:clamp(32px,8vw,48px);letter-spacing:3px;color:var(--gold);display:block;margin-bottom:20px}
+.mob-phone{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(32px,8vw,48px);letter-spacing:3px;color:var(--gold);display:block;margin-bottom:20px}
 .mob-cta{display:inline-flex;align-items:center;gap:10px;background:var(--gold);color:var(--dark);padding:13px 36px;font-size:10px;letter-spacing:3px;text-transform:uppercase;font-family:'Montserrat',sans-serif;font-weight:700;border-radius:9999px;transition:all .3s;margin-bottom:28px}
 .mob-location{font-size:8px;letter-spacing:4px;text-transform:uppercase;color:rgba(240,234,214,0.2)}
 .page-header{position:relative;min-height:320px;display:flex;align-items:flex-end;overflow:hidden;padding:120px 60px 60px;background:#000}
 .page-header-ov{position:absolute;inset:0;background:linear-gradient(130deg,rgba(8,11,6,.94),rgba(8,11,6,.7) 50%,rgba(8,11,6,.88))}
 .page-header-inner{position:relative;z-index:2;max-width:1440px;width:100%;margin:0 auto}
 .page-eyebrow{font-size:10px;letter-spacing:4px;text-transform:uppercase;color:var(--gold);margin-bottom:16px}
-.page-title{font-family:'Bebas Neue',cursive;font-size:clamp(48px,6vw,72px);letter-spacing:2px;line-height:1.1;color:var(--cream)}
+.page-title{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(48px,6vw,72px);letter-spacing:2px;line-height:1.1;color:var(--cream)}
 /* CONTENT */
 .sec{max-width:1440px;margin:0 auto;padding:80px 60px}
 .sec.alt{background:rgba(13,18,10,0.5);border-top:1px solid rgba(201,168,76,0.1);border-bottom:1px solid rgba(201,168,76,0.1)}
 .s-eye{font-size:10px;letter-spacing:4px;text-transform:uppercase;color:var(--gold);margin-bottom:12px;display:block}
-.s-title{font-family:'Bebas Neue',cursive;font-size:clamp(36px,5vw,52px);letter-spacing:1px;line-height:1.15;color:var(--cream);margin-bottom:28px}
+.s-title{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(36px,5vw,52px);letter-spacing:1px;line-height:1.15;color:var(--cream);margin-bottom:28px}
 .content-body{font-size:15px;line-height:1.7;color:var(--cream60);margin-bottom:24px}
 .content-body strong{color:var(--cream);font-weight:600}
 .content-body a{color:var(--gold);transition:color .3s}
@@ -104,14 +104,14 @@ a{text-decoration:none;color:inherit}
 .plant-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:28px;margin:40px 0}
 .plant-card{background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);padding:28px;border-radius:4px;transition:all .3s}
 .plant-card:hover{background:rgba(201,168,76,0.12);border-color:rgba(201,168,76,0.4)}
-.plant-name{font-family:'Bebas Neue',cursive;font-size:20px;letter-spacing:1px;color:var(--gold);margin-bottom:8px}
+.plant-name{font-family:'Bebas Neue',Impact,sans-serif;font-size:20px;letter-spacing:1px;color:var(--gold);margin-bottom:8px}
 .plant-sci{font-size:12px;color:var(--cream30);font-style:italic;margin-bottom:12px;display:block}
 .plant-info{font-size:14px;line-height:1.6;color:var(--cream60);margin-bottom:12px}
 .plant-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
 .tag{display:inline-block;background:rgba(201,168,76,0.15);color:var(--gold);font-size:11px;letter-spacing:1px;padding:4px 12px;border-radius:20px}
 .faq-item{margin-bottom:32px;border-bottom:1px solid rgba(201,168,76,0.1);padding-bottom:24px}
 .faq-item:last-child{border-bottom:none}
-.faq-q{font-family:'Bebas Neue',cursive;font-size:18px;letter-spacing:1px;color:var(--gold);margin-bottom:12px;cursor:pointer}
+.faq-q{font-family:'Bebas Neue',Impact,sans-serif;font-size:18px;letter-spacing:1px;color:var(--gold);margin-bottom:12px;cursor:pointer}
 .faq-a{font-size:14px;line-height:1.7;color:var(--cream60)}
 .cta-section{background:linear-gradient(135deg,rgba(201,168,76,0.15),rgba(201,168,76,0.05));border:1px solid rgba(201,168,76,0.2);padding:60px;text-align:center;border-radius:4px;margin:60px 0}
 .cta-section .s-title{margin-bottom:20px}
@@ -120,12 +120,12 @@ a{text-decoration:none;color:inherit}
 footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,168,76,0.1)}
 .footer-inner{max-width:1440px;margin:0 auto}
 .footer-content{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:40px;margin-bottom:40px}
-.footer-col h4{font-family:'Bebas Neue',cursive;font-size:14px;letter-spacing:2px;color:var(--gold);margin-bottom:16px;text-transform:uppercase}
+.footer-col h4{font-family:'Bebas Neue',Impact,sans-serif;font-size:14px;letter-spacing:2px;color:var(--gold);margin-bottom:16px;text-transform:uppercase}
 .footer-col a{display:block;font-size:12px;line-height:1.8;color:var(--cream60);transition:color .3s}
 .footer-col a:hover{color:var(--cream)}
 .footer-divider{height:1px;background:linear-gradient(to right,rgba(201,168,76,0.3),transparent);margin:40px 0}
 .footer-bottom{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--cream30)}
-.footer-logo{font-family:'Bebas Neue',cursive;font-size:16px;letter-spacing:3px;color:var(--gold)};
+.footer-logo{font-family:'Bebas Neue',Impact,sans-serif;font-size:16px;letter-spacing:3px;color:var(--gold)};
 @media(max-width:768px){.sec{padding:52px 32px}.plant-grid{grid-template-columns:1fr}.cta-section{padding:40px 24px}.page-header{padding:80px 32px 40px}.footer-content{grid-template-columns:1fr}}
 #mobile-cta{display:none;position:fixed;bottom:0;left:0;right:0;z-index:700;background:linear-gradient(to bottom,rgba(8,11,6,0),rgba(8,11,6,0.98));padding:16px 16px 28px;backdrop-filter:blur(12px);border-top:1px solid rgba(201,168,76,0.1)}#mobile-cta a{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--gold);color:var(--dark);padding:14px 28px;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;font-family:'Montserrat',sans-serif;border-radius:9999px;text-decoration:none;width:100%;transition:all 0.3s;box-shadow:0 4px 16px rgba(201,168,76,0.25)}#mobile-cta a:active{transform:scale(0.98);box-shadow:0 2px 8px rgba(201,168,76,0.15)}@media(max-width:768px){#mobile-cta{display:block}body.has-mobile-cta{padding-bottom:80px}}
 </style>

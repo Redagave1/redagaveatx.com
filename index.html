@@ -336,13 +336,14 @@ a{text-decoration:none;color:inherit}
   content: '';
   position: absolute;
   inset: 0;
-  background-image: url('images/gallery/IMG_5448.webp');
+  background-image: none;
   background-size: cover;
   background-position: center;
   opacity: 0.08;
   pointer-events: none;
 }
 
+#mob-menu.open::before{background-image:url('images/gallery/IMG_5448-1200.webp')}
 /* Gold diagonal accent */
 #mob-menu::after {
   content: '';
@@ -1832,7 +1833,7 @@ a{text-decoration:none;color:inherit}
 
 /* ══ TESTIMONIALS — Option D: 3D Perspective Carousel ══ */
 .testi-d{position:relative;padding:100px 0 80px;overflow:hidden;border-top:1px solid rgba(201,168,76,.08)}
-.td-bg{position:absolute;inset:0;background-image:url('images/gallery/IMG_9107.webp');background-size:cover;background-position:center;filter:grayscale(.3) brightness(.55) blur(12px);transform:scale(1.08);z-index:0}
+.td-bg{position:absolute;inset:0;background-image:url('images/gallery/IMG_9107-1200.webp');background-size:cover;background-position:center;filter:grayscale(.3) brightness(.55) blur(12px);transform:scale(1.08);z-index:0}
 .td-bg-ov{position:absolute;inset:0;z-index:1;background:rgba(8,7,5,.55)}
 .td-head{position:relative;z-index:3;text-align:center;padding:0 60px 60px}
 .td-eye{display:inline-flex;align-items:center;gap:14px;font-size:9px;font-weight:300;letter-spacing:7px;text-transform:uppercase;color:var(--gold-soft);margin-bottom:16px}
@@ -1893,7 +1894,7 @@ a{text-decoration:none;color:inherit}
 
 /* ══ CONTACT / BOOKING SECTION ══ */
 .conversion{background:var(--dark2);padding:100px 60px;position:relative;overflow:hidden;border-top:1px solid rgba(201,168,76,0.08)}
-.conv-bg{position:absolute;inset:0;background:url('images/gallery/IMG_8575.webp') center/cover no-repeat;opacity:.06;filter:grayscale(100%);pointer-events:none;z-index:0}
+.conv-bg{position:absolute;inset:0;background:url('images/gallery/IMG_8575-1200.webp') center/cover no-repeat;opacity:.06;filter:grayscale(100%);pointer-events:none;z-index:0}
 .conv-bg::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(8,11,6,.7) 0%,rgba(8,11,6,.96) 100%)}
 .conv-bgtxt{position:absolute;font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(80px,14vw,200px);color:rgba(201,168,76,0.028);letter-spacing:6px;top:50%;left:50%;transform:translate(-50%,-50%);white-space:nowrap;pointer-events:none;user-select:none;z-index:0}
 .conv-inner{position:relative;z-index:1;max-width:860px;margin:0 auto}
@@ -2384,7 +2385,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     <a href="services/landscape-lighting-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_8182.webp" alt="24V FCOB and COB landscape lighting with WiFi-controlled WLED system illuminating steel-edged planting beds — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">02</div><div class="svc-name">State of the Art Lighting</div><div class="svc-desc">WLED &amp; FCOB systems — the lighting others can't do</div><span class="svc-arr">&#8594;</span></div></a>
     <a href="services/custom-decks-austin-tx.html" class="svc rev"><img src="images/gallery/DSC04042.webp" alt="Custom composite deck with cedar pergola and steel-framed privacy wall — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">03</div><div class="svc-name">Custom Built Decks</div><div class="svc-desc">Composite decks, cedar pergolas, privacy walls</div><span class="svc-arr">&#8594;</span></div></a>
     <a href="services/fire-pits-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_5491.webp" alt="Floating welded steel fire pit with propane burner and boulder water feature — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">04</div><div class="svc-name">Fire &amp; Water Features</div><div class="svc-desc">Custom fire pits, streams, ponds and water walls</div><span class="svc-arr">&#8594;</span></div></a>
-    <a href="services/outdoor-living-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_9652.webp" alt="Outdoor kitchen with built-in grill, steel-framed pergola, and poured concrete countertops — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">05</div><div class="svc-name">Outdoor Living &amp; Kitchens</div><div class="svc-desc">Kitchens, pergolas, seating walls &mdash; complete environments</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/outdoor-living-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_9652-1200.webp" alt="Outdoor kitchen with built-in grill, steel-framed pergola, and poured concrete countertops — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">05</div><div class="svc-name">Outdoor Living &amp; Kitchens</div><div class="svc-desc">Kitchens, pergolas, seating walls &mdash; complete environments</div><span class="svc-arr">&#8594;</span></div></a>
     <a href="services/design-build-austin-tx.html" class="svc rev"><img src="images/gallery/1707 Ulit Ave-029-Kieran Reeves Photography [MLS].webp" alt="Complete front yard transformation with xeriscape, steel edging, and native Texas plantings — Ulit Ave Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">06</div><div class="svc-name">Full Yard Design + Build</div><div class="svc-desc">Complete transformations from concept to completion</div><span class="svc-arr">&#8594;</span></div></a>
   </div>
 </section>
@@ -2392,9 +2393,9 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- THE RED AGAVE DIFFERENCE — 3-photo collage + scroll parallax -->
 <section id="difference" class="diff" aria-label="The Red Agave Difference">
   <div class="diff-collage">
-    <div class="dc-col dc-col--left"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffleft.webp')"></div></div>
-    <div class="dc-col dc-col--center"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffcenter.webp')"></div></div>
-    <div class="dc-col dc-col--right"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffright.webp')"></div></div>
+    <div class="dc-col dc-col--left"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffleft-1200.webp')"></div></div>
+    <div class="dc-col dc-col--center"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffcenter-1200.webp')"></div></div>
+    <div class="dc-col dc-col--right"><div class="dc-img" data-diff="img" style="background-image:url('images/gallery/diffright-1200.webp')"></div></div>
 
     <p class="diff-body">At Red Agave, we don't just landscape; we engineer luxury outdoor living environments. As Austin's premier design-build studio, we craft bespoke exterior spaces across Westlake, Barton Creek, Tarrytown, Circle C, and the Texas Hill Country. From resort-scale pool surrounds and architectural hardscaping to custom fire features and cedar pergolas, our work is defined by precision. By managing every phase entirely in-house&mdash;from the initial 3D conceptualization to the final installation&mdash;we eliminate the friction of multiple contractors. We deliver a seamless experience and an uncompromising level of craftsmanship. That is the Red Agave difference.</p>
 
@@ -2479,11 +2480,11 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- SHOWCASE STRIP -->
 <section class="showcase-strip" aria-label="Recent project highlights">
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_9652.webp" alt="Custom pool with poured concrete deck, steel-framed pergola, and outdoor kitchen — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_9652-1200.webp" alt="Custom pool with poured concrete deck, steel-framed pergola, and outdoor kitchen — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_8667.webp" alt="Outdoor living space with metal-roof cedar pergola and built-in kitchen — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_8667-1200.webp" alt="Outdoor living space with metal-roof cedar pergola and built-in kitchen — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
   <div class="ss-tile rev">
@@ -2499,10 +2500,10 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- PATH TOWARDS YOUR DREAM LANDSCAPE -->
 <section class="path" id="process">
   <div class="path-pin" id="path-pin">
-    <div class="path-photo is-on" data-step="0" style="background-image:url('images/gallery/diffcenter.webp')"></div>
-    <div class="path-photo"        data-step="1" style="background-image:url('images/gallery/IMG_9652.webp')"></div>
-    <div class="path-photo"        data-step="2" style="background-image:url('images/gallery/IMG_8667.webp')"></div>
-    <div class="path-photo"        data-step="3" style="background-image:url('images/gallery/IMG_9107.webp')"></div>
+    <div class="path-photo is-on" data-step="0" style="background-image:url('images/gallery/diffcenter-1200.webp')"></div>
+    <div class="path-photo"        data-step="1" style="background-image:url('images/gallery/IMG_9652-1200.webp')"></div>
+    <div class="path-photo"        data-step="2" style="background-image:url('images/gallery/IMG_8667-1200.webp')"></div>
+    <div class="path-photo"        data-step="3" style="background-image:url('images/gallery/IMG_9107-1200.webp')"></div>
 
     <span class="path-eb">How It Works</span>
     <span class="path-section-title">The Path Towards Your Dream Landscape.</span>

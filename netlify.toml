@@ -35,3 +35,9 @@
   to = "/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/blog/green-agave-austin-tx.html"
+  to = "/blog/agave-salmiana-green-giant-austin-tx.html"
+  status = 301
+  force = true

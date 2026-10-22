@@ -527,12 +527,10 @@
       b2.opacity += (b2.topc - b2.opacity) * (dt / 1500);
 
       // Apply positions — blobs are centered via transform:translate(-50%,-50%)
-      blob1.style.left    = (b1.x * w) + 'px';
-      blob1.style.top     = (b1.y * h) + 'px';
+      blob1.style.transform = 'translate3d(' + (b1.x * w) + 'px,' + (b1.y * h) + 'px,0) translate(-50%,-50%)';
       blob1.style.opacity = b1.opacity;
 
-      blob2.style.left    = (b2.x * w) + 'px';
-      blob2.style.top     = (b2.y * h) + 'px';
+      blob2.style.transform = 'translate3d(' + (b2.x * w) + 'px,' + (b2.y * h) + 'px,0) translate(-50%,-50%)';
       blob2.style.opacity = b2.opacity;
 
       requestAnimationFrame(frame);

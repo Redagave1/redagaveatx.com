@@ -757,55 +757,6 @@
   }, { passive: true });
 })();
 
-// ══ PARTICLE CANVAS — more dense ══
-(function() {
-  var cv = document.getElementById('h-canvas');
-  if (!cv) return;
-  // Override existing canvas with more particles
-  var ctx = cv.getContext('2d');
-  if (!ctx) return;
-  var pts = [], W, H;
-  function resize() { W = cv.width = cv.offsetWidth; H = cv.height = cv.offsetHeight; }
-  function init() {
-    pts = [];
-    for (var i = 0; i < 120; i++) {
-      pts.push({
-        x: Math.random()*W, y: Math.random()*H,
-        vx: (Math.random()-0.5)*0.4, vy: (Math.random()-0.5)*0.4,
-        r: Math.random()*1.6+0.5, opacity: Math.random()*0.4+0.3
-      });
-    }
-  }
-  function draw() {
-    ctx.clearRect(0,0,W,H);
-    pts.forEach(function(p) {
-      p.x+=p.vx; p.y+=p.vy;
-      if(p.x<0||p.x>W) p.vx*=-1;
-      if(p.y<0||p.y>H) p.vy*=-1;
-      ctx.beginPath();
-      ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
-      ctx.fillStyle='rgba(201,168,76,'+p.opacity+')';
-      ctx.fill();
-    });
-    for(var i=0;i<pts.length;i++) {
-      for(var j=i+1;j<pts.length;j++) {
-        var dx=pts[i].x-pts[j].x, dy=pts[i].y-pts[j].y;
-        var d=Math.sqrt(dx*dx+dy*dy);
-        if(d<120) {
-          ctx.beginPath();
-          ctx.moveTo(pts[i].x,pts[i].y);
-          ctx.lineTo(pts[j].x,pts[j].y);
-          ctx.strokeStyle='rgba(201,168,76,'+(1-d/120)*0.2+')';
-          ctx.lineWidth=0.6;
-          ctx.stroke();
-        }
-      }
-    }
-    requestAnimationFrame(draw);
-  }
-  window.addEventListener('resize', function(){ resize(); init(); }, {passive:true});
-  resize(); init(); draw();
-})();
 
 // (wm-card tilt/scale/mouse handlers removed — flip is now handled purely via CSS :hover on .wm-inner)
 
@@ -909,53 +860,6 @@
   }, { passive: true });
 })();
 
-// ══ PARTICLE CANVAS: denser, more prominent ══
-(function() {
-  var cv = document.getElementById('h-canvas');
-  if (!cv) return;
-  var ctx = cv.getContext('2d');
-  if (!ctx) return;
-  var pts = [], W, H;
-  function resize() { W = cv.width = cv.offsetWidth; H = cv.height = cv.offsetHeight; }
-  function init() {
-    pts = [];
-    for (var i = 0; i < 130; i++) {
-      pts.push({
-        x: Math.random()*W, y: Math.random()*H,
-        vx: (Math.random()-0.5)*0.38, vy: (Math.random()-0.5)*0.38,
-        r: Math.random()*1.8+0.5,
-        op: Math.random()*0.45+0.25
-      });
-    }
-  }
-  function draw() {
-    ctx.clearRect(0,0,W,H);
-    pts.forEach(function(p) {
-      p.x+=p.vx; p.y+=p.vy;
-      if(p.x<0||p.x>W) p.vx*=-1;
-      if(p.y<0||p.y>H) p.vy*=-1;
-      ctx.beginPath();
-      ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
-      ctx.fillStyle='rgba(201,168,76,'+p.op+')';
-      ctx.fill();
-    });
-    for(var i=0;i<pts.length;i++) for(var j=i+1;j<pts.length;j++){
-      var dx=pts[i].x-pts[j].x, dy=pts[i].y-pts[j].y;
-      var d=Math.sqrt(dx*dx+dy*dy);
-      if(d<115){
-        ctx.beginPath();
-        ctx.moveTo(pts[i].x,pts[i].y);
-        ctx.lineTo(pts[j].x,pts[j].y);
-        ctx.strokeStyle='rgba(201,168,76,'+(1-d/115)*0.22+')';
-        ctx.lineWidth=0.65;
-        ctx.stroke();
-      }
-    }
-    requestAnimationFrame(draw);
-  }
-  window.addEventListener('resize', function(){ resize(); init(); }, {passive:true});
-  resize(); init(); draw();
-})();
 
 // ══ TESTIMONIALS — 3D Perspective Carousel ══
 (function(){

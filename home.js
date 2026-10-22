@@ -331,7 +331,7 @@
   if (window.matchMedia('(min-width: 901px)').matches && document.getElementById('h-canvas')) {
     var threeScript = document.createElement('script');
     threeScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js';
-    threeScript.onload = initDust;
+    threeScript.onload = function () { try { initDust(); } catch (e) {} };
     document.head.appendChild(threeScript);
   }
 

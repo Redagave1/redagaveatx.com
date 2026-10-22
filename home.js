@@ -1059,16 +1059,22 @@
 })();
 
 (function () {
-  var lazy = [].slice.call(document.querySelectorAll('[data-bg]'));
   function load(el) {
     el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
     el.removeAttribute('data-bg');
   }
+  var slides = [].slice.call(document.querySelectorAll('.hslide[data-bg]'));
+  window.addEventListener('load', function () {
+    setTimeout(function () { slides.forEach(load); }, 1200);
+  });
+  var lazy = [].slice.call(document.querySelectorAll('[data-bg]')).filter(function (el) {
+    return slides.indexOf(el) === -1;
+  });
   if (!('IntersectionObserver' in window)) { lazy.forEach(load); return; }
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (e) {
       if (e.isIntersecting) { load(e.target); io.unobserve(e.target); }
     });
-  }, { rootMargin: '400px 0px' });
+  }, { rootMargin: '200px 0px' });
   lazy.forEach(function (el) { io.observe(el); });
 })();

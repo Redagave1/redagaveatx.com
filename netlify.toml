@@ -49,7 +49,775 @@
   force = true
 
 [[redirects]]
-  from = "/*.html"
-  to = "/:splat"
+  from = "/about.html"
+  to = "/about"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/before-after.html"
+  to = "/before-after"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/agave-salmiana-green-giant-austin-tx.html"
+  to = "/blog/agave-salmiana-green-giant-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/alkaline-soil-fix-austin-tx.html"
+  to = "/blog/alkaline-soil-fix-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/artificial-turf-vs-real-grass-austin-tx.html"
+  to = "/blog/artificial-turf-vs-real-grass-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/austin-water-restrictions-landscaping.html"
+  to = "/blog/austin-water-restrictions-landscaping"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/backyard-fire-pit-area-ideas-austin-tx.html"
+  to = "/blog/backyard-fire-pit-area-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/backyard-renovation-guide-austin-tx.html"
+  to = "/blog/backyard-renovation-guide-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-deck-materials-austin-tx.html"
+  to = "/blog/best-deck-materials-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-fire-pit-ideas-austin.html"
+  to = "/blog/best-fire-pit-ideas-austin"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-native-plants-austin-tx.html"
+  to = "/blog/best-native-plants-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-time-to-landscape-austin-tx.html"
+  to = "/blog/best-time-to-landscape-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/caliche-soil-preparation-austin-tx.html"
+  to = "/blog/caliche-soil-preparation-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/cob-vs-led-landscape-lighting-austin-tx.html"
+  to = "/blog/cob-vs-led-landscape-lighting-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/cold-hardy-agaves-central-texas.html"
+  to = "/blog/cold-hardy-agaves-central-texas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/concrete-vs-paver-patio-austin-tx.html"
+  to = "/blog/concrete-vs-paver-patio-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/curb-appeal-landscaping-austin-tx.html"
+  to = "/blog/curb-appeal-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/deck-cost-austin-tx.html"
+  to = "/blog/deck-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/deck-permit-austin-tx.html"
+  to = "/blog/deck-permit-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/decomposed-granite-landscaping-austin-tx.html"
+  to = "/blog/decomposed-granite-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/drainage-cost-austin-tx.html"
+  to = "/blog/drainage-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/drainage-engineering-austin-tx.html"
+  to = "/blog/drainage-engineering-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/fall-landscaping-austin-tx.html"
+  to = "/blog/fall-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/fence-cost-austin-tx.html"
+  to = "/blog/fence-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/fence-permit-austin-tx.html"
+  to = "/blog/fence-permit-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/fire-pit-engineering-austin-tx.html"
+  to = "/blog/fire-pit-engineering-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/flagstone-mortar-cracking-austin-tx.html"
+  to = "/blog/flagstone-mortar-cracking-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/front-yard-xeriscape-ideas-austin-tx.html"
+  to = "/blog/front-yard-xeriscape-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/gas-vs-wood-fire-pit-austin-tx.html"
+  to = "/blog/gas-vs-wood-fire-pit-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/gravel-landscaping-ideas-austin-tx.html"
+  to = "/blog/gravel-landscaping-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/how-to-choose-landscaper-austin-tx.html"
+  to = "/blog/how-to-choose-landscaper-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/how-to-xeriscape-austin-tx.html"
+  to = "/blog/how-to-xeriscape-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/ipe-vs-composite-decking-austin-tx.html"
+  to = "/blog/ipe-vs-composite-decking-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-consultation-checklist-austin-tx.html"
+  to = "/blog/landscape-consultation-checklist-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-design-cost-austin-tx.html"
+  to = "/blog/landscape-design-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-drainage-guide-austin-tx.html"
+  to = "/blog/landscape-drainage-guide-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-lighting-cost-austin-tx.html"
+  to = "/blog/landscape-lighting-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-lighting-guide-austin-tx.html"
+  to = "/blog/landscape-lighting-guide-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/limestone-pavers-vs-concrete-austin-tx.html"
+  to = "/blog/limestone-pavers-vs-concrete-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/low-maintenance-landscaping-austin-tx.html"
+  to = "/blog/low-maintenance-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/modern-backyard-ideas-austin-tx.html"
+  to = "/blog/modern-backyard-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/native-plants-austin-landscaping.html"
+  to = "/blog/native-plants-austin-landscaping"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/natural-stone-vs-pavers-austin-tx.html"
+  to = "/blog/natural-stone-vs-pavers-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/natural-turf-vs-artificial-turf-austin-tx.html"
+  to = "/blog/natural-turf-vs-artificial-turf-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/outdoor-kitchen-cost-austin-tx.html"
+  to = "/blog/outdoor-kitchen-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/outdoor-kitchen-ideas-austin-tx.html"
+  to = "/blog/outdoor-kitchen-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/outdoor-living-space-guide-austin-tx.html"
+  to = "/blog/outdoor-living-space-guide-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/patio-cost-austin-tx.html"
+  to = "/blog/patio-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/patio-cover-permit-austin-tx.html"
+  to = "/blog/patio-cover-permit-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/patio-design-ideas-austin-tx.html"
+  to = "/blog/patio-design-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pergola-guide-austin-tx.html"
+  to = "/blog/pergola-guide-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pink-fairy-duster-austin-tx.html"
+  to = "/blog/pink-fairy-duster-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/plants-that-survive-austin-summer.html"
+  to = "/blog/plants-that-survive-austin-summer"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pool-cost-austin-tx.html"
+  to = "/blog/pool-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pool-landscaping-ideas-austin-tx.html"
+  to = "/blog/pool-landscaping-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/retaining-wall-cost-austin-tx.html"
+  to = "/blog/retaining-wall-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/retaining-wall-engineering-austin-tx.html"
+  to = "/blog/retaining-wall-engineering-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/retaining-wall-permit-austin-tx.html"
+  to = "/blog/retaining-wall-permit-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/shade-structure-ideas-austin-tx.html"
+  to = "/blog/shade-structure-ideas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/small-backyard-landscaping-austin-tx.html"
+  to = "/blog/small-backyard-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/sod-installation-cost-austin-tx.html"
+  to = "/blog/sod-installation-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/soil-testing-preparation-tree-planting.html"
+  to = "/blog/soil-testing-preparation-tree-planting"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steel-edging-cost-austin-tx.html"
+  to = "/blog/steel-edging-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steel-edging-fabrication-austin-tx.html"
+  to = "/blog/steel-edging-fabrication-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steel-planter-ideas.html"
+  to = "/blog/steel-planter-ideas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steel-vs-aluminum-pergola-austin-tx.html"
+  to = "/blog/steel-vs-aluminum-pergola-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/summer-landscaping-austin-tx.html"
+  to = "/blog/summer-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/synthetic-turf-cost-austin-tx.html"
+  to = "/blog/synthetic-turf-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/travertine-vs-flagstone-vs-pavers-austin-tx.html"
+  to = "/blog/travertine-vs-flagstone-vs-pavers-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/water-conservation-austin-landscaping.html"
+  to = "/blog/water-conservation-austin-landscaping"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/water-feature-cost-austin-tx.html"
+  to = "/blog/water-feature-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/water-wise-landscaping-austin-tx.html"
+  to = "/blog/water-wise-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/why-grass-thins-austin-tx.html"
+  to = "/blog/why-grass-thins-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/xeriscape-vs-traditional-lawn-austin-tx.html"
+  to = "/blog/xeriscape-vs-traditional-lawn-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/xeriscaping-cost-austin-tx.html"
+  to = "/blog/xeriscaping-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/featured.html"
+  to = "/featured"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/gallery.html"
+  to = "/gallery"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/barton-creek-tx.html"
+  to = "/locations/barton-creek-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/bee-cave-tx.html"
+  to = "/locations/bee-cave-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/buda-kyle-tx.html"
+  to = "/locations/buda-kyle-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/cedar-park-tx.html"
+  to = "/locations/cedar-park-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/circle-c-tx.html"
+  to = "/locations/circle-c-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/dripping-springs-tx.html"
+  to = "/locations/dripping-springs-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/georgetown-tx.html"
+  to = "/locations/georgetown-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/lakeway-tx.html"
+  to = "/locations/lakeway-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/mueller-tx.html"
+  to = "/locations/mueller-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/pflugerville-tx.html"
+  to = "/locations/pflugerville-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/rollingwood-tx.html"
+  to = "/locations/rollingwood-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/round-rock-tx.html"
+  to = "/locations/round-rock-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/steiner-ranch-tx.html"
+  to = "/locations/steiner-ranch-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/tarrytown-tx.html"
+  to = "/locations/tarrytown-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/locations/westlake-hills-tx.html"
+  to = "/locations/westlake-hills-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/media.html"
+  to = "/media"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/axehandle.html"
+  to = "/projects/axehandle"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/barton-plunge.html"
+  to = "/projects/barton-plunge"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/blazyk-transformation.html"
+  to = "/projects/blazyk-transformation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/blazyk.html"
+  to = "/projects/blazyk"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/circle-c-outdoor-living.html"
+  to = "/projects/circle-c-outdoor-living"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/dormarion.html"
+  to = "/projects/dormarion"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/flycatcher.html"
+  to = "/projects/flycatcher"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/hopeland.html"
+  to = "/projects/hopeland"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/lakeway-hardscape.html"
+  to = "/projects/lakeway-hardscape"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/madison.html"
+  to = "/projects/madison"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/pflugerville-xeriscape.html"
+  to = "/projects/pflugerville-xeriscape"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/riverview-fire.html"
+  to = "/projects/riverview-fire"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/riverview.html"
+  to = "/projects/riverview"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/tarrytown-glow.html"
+  to = "/projects/tarrytown-glow"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/ulit.html"
+  to = "/projects/ulit"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/westlake-steel.html"
+  to = "/projects/westlake-steel"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reviews.html"
+  to = "/reviews"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/service-area.html"
+  to = "/service-area"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services.html"
+  to = "/services"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/container-plunge-pools-austin-tx.html"
+  to = "/services/container-plunge-pools-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/custom-decks-austin-tx.html"
+  to = "/services/custom-decks-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/custom-planters-austin-tx.html"
+  to = "/services/custom-planters-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/design-build-austin-tx.html"
+  to = "/services/design-build-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/fire-pits-austin-tx.html"
+  to = "/services/fire-pits-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/landscape-lighting-austin-tx.html"
+  to = "/services/landscape-lighting-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/marbled-concrete-patios-austin-tx.html"
+  to = "/services/marbled-concrete-patios-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/masonry-concrete-austin-tx.html"
+  to = "/services/masonry-concrete-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/outdoor-kitchens-austin-tx.html"
+  to = "/services/outdoor-kitchens-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/outdoor-living-austin-tx.html"
+  to = "/services/outdoor-living-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/patios-austin-tx.html"
+  to = "/services/patios-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/pergolas-austin-tx.html"
+  to = "/services/pergolas-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/pools-austin-tx.html"
+  to = "/services/pools-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/steel-retaining-walls-austin-tx.html"
+  to = "/services/steel-retaining-walls-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/turf-installation-austin-tx.html"
+  to = "/services/turf-installation-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/xeriscape-austin-tx.html"
+  to = "/services/xeriscape-austin-tx"
   status = 301
   force = true

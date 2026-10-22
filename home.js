@@ -236,7 +236,7 @@
   }());
 
   // ── THREE.JS AMBER DUST PARTICLES ───────
-  if (typeof THREE !== 'undefined') {
+  function initDust() {
     var canvas   = document.getElementById('h-canvas');
     var renderer = new THREE.WebGLRenderer({ canvas: canvas, alpha: true, antialias: true });
     renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
@@ -327,6 +327,12 @@
       camera.updateProjectionMatrix();
       renderer.setSize(innerWidth, innerHeight);
     });
+  }
+  if (window.matchMedia('(min-width: 901px)').matches && document.getElementById('h-canvas')) {
+    var threeScript = document.createElement('script');
+    threeScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js';
+    threeScript.onload = initDust;
+    document.head.appendChild(threeScript);
   }
 
 
@@ -1146,4 +1152,19 @@
         });
     });
   }
+})();
+
+(function () {
+  var lazy = [].slice.call(document.querySelectorAll('[data-bg]'));
+  function load(el) {
+    el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
+    el.removeAttribute('data-bg');
+  }
+  if (!('IntersectionObserver' in window)) { lazy.forEach(load); return; }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { load(e.target); io.unobserve(e.target); }
+    });
+  }, { rootMargin: '400px 0px' });
+  lazy.forEach(function (el) { io.observe(el); });
 })();

@@ -100,26 +100,6 @@
     var reveal = gsap.timeline({ delay: 0.6 });
 
     reveal
-      .fromTo('.hl1',
-        { y: '105%', opacity: 1 },
-        { y: '0%', duration: .85, ease: 'power4.out' },
-        0.1
-      )
-      .fromTo('.hl2',
-        { y: '105%', opacity: 1 },
-        { y: '0%', duration: .85, ease: 'power4.out' },
-        0.25
-      )
-      .fromTo('.hl3',
-        { y: '105%', opacity: 1 },
-        { y: '0%', duration: .85, ease: 'power4.out' },
-        0.40
-      )
-      .fromTo('.hl4',
-        { y: '105%', opacity: 1 },
-        { y: '0%', duration: 1.0, ease: 'power4.out' },
-        0.55
-      )
       .fromTo('#s-hint',
         { opacity: 0 },
         { opacity: 1, duration: .6 },

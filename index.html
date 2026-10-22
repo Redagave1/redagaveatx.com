@@ -784,8 +784,11 @@ a{text-decoration:none;color:inherit}
     0 0 28px rgba(200,220,255,0.04);
 }
 
-.hero-sub{font-size:11px;letter-spacing:.5px;color:rgba(240,234,214,0.42);margin-top:28px;max-width:500px;line-height:2.2;border-left:1px solid rgba(201,168,76,0.32);padding-left:20px;font-weight:300;font-style:italic;opacity:0;transform:translateY(16px)}
-.hero-ctas{display:flex;gap:14px;margin-top:36px;flex-wrap:wrap;opacity:0;transform:translateY(16px)}
+.hero-sub{font-size:11px;letter-spacing:.5px;color:rgba(240,234,214,0.42);margin-top:28px;max-width:500px;line-height:2.2;border-left:1px solid rgba(201,168,76,0.32);padding-left:20px;font-weight:300;font-style:italic;animation:heroFadeUp .8s cubic-bezier(.16,1,.3,1) .3s both}
+.hero-ctas{display:flex;gap:14px;margin-top:36px;flex-wrap:wrap;animation:heroFadeUp .7s cubic-bezier(.16,1,.3,1) .45s both}
+.hero-eyebrow{animation:heroFadeX .9s cubic-bezier(.16,1,.3,1) .1s both}
+@keyframes heroFadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes heroFadeX{from{opacity:0;transform:translateX(-20px)}to{opacity:1;transform:none}}
 .scroll-hint{position:absolute;bottom:32px;right:60px;z-index:3;display:flex;align-items:center;gap:10px;opacity:0}
 .scroll-hint span{font-size:8px;letter-spacing:4px;text-transform:uppercase;color:rgba(240,234,214,0.25)}
 .s-line{width:1px;height:44px;background:linear-gradient(to bottom,var(--gold),transparent);animation:sPulse 2s ease-in-out infinite}
@@ -2301,15 +2304,15 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   <div class="hero-ov"></div>
   <div class="hero-inner">
     <div class="hero-text">
-      <div class="hero-eyebrow" id="eyebrow" style="opacity:0;transform:translateX(-20px)">Austin, Texas &nbsp;&middot;&nbsp; Since 2008 &nbsp;&middot;&nbsp; Any Project Any Budget</div>
+      <div class="hero-eyebrow" id="eyebrow">Austin, Texas &nbsp;&middot;&nbsp; Since 2008 &nbsp;&middot;&nbsp; Any Project Any Budget</div>
       <h1 class="hero-title" aria-label="Austin's Top Design + Build Landscaping">
         <span class="htl"><span class="htw hl1" id="hl1-word">AUSTIN'S</span></span>
         <span class="htl"><span class="htw hl2" id="hl2-word">TOP DESIGN</span></span>
         <span class="htl"><span class="htw hl3">+&thinsp;<span class="hl3-wrap"><span class="hl3-blob-1"></span><span class="hl3-blob-2"></span><span style="letter-spacing:8px">BUILD</span></span></span></span>
         <span class="htl"><span class="htw hl4" id="hl4-word">LANDSCAPING</span></span>
       </h1>
-      <p class="hero-sub" id="hero-sub" style="opacity:0;transform:translateY(16px)">5.0 stars across 86 Google reviews. Owner-designed, 100% in-house built &mdash; no subcontractors, no handoffs. From steel retaining walls and marbled concrete to fire features, pools, and outdoor living spaces, Red Agave handles every phase under one roof. Any project, any budget. Free consultation.</p>
-      <div class="hero-ctas" id="hero-ctas" style="opacity:0;transform:translateY(16px)">
+      <p class="hero-sub" id="hero-sub">5.0 stars across 86 Google reviews. Owner-designed, 100% in-house built &mdash; no subcontractors, no handoffs. From steel retaining walls and marbled concrete to fire features, pools, and outdoor living spaces, Red Agave handles every phase under one roof. Any project, any budget. Free consultation.</p>
+      <div class="hero-ctas" id="hero-ctas">
         <div class="btn-huly-wrap">
           <div class="btn-huly-blob-1"></div>
           <div class="btn-huly-blob-2"></div>

@@ -100,11 +100,6 @@
     var reveal = gsap.timeline({ delay: 0.6 });
 
     reveal
-      .fromTo('.hero-eyebrow',
-        { opacity: 0, x: -20 },
-        { opacity: 1, x: 0, duration: .9, ease: 'power3.out' },
-        0
-      )
       .fromTo('.hl1',
         { y: '105%', opacity: 1 },
         { y: '0%', duration: .85, ease: 'power4.out' },
@@ -124,16 +119,6 @@
         { y: '105%', opacity: 1 },
         { y: '0%', duration: 1.0, ease: 'power4.out' },
         0.55
-      )
-      .fromTo('#hero-sub',
-        { opacity: 0, y: 16 },
-        { opacity: 1, y: 0, duration: .8, ease: 'power3.out' },
-        0.75
-      )
-      .fromTo('#hero-ctas',
-        { opacity: 0, y: 16 },
-        { opacity: 1, y: 0, duration: .7, ease: 'power3.out' },
-        0.88
       )
       .fromTo('#s-hint',
         { opacity: 0 },

@@ -89,7 +89,7 @@
   document.querySelectorAll('.rev,.rev-l').forEach(function (el) { revObs.observe(el); });
 
   // ── GSAP ENHANCEMENTS (if CDN loaded) ──
-  if (typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined') {
+  function initGsapFx() {
     gsap.registerPlugin(ScrollTrigger);
 
     // ── PREMIUM CLIP-PATH WORD REVEAL ─────────────────────
@@ -164,6 +164,9 @@
       });
     });
   }
+  window.addEventListener('load', function () {
+    if (typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined') initGsapFx();
+  });
 
   // ── INDEPENDENT CARD MOUSE TILT ─────────
   // Each card has its own resting angle and mouse sensitivity

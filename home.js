@@ -778,7 +778,7 @@
     onUpdate: function(self){
       var p = self.progress;
       setActive(Math.min(totalSteps - 1, Math.floor(p * totalSteps)));
-      if (progBar) progBar.style.setProperty('--p', (p * 100).toFixed(2) + '%');
+      if (progBar) progBar.style.setProperty('--p', p.toFixed(4));
     }
   });
   setActive(0);
@@ -888,9 +888,9 @@
   });
   function tick(ts){
     if (!startTs) startTs = ts;
-    if (paused) { startTs = ts - (current * dur); requestAnimationFrame(tick); if (progBar) progBar.style.width = '0%'; return; }
+    if (paused) { startTs = ts - (current * dur); requestAnimationFrame(tick); if (progBar) progBar.style.transform = 'scaleX(0)'; return; }
     var elapsed = (ts - startTs) % dur;
-    if (progBar) progBar.style.width = ((elapsed / dur) * 100).toFixed(2) + '%';
+    if (progBar) progBar.style.transform = 'scaleX(' + (elapsed / dur).toFixed(4) + ')';
     var shouldBe = Math.floor((ts - startTs) / dur) % total;
     if (shouldBe !== current){ current = shouldBe; render(); }
     requestAnimationFrame(tick);
@@ -1045,8 +1045,11 @@
 
 (function () {
   function load(el) {
-    el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
+    var src = el.getAttribute('data-bg');
+    if (el.hasAttribute('data-bg-m') && window.matchMedia('(max-width: 768px)').matches) src = el.getAttribute('data-bg-m');
+    el.style.backgroundImage = "url('" + src + "')";
     el.removeAttribute('data-bg');
+    el.removeAttribute('data-bg-m');
   }
   var slides = [].slice.call(document.querySelectorAll('.hslide[data-bg]'));
   window.addEventListener('load', function () {

@@ -44,7 +44,8 @@
 <link rel="preload" as="font" href="fonts/bebas-neue-latin.woff2" type="font/woff2" crossorigin>
 <link rel="preload" as="font" href="fonts/montserrat-latin-normal.woff2" type="font/woff2" crossorigin>
 <!-- Preload hero image for LCP (Largest Contentful Paint) -->
-<link rel="preload" as="image" href="images/hero/IMG_8586-1440.webp" fetchpriority="high">
+<link rel="preload" as="image" href="images/hero/IMG_8586-800.webp" media="(max-width: 768px)" fetchpriority="high">
+<link rel="preload" as="image" href="images/hero/IMG_8586-1440.webp" media="(min-width: 769px)" fetchpriority="high">
 
 <!-- ═══ LOCAL BUSINESS SCHEMA (the most important SEO element) ═══ -->
 <script type="application/ld+json">
@@ -344,7 +345,7 @@ a{text-decoration:none;color:inherit}
   pointer-events: none;
 }
 
-#mob-menu.open::before{background-image:url('images/gallery/IMG_5448-1200.webp')}
+#mob-menu.open::before{background-image:url('images/gallery/IMG_5448-800.webp')}
 /* Gold diagonal accent */
 #mob-menu::after {
   content: '';
@@ -652,6 +653,8 @@ a{text-decoration:none;color:inherit}
 /* First slide: fully visible before JS runs, no fade-in delay */
 .hslide:first-child{opacity:0.55;transition:none}
 .hslide.active{opacity:0.55}
+#hero-slide-1{background-image:url('images/hero/IMG_8586-1440.webp')}
+@media (max-width:768px){#hero-slide-1{background-image:url('images/hero/IMG_8586-800.webp')}}
 .hslide.prev{opacity:0.55;transition:opacity 2.2s ease 0.6s}
 .hslide-dots{
   position:absolute;bottom:28px;left:50%;transform:translateX(-50%);
@@ -1477,7 +1480,7 @@ a{text-decoration:none;color:inherit}
     0 0 24px rgba(240,234,214,0.42),
     0 0 48px rgba(240,230,200,0.16),
     0 4px 22px rgba(0,0,0,0.85);
-  animation: creamPulse 4.2s ease-in-out infinite;
+  
   line-height: 0.94;
 }
 /* Line 3: DIFFERENCE — gold, smaller, pulse glow */
@@ -1491,7 +1494,7 @@ a{text-decoration:none;color:inherit}
   text-shadow:
     0 0 24px rgba(232,196,90,0.45),
     0 0 48px rgba(201,168,76,0.18);
-  animation: goldPulse 4.2s ease-in-out infinite;
+  
   line-height: 0.94;
 }
 
@@ -1792,12 +1795,12 @@ a{text-decoration:none;color:inherit}
 .path-section-title{position:absolute;left:48px;top:74px;z-index:5;font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(26px,3vw,38px);letter-spacing:4px;color:rgba(240,234,214,.7)}
 .path-inner{position:relative;z-index:2;height:100%;max-width:1480px;margin:0 auto;padding:0 60px;display:grid;grid-template-columns:0.85fr 1fr;gap:80px;align-items:center}
 .path-numwrap{position:relative;height:clamp(180px,22vw,340px)}
-.path-num{position:absolute;left:0;top:0;font-family:'Montserrat',sans-serif;font-weight:500;font-size:clamp(180px,22vw,320px);line-height:.84;letter-spacing:5px;text-transform:uppercase;color:#e8c96a;text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);animation:goldPulse 4.2s ease-in-out infinite;opacity:0;transform:translateX(-30px);transition:opacity 1.0s var(--ease),transform 1.0s var(--ease);will-change:transform,opacity}
+.path-num{position:absolute;left:0;top:0;font-family:'Montserrat',sans-serif;font-weight:500;font-size:clamp(180px,22vw,320px);line-height:.84;letter-spacing:5px;text-transform:uppercase;color:#e8c96a;text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);opacity:0;transform:translateX(-30px);transition:opacity 1.0s var(--ease),transform 1.0s var(--ease);will-change:transform,opacity}
 .path-num.is-on{opacity:1;transform:translateX(0)}
 .path-content-wrap{position:relative;min-height:300px}
 .path-content{position:absolute;left:0;top:0;display:flex;flex-direction:column;gap:20px;opacity:0;transform:translateY(24px);transition:opacity .9s var(--ease) .1s,transform .9s var(--ease) .1s;will-change:transform,opacity;max-width:640px}
 .path-content.is-on{opacity:1;transform:translateY(0)}
-.path-content .pulse{font-family:'Montserrat',sans-serif;font-weight:500;font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-pulse);text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);animation:goldPulse 4.2s ease-in-out infinite}
+.path-content .pulse{font-family:'Montserrat',sans-serif;font-weight:500;font-size:11px;letter-spacing:5px;text-transform:uppercase;color:var(--gold-pulse);text-shadow:0 0 24px rgba(232,196,90,.45),0 0 48px rgba(201,168,76,.18);}
 .path-content h3{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(52px,6.5vw,96px);line-height:.92;letter-spacing:2px;color:var(--cream);text-shadow:0 2px 12px rgba(0,0,0,.7)}
 .path-content p{font-family:'Montserrat',sans-serif;font-size:14px;font-weight:300;line-height:1.82;color:rgba(240,234,214,.82);max-width:540px;letter-spacing:.2px}
 .path-rail{position:absolute;right:36px;top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:42px;z-index:5;align-items:flex-end}
@@ -1808,7 +1811,7 @@ a{text-decoration:none;color:inherit}
 .path-rail-row.is-on .path-rail-dot{background:var(--gold-pulse);box-shadow:0 0 14px rgba(232,196,90,.7),0 0 28px rgba(232,196,90,.3);transform:scale(1.3)}
 .path-rail-row.is-on .path-rail-num{opacity:1;color:var(--gold-pulse);letter-spacing:5px}
 .path-progressbar{position:absolute;left:0;bottom:0;height:2px;width:100%;z-index:5;background:rgba(232,196,90,.08)}
-.path-progressbar::before{content:'';position:absolute;left:0;top:0;height:100%;width:var(--p,0%);background:linear-gradient(90deg,var(--gold-pulse),var(--gold));box-shadow:0 0 14px rgba(232,196,90,.6);transition:width .15s linear}
+.path-progressbar::before{content:'';position:absolute;left:0;top:0;height:100%;width:100%;transform-origin:left;transform:scaleX(var(--p,0));background:linear-gradient(90deg,var(--gold-pulse),var(--gold));box-shadow:0 0 14px rgba(232,196,90,.6);transition:transform .15s linear}
 
 /* ══ BANNER 1 — Dual Counter-Scroll Strip ══ */
 .bnr1{background:var(--dark2);border-top:1px solid rgba(232,196,90,.12);border-bottom:1px solid rgba(232,196,90,.12);padding:10px 0;display:flex;flex-direction:column;gap:2px}
@@ -1830,7 +1833,7 @@ a{text-decoration:none;color:inherit}
 .bnr2-cell{display:flex;flex-direction:column;align-items:center;gap:8px;padding:0 18px;position:relative}
 .bnr2-cell+.bnr2-cell::before{content:'';position:absolute;left:0;top:18%;bottom:18%;width:1px;background:linear-gradient(180deg,transparent,rgba(232,196,90,.25),transparent)}
 .bnr2-eb{font-family:'Montserrat',sans-serif;font-size:8px;font-weight:300;letter-spacing:6px;text-transform:uppercase;color:var(--gold-soft)}
-.bnr2-num{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(48px,5.5vw,82px);line-height:1;letter-spacing:2px;color:var(--gold-pulse);text-shadow:0 0 28px rgba(232,196,90,.45),0 0 64px rgba(201,168,76,.22),0 0 120px rgba(232,196,90,.12);animation:goldPulse 4.2s ease-in-out infinite;font-variant-numeric:tabular-nums}
+.bnr2-num{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(48px,5.5vw,82px);line-height:1;letter-spacing:2px;color:var(--gold-pulse);text-shadow:0 0 28px rgba(232,196,90,.45),0 0 64px rgba(201,168,76,.22),0 0 120px rgba(232,196,90,.12);font-variant-numeric:tabular-nums}
 .bnr2-sub{font-family:'Montserrat',sans-serif;font-size:9px;font-weight:400;letter-spacing:3px;text-transform:uppercase;color:rgba(240,234,214,.45);text-align:center}
 .bnr2-town{transition:opacity .45s ease,transform .45s ease;display:inline-block;white-space:nowrap;font-size:clamp(28px,3.5vw,52px)!important}
 .bnr2-town.fade-out{opacity:0;transform:translateY(-10px)}
@@ -1843,7 +1846,7 @@ a{text-decoration:none;color:inherit}
 .td-eye{display:inline-flex;align-items:center;gap:14px;font-size:9px;font-weight:300;letter-spacing:7px;text-transform:uppercase;color:var(--gold-soft);margin-bottom:16px}
 .td-eye::before{content:'';width:44px;height:1px;background:var(--gold);opacity:.55}
 .td-title{font-family:'Bebas Neue',Impact,sans-serif;font-size:clamp(42px,5.5vw,80px);letter-spacing:2px;line-height:.92;color:var(--cream)}
-.td-title em{font-style:normal;color:var(--gold-pulse);animation:goldPulse 4.2s ease-in-out infinite}
+.td-title em{font-style:normal;color:var(--gold-pulse);}
 .td-stage{position:relative;z-index:3;perspective:1400px;perspective-origin:50% 50%;height:420px;display:flex;align-items:center;justify-content:center}
 .td-card{position:absolute;width:clamp(300px,32vw,480px);background:rgba(14,13,11,.92);border:1px solid rgba(201,168,76,.1);padding:44px 40px;display:flex;flex-direction:column;gap:16px;cursor:pointer;will-change:transform,opacity,filter;transition:transform .8s var(--ease),opacity .7s var(--ease),filter .7s var(--ease),box-shadow .7s var(--ease),border-color .7s var(--ease);transform-style:preserve-3d;user-select:none}
 .td-card[data-pos="-2"]{transform:translateX(-88%) translateZ(-380px) rotateY(22deg);opacity:.1;pointer-events:none;filter:blur(6px)}
@@ -1859,8 +1862,8 @@ a{text-decoration:none;color:inherit}
 .td-card[data-pos="0"] .td-star{color:var(--gold-pulse);text-shadow:0 0 8px rgba(232,196,90,.5)}
 .td-q{font-size:13px;font-style:italic;font-weight:300;line-height:1.85;color:rgba(240,234,214,.6);transition:color .6s}
 .td-card[data-pos="0"] .td-q{color:rgba(240,234,214,.88)}
-.td-divider{width:28px;height:1px;background:rgba(201,168,76,.4);transition:width .6s var(--ease),background .6s}
-.td-card[data-pos="0"] .td-divider{width:44px;background:var(--gold-pulse)}
+.td-divider{width:44px;height:1px;background:rgba(201,168,76,.4);transform:scaleX(.636);transform-origin:left;transition:transform .6s var(--ease),background .6s}
+.td-card[data-pos="0"] .td-divider{transform:scaleX(1);background:var(--gold-pulse)}
 .td-name{font-family:'Bebas Neue',Impact,sans-serif;font-size:18px;letter-spacing:2px;color:var(--cream)}
 .td-loc{font-size:8px;letter-spacing:3px;text-transform:uppercase;color:rgba(240,234,214,.3)}
 .td-nav{position:relative;z-index:3;display:flex;justify-content:center;align-items:center;gap:28px;padding-top:44px}
@@ -1870,7 +1873,7 @@ a{text-decoration:none;color:inherit}
 .td-badge{position:relative;z-index:3;text-align:center;padding-top:28px;font-size:11px;letter-spacing:3px;text-transform:uppercase;color:rgba(240,234,214,.35)}
 .td-badge span{vertical-align:middle}
 .td-prog{position:relative;z-index:3;height:1px;background:rgba(232,196,90,.08);margin:24px 60px 0;overflow:hidden}
-.td-prog-bar{position:absolute;left:0;top:0;height:100%;background:linear-gradient(90deg,var(--gold-pulse),var(--gold));box-shadow:0 0 10px rgba(232,196,90,.6);width:0%;transition:width .15s linear}
+.td-prog-bar{position:absolute;left:0;top:0;height:100%;width:100%;transform-origin:left;transform:scaleX(0);background:linear-gradient(90deg,var(--gold-pulse),var(--gold));box-shadow:0 0 10px rgba(232,196,90,.6);transition:transform .15s linear}
 @media(max-width:768px){.td-stage{perspective:800px;height:auto;padding:0 16px;display:block}.td-card{position:relative;width:100%;margin:0 auto;max-width:420px}.td-card[data-pos="-2"],.td-card[data-pos="-1"],.td-card[data-pos="1"],.td-card[data-pos="2"]{display:none}.td-card[data-pos="0"]{transform:none}}
 
 /* ══ SHOWCASE STRIP — visual break between whatmakes & process ══ */
@@ -2119,7 +2122,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   99%       { text-shadow: 0 0 24px rgba(232,196,90,0.45), 0 0 48px rgba(201,168,76,0.18); opacity:1 }
 }
 .hl2 {
-  animation: neon-flicker 7s ease-in-out infinite;
+  
   animation-delay: 3s;
 }
 
@@ -2291,9 +2294,9 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   <canvas id="h-canvas"></canvas>
   <!-- HERO SLIDESHOW -->
   <div class="hero-slides" id="hero-slides">
-    <div class="hslide active" style="background-image:url('images/hero/IMG_8586-1440.webp')"></div>
-    <div class="hslide" data-bg="images/hero/IMG_9106-1440.webp"></div>
-    <div class="hslide" data-bg="images/hero/IMG_9712-1440.webp"></div>
+    <div class="hslide active" id="hero-slide-1"></div>
+    <div class="hslide" data-bg="images/hero/IMG_9106-1440.webp" data-bg-m="images/hero/IMG_9106-800.webp"></div>
+    <div class="hslide" data-bg="images/hero/IMG_9712-1440.webp" data-bg-m="images/hero/IMG_9712-800.webp"></div>
   </div>
   <!-- Slide dots -->
   <div class="hslide-dots" aria-hidden="true">
@@ -2385,11 +2388,11 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   </div>
   <p class="svc-sub rev">At Red Agave we offer a wide range of services in Austin, TX. If you can dream it, we can create it.</p>
   <div class="svc-grid">
-    <a href="services/xeriscape-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_0991.webp" alt="Native Texas xeriscape with decomposed granite, limestone boulders, and 1/4-inch mild steel edging — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">01</div><div class="svc-name">Xeriscape / Hardscape</div><div class="svc-desc">Native plants, decomposed granite, custom steel edging</div><span class="svc-arr">&#8594;</span></div></a>
-    <a href="services/landscape-lighting-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_8182.webp" alt="24V FCOB and COB landscape lighting with WiFi-controlled WLED system illuminating steel-edged planting beds — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">02</div><div class="svc-name">State of the Art Lighting</div><div class="svc-desc">WLED &amp; FCOB systems — the lighting others can't do</div><span class="svc-arr">&#8594;</span></div></a>
-    <a href="services/custom-decks-austin-tx.html" class="svc rev"><img src="images/gallery/DSC04042.webp" alt="Custom composite deck with cedar pergola and steel-framed privacy wall — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">03</div><div class="svc-name">Custom Built Decks</div><div class="svc-desc">Composite decks, cedar pergolas, privacy walls</div><span class="svc-arr">&#8594;</span></div></a>
-    <a href="services/fire-pits-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_5491.webp" alt="Floating welded steel fire pit with propane burner and boulder water feature — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">04</div><div class="svc-name">Fire &amp; Water Features</div><div class="svc-desc">Custom fire pits, streams, ponds and water walls</div><span class="svc-arr">&#8594;</span></div></a>
-    <a href="services/outdoor-living-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_9652-1200.webp" alt="Outdoor kitchen with built-in grill, steel-framed pergola, and poured concrete countertops — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">05</div><div class="svc-name">Outdoor Living &amp; Kitchens</div><div class="svc-desc">Kitchens, pergolas, seating walls &mdash; complete environments</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/xeriscape-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_0991.webp" srcset="images/gallery/IMG_0991-800.webp 800w, images/gallery/IMG_0991.webp 1920w" sizes="(max-width: 768px) 100vw, 480px" alt="Native Texas xeriscape with decomposed granite, limestone boulders, and 1/4-inch mild steel edging — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">01</div><div class="svc-name">Xeriscape / Hardscape</div><div class="svc-desc">Native plants, decomposed granite, custom steel edging</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/landscape-lighting-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_8182.webp" srcset="images/gallery/IMG_8182-800.webp 800w, images/gallery/IMG_8182.webp 1920w" sizes="(max-width: 768px) 100vw, 480px" alt="24V FCOB and COB landscape lighting with WiFi-controlled WLED system illuminating steel-edged planting beds — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">02</div><div class="svc-name">State of the Art Lighting</div><div class="svc-desc">WLED &amp; FCOB systems — the lighting others can't do</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/custom-decks-austin-tx.html" class="svc rev"><img src="images/gallery/DSC04042.webp" srcset="images/gallery/DSC04042-800.webp 800w, images/gallery/DSC04042.webp 1920w" sizes="(max-width: 768px) 100vw, 480px" alt="Custom composite deck with cedar pergola and steel-framed privacy wall — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">03</div><div class="svc-name">Custom Built Decks</div><div class="svc-desc">Composite decks, cedar pergolas, privacy walls</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/fire-pits-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_5491.webp" srcset="images/gallery/IMG_5491-800.webp 800w, images/gallery/IMG_5491.webp 1920w" sizes="(max-width: 768px) 100vw, 480px" alt="Floating welded steel fire pit with propane burner and boulder water feature — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">04</div><div class="svc-name">Fire &amp; Water Features</div><div class="svc-desc">Custom fire pits, streams, ponds and water walls</div><span class="svc-arr">&#8594;</span></div></a>
+    <a href="services/outdoor-living-austin-tx.html" class="svc rev"><img src="images/gallery/IMG_9652-1200.webp" srcset="images/gallery/IMG_9652-800.webp 800w, images/gallery/IMG_9652-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 480px" alt="Outdoor kitchen with built-in grill, steel-framed pergola, and poured concrete countertops — Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">05</div><div class="svc-name">Outdoor Living &amp; Kitchens</div><div class="svc-desc">Kitchens, pergolas, seating walls &mdash; complete environments</div><span class="svc-arr">&#8594;</span></div></a>
     <a href="services/design-build-austin-tx.html" class="svc rev"><img src="images/gallery/1707 Ulit Ave-029-Kieran Reeves Photography [MLS].webp" alt="Complete front yard transformation with xeriscape, steel edging, and native Texas plantings — Ulit Ave Austin TX" loading="lazy"><div class="svc-ov"></div><div class="svc-info"><div class="svc-n">06</div><div class="svc-name">Full Yard Design + Build</div><div class="svc-desc">Complete transformations from concept to completion</div><span class="svc-arr">&#8594;</span></div></a>
   </div>
 </section>
@@ -2397,9 +2400,9 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- THE RED AGAVE DIFFERENCE — 3-photo collage + scroll parallax -->
 <section id="difference" class="diff" aria-label="The Red Agave Difference">
   <div class="diff-collage">
-    <div class="dc-col dc-col--left"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffleft-1200.webp"></div></div>
-    <div class="dc-col dc-col--center"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffcenter-1200.webp"></div></div>
-    <div class="dc-col dc-col--right"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffright-1200.webp"></div></div>
+    <div class="dc-col dc-col--left"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffleft-1200.webp" data-bg-m="images/gallery/diffleft-800.webp"></div></div>
+    <div class="dc-col dc-col--center"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffcenter-1200.webp" data-bg-m="images/gallery/diffcenter-800.webp"></div></div>
+    <div class="dc-col dc-col--right"><div class="dc-img" data-diff="img" data-bg="images/gallery/diffright-1200.webp" data-bg-m="images/gallery/diffright-800.webp"></div></div>
 
     <p class="diff-body">At Red Agave, we don't just landscape; we engineer luxury outdoor living environments. As Austin's premier design-build studio, we craft bespoke exterior spaces across Westlake, Barton Creek, Tarrytown, Circle C, and the Texas Hill Country. From resort-scale pool surrounds and architectural hardscaping to custom fire features and cedar pergolas, our work is defined by precision. By managing every phase entirely in-house&mdash;from the initial 3D conceptualization to the final installation&mdash;we eliminate the friction of multiple contractors. We deliver a seamless experience and an uncompromising level of craftsmanship. That is the Red Agave difference.</p>
 
@@ -2424,7 +2427,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <!-- WHAT MAKES — Option B: Kinetic Glass cards w/ selective B&W background -->
 <section class="whatmakes" id="whatmakes">
-  <div class="wm-bg" aria-hidden="true" data-bg="images/hero/IMG_9106-1440.webp"></div>
+  <div class="wm-bg" aria-hidden="true" data-bg="images/hero/IMG_9106-1440.webp" data-bg-m="images/hero/IMG_9106-800.webp"></div>
   <div class="wm-bg-ov" aria-hidden="true"></div>
 
   <!-- Outer track drifts right on scroll; inner does the reveal animation -->
@@ -2484,19 +2487,19 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- SHOWCASE STRIP -->
 <section class="showcase-strip" aria-label="Recent project highlights">
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_9652-1200.webp" alt="Custom pool with poured concrete deck, steel-framed pergola, and outdoor kitchen — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_9652-1200.webp" srcset="images/gallery/IMG_9652-800.webp 800w, images/gallery/IMG_9652-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 480px" alt="Custom pool with poured concrete deck, steel-framed pergola, and outdoor kitchen — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_8667-1200.webp" alt="Outdoor living space with metal-roof cedar pergola and built-in kitchen — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_8667-1200.webp" srcset="images/gallery/IMG_8667-800.webp 800w, images/gallery/IMG_8667-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 480px" alt="Outdoor living space with metal-roof cedar pergola and built-in kitchen — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_5116.webp" alt="Native Texas xeriscape with decomposed granite pathways, cold-hardy agaves, and welded 1/4-inch steel edging — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_5116.webp" srcset="images/gallery/IMG_5116-800.webp 800w, images/gallery/IMG_5116.webp 1440w" sizes="(max-width: 768px) 100vw, 480px" alt="Native Texas xeriscape with decomposed granite pathways, cold-hardy agaves, and welded 1/4-inch steel edging — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
   <div class="ss-tile rev">
-    <img src="images/gallery/IMG_5491.webp" alt="Custom welded steel fire pit with propane burner and integrated boulder water feature — Red Agave Landscape Austin TX" loading="lazy">
+    <img src="images/gallery/IMG_5491.webp" srcset="images/gallery/IMG_5491-800.webp 800w, images/gallery/IMG_5491.webp 1920w" sizes="(max-width: 768px) 100vw, 480px" alt="Custom welded steel fire pit with propane burner and integrated boulder water feature — Red Agave Landscape Austin TX" loading="lazy">
     <span class="ss-ov"></span>
   </div>
 </section>
@@ -2504,10 +2507,10 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- PATH TOWARDS YOUR DREAM LANDSCAPE -->
 <section class="path" id="process">
   <div class="path-pin" id="path-pin">
-    <div class="path-photo is-on" data-step="0" data-bg="images/gallery/diffcenter-1200.webp"></div>
-    <div class="path-photo"        data-step="1" data-bg="images/gallery/IMG_9652-1200.webp"></div>
-    <div class="path-photo"        data-step="2" data-bg="images/gallery/IMG_8667-1200.webp"></div>
-    <div class="path-photo"        data-step="3" data-bg="images/gallery/IMG_9107-1200.webp"></div>
+    <div class="path-photo is-on" data-step="0" data-bg="images/gallery/diffcenter-1200.webp" data-bg-m="images/gallery/diffcenter-800.webp"></div>
+    <div class="path-photo"        data-step="1" data-bg="images/gallery/IMG_9652-1200.webp" data-bg-m="images/gallery/IMG_9652-800.webp"></div>
+    <div class="path-photo"        data-step="2" data-bg="images/gallery/IMG_8667-1200.webp" data-bg-m="images/gallery/IMG_8667-800.webp"></div>
+    <div class="path-photo"        data-step="3" data-bg="images/gallery/IMG_9107-1200.webp" data-bg-m="images/gallery/IMG_9107-800.webp"></div>
 
     <span class="path-eb">How It Works</span>
     <span class="path-section-title">The Path Towards Your Dream Landscape.</span>
@@ -2618,7 +2621,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <!-- TESTIMONIALS — Option D: 3D Perspective Carousel -->
 <section class="testi-d">
-  <div class="td-bg" aria-hidden="true" data-bg="images/gallery/IMG_9107-1200.webp"></div>
+  <div class="td-bg" aria-hidden="true" data-bg="images/gallery/IMG_9107-1200.webp" data-bg-m="images/gallery/IMG_9107-800.webp"></div>
   <div class="td-bg-ov" aria-hidden="true"></div>
   <div class="td-head">
     <div class="td-eye">Client Stories</div>
@@ -2896,7 +2899,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <!-- CONTACT / BOOKING SECTION -->
 <section class="conversion" id="contact">
-  <div class="conv-bg" aria-hidden="true" data-bg="images/gallery/IMG_8575-1200.webp"></div>
+  <div class="conv-bg" aria-hidden="true" data-bg="images/gallery/IMG_8575-1200.webp" data-bg-m="images/gallery/IMG_8575-800.webp"></div>
   <div class="conv-bgtxt" aria-hidden="true">RED AGAVE</div>
   <div class="conv-inner">
     <div class="conv-head rev">

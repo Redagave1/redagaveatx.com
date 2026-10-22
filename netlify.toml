@@ -38,6 +38,18 @@
 
 [[redirects]]
   from = "/blog/green-agave-austin-tx.html"
-  to = "/blog/agave-salmiana-green-giant-austin-tx.html"
+  to = "/blog/agave-salmiana-green-giant-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/index.html"
+  to = "/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*.html"
+  to = "/:splat"
   status = 301
   force = true

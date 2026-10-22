@@ -14,11 +14,11 @@
     });
     (function curTick() {
       // Cursor dot: snaps instantly to mouse
-      cur.style.left = cmx + 'px'; cur.style.top = cmy + 'px';
+      cur.style.transform = 'translate3d(' + cmx + 'px,' + cmy + 'px,0) translate(-50%,-50%) rotate(45deg)';
       // Diamond ring: very fast lerp — minimal lag
       crx += (cmx - crx) * 0.55;
       cry += (cmy - cry) * 0.55;
-      ring.style.left = crx + 'px'; ring.style.top = cry + 'px';
+      ring.style.transform = 'translate3d(' + crx + 'px,' + cry + 'px,0) translate(-50%,-50%) rotate(45deg)';
       requestAnimationFrame(curTick);
     }());
     document.querySelectorAll('a,button,.svc,.tc,.wm-card,.step,.fcard').forEach(function (el) {

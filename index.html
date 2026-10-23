@@ -267,11 +267,11 @@ a{text-decoration:none;color:inherit}
   transition:opacity 0.5s ease;
 }
 #loader.hidden{opacity:0;pointer-events:none}
-#loader{animation:loaderOut .5s ease 1.6s forwards}
+#loader{animation:loaderOut .4s ease 1s forwards}
 @keyframes loaderOut{from{opacity:1;visibility:visible}to{opacity:0;visibility:hidden}}
 .ld-logo{font-family:'Bebas Neue',Impact,sans-serif;font-size:52px;letter-spacing:10px;color:var(--gold)}
 .ld-bar{width:200px;height:1px;background:rgba(201,168,76,0.13);overflow:hidden}
-.ld-fill{height:1px;background:var(--gold);width:100%;transform:scaleX(0);transform-origin:left;animation:fillBar 1.4s ease forwards}
+.ld-fill{height:1px;background:var(--gold);width:100%;transform:scaleX(0);transform-origin:left;animation:fillBar .9s ease forwards}
 .ld-txt{font-size:9px;letter-spacing:5px;text-transform:uppercase;color:rgba(240,234,214,0.3)}
 @keyframes fillBar{to{transform:scaleX(1)}}
 
@@ -719,6 +719,8 @@ a{text-decoration:none;color:inherit}
   margin-bottom: 2px;
   margin-top: 2px;
 }
+/* Phones: TOP DESIGN shows at once, no fade, so it is not the late-painting hero line */
+@media (max-width:768px){.hl2{animation:none}}
 
 /* Line 3: +BUILD — outline text with slow orbital light halo */
 .hl3{
@@ -3074,9 +3076,9 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   var loader = document.getElementById('loader');
   function hideLoader() {
     loader.classList.add('hidden');
-    setTimeout(function() { loader.style.display = 'none'; }, 520);
+    setTimeout(function() { loader.style.display = 'none'; }, 420);
   }
-  setTimeout(hideLoader, 1600);
+  setTimeout(hideLoader, 1000);
 
   // Card cascade entrance
   var cards = ['c1','c2','c3'];

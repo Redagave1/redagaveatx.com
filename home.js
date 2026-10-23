@@ -425,13 +425,13 @@
       }).join('');
       const chars = el.querySelectorAll('.char-letter');
       chars.forEach(function(c, i){
-        setTimeout(function(){ c.classList.add('in'); }, delay + i * 55);
+        setTimeout(function(){ c.classList.add('in'); }, delay + i * 40);
       });
     }
     // AUSTIN'S — starts immediately on load
-    splitAndAnimate(document.getElementById('hl1-word'), 200);
-    // LANDSCAPER — staggered later for a cascade feel
-    splitAndAnimate(document.getElementById('hl4-word'), 750);
+    splitAndAnimate(document.getElementById('hl1-word'), 100);
+    // LANDSCAPER — staggered slightly for a cascade feel, done before the loader is gone
+    splitAndAnimate(document.getElementById('hl4-word'), 250);
   })();
 
 
@@ -439,6 +439,8 @@
   (function(){
     const el = document.getElementById('hl2-word');
     if(!el) return;
+    // Phones skip the shimmer so TOP DESIGN paints at once
+    if(window.matchMedia('(max-width: 768px)').matches) return;
     // After the main entrance, do a gold shimmer sweep through letters
     setTimeout(function(){
       el.style.transition = 'filter 0.4s ease';

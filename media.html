@@ -249,6 +249,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 .ig-card:hover .ig-card-ov{background:rgba(8,11,6,.44)}
 .ig-card-ov svg{opacity:0;transform:scale(.8);transition:opacity .3s,transform .3s}
 .ig-card:hover .ig-card-ov svg{opacity:1;transform:scale(1)}
+.ig-live{max-width:900px;margin:0 auto}
+.ig-live iframe{display:block;width:100%;border:1px solid rgba(201,168,76,.18);background:#0a100a}
 .ig-follow-cta{display:flex;justify-content:center;margin-top:40px}
 .ig-follow-btn{display:inline-flex;align-items:center;gap:10px;border:1px solid rgba(201,168,76,.35);color:var(--gold);padding:12px 32px;font-size:9px;letter-spacing:3px;text-transform:uppercase;font-family:'Montserrat',sans-serif;font-weight:600;border-radius:9999px;transition:all .3s}
 .ig-follow-btn:hover{background:var(--gold);color:var(--dark)}
@@ -263,6 +265,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <section class="media-sec" aria-labelledby="ig-h2">
   <div class="media-sec-eye rev">Follow Us</div>
   <h2 id="ig-h2" class="media-sec-h2 rev">Instagram</h2>
+  <div id="ig-live" class="ig-live"></div>
   <div id="ig-grid" class="ig-grid"></div>
   <div class="ig-follow-cta rev">
     <a href="https://www.instagram.com/redagaveatx/" target="_blank" rel="noopener" class="ig-follow-btn">&#9654;&nbsp; Follow @redagaveatx</a>
@@ -428,7 +431,36 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
   fetchYouTube();
 
-  // ── Instagram ────────────────────────────────────────────
+  // ── Instagram live grid (profile embed), static grid below stays as fallback ──
+  (function(){
+    var live = document.getElementById('ig-live'), stat = document.getElementById('ig-grid');
+    if (!live || !stat || !('IntersectionObserver' in window)) return;
+    // header (~96px) + two rows of three square tiles, until the embed reports its own height
+    function guessHeight(){ var w = live.clientWidth || 900; return Math.round(96 + 2 * (w / 3)); }
+    function mount(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.instagram.com/redagaveatx/embed/';
+      f.title = 'Red Agave on Instagram';
+      f.loading = 'lazy';
+      f.referrerPolicy = 'strict-origin-when-cross-origin';
+      f.style.height = guessHeight() + 'px';
+      var ok = false;
+      var timer = setTimeout(function(){ if (!ok) { live.removeChild(f); live.style.display = 'none'; } }, 8000);
+      f.addEventListener('load', function(){ ok = true; clearTimeout(timer); stat.style.display = 'none'; });
+      window.addEventListener('message', function(e){
+        if (e.origin !== 'https://www.instagram.com' || e.source !== f.contentWindow) return;
+        var d = e.data; try { if (typeof d === 'string') d = JSON.parse(d); } catch (x) { return; }
+        var h = d && d.details && d.details.height;
+        if (h) { f.dataset.measured = '1'; f.style.height = Math.ceil(h) + 'px'; }
+      });
+      window.addEventListener('resize', function(){ if (!f.dataset.measured) f.style.height = guessHeight() + 'px'; }, {passive:true});
+      live.appendChild(f);
+    }
+    var io = new IntersectionObserver(function(en){ if (en[0].isIntersecting) { io.disconnect(); mount(); } }, {rootMargin: '400px 0px'});
+    io.observe(live);
+  })();
+
+  // ── Instagram static grid (fallback) ─────────────────────
   var igGrid = document.getElementById('ig-grid');
   if (igGrid) {
     IG_POSTS.forEach(function(post) {

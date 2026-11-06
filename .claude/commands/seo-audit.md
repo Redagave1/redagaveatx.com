@@ -20,9 +20,9 @@ Run a comprehensive technical SEO audit of the site. Check every HTML page for:
 Run the /local-page-audit checklist on all service pages and location pages. For each page verify:
 
 11. **Keyword targeting** — locality + service keyword in title, meta description, H1, URL slug, first 100 words, and at least one H2/H3.
-12. **Content depth** — word count appropriate for the niche, unique content (not boilerplate), pricing info, comparison tables, process sections, 6+ FAQs.
+12. **Content depth** — word count appropriate for the niche, unique content (not boilerplate), what drives cost with no prices, comparison tables, process sections, 6+ FAQs.
 13. **NAP consistency** — business name "Red Agave Landscape" (not "Landscaping"), phone 512-695-7566, website redagaveatx.com — must match exactly across all pages.
-14. **Brand accuracy** — "mild steel" not "aluminum", concrete $14/sq ft, steel edging $20/ft.
+14. **Brand accuracy** — "mild steel" not "aluminum"; no prices on any page outside blog guides. Blog guides use concrete $14/sq ft, steel edging $20/ft.
 15. **Service area signals** — nearby cities/neighborhoods mentioned (Cedar Park, Westlake Hills, Round Rock, Bee Cave, Dripping Springs, Lakeway, Pflugerville, Georgetown).
 16. **Cross-linking** — each service page links to at least 3 related service/blog pages.
 17. **Trust signals** — Fully Insured mentioned, project photos present, free consultation CTA.

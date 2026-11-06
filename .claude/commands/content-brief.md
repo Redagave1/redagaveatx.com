@@ -22,6 +22,6 @@ Given a target keyword (passed as $ARGUMENTS), generate a complete content brief
    - **FAQ questions** (5-8 questions with answer summaries)
    - **CTA placement** (where to put contact links)
 
-5. **Brand check** — verify the brief uses correct pricing ($14/sq ft concrete, $20/ft steel edging, mild steel not aluminum) and matches Red Agave's confident, minimal voice.
+5. **Brand check** — verify the brief has no prices unless it is a blog guide (then $14/sq ft concrete, $20/ft steel edging), uses mild steel not aluminum, and matches Red Agave's confident, minimal voice.
 
 Output the brief in a format that can be handed directly to a content writer or used as the basis for a /draft-content command.

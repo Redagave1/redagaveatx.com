@@ -25,7 +25,7 @@ Given a target keyword (passed as $ARGUMENTS), write a complete blog post or ser
 
 4. **Brand voice check:**
    - Confident, minimal, no filler
-   - Correct pricing (concrete $14/sq ft, steel edging $20/ft)
+   - No prices on service pages. Blog guides may use correct pricing (concrete $14/sq ft, steel edging $20/ft)
    - "Mild steel" not "aluminum"
    - Customer quotes verbatim only
    - Bebas Neue headlines, Montserrat body

@@ -18,7 +18,7 @@ Rewrite the blog post as a single Google Business Profile update that captures t
 - No links inside the body (the link is added separately in GBP).
 - No headings, no markdown, no bullet symbols like "•" or "-". Plain prose only, with line breaks where they aid readability.
 - Use "mild steel" not "aluminum" if referencing materials.
-- Concrete pricing starts at $14/sq ft if mentioned.
+- Do not mention prices.
 
 ## Structure
 

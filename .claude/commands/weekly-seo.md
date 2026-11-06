@@ -17,7 +17,7 @@ Run the /local-page-audit checklist on the 5 priority service pages and flag any
 
 Also audit any location pages that were recently created or modified. For each page, check:
 - Keyword targeting (locality + service in title, H1, URL, body)
-- Content depth (word count, unique content, FAQs, pricing, comparison tables)
+- Content depth (word count, unique content, FAQs, comparison tables; no prices outside blog guides)
 - Schema markup (Service, FAQPage, correct areaServed)
 - NAP consistency (Red Agave Landscape, 512-695-7566, redagaveatx.com)
 - Internal linking (cross-links, blog links, navigation)

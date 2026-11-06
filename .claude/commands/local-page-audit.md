@@ -59,7 +59,7 @@ Grade each item Red / Amber / Green with a one-line reason. Be strict: amber mea
 - [ ] FAQs answer locality-specific intent
 - [ ] Clear primary CTA above the fold (call, book, quote)
 - [ ] Secondary CTAs throughout the page
-- [ ] Pricing information present (Red Agave differentiator — check for correct pricing: concrete $14/sq ft, steel edging $20/ft)
+- [ ] No prices on the page (blog guides are the only exception); cost questions explain what drives the price and point to the free consultation
 - [ ] Comparison table or decision-helper content present
 - [ ] Process/how-it-works section present
 
@@ -185,8 +185,8 @@ If the audit reveals strong on-page work but the page score is still low due to 
 ## Red Agave Brand Checks (always verify)
 
 - Material references use "mild steel" not "aluminum"
-- Concrete pricing starts at $14/sq ft (not $6 or $12)
-- Steel edging at $20/ft
+- No prices outside blog guides
+- In blog guides: concrete starts at $14/sq ft (not $6 or $12), steel edging at $20/ft
 - Business name: "Red Agave Landscape" (not "Landscaping")
 - Design uses correct CSS variables (--dark, --gold, --cream)
 - Customer review quotes are unmodified verbatim text

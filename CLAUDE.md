@@ -25,9 +25,8 @@ Red Agave Landscape is a luxury design+build landscaping company in Austin, TX.
 
 ## Material Facts (enforce in all content)
 - **Mild steel only** — never say "aluminum" as a Red Agave material. We fabricate mild steel in-house.
-- **Concrete starts at $14/sq ft** (not $6 or $12)
-- **Steel edging starts at $20/ft** (1/4-inch, bent and welded on-site)
-- **Decomposed granite: $6-$9/sq ft installed**
+- **No prices on main pages.** Dollar figures, rates, cost tables, and budget tiers appear only in blog guides (the hidden pages). Homepage, core pages, service pages, case studies, and city pages never show a price. Cost questions say what drives the price and point to the free on-site consultation.
+- **In blog guides only:** concrete starts at $14/sq ft (not $6 or $12), steel edging starts at $20/ft (1/4-inch, bent and welded on-site), decomposed granite $6-$9/sq ft installed
 - **Limestone comes in 2x4 ft slabs** — don't call it "pavers"
 - Customer review quotes must NEVER be altered — verbatim only
 - **Never use a general "licensed" claim.** Say "Fully Insured." Texas has no general landscaping license. The only license to cite is the TCEQ irrigator license, as "TCEQ Licensed Irrigator" with its LI number and the license holder's name.
@@ -78,7 +77,7 @@ All in `google-profile/`:
 ## SEO Workflow (Weeks 1-3 completed)
 **Week 1:** Keyword research, SERP analysis, content format planning
 **Week 2:** Technical audit fixes (meta titles <60 chars, descriptions <155 chars, GA4 sitewide, UX fixes)
-**Week 3:** Service page optimization (5 priority pages with FAQPage schema, pricing tables, comparison tables, expanded FAQs, process sections)
+**Week 3:** Service page optimization (5 priority pages with FAQPage schema, comparison tables, expanded FAQs, process sections)
 **Week 4:** Automation (this CLAUDE.md, reusable commands, monitoring)
 
 ## Page Template Pattern
@@ -88,7 +87,7 @@ page-header (background image + overlay + h1)
 sec (content-body with intro paragraphs)
 sec (features-grid with 6 items)
 sec (comparison table)
-sec (pricing tiers)
+sec (what drives cost, no prices; price tiers in blog guides only)
 sec (process grid — 4 columns)
 sec (photo-grid with 3 project images)
 sec (features-grid — "What's Included")

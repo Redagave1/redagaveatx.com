@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="images/hero/IMG_9712-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="images/hero/IMG_9712.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('images/hero/IMG_9712.webp')}@media(max-width:768px){#ph-bg{background-image:url('images/hero/IMG_9712-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -158,6 +161,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 @media(max-width:480px){.ft-grid{grid-template-columns:1fr}}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.redagaveatx.com/"}, {"@type": "ListItem", "position": 2, "name": "Service Area", "item": "https://www.redagaveatx.com/service-area"}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -208,7 +212,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <main>
 <div class="page-header">
   <canvas class="page-canvas" style="position:absolute;inset:0;z-index:1;pointer-events:none;width:100%;height:100%"></canvas>
-  <div class="page-header-bg" style="background-image:url('images/hero/IMG_9712.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>
@@ -362,7 +366,6 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     <div class="ft-social" style="display:flex;gap:14px;align-items:center"><a href="https://www.instagram.com/redagaveatx/" target="_blank" rel="noopener" aria-label="Instagram" style="color:rgba(240,234,214,0.2);transition:color .2s"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12s.014 3.668.072 4.948c.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24s3.668-.014 4.948-.072c4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948s-.014-3.667-.072-4.947c-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a><a href="https://www.youtube.com/@redagavelawnandlandscape3227/featured" target="_blank" rel="noopener" aria-label="YouTube" style="color:rgba(240,234,214,0.2);transition:color .2s"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a></div><span class="ft-phone">512-695-7566</span>
   </div>
 </footer>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" defer></script>
 <script>
 (function(){
   var cur=document.getElementById('cur'), ring=document.getElementById('cur-ring');

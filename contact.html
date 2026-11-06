@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="images/hero/IMG_8575-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="images/hero/IMG_8575.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('images/hero/IMG_8575.webp')}@media(max-width:768px){#ph-bg{background-image:url('images/hero/IMG_8575-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -55,7 +58,6 @@
   ]
 }
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" defer></script>
 <style>
 :root{--gold:#c9a84c;--gold-light:#e8c96a;--dark:#080b06;--dark2:#0d120a;--cream:#f0ead6;--cream60:rgba(240,234,214,0.6);--ease:cubic-bezier(0.16,1,0.3,1)}
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
@@ -347,6 +349,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 #mobile-cta{display:none;position:fixed;bottom:0;left:0;right:0;z-index:700;background:linear-gradient(to bottom,rgba(8,11,6,0),rgba(8,11,6,0.98));padding:16px 16px 28px;backdrop-filter:blur(12px);border-top:1px solid rgba(201,168,76,0.1)}#mobile-cta a{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--gold);color:var(--dark);padding:14px 28px;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;font-family:'Montserrat',sans-serif;border-radius:9999px;text-decoration:none;width:100%;transition:all 0.3s;box-shadow:0 4px 16px rgba(201,168,76,0.25)}#mobile-cta a:active{transform:scale(0.98);box-shadow:0 2px 8px rgba(201,168,76,0.15)}@media(max-width:768px){#mobile-cta{display:block}body.has-mobile-cta{padding-bottom:80px}}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.redagaveatx.com/"}, {"@type": "ListItem", "position": 2, "name": "Contact", "item": "https://www.redagaveatx.com/contact"}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -408,7 +411,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <!-- ══ HERO ══ -->
 <div class="page-header">
   <canvas id="h-canvas-contact"></canvas>
-  <div class="page-header-bg" style="background-image:url('images/hero/IMG_8575.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="hero-float-imgs">
     <div class="hfi-a"></div>

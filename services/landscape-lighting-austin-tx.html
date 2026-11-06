@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="../images/gallery/IMG_8693-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="../images/gallery/IMG_8693.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('../images/gallery/IMG_8693.webp')}@media(max-width:768px){#ph-bg{background-image:url('../images/gallery/IMG_8693-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -40,6 +43,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.redagaveatx.com/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://www.redagaveatx.com/services"},{"@type":"ListItem","position":3,"name":"Landscape Lighting","item":"https://www.redagaveatx.com/services/landscape-lighting-austin-tx"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is FCOB lighting and how is it different?", "acceptedAnswer": {"@type": "Answer", "text": "FCOB (Flip Chip on Board) is the latest LED technology where tiny chips are mounted directly on a flexible substrate with a phosphor coating, producing a continuous, dot-free ribbon of light. Standard LED strip lights show individual dots of light separated by dark gaps. FCOB eliminates those gaps entirely, creating a smooth, uniform glow that looks like a line of light rather than a string of dots. The result is dramatically more refined and architectural."}}, {"@type": "Question", "name": "How much does landscape lighting cost in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Professional landscape lighting systems in Austin typically range from $3,500 to $15,000+ depending on the number of fixtures, zones, and integration complexity. A focused lighting package for a patio and walkway runs $3,500 to $6,000. A comprehensive system lighting a full backyard with pergola, planters, trees, pathways, and hardscape runs $8,000 to $15,000+. We design lighting as part of complete landscape projects or as standalone upgrades to existing landscapes."}}, {"@type": "Question", "name": "Can you add lighting to an existing landscape?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Lighting is one of the easiest upgrades to retrofit into an existing landscape. Low-voltage wiring can be run through planting beds, along hardscape edges, and through conduit without major disruption. We assess existing electrical capacity, design a lighting plan that highlights your landscape’s best features, and install with minimal disturbance to established plantings and hardscape."}}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -50,7 +54,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <main>
 <div class="page-header">
-  <div class="page-header-bg" style="background-image:url('../images/gallery/IMG_8693.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>

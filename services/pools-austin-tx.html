@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="../images/projects/flycatcher/hero-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="../images/projects/flycatcher/hero.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('../images/projects/flycatcher/hero.webp')}@media(max-width:768px){#ph-bg{background-image:url('../images/projects/flycatcher/hero-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -149,6 +152,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.redagaveatx.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.redagaveatx.com/services"}, {"@type": "ListItem", "position": 3, "name": "Pools", "item": "https://www.redagaveatx.com/services/pools-austin-tx"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does a custom pool cost in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Custom inground pools in Austin typically start around $55,000 for a basic design and can reach $150,000 or more for large pools with spillover spas, water features, and premium finishes. The wide range depends on pool size, depth, finish material (plaster, pebble, or glass tile), water features, and the amount of rock excavation required. We provide detailed proposals after an on-site evaluation of your property."}}, {"@type": "Question", "name": "How long does it take to build a pool in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Most custom pool projects take 8 to 14 weeks from excavation to fill day. The timeline depends on pool size, complexity, weather conditions, and the City of Austin inspection schedule. Rock excavation can add 1 to 2 weeks. We provide a detailed construction timeline during your design phase and keep you updated throughout the build."}}, {"@type": "Question", "name": "Do I need a fence around my pool in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The City of Austin requires a barrier (fence) around all residential pools that is at least 48 inches tall with a self-closing, self-latching gate. The barrier must be in place before the pool can be filled. We include fence permitting and can design the barrier as an integrated part of your landscape rather than a standard chain-link afterthought."}}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -198,7 +202,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <main>
 <div class="page-header">
-  <div class="page-header-bg" style="background-image:url('../images/projects/flycatcher/hero.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>

@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="../images/gallery/IMG_9839-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="../images/gallery/IMG_9839.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('../images/gallery/IMG_9839.webp')}@media(max-width:768px){#ph-bg{background-image:url('../images/gallery/IMG_9839-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -40,6 +43,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.redagaveatx.com/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://www.redagaveatx.com/services"},{"@type":"ListItem","position":3,"name":"Patios","item":"https://www.redagaveatx.com/services/patios-austin-tx"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does a patio cost in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Patio costs depend on material, size, and site conditions. Poured concrete starts at $14 per square foot for brushed finish. Stamped concrete runs $14 to $18 per square foot. Travertine pavers are $18 to $25 per square foot installed. Flagstone ranges from $20 to $30 per square foot. A typical 400 square foot backyard patio runs $5,600 to $12,000 depending on material choice. Add seating walls, fire pits, or covered structures and the overall project scales accordingly."}}, {"@type": "Question", "name": "Concrete or pavers — which is better?", "acceptedAnswer": {"@type": "Answer", "text": "Both are excellent choices with different strengths. Poured concrete is more cost-effective, offers seamless surfaces, and works well for large areas with clean modern lines. Pavers offer individual stone replacement if one cracks, better performance over unstable soils (they flex rather than crack), and a natural stone aesthetic. For most Austin projects, we recommend based on design style: concrete for modern and contemporary, pavers for Mediterranean or traditional, and flagstone for Hill Country and organic designs."}}, {"@type": "Question", "name": "Which patio material stays coolest in Austin summers?", "acceptedAnswer": {"@type": "Answer", "text": "Travertine stays significantly cooler than concrete or manufactured pavers in direct sun — typically 20 to 30 degrees cooler than dark concrete on a 100°F day. Light-colored concrete is next best. Flagstone varies by color (lighter is cooler). Dark materials like charcoal pavers get the hottest. For pool decks and barefoot areas, we strongly recommend travertine or light brushed concrete for comfort in Austin’s summers."}}, {"@type": "Question", "name": "How do you prevent patio cracking on Austin's clay soil?", "acceptedAnswer": {"@type": "Answer", "text": "Proper base preparation is everything. We excavate below the clay layer, install 6 to 8 inches of compacted crushed limestone base, and pour on stabilized subgrade. For concrete, we use 4,000 PSI mix with fiber mesh and rebar reinforcement, and cut control joints at proper intervals to direct any cracking to planned locations. For pavers, the flexible joint system naturally accommodates minor soil movement without visible cracking."}}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -50,7 +54,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <main>
 <div class="page-header">
-  <div class="page-header-bg" style="background-image:url('../images/gallery/IMG_9839.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>

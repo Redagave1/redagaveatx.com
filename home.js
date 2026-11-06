@@ -2,6 +2,36 @@
 // MAIN SITE JS — Red Agave Landscape
 // All in one IIFE, validated clean
 // ═══════════════════════════════════════════
+// GSAP only drives scroll effects, so it loads on the first scroll or touch on
+// phones and after page load on desktop. It never competes with the first paint.
+var gsapQueue = [];
+function onGsap(fn) { gsapQueue.push(fn); }
+(function () {
+  var started = false;
+  var triggers = ['scroll', 'wheel', 'touchstart', 'pointerdown', 'keydown'];
+  var cdn = 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/';
+  function load(file, next) {
+    var s = document.createElement('script');
+    s.src = cdn + file;
+    s.onload = next;
+    document.head.appendChild(s);
+  }
+  function start() {
+    if (started) return;
+    started = true;
+    triggers.forEach(function (t) { window.removeEventListener(t, start); });
+    load('gsap.min.js', function () {
+      load('ScrollTrigger.min.js', function () {
+        gsapQueue.forEach(function (fn) { fn(); });
+      });
+    });
+  }
+  triggers.forEach(function (t) { window.addEventListener(t, start, { passive: true }); });
+  window.addEventListener('load', function () {
+    if (window.matchMedia('(min-width: 901px)').matches || window.scrollY > 0 || location.hash) start();
+  });
+})();
+
 (function () {
 
   // ── CURSOR ──────────────────────────────
@@ -92,37 +122,6 @@
   function initGsapFx() {
     gsap.registerPlugin(ScrollTrigger);
 
-    // ── PREMIUM CLIP-PATH WORD REVEAL ─────────────────────
-    // Each title line wipes in with a clip-path reveal — the signature
-    // technique of award-winning sites (Awwwards, Apple, Linear etc.)
-    // clip-path:inset() cuts from bottom up, revealing text as it rises
-    // The .htl wrapper has overflow:hidden to contain the clip
-    var reveal = gsap.timeline({ delay: 0.6 });
-
-    reveal
-      .fromTo('#s-hint',
-        { opacity: 0 },
-        { opacity: 1, duration: .6 },
-        1.1
-      )
-      .fromTo('#c1',
-        { opacity: 0, x: 30 },
-        { opacity: 1, x: 0, duration: .7, ease: 'power3.out' },
-        0.9
-      )
-      .fromTo('#c2',
-        { opacity: 0, x: 30 },
-        { opacity: 1, x: 0, duration: .7, ease: 'power3.out' },
-        1.05
-      )
-      .fromTo('#c3',
-        { opacity: 0, x: 30 },
-        { opacity: 1, x: 0, duration: .7, ease: 'power3.out' },
-        1.2
-      )
-      .call(function() {
-        document.querySelectorAll('.fcard').forEach(function(c) { c.classList.add('go'); });
-      }, [], 1.5);
 
     // Background parallax — slides up as you scroll
     gsap.to('.hero-bg', {
@@ -164,8 +163,14 @@
       });
     });
   }
+  onGsap(initGsapFx);
+
+  // Scroll hint fades in without GSAP
   window.addEventListener('load', function () {
-    if (typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined') initGsapFx();
+    var hint = document.getElementById('s-hint');
+    if (!hint) return;
+    hint.style.transition = 'opacity .6s';
+    setTimeout(function () { hint.style.opacity = 1; }, 1700);
   });
 
   // ── INDEPENDENT CARD MOUSE TILT ─────────
@@ -572,8 +577,7 @@
 
 
 // ══ THE RED AGAVE DIFFERENCE — Elyse-style scroll parallax ══
-(function() {
-  if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
+onGsap(function() {
   if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
   var section = document.querySelector('#difference');
   if (!section) return;
@@ -630,7 +634,7 @@
       scrollTrigger: { trigger: section, start: 'top bottom', end: 'bottom top', scrub: 1.4 }
     }
   );
-})();
+});
 
 // ══ WHAT MAKES — Option B: kinetic-glass cards + scroll-driven horizontal title drift ══
 (function() {
@@ -729,8 +733,7 @@
 // (wm-card tilt/scale/mouse handlers removed — flip is now handled purely via CSS :hover on .wm-inner)
 
 // ══ PATH TOWARDS YOUR DREAM LANDSCAPE — GSAP ScrollTrigger pin ══
-(function(){
-  if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
+onGsap(function() {
   var section = document.getElementById('process');
   if (!section) return;
 
@@ -765,11 +768,10 @@
     }
   });
   setActive(0);
-})();
+});
 
 // ══ BANNER 2 — count-up via GSAP ScrollTrigger (matches site pattern) ══
-(function(){
-  if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
+onGsap(function() {
   var bnr2 = document.getElementById('bnr2-section');
   if (!bnr2) return;
   ScrollTrigger.create({
@@ -790,7 +792,7 @@
       });
     }
   });
-})();
+});
 
 // ══ BANNER 2 — Service Area town rotator ══
 (function(){

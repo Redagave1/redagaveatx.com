@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="../images/gallery/IMG_8720-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="../images/gallery/IMG_8720.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('../images/gallery/IMG_8720.webp')}@media(max-width:768px){#ph-bg{background-image:url('../images/gallery/IMG_8720-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -40,6 +43,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.redagaveatx.com/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://www.redagaveatx.com/services"},{"@type":"ListItem","position":3,"name":"Turf Installation","item":"https://www.redagaveatx.com/services/turf-installation-austin-tx"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does turf installation cost in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Natural sod installation (including soil preparation, grading, and irrigation adjustments) runs $2 to $4 per square foot depending on grass variety and site conditions. Artificial turf installation runs $8 to $15 per square foot including excavation, base preparation, drainage fabric, compacted base material, turf, infill, and steel edging. Putting greens are at the higher end due to laser grading and specialty turf. We provide exact pricing after a site visit."}}, {"@type": "Question", "name": "Which grass type is best for Austin?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on your sun exposure, water budget, and traffic. Bermuda is the most heat- and drought-tolerant and handles heavy foot traffic, but it needs full sun (6+ hours) and goes dormant in winter. Zoysia is dense and low-maintenance with moderate shade tolerance. St. Augustine handles partial shade better than either but needs more water. We often use different varieties in different zones of the same property to match each area’s conditions."}}, {"@type": "Question", "name": "Does artificial turf get hot in Austin summers?", "acceptedAnswer": {"@type": "Answer", "text": "Synthetic turf does absorb heat and can reach surface temperatures of 140–160°F in direct afternoon sun during peak summer. We mitigate this with cool-touch infill products that reduce surface temperature by 15–20°F compared to standard infill. Strategic shade from trees or structures also helps significantly. For areas that get heavy afternoon sun and barefoot traffic, we’ll discuss whether artificial or natural turf is the better choice for that specific zone."}}, {"@type": "Question", "name": "When is the best time to lay sod in Austin?", "acceptedAnswer": {"@type": "Answer", "text": "Spring (March through May) and early fall (September through October) are ideal for sod installation in Austin. These windows give grass time to establish roots before summer heat stress or winter dormancy. We can install sod year-round, but summer installations require aggressive watering schedules during establishment, and winter installations of warm-season grasses will remain dormant until spring green-up."}}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -50,7 +54,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <main>
 <div class="page-header">
-  <div class="page-header-bg" style="background-image:url('../images/gallery/IMG_8720.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>

@@ -7,6 +7,9 @@
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href^="sms:"],a[href^="tel:"]');if(a){gtag('event','phone_click',{event_category:'contact',event_label:a.href,value:1})}});</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preload" as="image" href="../images/projects/madison/IMG_9107-640.webp" media="(max-width:768px)" fetchpriority="high">
+<link rel="preload" as="image" href="../images/projects/madison/IMG_9107.webp" media="(min-width:769px)" fetchpriority="high">
+<style>#ph-bg{background-image:url('../images/projects/madison/IMG_9107.webp')}@media(max-width:768px){#ph-bg{background-image:url('../images/projects/madison/IMG_9107-640.webp')}}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -156,6 +159,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 @media(max-width:768px){.photo-grid{grid-template-columns:1fr}}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.redagaveatx.com/"}, {"@type": "ListItem", "position": 2, "name": "Service Area", "item": "https://www.redagaveatx.com/service-area"}, {"@type": "ListItem", "position": 3, "name": "Buda & Kyle", "item": "https://www.redagaveatx.com/locations/buda-kyle-tx"}]}</script>
+<style>.nav-links a{white-space:nowrap}@media(max-width:1400px){.nav-links{gap:18px}.nav-links a{letter-spacing:2px}}@media(max-width:1100px){.nav-links{display:none}.nav-r .nav-cta{display:none}.hbg{display:flex}}</style>
 </head>
 <body>
 <div id="cur"></div><div id="cur-ring"></div>
@@ -204,7 +208,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 </nav>
 
 <header class="page-header">
-  <div class="page-header-bg" style="background-image:url('../images/projects/madison/IMG_9107.webp')"></div>
+  <div class="page-header-bg" id="ph-bg"></div>
   <div class="page-header-ov"></div>
   <div class="page-header-inner">
     <div class="page-eyebrow">Buda & Kyle, Texas</div>

@@ -25,7 +25,8 @@ Red Agave Landscape is a luxury design+build landscaping company in Austin, TX.
 
 ## Material Facts (enforce in all content)
 - **Mild steel only** — never say "aluminum" as a Red Agave material. We fabricate mild steel in-house.
-- **No prices on main pages.** Dollar figures, rates, cost tables, and budget tiers appear only in blog guides (the hidden pages). Homepage, core pages, service pages, case studies, and city pages never show a price. Cost questions say what drives the price and point to the free on-site consultation.
+- **No prices on main pages.** Dollar figures, rates, cost tables, and budget tiers appear only in blog guides and `llms.txt`, which exist for search engines and AI. Homepage, core pages, service pages, case studies, and city pages never show a price. Cost questions say what drives the price and point to the free on-site consultation.
+- **Guides stays out of the main menu.** Never add the blog to the desktop or mobile menu. It stays crawlable through the footer link, internal links (cost guides included), and the sitemap.
 - **In blog guides only:** concrete starts at $14/sq ft (not $6 or $12), steel edging starts at $20/ft (1/4-inch, bent and welded on-site), decomposed granite $6-$9/sq ft installed
 - **Limestone comes in 2x4 ft slabs** — don't call it "pavers"
 - Customer review quotes must NEVER be altered — verbatim only

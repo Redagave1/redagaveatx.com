@@ -114,7 +114,7 @@ Grade each item Red / Amber / Green with a one-line reason. Be strict: amber mea
 
 #### H. Trust & E-E-A-T Signals
 
-- [ ] Business credentials shown (Licensed & Insured)
+- [ ] Business credentials shown (Fully Insured)
 - [ ] Service area mentioned
 - [ ] Real project photos (not stock)
 - [ ] Reviews/testimonials with reviewer names

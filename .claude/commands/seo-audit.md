@@ -25,7 +25,7 @@ Run the /local-page-audit checklist on all service pages and location pages. For
 14. **Brand accuracy** — "mild steel" not "aluminum", concrete $14/sq ft, steel edging $20/ft.
 15. **Service area signals** — nearby cities/neighborhoods mentioned (Cedar Park, Westlake Hills, Round Rock, Bee Cave, Dripping Springs, Lakeway, Pflugerville, Georgetown).
 16. **Cross-linking** — each service page links to at least 3 related service/blog pages.
-17. **Trust signals** — Licensed & Insured mentioned, project photos present, free consultation CTA.
+17. **Trust signals** — Fully Insured mentioned, project photos present, free consultation CTA.
 
 ## Output
 

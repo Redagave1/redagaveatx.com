@@ -25,7 +25,7 @@ When auditing Red Agave (the default), use this pre-loaded context instead of fe
 - **Country:** United States
 - **Type:** Service-area business (travels to customers)
 - **B2B or B2C:** B2C (residential homeowners)
-- **Professional associations/licenses:** Licensed & Insured
+- **Professional associations/licenses:** Fully Insured
 - **NAP:**
   - Name: Red Agave Landscape
   - Address: Austin, TX (service-area business, no public storefront)

@@ -3,7 +3,8 @@
 ## Business
 Red Agave Landscape is a luxury design+build landscaping company in Austin, TX.
 - **Owner:** Jensen Mehrens
-- **Phone:** 512-695-7566
+- **Phone:** 512-695-7566 (only number)
+- **Address:** 820 Indian Tree Trail, Austin, TX 78748
 - **Email:** redagaveatx@gmail.com
 - **Site:** redagaveatx.com (hosted on Netlify)
 - **ICP:** Homeowners in Austin metro (Cedar Park, Westlake Hills, Round Rock, Bee Cave, Dripping Springs, Lakeway, Pflugerville, Georgetown) with $15K-$100K+ outdoor living budgets
@@ -29,6 +30,8 @@ Red Agave Landscape is a luxury design+build landscaping company in Austin, TX.
 - **Decomposed granite: $6-$9/sq ft installed**
 - **Limestone comes in 2x4 ft slabs** — don't call it "pavers"
 - Customer review quotes must NEVER be altered — verbatim only
+- **Never say "licensed" about Red Agave.** Say "Fully Insured." Texas has no general landscaping license and the company holds none.
+- Founded 2009, 17 years, 750+ projects. Never use "Any Project Any Budget."
 
 ## Brand Voice
 Confident and minimal. Short declarative lines. No filler, no fluff.

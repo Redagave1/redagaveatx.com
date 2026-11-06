@@ -30,7 +30,7 @@ Red Agave Landscape is a luxury design+build landscaping company in Austin, TX.
 - **Decomposed granite: $6-$9/sq ft installed**
 - **Limestone comes in 2x4 ft slabs** — don't call it "pavers"
 - Customer review quotes must NEVER be altered — verbatim only
-- **Never say "licensed" about Red Agave.** Say "Fully Insured." Texas has no general landscaping license and the company holds none. Irrigation is done by licensed irrigators.
+- **Never use a general "licensed" claim.** Say "Fully Insured." Texas has no general landscaping license. The only license to cite is the TCEQ irrigator license, as "TCEQ Licensed Irrigator" with its LI number and the license holder's name.
 - Founded 2009, 17 years, 750+ projects. Never use "Any Project Any Budget."
 
 ## Brand Voice

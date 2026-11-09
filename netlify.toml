@@ -30,6 +30,19 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
+# ── Old URLs from a previous version of the site ──
+[[redirects]]
+  from = "/landscape.html"
+  to = "/services/landscape-design-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/landscape"
+  to = "/services/landscape-design-austin-tx"
+  status = 301
+  force = true
+
 # ── Internal files: never serve these publicly ──
 [[redirects]]
   from = "/google-profile/*"

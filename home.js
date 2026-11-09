@@ -77,7 +77,7 @@ function onGsap(fn) { gsapQueue.push(fn); }
   var nqb = document.getElementById('nav-quote-btn');
   if (nqb) {
     nqb.addEventListener('click', function () {
-      window.location.href = 'contact.html';
+      window.location.href = '/contact';
     });
   }
 

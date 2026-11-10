@@ -29,6 +29,7 @@ Primary: Austin, TX metro area
 Neighborhoods and cities served:
 - Austin (all areas including East Austin, South Austin, Circle C, Barton Creek, Tarrytown)
 - Westlake Hills
+- Great Hills & Jollyville (Northwest Austin)
 - Cedar Park
 - Round Rock
 - Bee Cave

@@ -669,6 +669,12 @@
   force = true
 
 [[redirects]]
+  from = "/locations/great-hills-tx.html"
+  to = "/locations/great-hills-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/locations/steiner-ranch-tx.html"
   to = "/locations/steiner-ranch-tx"
   status = 301

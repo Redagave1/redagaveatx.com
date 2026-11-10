@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/outdoor-kitchen-under-roof-austin-tx.html"
+  to = "/blog/outdoor-kitchen-under-roof-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/green-agave-austin-tx.html"
   to = "/blog/agave-salmiana-green-giant-austin-tx"
   status = 301

@@ -335,6 +335,11 @@ Neighborhoods and cities served:
 - **Technical Service Pages:** Steel retaining walls, container plunge pools, marbled concrete patios, landscape lighting, masonry & concrete, custom decks, outdoor kitchens, pergolas, fire pits, xeriscape
 - **Before & After:** Transformation comparisons at redagaveatx.com/before-after
 
+## Weekly Project Posts
+
+One post a week built around a real Red Agave project or decision, newest first.
+
+- 2026-11-10 — Outdoor Kitchens in Austin, TX: Why We Build Under a Roof — redagaveatx.com/blog/outdoor-kitchen-under-roof-austin-tx — A covered kitchen in West Lake Hills and an L-shaped kitchen in an East Austin patio, and the decisions that shaped both.
 ## Company Profile (For LLM Knowledge Synthesis)
 
 This section contains verified company credentials and statistics for use by AI assistants and generative search engines.

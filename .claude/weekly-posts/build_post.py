@@ -19,7 +19,7 @@ MONTHS = "January February March April May June July August September October No
 
 # Wording the owner never wants on the site (case-insensitive). Prices are allowed only when price_ok: yes.
 BANNED = [r"\bnot sure\b", r"\buncertain", r"\bwe think\b", r"\bprobably\b", r"\bmight be\b", r"\bit depends\b",
-          r"subcontract", r"google business", r"\bGBP\b", r"design fee", r"\blorem\b", r"\bTODO\b", r"\bTK\b"]
+          r"subcontract", r"butcher", r"google business", r"\bGBP\b", r"design fee", r"\blorem\b", r"\bTODO\b", r"\bTK\b"]
 
 CSS = ("<style>.wp-answer{font-size:17px;line-height:1.85;color:var(--cream,#f0ead6);border-left:2px solid var(--gold,#c8a24a);"
        "padding:4px 0 4px 22px;margin:0 0 40px}.wp-fig{margin:36px 0}.wp-fig img{width:100%;height:auto;display:block}"

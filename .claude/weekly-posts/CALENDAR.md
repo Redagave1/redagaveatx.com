@@ -51,3 +51,4 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-10 | [/blog/red-fairy-duster-austin-tx](https://www.redagaveatx.com/blog/red-fairy-duster-austin-tx) | red fairy duster austin | new | pink fairy duster note, summer plants guide, xeriscape service |
 | 2026-11-10 | [/blog/arroyo-sweetwood-austin-tx](https://www.redagaveatx.com/blog/arroyo-sweetwood-austin-tx) | arroyo sweetwood austin | new | summer plants guide, xeriscape service |
 | 2026-11-10 | [/blog/dioon-vs-sago-palm-austin-tx](https://www.redagaveatx.com/blog/dioon-vs-sago-palm-austin-tx) | dioon vs sago palm | new | summer plants guide, xeriscape service |
+| 2026-11-11 | [/blog/water-feature-fire-pits-southeast-austin-tx](https://www.redagaveatx.com/blog/water-feature-fire-pits-southeast-austin-tx) | fire pit landscaping austin | 7.2 | fire pits service, custom planters service, water feature cost guide |

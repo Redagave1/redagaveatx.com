@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/water-feature-fire-pits-southeast-austin-tx.html"
+  to = "/blog/water-feature-fire-pits-southeast-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/whales-tongue-agave-austin-tx.html"
   to = "/blog/whales-tongue-agave-austin-tx"
   status = 301

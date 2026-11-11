@@ -33,7 +33,7 @@ Everything in `.claude/` is blocked from the public site by `netlify.toml`.
 - **No prices in weekly posts.** Link the cost guide instead. Cost guides are the only blog posts that show prices (`price_ok: yes`).
 - **Name the area, not the homeowner.**
 - **Drain pipe:** we use both rigid PVC and corrugated pipe.
-- **Outdoor kitchens:** built from IPE, steel, CMU block with brick, tile, and concrete. Never butcher block, and never "mild steel exclusively".
+- **Outdoor kitchens:** built from IPE, steel, CMU block, tile, and concrete. CMU block is the base, and stone or brick goes over it. Tile kitchens are wood-framed and sheathed in concrete board. Never butcher block, and never "mild steel exclusively".
 - **Guides stay out of the main menu.**
 - Confirmed project locations: kitchens (West Lake Hills and East Austin), Bee Cave deck, Cedar Park rusted steel pergola (built from scratch; the owners wanted it to rust), South Austin screened room with skylight, Hopeland (Circle C), Ulit (East Austin, teak deck), Blazyk (Circle C).
 

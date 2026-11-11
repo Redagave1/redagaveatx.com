@@ -117,6 +117,60 @@
   force = true
 
 [[redirects]]
+  from = "/blog/whales-tongue-agave-austin-tx.html"
+  to = "/blog/whales-tongue-agave-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/yucca-rostrata-austin-tx.html"
+  to = "/blog/yucca-rostrata-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/artichoke-agave-austin-tx.html"
+  to = "/blog/artichoke-agave-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/red-fairy-duster-austin-tx.html"
+  to = "/blog/red-fairy-duster-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/dioon-vs-sago-palm-austin-tx.html"
+  to = "/blog/dioon-vs-sago-palm-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/arroyo-sweetwood-austin-tx.html"
+  to = "/blog/arroyo-sweetwood-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/giant-hesperaloe-austin-tx.html"
+  to = "/blog/giant-hesperaloe-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/texas-tuberose-austin-tx.html"
+  to = "/blog/texas-tuberose-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/firecracker-fern-austin-tx.html"
+  to = "/blog/firecracker-fern-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/outdoor-kitchen-under-roof-austin-tx.html"
   to = "/blog/outdoor-kitchen-under-roof-austin-tx"
   status = 301

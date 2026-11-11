@@ -27,10 +27,27 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 
 | Date | Plant | Instagram post | Status |
 |---|---|---|---|
-| | | | |
+| 2026-11-10 | Whale's tongue agave | add link | Live |
+| 2026-11-10 | Artichoke agave | add link | Live |
+| 2026-11-10 | Yucca rostrata | add link | Live |
+| 2026-11-10 | Giant hesperaloe | add link | Live |
+| 2026-11-10 | Texas tuberose | add link | Live |
+| 2026-11-10 | Firecracker fern | add link | Live |
+| 2026-11-10 | Red fairy duster | add link | Live |
+| 2026-11-10 | Arroyo sweetwood | add link | Live |
+| 2026-11-10 | Dioon vs. sago palm | add link | Live |
 
 ## Published log
 
 | Date | Post | Main search | Position before | Linked from |
 |---|---|---|---|---|
 | 2026-11-10 | [/blog/outdoor-kitchen-under-roof-austin-tx](https://www.redagaveatx.com/blog/outdoor-kitchen-under-roof-austin-tx) | outdoor kitchen austin | 55 | outdoor kitchens service, Westlake Hills page, Outdoor Kitchen Ideas post |
+| 2026-11-10 | [/blog/whales-tongue-agave-austin-tx](https://www.redagaveatx.com/blog/whales-tongue-agave-austin-tx) | whale's tongue agave austin | new | cold-hardy agaves guide, xeriscape guide, Georgetown page, xeriscape service |
+| 2026-11-10 | [/blog/artichoke-agave-austin-tx](https://www.redagaveatx.com/blog/artichoke-agave-austin-tx) | artichoke agave austin | new | cold-hardy agaves guide, Tarrytown project page, Georgetown page, xeriscape service |
+| 2026-11-10 | [/blog/yucca-rostrata-austin-tx](https://www.redagaveatx.com/blog/yucca-rostrata-austin-tx) | yucca rostrata austin | new | two project pages, native plants guide, summer plants guide, xeriscape service |
+| 2026-11-10 | [/blog/giant-hesperaloe-austin-tx](https://www.redagaveatx.com/blog/giant-hesperaloe-austin-tx) | giant hesperaloe austin | new | xeriscape guide, native plants guide, summer plants guide, xeriscape service |
+| 2026-11-10 | [/blog/texas-tuberose-austin-tx](https://www.redagaveatx.com/blog/texas-tuberose-austin-tx) | texas tuberose austin | new | native plants guide, summer plants guide, xeriscape service |
+| 2026-11-10 | [/blog/firecracker-fern-austin-tx](https://www.redagaveatx.com/blog/firecracker-fern-austin-tx) | firecracker fern austin | new | summer plants guide, xeriscape service, yucca and hesperaloe notes |
+| 2026-11-10 | [/blog/red-fairy-duster-austin-tx](https://www.redagaveatx.com/blog/red-fairy-duster-austin-tx) | red fairy duster austin | new | pink fairy duster note, summer plants guide, xeriscape service |
+| 2026-11-10 | [/blog/arroyo-sweetwood-austin-tx](https://www.redagaveatx.com/blog/arroyo-sweetwood-austin-tx) | arroyo sweetwood austin | new | summer plants guide, xeriscape service |
+| 2026-11-10 | [/blog/dioon-vs-sago-palm-austin-tx](https://www.redagaveatx.com/blog/dioon-vs-sago-palm-austin-tx) | dioon vs sago palm | new | summer plants guide, xeriscape service |

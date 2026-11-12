@@ -65,9 +65,10 @@
   <!-- Reviews (AI/SEO) -->
   <url><loc>https://www.redagaveatx.com/reviews</loc><lastmod>2026-10-23</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <!-- Before & After -->
+  <url><loc>https://www.redagaveatx.com/designs</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/before-after</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <!-- Blog -->
-  <url><loc>https://www.redagaveatx.com/blog/</loc><lastmod>2026-11-11</lastmod><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.redagaveatx.com/blog/</loc><lastmod>2026-11-12</lastmod><priority>0.7</priority><changefreq>weekly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/blog/xeriscaping-cost-austin-tx</loc><lastmod>2026-11-06</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/blog/best-fire-pit-ideas-austin</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/blog/pergola-guide-austin-tx</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
@@ -157,4 +158,8 @@
   <url><loc>https://www.redagaveatx.com/blog/deck-builder-austin-tx</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/blog/drainage-company-austin-tx</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://www.redagaveatx.com/blog/landscape-lighting-installation-austin-tx</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.redagaveatx.com/blog/landscape-design-services-austin-tx</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.redagaveatx.com/blog/backyard-design-austin-tx</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.redagaveatx.com/blog/landscape-designer-austin-tx</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.redagaveatx.com/blog/landscape-design-build-austin-tx</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority><changefreq>monthly</changefreq></url>
 </urlset>

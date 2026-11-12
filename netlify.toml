@@ -117,6 +117,30 @@
   force = true
 
 [[redirects]]
+  from = "/blog/landscape-design-build-austin-tx.html"
+  to = "/blog/landscape-design-build-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-designer-austin-tx.html"
+  to = "/blog/landscape-designer-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/backyard-design-austin-tx.html"
+  to = "/blog/backyard-design-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/landscape-design-services-austin-tx.html"
+  to = "/blog/landscape-design-services-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/landscape-lighting-installation-austin-tx.html"
   to = "/blog/landscape-lighting-installation-austin-tx"
   status = 301
@@ -227,6 +251,12 @@
 [[redirects]]
   from = "/about.html"
   to = "/about"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/designs.html"
+  to = "/designs"
   status = 301
   force = true
 

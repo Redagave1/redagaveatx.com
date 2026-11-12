@@ -64,7 +64,7 @@ On a structural steel wall, this is the detail we build:
 
 Ask any contractor to show you this detail on paper, including where the water goes once it leaves the pipe.
 
-Terracing helps here too. At Circle C the levels are filled with gravel: decomposed granite in the upper court and dark crushed stone on the terraces below it. Rain lands on a level bed of gravel at each step, where it slows down before it reaches the next wall. See our [drainage](../services/drainage-austin-tx) page.
+Terracing helps here too. At Circle C the levels are filled with gravel: pea gravel in the upper court and dark gravel on the terraces below it. Rain lands on a level bed of gravel at each step, where it slows down before it reaches the next wall. See our [drainage](../services/drainage-austin-tx) page.
 
 ## Is a Retaining Wall Bid a Price or a Design?
 
@@ -96,7 +96,7 @@ At night, LED strips trace every steel edge and deck transition. See our [landsc
 
 - **Retaining walls:** three steel terraces held by quarter-inch steel, 260 linear feet in all
 - **Levels:** five, counting the two deck levels off the house. See our [custom decks](../services/custom-decks-austin-tx) page.
-- **Fill:** decomposed granite in the upper court and dark crushed stone on the terraces below
+- **Fill:** pea gravel in the upper court and dark gravel on the terraces below
 - **Boulders:** placed at the grade breaks
 - **Fire:** two fire features in the upper court. See our [custom fire pits](../services/fire-pits-austin-tx) page.
 - **Planters:** cantilevered steel planters filled with crushed turquoise glass and lit from below. An Anacacho orchid tree grows in the largest one.

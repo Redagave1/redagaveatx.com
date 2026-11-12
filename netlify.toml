@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/best-landscapers-austin-tx.html"
+  to = "/blog/best-landscapers-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/pool-design-austin-tx.html"
   to = "/blog/pool-design-austin-tx"
   status = 301

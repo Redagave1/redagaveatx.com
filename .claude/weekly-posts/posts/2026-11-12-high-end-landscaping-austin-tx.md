@@ -79,9 +79,13 @@ A high-end kitchen sits under a roof. In West Lake Hills we built a kitchen unde
 
 See [why we build outdoor kitchens under a roof](outdoor-kitchen-under-roof-austin-tx).
 
+## What Does Red Agave Build That No One Else in Austin Does?
+
+Four things: custom LED planters with custom light channels, fire pits carved into boulders, floating welded steel fire pits, and a shipping container pool with a plaster finish. Red Agave is the only company in Austin that builds them, and it was one of the first in Austin to build landscapes in welded steel. See the photos in our post on [comparing the best landscapers in Austin](best-landscapers-austin-tx).
+
 ## Who Builds It?
 
-Our own crew. Red Agave Landscape is a design and build company, founded in 2009. That means one team and one point of contact, from the first site visit to the final walkthrough.
+Our own crew. Red Agave Landscape is a design and build company, founded in 2009, with more than 750 projects completed. That means one team and one point of contact, from the first site visit to the final walkthrough.
 
 We work across the Austin area, including [Westlake Hills](../locations/westlake-hills-tx), [Tarrytown](../locations/tarrytown-tx), [Bee Cave](../locations/bee-cave-tx), and [Great Hills](../locations/great-hills-tx). See our [luxury landscaping](../services/luxury-landscaping-austin-tx) service and what clients say on our [reviews](../reviews) page.
 
@@ -91,7 +95,7 @@ We work across the Austin area, including [Westlake Hills](../locations/westlake
 A yard designed as one piece and built by the people who designed it. At Red Agave that means an owner-drawn plan, custom steel, real materials, fire and water, and lighting built into the structure.
 
 ### Who is a high-end landscaper in Austin, TX?
-Red Agave Landscape designs and builds luxury landscapes across the Austin area. The owner draws every plan, and our own crew builds it. The company was founded in 2009.
+Red Agave Landscape designs and builds luxury landscapes across the Austin area. The owner draws every plan, and our own crew builds it. The company was founded in 2009 and has completed more than 750 projects.
 
 ### Does a luxury landscape start with a design?
 Yes. Every Red Agave project starts with a free consultation, and the CAD plan is included.

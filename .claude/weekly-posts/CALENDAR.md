@@ -48,7 +48,7 @@ Photo sources checked 2026-11-12: project folders plus gallery categories (`gall
 |---|---|---|---|---|---|
 | 1 | landscaping-services-austin-tx (wk 8 luxury post) | what to expect from professional landscaping services; when to hire a landscaping company | best of each confirmed project | landscaping austin 272 / 24.9 · landscapers austin tx 124 / 24.2 · landscaping companies austin 112 / 21 | Ready |
 | 2 | outdoor-living-spaces-austin-tx | seamless outdoor living space in Austin; outdoor living spaces austin tx; 4 older | Ulit, Hopeland, Southeast Austin | backyard landscaping austin 147 / 24.9 · austin backyard design 66 / 22.6 | Ready |
-| 3 | custom-fire-pits-austin-tx | custom fire pits gas or wood; how to choose a fire pit builder; fire pit shapes; fire pit installation; materials that last; 15 older | Hopeland, Blazyk, Southeast Austin, plus 58 gallery fire photos | fire pit design in austin tx 8 / 26.4 · austin outdoor firepits 8 / 14.9 · austin stone fire pit 5 / 12 | Ready |
+| 3 | custom-fire-pits-austin-tx | custom fire pits gas or wood; how to choose a fire pit builder; fire pit shapes; fire pit installation; materials that last; 15 older | Hopeland, Blazyk, Southeast Austin, plus 58 gallery fire photos | fire pit design in austin tx 8 / 26.4 · austin outdoor firepits 8 / 14.9 · austin stone fire pit 5 / 12 | **Published 2026-11-12** |
 | 4 | hardscaping-austin-tx | what is hardscaping; hardscaping features and value; transform outdoor living with hardscaping; 6 older | Blazyk steel, Bee Cave terraces, Southeast Austin, patios | hardscaping austin 37 / 25.9 · austin hardscaping 6 / 25.5 | Ready |
 | 5 | backyard-makeover-austin-tx (before and after) | landscaping older homes and neglected yards | Blazyk before, Hopeland before, Southeast Austin progress photos | backyard landscaping austin 147 / 24.9 | Ready |
 | 6 | concrete-patio-austin-tx | Austin patios built for heat, storms and cold; 5 concrete posts | `gallery/img-6305`, `img-6311` (slabs with steel edge), `IMG_8212`, Riverview marbled concrete | concrete patio austin 44 / 25.8 | Where Riverview and the slab patio were built |
@@ -71,8 +71,11 @@ Jensen sent eight of his own drawings. They live in `images/designs/` and on the
 | how 3D landscaping helps you plan | /blog/landscape-designer-austin-tx (sketch over a photo of the house) | Published 2026-11-12 |
 | how to design a seamless outdoor living space | /blog/backyard-design-austin-tx (four plans) | Published 2026-11-12 |
 | (ours) | /blog/landscape-design-build-austin-tx (Circle C, plan to finished yard) | Published 2026-11-12 |
+| custom fire pits in Austin (gas or wood) | /blog/custom-fire-pits-austin-tx (Southeast Austin plan next to the finished fire pits) | Published 2026-11-12 |
 
-Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 02 to 08 were built, and where.
+Plan 02 on the design page is the Southeast Austin water feature job (plan sent 2026-11-12 with six higher quality finished photos, now `21` to `26` in `images/projects/se-austin-fire-water/`).
+
+Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 03 to 08 were built, and where.
 
 ### B. Blocked on one thing from Jensen
 
@@ -144,3 +147,4 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-12 | [/blog/backyard-design-austin-tx](https://www.redagaveatx.com/blog/backyard-design-austin-tx) | austin backyard design | 22.6 | landscape design service, small backyard guide, modern backyard ideas guide |
 | 2026-11-12 | [/blog/landscape-designer-austin-tx](https://www.redagaveatx.com/blog/landscape-designer-austin-tx) | landscape designer austin tx | 35.6 | landscape design service, how to choose a landscaper guide, design plans page |
 | 2026-11-12 | [/blog/landscape-design-build-austin-tx](https://www.redagaveatx.com/blog/landscape-design-build-austin-tx) | landscape design build austin | 20.2 | design-build service, Circle C page, Circle C case study |
+| 2026-11-12 | [/blog/custom-fire-pits-austin-tx](https://www.redagaveatx.com/blog/custom-fire-pits-austin-tx) | fire pit design in austin tx | 26.4 | fire pits service, design plans page, gas vs wood guide, fire pit ideas guide |

@@ -61,12 +61,24 @@ Photo sources checked 2026-11-12: project folders plus gallery categories (`gall
 | 13 | flagstone-patio-austin-tx | paver patio versatility; patio and fire pit balance | `gallery/IMG_5947`, `5949`, `6879`, `6888`, `3482`, `6686` | none yet | Where each was built |
 | 14 | wk 6 pergola rebuild | most creative ways to enhance your pergola | Hopeland | pergola contractor 14 / 12.2 | Ready (keep it distinct from pergola-builder) |
 
+### Design posts and the design plans page (published 2026-11-12)
+
+Jensen sent eight of his own drawings. They live in `images/designs/` and on the new page `/designs` (`designs.html`, hand-built, not from the post builder). Plan 01 is the Circle C steel terraces plan, shown next to the finished yard. Reference photos pasted onto three sheets and a priced plant list were cropped out before publishing.
+
+| Their post | Our post | Status |
+|---|---|---|
+| landscape design services in Austin | /blog/landscape-design-services-austin-tx | Published 2026-11-12 |
+| how 3D landscaping helps you plan | /blog/landscape-designer-austin-tx (sketch over a photo of the house) | Published 2026-11-12 |
+| how to design a seamless outdoor living space | /blog/backyard-design-austin-tx (four plans) | Published 2026-11-12 |
+| (ours) | /blog/landscape-design-build-austin-tx (Circle C, plan to finished yard) | Published 2026-11-12 |
+
+Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 02 to 08 were built, and where.
+
 ### B. Blocked on one thing from Jensen
 
 | Our slug | Their posts | Needs |
 |---|---|---|
 | artificial-grass-installation-cedar-park-tx | artificial grass installation in Cedar Park | Where the Madison turf yard is (27 photos ready) |
-| landscape-design-services-austin-tx | landscape design services; how 3D landscaping helps you plan | One CAD plan image (landscape design austin 224 / 28, austin landscape design 275 / 35: our biggest search group) |
 | driveway-contractor-austin-tx | 16 driveway posts | Do we build driveways? Photos of one |
 | french-drain-installation-austin-tx | French drain installation | Photos of a drain going in |
 | irrigation-installation-austin-tx | irrigation system installation; smart irrigation; drip irrigation; cold weather | Irrigator name and license number |
@@ -128,3 +140,7 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-11 | [/blog/deck-builder-austin-tx](https://www.redagaveatx.com/blog/deck-builder-austin-tx) | decks austin | 32.3 | custom decks service, Bee Cave page |
 | 2026-11-11 | [/blog/drainage-company-austin-tx](https://www.redagaveatx.com/blog/drainage-company-austin-tx) | french drains austin | 18.3 | drainage service, Great Hills page, drainage cost guide |
 | 2026-11-11 | [/blog/landscape-lighting-installation-austin-tx](https://www.redagaveatx.com/blog/landscape-lighting-installation-austin-tx) | landscape lighting austin | 28 | landscape lighting service, Dripping Springs page, Circle C page |
+| 2026-11-12 | [/blog/landscape-design-services-austin-tx](https://www.redagaveatx.com/blog/landscape-design-services-austin-tx) | landscape design services austin | 29.4 | landscape design service, design plans page, landscape design cost guide |
+| 2026-11-12 | [/blog/backyard-design-austin-tx](https://www.redagaveatx.com/blog/backyard-design-austin-tx) | austin backyard design | 22.6 | landscape design service, small backyard guide, modern backyard ideas guide |
+| 2026-11-12 | [/blog/landscape-designer-austin-tx](https://www.redagaveatx.com/blog/landscape-designer-austin-tx) | landscape designer austin tx | 35.6 | landscape design service, how to choose a landscaper guide, design plans page |
+| 2026-11-12 | [/blog/landscape-design-build-austin-tx](https://www.redagaveatx.com/blog/landscape-design-build-austin-tx) | landscape design build austin | 20.2 | design-build service, Circle C page, Circle C case study |

@@ -84,7 +84,7 @@ Jensen asked whether to do multiple luxury landscaping posts. Yes, split by angl
 | Angle | Slug | Search | Status |
 |---|---|---|---|
 | What a luxury yard is built from | high-end-landscaping-austin-tx | luxury landscaping austin tx 9 / 15.3 | Published 2026-11-12 |
-| How to compare the best landscapers | best-landscapers-austin-tx | best landscapers austin 19 / 13.5 · best landscapers in austin 8 / 12.6 · best landscaping companies austin 7 / 10.1 | Next. Criteria only, never name a competitor. Needs the real project count and any credentials |
+| How to compare the best landscapers | best-landscapers-austin-tx | best landscapers austin 19 / 13.5 · best landscapers in austin 8 / 12.6 · best landscaping companies austin 7 / 10.1 | Published 2026-11-12. Uses the count and credentials Jensen gave: 750+ projects, early welded steel, and four builds only Red Agave does in Austin |
 | Modern landscaping | modern-landscaping-austin-tx | modern landscaping austin 9 / 39.7 | After that |
 
 Also published 2026-11-12 from the design drawings: /blog/pool-design-austin-tx (three pool plans and the East Austin pool).
@@ -166,3 +166,4 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-12 | [/blog/backyard-makeover-austin-tx](https://www.redagaveatx.com/blog/backyard-makeover-austin-tx) | backyard landscaping austin | 24.9 | design-build service, before and after page, backyard renovation guide |
 | 2026-11-12 | [/blog/freeze-protection-plants-austin-tx](https://www.redagaveatx.com/blog/freeze-protection-plants-austin-tx) | first freeze austin | new | xeriscape service, cold-hardy agaves guide |
 | 2026-11-12 | [/blog/pool-design-austin-tx](https://www.redagaveatx.com/blog/pool-design-austin-tx) | inground pools austin | 20.7 | pools service, design plans page, pool landscaping ideas guide |
+| 2026-11-12 | [/blog/best-landscapers-austin-tx](https://www.redagaveatx.com/blog/best-landscapers-austin-tx) | best landscapers austin | 13.5 | About page, luxury landscaping service, how to choose a landscaper guide |

@@ -33,15 +33,64 @@ Decided 2026-11-11: cover every search Southern Love titles a post after, each w
 | landscape lighting installation austin tx · outdoor lighting company | /blog/landscape-lighting-installation-austin-tx | Published 2026-11-11 |
 | deck builder austin tx | /blog/deck-builder-austin-tx | Published 2026-11-11 |
 | custom fire pits austin tx | /blog/water-feature-fire-pits-southeast-austin-tx | Published 2026-11-11 |
-| paver patio installation austin tx · patio contractor austin tx | patio-contractor-austin-tx | Needs: which patio project to show (pavers or concrete) and photos |
-| driveway contractor austin tx | driveway-contractor-austin-tx | Needs: a driveway we built, with photos |
-| artificial grass installation cedar park tx | artificial-grass-installation-cedar-park-tx | Needs: OK to use the Cedar Park turf yard (`projects/madison/`) |
-| landscape design services austin tx | landscape-design-services-austin-tx | Needs: a CAD plan image we can show next to the finished yard |
-| landscaping services austin tx | covered by wk 8 (luxury landscaping) | Ready |
-| irrigation system installation austin tx | irrigation-installation-austin-tx | Needs: irrigator name and license number first |
-| french drain installation austin tx | french-drain-installation-austin-tx | Needs: photos of a drain going in (trench, pipe, gravel) |
 
-Skipped on purpose (not our work): lawn maintenance, lawn care, commercial landscaping, irrigation maintenance.
+The rest of their blog is mapped in the next section.
+
+## Southern Love's whole blog, mapped (2026-11-12)
+
+Their sitemap lists 169 posts: 21 search-titled posts since May 2026 and 148 older ones (Jan 2023 to Feb 2026, 560 to 1,500 words, 2 to 4 photos, no named project, no FAQ schema). They wrote the same topic many times (20 fire pit posts, 19 turf, 16 driveway), so the 169 collapse to about 35 topics. Search numbers are our own Search Console "impressions / average position"; "none yet" means we do not show for that search at all.
+
+Photo sources checked 2026-11-12: project folders plus gallery categories (`gallery.html` `IC` map: `cp` concrete/pavers 21, `fs` flagstone 14, `tu` turf 6, `fn` fence 2, `ma` walls 5, `fp` fire 58).
+
+### A. New posts, photos on hand
+
+| # | Our slug | Their posts it answers | Real photos | Search | Needs |
+|---|---|---|---|---|---|
+| 1 | landscaping-services-austin-tx (wk 8 luxury post) | what to expect from professional landscaping services; when to hire a landscaping company | best of each confirmed project | landscaping austin 272 / 24.9 · landscapers austin tx 124 / 24.2 · landscaping companies austin 112 / 21 | Ready |
+| 2 | outdoor-living-spaces-austin-tx | seamless outdoor living space in Austin; outdoor living spaces austin tx; 4 older | Ulit, Hopeland, Southeast Austin | backyard landscaping austin 147 / 24.9 · austin backyard design 66 / 22.6 | Ready |
+| 3 | custom-fire-pits-austin-tx | custom fire pits gas or wood; how to choose a fire pit builder; fire pit shapes; fire pit installation; materials that last; 15 older | Hopeland, Blazyk, Southeast Austin, plus 58 gallery fire photos | fire pit design in austin tx 8 / 26.4 · austin outdoor firepits 8 / 14.9 · austin stone fire pit 5 / 12 | Ready |
+| 4 | hardscaping-austin-tx | what is hardscaping; hardscaping features and value; transform outdoor living with hardscaping; 6 older | Blazyk steel, Bee Cave terraces, Southeast Austin, patios | hardscaping austin 37 / 25.9 · austin hardscaping 6 / 25.5 | Ready |
+| 5 | backyard-makeover-austin-tx (before and after) | landscaping older homes and neglected yards | Blazyk before, Hopeland before, Southeast Austin progress photos | backyard landscaping austin 147 / 24.9 | Ready |
+| 6 | concrete-patio-austin-tx | Austin patios built for heat, storms and cold; 5 concrete posts | `gallery/img-6305`, `img-6311` (slabs with steel edge), `IMG_8212`, Riverview marbled concrete | concrete patio austin 44 / 25.8 | Where Riverview and the slab patio were built |
+| 7 | paver-patio-installation-austin-tx (also patio contractor) | paver patio installation; patio contractor; best paver patios; how to find a paver team; 7 older | Axehandle (19 photos), grid patio `gallery/IMG_2549`, `2554`, `2556`, Flycatcher | none yet | Where Axehandle and the grid patio were built |
+| 8 | privacy-fence-austin-tx | cedar fencing in Austin; fence designs; Texas fence laws; when to replace a fence; 3 older | `gallery/IMG_0350` (black horizontal), `IMG_3664` (reclaimed wood gate in steel), `IMG_8250`, `IMG_8253` (breeze block wall, cedar gate), Ulit and Cedar Park fences | none yet | OK to market fences; where each was built |
+| 9 | retaining-wall-materials-austin-tx | best materials for retaining walls in Austin; most popular retaining walls; 6 older | Blazyk and Bee Cave steel, gabion benches (`gallery/67042504517...`), block wall `IMG_8250` | retaining wall austin 20 / 30 | Where the gabion job was built |
+| 10 | pavers-with-artificial-turf-austin-tx | blend hardscaping with artificial turf | Flycatcher (17 photos), `gallery/IMG_9840`, `IMG_2706` | artificial turf austin 4 / 6 | Where Flycatcher was built |
+| 11 | freeze-protection-landscape-austin-tx | guide to handling Austin freeze warnings | plant note photos | none yet | Ready (seasonal, publish before the first freeze) |
+| 12 | plants-around-a-fire-pit-austin-tx | native Texas plants that work with fire pits | Axehandle fern and boulder bed, Hopeland | fire pit landscaping austin 24 / 7.2 | Plant names in the Axehandle bed |
+| 13 | flagstone-patio-austin-tx | paver patio versatility; patio and fire pit balance | `gallery/IMG_5947`, `5949`, `6879`, `6888`, `3482`, `6686` | none yet | Where each was built |
+| 14 | wk 6 pergola rebuild | most creative ways to enhance your pergola | Hopeland | pergola contractor 14 / 12.2 | Ready (keep it distinct from pergola-builder) |
+
+### B. Blocked on one thing from Jensen
+
+| Our slug | Their posts | Needs |
+|---|---|---|
+| artificial-grass-installation-cedar-park-tx | artificial grass installation in Cedar Park | Where the Madison turf yard is (27 photos ready) |
+| landscape-design-services-austin-tx | landscape design services; how 3D landscaping helps you plan | One CAD plan image (landscape design austin 224 / 28, austin landscape design 275 / 35: our biggest search group) |
+| driveway-contractor-austin-tx | 16 driveway posts | Do we build driveways? Photos of one |
+| french-drain-installation-austin-tx | French drain installation | Photos of a drain going in |
+| irrigation-installation-austin-tx | irrigation system installation; smart irrigation; drip irrigation; cold weather | Irrigator name and license number |
+| new-sod-watering-schedule-austin-tx | new sod watering schedule; best sod type; prepare a yard for sod | Photos of a sod job |
+| artificial-turf-for-dogs-austin-tx | 3 pet turf posts | Which turf and infill we use for dog yards |
+
+### C. We already have the post, but it has no photos
+
+66 of our 90 blog posts have no photo at all. These are the ones that answer a Southern Love topic; add 2 to 4 real photos to each (edit in place, keep the address).
+
+- **Fire:** gas-vs-wood-fire-pit, fire-pit-engineering, backyard-fire-pit-area-ideas
+- **Decks:** deck-cost, deck-permit, best-deck-materials, ipe-vs-composite-decking
+- **Walls:** retaining-wall-engineering, retaining-wall-cost, retaining-wall-permit
+- **Pergolas:** steel-vs-aluminum-pergola, shade-structure-ideas, patio-cover-permit
+- **Patios:** patio-cost, patio-design-ideas, concrete-vs-paver-patio, limestone-pavers-vs-concrete, natural-stone-vs-pavers, travertine-vs-flagstone-vs-pavers, flagstone-mortar-cracking
+- **Turf and sod:** synthetic-turf-cost, artificial-turf-vs-real-grass, natural-turf-vs-artificial-turf, sod-installation-cost, why-grass-thins
+- **Fences:** fence-cost, fence-permit
+- **Lighting and drainage:** landscape-lighting-guide, landscape-lighting-cost, cob-vs-led-landscape-lighting, drainage-engineering, drainage-cost, landscape-drainage-guide
+- **Outdoor living and design:** outdoor-living-space-guide, backyard-renovation-guide, modern-backyard-ideas, small-backyard-landscaping, how-to-choose-landscaper, landscape-design-cost, best-time-to-landscape, water-feature-cost
+- **Plants and seasons:** best-native-plants, plants-that-survive-austin-summer, fall-landscaping, summer-landscaping
+
+### D. Skipped on purpose
+
+Lawn care, lawn maintenance, seasonal cleanups, mulch, flowerbeds, commercial landscaping, irrigation maintenance, turf for businesses (not our work). Also their "benefits of", "history of", "home value" and "trends" posts: no search behind them and nothing to show.
 
 ## Plant notes (extra, whenever an Instagram plant carousel goes out)
 

@@ -59,6 +59,10 @@ Like one room. In East Austin we built an inground pool between a teak deck and 
 
 From inside the porch the pool is framed like a picture. See the [East Austin project](../projects/ulit).
 
+The concept sketch for this yard shows the same layout: the pool between the screened dining porch and the lounge under the shade sail. More of our drawings are on the [design plans page](../designs).
+
+[[fig images/designs/east-austin-sketch-pool-lounge-800.webp | Concept sketch of a pool between a screened dining porch and a lounge under a shade sail in East Austin ;; images/projects/ulit/030-800.webp | Finished teak deck with a pool between the screened porch and the lounge under a red shade sail at dusk in East Austin || East Austin: the concept sketch, and the same view of the finished yard.]]
+
 ## Does a Pool Have to Be Big?
 
 No. In Southeast Austin we built a round water feature the way a pool is built, with a concrete shell, a plaster interior, and a sand pool filter. It is small, raised, and finished black inside, with two fire pits beside it. See [how it was built](water-feature-fire-pits-southeast-austin-tx).

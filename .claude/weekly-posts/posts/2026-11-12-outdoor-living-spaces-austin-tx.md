@@ -45,6 +45,10 @@ That one deck links four rooms:
 
 See the [East Austin project](../projects/ulit) and our post on [choosing a deck builder](deck-builder-austin-tx).
 
+The concept sketch of the kitchen end shows the lounge under the shade sail, with the kitchen and its perforated steel screen beside it. More of our drawings are on the [design plans page](../designs).
+
+[[fig images/designs/east-austin-sketch-lounge-kitchen-800.webp | Concept sketch of a lounge under a shade sail beside an outdoor kitchen with a perforated steel screen in East Austin ;; images/designs/east-austin-built-lounge-kitchen-800.webp | Finished lounge under a red shade sail beside the outdoor kitchen and its backlit steel screen at dusk in East Austin || East Austin: the concept sketch, and the same view of the finished yard.]]
+
 ## Can an Old Pergola Become an Outdoor Room?
 
 Yes. In Circle C the yard had a wood pergola that was sun-bleached and failing. We kept the structure, reframed it, and capped it with custom-cut steel triangles. Composite decking now runs under it in one plane, laid over the old flagstone patio.

@@ -73,7 +73,7 @@ Fire beside water is the point of the layout. The front fire pit sits at the foo
 
 A floating fire pit does not have to be steel. On [our East Austin project](../projects/riverview-fire), the floating fire pit is concrete and sits on hidden legs.
 
-See our [custom fire pits](../services/fire-pits-austin-tx) page, our guide to [gas and wood fire pits](gas-vs-wood-fire-pit-austin-tx), and our notes on [fire pit engineering](fire-pit-engineering-austin-tx).
+Our post on [custom fire pits in Austin](custom-fire-pits-austin-tx) shows the plan this yard was drawn from, next to the finished fires. See our [custom fire pits](../services/fire-pits-austin-tx) page, our guide to [gas and wood fire pits](gas-vs-wood-fire-pit-austin-tx), and our notes on [fire pit engineering](fire-pit-engineering-austin-tx).
 
 ## What Is the Steel Piece With the Tree?
 

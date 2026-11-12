@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/custom-fire-pits-austin-tx.html"
+  to = "/blog/custom-fire-pits-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/landscape-design-build-austin-tx.html"
   to = "/blog/landscape-design-build-austin-tx"
   status = 301

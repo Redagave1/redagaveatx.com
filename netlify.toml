@@ -117,6 +117,42 @@
   force = true
 
 [[redirects]]
+  from = "/blog/pool-design-austin-tx.html"
+  to = "/blog/pool-design-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/freeze-protection-plants-austin-tx.html"
+  to = "/blog/freeze-protection-plants-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/backyard-makeover-austin-tx.html"
+  to = "/blog/backyard-makeover-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/hardscaping-austin-tx.html"
+  to = "/blog/hardscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/outdoor-living-spaces-austin-tx.html"
+  to = "/blog/outdoor-living-spaces-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/high-end-landscaping-austin-tx.html"
+  to = "/blog/high-end-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/custom-fire-pits-austin-tx.html"
   to = "/blog/custom-fire-pits-austin-tx"
   status = 301

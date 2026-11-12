@@ -117,6 +117,18 @@
   force = true
 
 [[redirects]]
+  from = "/blog/landscape-lighting-installation-austin-tx.html"
+  to = "/blog/landscape-lighting-installation-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/drainage-company-austin-tx.html"
+  to = "/blog/drainage-company-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/deck-builder-austin-tx.html"
   to = "/blog/deck-builder-austin-tx"
   status = 301

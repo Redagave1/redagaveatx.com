@@ -35,6 +35,7 @@ Everything in `.claude/` is blocked from the public site by `netlify.toml`.
 - **Drain pipe:** we use both rigid PVC and corrugated pipe.
 - **Outdoor kitchens:** built from IPE, steel, CMU block, tile, and concrete. CMU block is the base, and stone or brick goes over it. Tile kitchens are wood-framed and sheathed in concrete board. Never butcher block, and never "mild steel exclusively".
 - **Guides stay out of the main menu.**
+- **Unconfirmed case studies are not fact sources.** `projects/westlake-steel`, `projects/lakeway-hardscape`, `projects/tarrytown-glow`, and parts of `projects/pflugerville-xeriscape` describe work their photos do not show. Never take a fact from them until Jensen confirms the project.
 - Confirmed project locations: kitchens (West Lake Hills and East Austin), Bee Cave deck, Cedar Park rusted steel pergola (built from scratch; the owners wanted it to rust), South Austin screened room with skylight, Hopeland (Circle C), Ulit (East Austin, teak deck), Blazyk (Circle C), Southeast Austin water feature and two fire pits (`projects/se-austin-fire-water/`; the job is called "Silhouette" internally, a name that never goes on the site; the square steel piece with the tree is a planter, not a fire bowl).
 
 ## Shape of every post

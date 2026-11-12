@@ -46,17 +46,17 @@ Photo sources checked 2026-11-12: project folders plus gallery categories (`gall
 
 | # | Our slug | Their posts it answers | Real photos | Search | Needs |
 |---|---|---|---|---|---|
-| 1 | landscaping-services-austin-tx (wk 8 luxury post) | what to expect from professional landscaping services; when to hire a landscaping company | best of each confirmed project | landscaping austin 272 / 24.9 · landscapers austin tx 124 / 24.2 · landscaping companies austin 112 / 21 | Ready |
-| 2 | outdoor-living-spaces-austin-tx | seamless outdoor living space in Austin; outdoor living spaces austin tx; 4 older | Ulit, Hopeland, Southeast Austin | backyard landscaping austin 147 / 24.9 · austin backyard design 66 / 22.6 | Ready |
+| 1 | landscaping-services-austin-tx (wk 8 luxury post) | what to expect from professional landscaping services; when to hire a landscaping company | best of each confirmed project | landscaping austin 272 / 24.9 · landscapers austin tx 124 / 24.2 · landscaping companies austin 112 / 21 | **Published 2026-11-12** as /blog/high-end-landscaping-austin-tx |
+| 2 | outdoor-living-spaces-austin-tx | seamless outdoor living space in Austin; outdoor living spaces austin tx; 4 older | Ulit, Hopeland, Southeast Austin | backyard landscaping austin 147 / 24.9 · austin backyard design 66 / 22.6 | **Published 2026-11-12** |
 | 3 | custom-fire-pits-austin-tx | custom fire pits gas or wood; how to choose a fire pit builder; fire pit shapes; fire pit installation; materials that last; 15 older | Hopeland, Blazyk, Southeast Austin, plus 58 gallery fire photos | fire pit design in austin tx 8 / 26.4 · austin outdoor firepits 8 / 14.9 · austin stone fire pit 5 / 12 | **Published 2026-11-12** |
-| 4 | hardscaping-austin-tx | what is hardscaping; hardscaping features and value; transform outdoor living with hardscaping; 6 older | Blazyk steel, Bee Cave terraces, Southeast Austin, patios | hardscaping austin 37 / 25.9 · austin hardscaping 6 / 25.5 | Ready |
-| 5 | backyard-makeover-austin-tx (before and after) | landscaping older homes and neglected yards | Blazyk before, Hopeland before, Southeast Austin progress photos | backyard landscaping austin 147 / 24.9 | Ready |
+| 4 | hardscaping-austin-tx | what is hardscaping; hardscaping features and value; transform outdoor living with hardscaping; 6 older | Blazyk steel, Bee Cave terraces, Southeast Austin, patios | hardscaping austin 37 / 25.9 · austin hardscaping 6 / 25.5 | **Published 2026-11-12** |
+| 5 | backyard-makeover-austin-tx (before and after) | landscaping older homes and neglected yards | Blazyk before, Hopeland before, Southeast Austin progress photos | backyard landscaping austin 147 / 24.9 | **Published 2026-11-12** |
 | 6 | concrete-patio-austin-tx | Austin patios built for heat, storms and cold; 5 concrete posts | `gallery/img-6305`, `img-6311` (slabs with steel edge), `IMG_8212`, Riverview marbled concrete | concrete patio austin 44 / 25.8 | Where Riverview and the slab patio were built |
 | 7 | paver-patio-installation-austin-tx (also patio contractor) | paver patio installation; patio contractor; best paver patios; how to find a paver team; 7 older | Axehandle (19 photos), grid patio `gallery/IMG_2549`, `2554`, `2556`, Flycatcher | none yet | Where Axehandle and the grid patio were built |
 | 8 | privacy-fence-austin-tx | cedar fencing in Austin; fence designs; Texas fence laws; when to replace a fence; 3 older | `gallery/IMG_0350` (black horizontal), `IMG_3664` (reclaimed wood gate in steel), `IMG_8250`, `IMG_8253` (breeze block wall, cedar gate), Ulit and Cedar Park fences | none yet | OK to market fences; where each was built |
 | 9 | retaining-wall-materials-austin-tx | best materials for retaining walls in Austin; most popular retaining walls; 6 older | Blazyk and Bee Cave steel, gabion benches (`gallery/67042504517...`), block wall `IMG_8250` | retaining wall austin 20 / 30 | Where the gabion job was built |
 | 10 | pavers-with-artificial-turf-austin-tx | blend hardscaping with artificial turf | Flycatcher (17 photos), `gallery/IMG_9840`, `IMG_2706` | artificial turf austin 4 / 6 | Where Flycatcher was built |
-| 11 | freeze-protection-landscape-austin-tx | guide to handling Austin freeze warnings | plant note photos | none yet | Ready (seasonal, publish before the first freeze) |
+| 11 | freeze-protection-landscape-austin-tx | guide to handling Austin freeze warnings | plant note photos | none yet | **Published 2026-11-12** as /blog/freeze-protection-plants-austin-tx |
 | 12 | plants-around-a-fire-pit-austin-tx | native Texas plants that work with fire pits | Axehandle fern and boulder bed, Hopeland | fire pit landscaping austin 24 / 7.2 | Plant names in the Axehandle bed |
 | 13 | flagstone-patio-austin-tx | paver patio versatility; patio and fire pit balance | `gallery/IMG_5947`, `5949`, `6879`, `6888`, `3482`, `6686` | none yet | Where each was built |
 | 14 | wk 6 pergola rebuild | most creative ways to enhance your pergola | Hopeland | pergola contractor 14 / 12.2 | Ready (keep it distinct from pergola-builder) |
@@ -76,6 +76,18 @@ Jensen sent eight of his own drawings. They live in `images/designs/` and on the
 Plan 02 on the design page is the Southeast Austin water feature job (plan sent 2026-11-12 with six higher quality finished photos, now `21` to `26` in `images/projects/se-austin-fire-water/`).
 
 Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 03 to 08 were built, and where.
+
+### Luxury and "best" searches: three angles, not one post repeated (decided 2026-11-12)
+
+Jensen asked whether to do multiple luxury landscaping posts. Yes, split by angle. City pages already carry the neighborhood searches (luxury landscaping great hills 14 / 9.6, bee cave 14 / 13.1, tarrytown 7 / 7.1).
+
+| Angle | Slug | Search | Status |
+|---|---|---|---|
+| What a luxury yard is built from | high-end-landscaping-austin-tx | luxury landscaping austin tx 9 / 15.3 | Published 2026-11-12 |
+| How to compare the best landscapers | best-landscapers-austin-tx | best landscapers austin 19 / 13.5 · best landscapers in austin 8 / 12.6 · best landscaping companies austin 7 / 10.1 | Next. Criteria only, never name a competitor. Needs the real project count and any credentials |
+| Modern landscaping | modern-landscaping-austin-tx | modern landscaping austin 9 / 39.7 | After that |
+
+Also published 2026-11-12 from the design drawings: /blog/pool-design-austin-tx (three pool plans and the East Austin pool).
 
 ### B. Blocked on one thing from Jensen
 
@@ -148,3 +160,9 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-12 | [/blog/landscape-designer-austin-tx](https://www.redagaveatx.com/blog/landscape-designer-austin-tx) | landscape designer austin tx | 35.6 | landscape design service, how to choose a landscaper guide, design plans page |
 | 2026-11-12 | [/blog/landscape-design-build-austin-tx](https://www.redagaveatx.com/blog/landscape-design-build-austin-tx) | landscape design build austin | 20.2 | design-build service, Circle C page, Circle C case study |
 | 2026-11-12 | [/blog/custom-fire-pits-austin-tx](https://www.redagaveatx.com/blog/custom-fire-pits-austin-tx) | fire pit design in austin tx | 26.4 | fire pits service, design plans page, gas vs wood guide, fire pit ideas guide |
+| 2026-11-12 | [/blog/high-end-landscaping-austin-tx](https://www.redagaveatx.com/blog/high-end-landscaping-austin-tx) | luxury landscaping austin tx | 15.3 | luxury landscaping service, how to choose a landscaper guide |
+| 2026-11-12 | [/blog/outdoor-living-spaces-austin-tx](https://www.redagaveatx.com/blog/outdoor-living-spaces-austin-tx) | backyard landscaping austin | 24.9 | outdoor living service, outdoor living space guide |
+| 2026-11-12 | [/blog/hardscaping-austin-tx](https://www.redagaveatx.com/blog/hardscaping-austin-tx) | hardscaping austin | 25.9 | masonry and concrete service, concrete vs paver guide |
+| 2026-11-12 | [/blog/backyard-makeover-austin-tx](https://www.redagaveatx.com/blog/backyard-makeover-austin-tx) | backyard landscaping austin | 24.9 | design-build service, before and after page, backyard renovation guide |
+| 2026-11-12 | [/blog/freeze-protection-plants-austin-tx](https://www.redagaveatx.com/blog/freeze-protection-plants-austin-tx) | first freeze austin | new | xeriscape service, cold-hardy agaves guide |
+| 2026-11-12 | [/blog/pool-design-austin-tx](https://www.redagaveatx.com/blog/pool-design-austin-tx) | inground pools austin | 20.7 | pools service, design plans page, pool landscaping ideas guide |

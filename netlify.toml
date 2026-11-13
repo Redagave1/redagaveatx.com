@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/steel-edging-cut-into-boulders-austin-tx.html"
+  to = "/blog/steel-edging-cut-into-boulders-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/custom-pergola-build-south-austin-tx.html"
   to = "/blog/custom-pergola-build-south-austin-tx"
   status = 301

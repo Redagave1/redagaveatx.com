@@ -52,7 +52,7 @@ Pads with gravel joints let rain soak in between them, and they read as lighter 
 
 In two ways: as boulders and as coping. Boulders sit at the grade breaks in Circle C, where one level turns into the next. In Southeast Austin, boulders carry a fire pit and are the source of the water. In East Austin, natural stone coping edges the pool.
 
-A boulder is hardscape that does not look built, which is why it works beside steel and concrete.
+A boulder is hardscape that does not look built, which is why it works beside steel and concrete. Where a steel edge meets a boulder, we [cut the steel into the stone](steel-edging-cut-into-boulders-austin-tx).
 
 ## When Is Wood the Right Hardscape?
 

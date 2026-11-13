@@ -81,6 +81,8 @@ Plan 04 on the design page (added 2026-11-12, evening) is the Circle C deck, pav
 
 East Austin kitchen progress photo (sent 2026-11-12, `images/designs/east-austin-build-outdoor-kitchen-800.webp`): steel-faced base, stainless frames set, rebar in the countertop form. It sits between the sketch and the finished kitchen on `/projects/ulit` and in the outdoor living post.
 
+Also published 2026-11-12 on Jensen's request: /blog/steel-edging-cut-into-boulders-austin-tx. Jensen: "cutting into boulders and inserting 1/4 inch steel. We use an angle grinder to cut into the rocks." Three photos (Aug and Sept 2023) in `images/projects/east-austin-steel-boulders/`; the East Austin location comes from the photos' GPS, not from Jensen. Silica facts from osha.gov/silica-crystalline.
+
 Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 06 to 11 were built, and where. Every project with a plan now has at least one post built on it: Circle C terraces (design-build, retaining wall), Southeast Austin (water feature, custom fire pits), East Austin (deck builder), Circle C pergola yard (pergola builder, lighting), Cedar Creek (pavers with artificial turf). East Austin photos on hand are six dusk shots only; daytime shots, close-ups and build photos would add to the page.
 
 ### Luxury and "best" searches: three angles, not one post repeated (decided 2026-11-12)

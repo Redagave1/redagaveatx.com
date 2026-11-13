@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/pavers-with-artificial-turf-austin-tx.html"
+  to = "/blog/pavers-with-artificial-turf-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/best-landscapers-austin-tx.html"
   to = "/blog/best-landscapers-austin-tx"
   status = 301

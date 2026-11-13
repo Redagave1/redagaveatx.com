@@ -29,7 +29,7 @@ Start with what is in the yard now.
 
 The two routes lead to different work. A new pergola starts with posts and beams, so its shape is open: long and narrow, square, attached to the house, or standing free. A rebuild keeps the footprint that is already there, and the design work goes into the frame and the top.
 
-Both of these projects are on our [custom pergolas](../services/pergolas-austin-tx) page.
+Both of these projects are on our [custom pergolas](../services/pergolas-austin-tx) page. For a steel pergola frame finished as a screened room, see our [custom pergola build in South Austin](custom-pergola-build-south-austin-tx).
 
 ## How Was the Cedar Park Pergola Built?
 

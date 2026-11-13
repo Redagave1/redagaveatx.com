@@ -45,9 +45,9 @@ That one deck links four rooms:
 
 See the [East Austin project](../projects/ulit) and our post on [choosing a deck builder](deck-builder-austin-tx).
 
-The concept sketch of the kitchen end shows the lounge under the shade sail, with the kitchen and its perforated steel screen beside it. More of our drawings are on the [design plans page](../designs).
+The concept sketch of the kitchen end shows the lounge under the shade sail, with the kitchen and its perforated steel screen beside it. The middle photo is the kitchen during the build: the steel face is on, the stainless door and drawer frames are set, and rebar is laid in the countertop form. More of our drawings are on the [design plans page](../designs).
 
-[[fig images/designs/east-austin-sketch-lounge-kitchen-800.webp | Concept sketch of a lounge under a shade sail beside an outdoor kitchen with a perforated steel screen in East Austin ;; images/designs/east-austin-built-lounge-kitchen-800.webp | Finished lounge under a red shade sail beside the outdoor kitchen and its backlit steel screen at dusk in East Austin || East Austin: the concept sketch, and the same view of the finished yard.]]
+[[fig images/designs/east-austin-sketch-lounge-kitchen-800.webp | Concept sketch of a lounge under a shade sail beside an outdoor kitchen with a perforated steel screen in East Austin ;; images/designs/east-austin-build-outdoor-kitchen-800.webp | Outdoor kitchen during the build in East Austin: a steel-faced base with a stainless grill, stainless door and drawer frames set in the steel, and rebar laid in the countertop form ;; images/designs/east-austin-built-lounge-kitchen-800.webp | Finished lounge under a red shade sail beside the outdoor kitchen and its backlit steel screen at dusk in East Austin || East Austin: the concept sketch, the kitchen during the build, and the finished view.]]
 
 ## Can an Old Pergola Become an Outdoor Room?
 

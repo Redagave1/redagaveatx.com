@@ -44,6 +44,10 @@ We kept the structure, reframed it, and capped it with custom-cut steel triangle
 
 The rest of the yard was built around it: a slatted cabana, a boulder fire pit, and steel planters lit from under their rims. See [the Circle C project](../projects/hopeland) and our post on [choosing a pergola builder](pergola-builder-austin-tx).
 
+The plan for that yard shows the same parts on paper: the decks, the deck steps, the fire pit, and concrete pavers cut on the diagonal, each field dimensioned. More of our drawings are on the [design plans page](../designs).
+
+[[fig images/designs/circle-c-deck-pavers-fire-plan-900.webp | Landscape design plan for a Circle C backyard in Austin with a main deck, two deck steps, a square deck with a fire pit, concrete pavers cut on the diagonal with dimensions, planters, and boulders || The plan for the Circle C yard: decks, steps, a fire pit, and concrete pavers cut on the diagonal.]]
+
 ## What Can You Do With a Flat Lawn?
 
 Give it a center. This Southeast Austin backyard was a flat lawn behind the house. The first photo is from the start of the build: a round hole, steel edging, and boulders set in place.

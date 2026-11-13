@@ -77,7 +77,9 @@ Plan 02 on the design page is the Southeast Austin water feature job (plan sent 
 
 Sketch 03 on the design page (added 2026-11-12, evening) is the East Austin pool, porch and kitchen job: a sheet of four concept sketches (`images/designs/east-austin-outdoor-living-sketches.webp`, panels `east-austin-sketch-*-800.webp`). Each sketch is paired with its finished view on `/projects/ulit` ("The sketches" section), and one pair each went into the pool design and outdoor living posts. The grid plans moved down one number (Plan 04 to 09, Sketch 10). Wording is "concept sketches" only; nothing on the site says when they were drawn.
 
-Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 04 to 09 were built, and where. East Austin photos on hand are six dusk shots only; daytime shots, close-ups and build photos would add to the page.
+Plan 04 on the design page (added 2026-11-12, evening) is the Circle C deck, paver and fire job (the pergola rebuild): `images/designs/circle-c-deck-pavers-fire-plan.webp`. `/projects/hopeland` has a new "The plan" section with the plan and three finished photos, and the backyard makeover post carries the plan. The plans-only drawings are now Plan 05 to 10 and Sketch 11.
+
+Next: Jensen wants separate pages for specific projects, each pairing its plan with its photos. Needs from Jensen: which of plans 05 to 10 were built, and where. East Austin photos on hand are six dusk shots only; daytime shots, close-ups and build photos would add to the page.
 
 ### Luxury and "best" searches: three angles, not one post repeated (decided 2026-11-12)
 

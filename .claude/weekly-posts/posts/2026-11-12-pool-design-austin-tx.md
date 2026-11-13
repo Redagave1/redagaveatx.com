@@ -63,6 +63,10 @@ The concept sketch for this yard shows the same layout: the pool between the scr
 
 [[fig images/designs/east-austin-sketch-pool-lounge-800.webp | Concept sketch of a pool between a screened dining porch and a lounge under a shade sail in East Austin ;; images/projects/ulit/030-800.webp | Finished teak deck with a pool between the screened porch and the lounge under a red shade sail at dusk in East Austin || East Austin: the concept sketch, and the same view of the finished yard.]]
 
+A second built yard started from this plan: an L-shaped pool in Austin with concrete pavers set in turf along two sides, and a fire pit at the corner of the water. See [the finished yard](../projects/flycatcher).
+
+[[fig images/designs/pool-pavers-turf-fire-pits-plan-900.webp | Landscape design plan for an Austin backyard with an L-shaped pool, concrete pavers set in turf with dimensions, a square fire pit at the pool drawn as a tapered steel bowl, a linear fire pit in a dark court, three planters, and a BBQ area || The plan for an Austin pool yard: pavers in turf on two sides, a fire pit at the pool, and a second fire pit in the court behind.]]
+
 ## Does a Pool Have to Be Big?
 
 No. In Southeast Austin we built a round water feature the way a pool is built, with a concrete shell, a plaster interior, and a sand pool filter. It is small, raised, and finished black inside, with two fire pits beside it. See [how it was built](water-feature-fire-pits-southeast-austin-tx).

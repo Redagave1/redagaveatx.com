@@ -217,6 +217,22 @@ a{text-decoration:none;color:inherit}
 .bp-chap ul{list-style:none;display:flex;flex-direction:column;gap:10px}
 .bp-chap li{font-size:11px;color:rgba(26,26,26,.75);line-height:1.6;font-weight:400;letter-spacing:.3px;display:flex;gap:10px}
 .bp-chap li::before{content:'–';color:var(--bronze)}
+.sk{background:var(--cream);color:#1a1a1a;padding:0 0 160px}
+.sk-intro{font-size:14px;line-height:1.85;color:rgba(26,26,26,.75);max-width:70ch;margin-bottom:52px}
+.pl-top{display:grid;grid-template-columns:1.45fr .55fr;gap:48px;align-items:start}
+.pl-sheet{background:#fff;border:1px solid var(--line);padding:18px}
+.pl-sheet img{display:block;width:100%;height:auto}
+.pl-key{list-style:none;display:flex;flex-direction:column;gap:12px;border-top:1px solid var(--line);padding-top:22px}
+.pl-key li{font-size:12px;color:rgba(26,26,26,.78);line-height:1.6;letter-spacing:.3px;display:flex;gap:10px}
+.pl-key li::before{content:'\2013';color:var(--bronze)}
+.pl-key-h{font-family:'Bebas Neue',Impact,sans-serif;font-size:28px;letter-spacing:2px;color:#1a1a1a;margin-bottom:18px;line-height:1}
+.pl-trio{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:60px}
+.pl-trio figure{margin:0}
+.pl-trio img{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:cover}
+.sk-cap{display:flex;gap:6px 20px;align-items:baseline;flex-wrap:wrap;padding-top:12px}
+.sk-n{font-family:'Montserrat',sans-serif;font-size:9px;font-weight:400;letter-spacing:6px;text-transform:uppercase;color:rgba(160,122,74,0.95)}
+.sk-t{font-size:12px;color:rgba(26,26,26,.75);line-height:1.6;letter-spacing:.3px}
+.sk-more{display:inline-block;margin-top:52px;font-family:'Montserrat',sans-serif;font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#1a1a1a;border-bottom:1px solid var(--bronze);padding-bottom:6px}
 .bp-meta{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .bp-meta-cell{padding:32px 28px;border-right:1px solid var(--line)}
 .bp-meta-cell:last-child{border-right:none}
@@ -271,6 +287,10 @@ footer{background:#050504;padding:72px 48px 28px;border-top:1px solid rgba(201,1
   .psc-pin-bar{left:24px;right:24px}
   .psc-statement{padding:80px 22px}
   .bp-inner{padding:0 22px}
+  .sk{padding-bottom:100px}
+  .pl-top{grid-template-columns:1fr;gap:32px}
+  .pl-sheet{padding:10px}
+  .pl-trio{grid-template-columns:1fr;gap:40px;margin-top:48px}
   .bp-head{grid-template-columns:1fr;gap:24px}
   .bp-chapters{grid-template-columns:1fr 1fr}
   .bp-meta{grid-template-columns:1fr 1fr}
@@ -505,6 +525,48 @@ footer{background:#050504;padding:72px 48px 28px;border-top:1px solid rgba(201,1
       <div class="bp-meta-cell"><div class="bp-meta-lbl">Plants</div><div class="bp-meta-val">10 Species</div></div>
       <div class="bp-meta-cell"><div class="bp-meta-lbl">Delivered</div><div class="bp-meta-val">2024</div></div>
     </div>
+  </div>
+</section>
+
+<!-- ═══ 4b. PLAN ═══ -->
+<section class="sk">
+  <div class="bp-inner">
+    <div class="bp-head">
+      <span class="line-mask"><span class="t-eyebrow with-line">Design Plan / Austin, TX</span></span>
+      <h2 class="line-mask" data-delay="1"><span class="bp-title">The <em>plan</em>.</span></h2>
+    </div>
+    <p class="sk-intro">The plan for this Austin backyard sets an L-shaped pool among concrete pavers in turf, with a square fire pit at the corner of the water and a linear fire pit in a dark court behind. The photos below show the pavers and both fire pits as our crew built them.</p>
+    <div class="pl-top">
+      <div class="pl-sheet"><img loading="lazy" decoding="async" width="1310" height="1300" src="../images/designs/pool-pavers-turf-fire-pits-plan.webp" alt="Landscape design plan for an Austin backyard with an L-shaped pool, concrete pavers set in turf with dimensions, a square fire pit at the pool drawn as a tapered steel bowl, a linear fire pit in a dark court, three planters, and a BBQ area"></div>
+      <div>
+        <div class="pl-key-h">On the plan</div>
+        <ul class="pl-key">
+          <li>L-shaped pool</li>
+          <li>Concrete pavers set in turf on two sides of the pool</li>
+          <li>Paver runs dimensioned: 30&prime;-1&Prime;, 28&prime;-1&Prime;, 23&prime;-0&Prime;, and 18&prime;-1&Prime;</li>
+          <li>Square fire pit at the corner of the pool, drawn in elevation</li>
+          <li>Linear fire pit in a dark court</li>
+          <li>Three planters along the pool</li>
+          <li>BBQ area</li>
+          <li>14 ft x 8 ft welded screen with living wall</li>
+        </ul>
+      </div>
+    </div>
+    <div class="pl-trio">
+      <figure>
+        <img loading="lazy" decoding="async" width="800" height="1067" src="../images/projects/flycatcher/IMG_8836-800.webp" alt="Finished large concrete pavers set in turf with steel-edged steps beside a pool in Austin">
+        <figcaption class="sk-cap"><span class="sk-n">01 / Pavers in Turf</span><span class="sk-t">Large concrete pavers with turf joints, and steel-edged steps.</span></figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" decoding="async" width="800" height="1067" src="../images/projects/flycatcher/IMG_8804-800.webp" alt="Finished floating welded steel fire pit filled with aqua fire glass, burning at the edge of a pool in Austin">
+        <figcaption class="sk-cap"><span class="sk-n">02 / Pool Fire Pit</span><span class="sk-t">A floating welded steel fire pit with aqua fire glass at the pool.</span></figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" decoding="async" width="800" height="1067" src="../images/projects/flycatcher/IMG_8782-800.webp" alt="Finished long welded steel fire pit with amber fire glass, lit from underneath, in dark gravel in Austin">
+        <figcaption class="sk-cap"><span class="sk-n">03 / Linear Fire Pit</span><span class="sk-t">A long welded steel fire pit with amber fire glass in dark gravel.</span></figcaption>
+      </figure>
+    </div>
+    <a class="sk-more" href="../designs">See more Red Agave design plans &rarr;</a>
   </div>
 </section>
 

@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/floating-triangle-steel-planter-austin-tx.html"
+  to = "/blog/floating-triangle-steel-planter-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/steel-edging-cut-into-boulders-austin-tx.html"
   to = "/blog/steel-edging-cut-into-boulders-austin-tx"
   status = 301

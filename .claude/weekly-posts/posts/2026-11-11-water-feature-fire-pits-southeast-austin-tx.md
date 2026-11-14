@@ -87,7 +87,7 @@ The steel has weathered to a deep brown, the same tone as the floating fire pit.
 
 [[fig images/projects/se-austin-fire-water/18-finished-steel-planter-1200.webp | Finished steel planter on a tapered base filled with river rock and lit from inside, beside a round water feature in Southeast Austin || The finished planter. River rock fills the slot in the base, with a light behind it.]]
 
-See our [custom steel planters](../services/custom-planters-austin-tx) page and our [steel planter ideas](steel-planter-ideas).
+See our [custom steel planters](../services/custom-planters-austin-tx) page, our [steel planter ideas](steel-planter-ideas), and our post on [tapered steel planters](tapered-steel-planter-austin-tx).
 
 ## What Did We Build?
 

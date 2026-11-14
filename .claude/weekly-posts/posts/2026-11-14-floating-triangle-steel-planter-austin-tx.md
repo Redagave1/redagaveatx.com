@@ -57,6 +57,8 @@ The two beds meet at a corner. The second bed is set back from the first, so the
 
 The finished planter and beds are black, and the beds are filled with dark crushed rock.
 
+For the shape itself, how the three plates make the taper and how much soil it holds, see our post on [tapered steel planters](tapered-steel-planter-austin-tx).
+
 See our [custom steel planters](../services/custom-planters-austin-tx) and our guide to [steel edging fabrication](steel-edging-fabrication-austin-tx).
 
 ## Why a Triangle on One Post?

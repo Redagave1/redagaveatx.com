@@ -16,7 +16,7 @@ related:
   - yucca-rostrata-austin-tx | Yucca Rostrata in Austin, TX | A slow, blue, trunk-forming yucca from Big Bend.
   - freeze-protection-plants-austin-tx | Freeze Protection for Plants in Austin, TX | Freeze dates, cold limits, and what to cover.
 ---
-**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos. Red Agave's owner has six of these palms planted at home in South Austin, and every photo on this page shows the largest of the six. It is 10 years old, and it grew back after the February 2021 freeze burned every leaf. Every other fact is tied to a named source, and the sources are listed at the end.
+**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos. Red Agave's owner has six of these palms planted at home in South Austin, and every photo on this page shows the largest of the six. It is 10 years old, with about a foot of trunk, and it grew back after the February 2021 freeze burned every leaf. Every other fact is tied to a named source, and the sources are listed at the end.
 
 [[fig images/plants/sabal-uresana/01-blue-sonoran-palm-smooth-leaf-stalks-800.webp | Blue Sonoran palm, Sabal uresana, with blue-gray fan leaves on long smooth leaf stalks, planted at a home in South Austin ;; images/plants/sabal-uresana/02-blue-sonoran-palm-silver-fan-800.webp | One silver-blue fan leaf of a blue Sonoran palm, Sabal uresana, with oak trees behind it, in South Austin || The largest of the owner's six blue Sonoran palms, 10 years old, in South Austin. Left: blue-gray fans on long, smooth leaf stalks. Right: one silver-blue fan against the oaks behind it.]]
 
@@ -40,7 +40,7 @@ related:
 | Water | Low to medium |
 | Cold rating | USDA zone 8 |
 | Conservation status | Least Concern (IUCN Red List, assessed 2022) |
-| Our own record | A 10-year-old palm in South Austin: every leaf burned in the February 2021 freeze, and the palm grew back |
+| Our own record | A 10-year-old palm in South Austin with about 1 ft of trunk: every leaf burned in the February 2021 freeze, and the palm grew back |
 
 ## How Has Our Own Palm Done in South Austin?
 
@@ -49,7 +49,8 @@ It lost every leaf in the February 2021 freeze, and it grew back.
 Red Agave's owner has six blue Sonoran palms planted at home in South Austin. The palm in these photos is the largest of them.
 
 - **Age:** 10 years old
-- **Form at that age:** a full head of fans on long stalks, and no trunk in view
+- **Trunk:** about 1 foot tall
+- **Crown:** a full head of fans on long stalks
 - **February 2021:** every leaf burned in the freeze
 - **After:** the palm grew back, and the fans in these photos are the growth that followed
 - **Color:** blue-gray, and close to silver on some fans
@@ -161,7 +162,7 @@ Every source agrees on slow. The University of Arizona Extension lists its growt
 
 The reason is underground. Zona explains that in Sabal the stem begins below the soil. The seedling drives its growing point downward, and a trunk does not rise above the ground until after many years of growth below it. Felger and Joyal add that the plants quickly develop deep roots.
 
-Our own palm is the measure. At 10 years old it has a full head of fans on long stalks, and no trunk in view. In Sonora a palm at this stage has its own name, palma del suelo, the palm of the ground.
+Our own palm is the measure. At 10 years old its trunk is about 1 foot tall, under a full head of fans on long stalks. In Sonora a young palm with no trunk yet has its own name, palma del suelo, the palm of the ground.
 
 Slow has two upsides. The palm keeps its scale for years, and it lives a long time. The University of Arizona's campus plant walk still lists a Sonoran palmetto planted by the desert ecologist Forrest Shreve before 1940.
 
@@ -366,7 +367,7 @@ The John Fairey Garden in Hempstead, Texas rates it for USDA zone 8 and reports 
 Wait, and prune only what is dead. The University of Arizona Extension advises removing damaged fronds in spring, and warns that over-pruned palms are the vulnerable ones. Our own palm in South Austin lost every leaf in February 2021 and grew a new head of fans.
 
 ### How fast does Sabal uresana grow?
-Slowly. The University of Arizona Extension lists its growth rate as slow, and Cistus Nursery reports a plant that reached about 4.5 feet in five years in Portland, Oregon. In Sabal the stem grows underground for years before a trunk rises above the soil. Our own palm in South Austin is 10 years old and has no trunk in view.
+Slowly. The University of Arizona Extension lists its growth rate as slow, and Cistus Nursery reports a plant that reached about 4.5 feet in five years in Portland, Oregon. In Sabal the stem grows underground for years before a trunk rises above the soil. Our own palm in South Austin is 10 years old, and its trunk is about 1 foot tall.
 
 ### How big does a Sonoran palmetto get?
 The University of Arizona Extension lists a landscape palm at 30 to 40 feet tall with a crown 15 to 25 feet wide. In the wild, Felger and Joyal record palms that are often 16 to 50 feet tall, and Zona gives a height up to about 65 feet.

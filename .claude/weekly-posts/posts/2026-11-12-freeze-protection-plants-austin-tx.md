@@ -48,7 +48,7 @@ The ones whose cold limit is well below an Austin winter. Three that we plant:
 
 All three limits sit below the 15°F that Camp Mabry reached in December 2022. See our notes on [whale's tongue agave](whales-tongue-agave-austin-tx), [artichoke agave](artichoke-agave-austin-tx), and [giant hesperaloe](giant-hesperaloe-austin-tx), and our guide to [cold-hardy agaves](cold-hardy-agaves-central-texas).
 
-Palms can be chosen the same way. The John Fairey Garden in Hempstead rates the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx) for USDA zone 8, and reports no damage to its palms in the February 2021 freeze.
+Palms can be chosen the same way. The John Fairey Garden in Hempstead rates the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx) for USDA zone 8, and reports no damage to its palms in the February 2021 freeze. Our own blue Sonoran palm in South Austin lost every leaf in that freeze and grew back.
 
 ## Which Plants Need a Cover?
 

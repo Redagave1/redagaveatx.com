@@ -4,10 +4,10 @@ date: 2026-11-15
 format: plant
 target: sabal uresana; sonoran palmetto; blue sonoran palm; blue sonoran palmetto; cold hardy palms austin tx; blue palm trees texas; sabal uresana cold hardiness
 title: Sabal Uresana: Blue Sonoran Palm in Austin, TX | Red Agave
-description: Sabal uresana, the blue Sonoran palm: native range, size, growth rate, cold hardiness, planting and care in Austin, TX, history, and uses.
+description: Sabal uresana, the blue Sonoran palm: our 10-year-old palm in South Austin, cold hardiness, size, growth rate, planting, care, history, and uses.
 h1: Sabal Uresana, the Blue Sonoran Palm: A Complete Guide for Austin, TX
 crumb: Blue Sonoran Palm (Sabal uresana)
-excerpt: A blue fan palm from the foothills of Sonora that took the 2021 freeze with no damage in one Texas garden. Range, size, cold, care, history, and uses, all from named sources.
+excerpt: A blue fan palm from the foothills of Sonora. Ours is 10 years old in South Austin, and it grew back after the 2021 freeze burned every leaf. Range, size, cold, care, history, and uses.
 image: images/plants/sabal-uresana/blue-sonoran-palm-sabal-uresana-share.webp
 cta_title: Plan Your Planting
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
@@ -16,9 +16,9 @@ related:
   - yucca-rostrata-austin-tx | Yucca Rostrata in Austin, TX | A slow, blue, trunk-forming yucca from Big Bend.
   - freeze-protection-plants-austin-tx | Freeze Protection for Plants in Austin, TX | Freeze dates, cold limits, and what to cover.
 ---
-**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos. Red Agave's owner has six of these palms planted at home in South Austin, and every photo on this page shows the largest of the six. Every fact is tied to a named source, and the sources are listed at the end.
+**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos. Red Agave's owner has six of these palms planted at home in South Austin, and every photo on this page shows the largest of the six. It is 10 years old, and it grew back after the February 2021 freeze burned every leaf. Every other fact is tied to a named source, and the sources are listed at the end.
 
-[[fig images/plants/sabal-uresana/01-blue-sonoran-palm-smooth-leaf-stalks-800.webp | Blue Sonoran palm, Sabal uresana, with blue-gray fan leaves on long smooth leaf stalks, planted at a home in South Austin ;; images/plants/sabal-uresana/02-blue-sonoran-palm-silver-fan-800.webp | One silver-blue fan leaf of a blue Sonoran palm, Sabal uresana, with oak trees behind it, in South Austin || The largest of the owner's six blue Sonoran palms, in South Austin. Left: blue-gray fans on long, smooth leaf stalks. Right: one silver-blue fan against the oaks behind it.]]
+[[fig images/plants/sabal-uresana/01-blue-sonoran-palm-smooth-leaf-stalks-800.webp | Blue Sonoran palm, Sabal uresana, with blue-gray fan leaves on long smooth leaf stalks, planted at a home in South Austin ;; images/plants/sabal-uresana/02-blue-sonoran-palm-silver-fan-800.webp | One silver-blue fan leaf of a blue Sonoran palm, Sabal uresana, with oak trees behind it, in South Austin || The largest of the owner's six blue Sonoran palms, 10 years old, in South Austin. Left: blue-gray fans on long, smooth leaf stalks. Right: one silver-blue fan against the oaks behind it.]]
 
 ## What Are the Key Facts About the Blue Sonoran Palm?
 
@@ -40,6 +40,21 @@ related:
 | Water | Low to medium |
 | Cold rating | USDA zone 8 |
 | Conservation status | Least Concern (IUCN Red List, assessed 2022) |
+| Our own record | A 10-year-old palm in South Austin: every leaf burned in the February 2021 freeze, and the palm grew back |
+
+## How Has Our Own Palm Done in South Austin?
+
+It lost every leaf in the February 2021 freeze, and it grew back.
+
+Red Agave's owner has six blue Sonoran palms planted at home in South Austin. The palm in these photos is the largest of them.
+
+- **Age:** 10 years old
+- **Form at that age:** a full head of fans on long stalks, and no trunk in view
+- **February 2021:** every leaf burned in the freeze
+- **After:** the palm grew back, and the fans in these photos are the growth that followed
+- **Color:** blue-gray, and close to silver on some fans
+
+That record says two things. First, the palm is tougher than its leaves. Camp Mabry fell into the single digits in that freeze, our palm was about five years old, and it lived. Second, a cold rating is not a promise about the leaves. The John Fairey Garden's palms in Hempstead took no damage in the same freeze, and ours lost every fan. The University of Arizona Extension notes that palms are most sensitive to cold as small plants.
 
 ## What Is the Blue Sonoran Palm?
 
@@ -146,7 +161,7 @@ Every source agrees on slow. The University of Arizona Extension lists its growt
 
 The reason is underground. Zona explains that in Sabal the stem begins below the soil. The seedling drives its growing point downward, and a trunk does not rise above the ground until after many years of growth below it. Felger and Joyal add that the plants quickly develop deep roots.
 
-That is the stage of the palm in our photos, the largest of the six: fans on long stalks, and no trunk in view. In Sonora a palm at this stage has its own name, palma del suelo, the palm of the ground.
+Our own palm is the measure. At 10 years old it has a full head of fans on long stalks, and no trunk in view. In Sonora a palm at this stage has its own name, palma del suelo, the palm of the ground.
 
 Slow has two upsides. The palm keeps its scale for years, and it lives a long time. The University of Arizona's campus plant walk still lists a Sonoran palmetto planted by the desert ecologist Forrest Shreve before 1940.
 
@@ -154,11 +169,12 @@ It is also faster than its rival. The Campus Arboretum notes that it grows faste
 
 ## How Cold Hardy Is It?
 
-Hardy enough to come through the February 2021 freeze with no damage in a Texas garden. The John Fairey Garden in Hempstead reports that its blue Sonoran palmettos took "exactly zero damage" that winter.
+Hardy enough to live through the February 2021 freeze in Texas, with results that ran from no damage to a full leaf burn. The John Fairey Garden in Hempstead reports that its blue Sonoran palmettos took "exactly zero damage" that winter. Our own palm in South Austin lost every leaf and grew back.
 
 | Where | What was recorded | Source |
 |---|---|---|
 | Hempstead, Texas | No damage in the February 2021 freeze | John Fairey Garden |
+| South Austin, Texas | A palm about five years old: every leaf burned in the February 2021 freeze, and the palm grew back | Red Agave Landscape |
 | Raleigh, North Carolina | One unprotected plant, unhurt in the winter of 2000 to 2001: a low of 9°F, and about three weeks barely above freezing | Plant Delights Nursery, at Juniper Level Botanic Garden |
 | Tucson, Arizona | Not damaged by freezing temperatures | Felger and Joyal (1999) |
 | Southeast Arizona | A blue form from western Sonora, sold as Sabal aff. uresana, frost hardy to 0°F so far | Cistus Nursery |
@@ -171,13 +187,13 @@ The ratings line up with the records.
 - **University of Arizona Campus Arboretum:** rated for zone 9a, and reported to take severe frost, which would suit zone 8a
 - **University of Arizona Extension:** very cold hardy once established
 
-Here is what that means in Austin. The USDA's 2023 map puts most of the Austin area in zone 9a, where the coldest night of an average winter falls between 20 and 25°F. Zone 8 covers 10 to 20°F. Camp Mabry reached 15°F in December 2022 and fell into the single digits in February 2021. A palm rated for zone 8 is rated below Austin's average winter, and the Hempstead and Raleigh records speak to the hard ones.
+Here is what that means in Austin. The USDA's 2023 map puts most of the Austin area in zone 9a, where the coldest night of an average winter falls between 20 and 25°F. Zone 8 covers 10 to 20°F. Camp Mabry reached 15°F in December 2022 and fell into the single digits in February 2021. A palm rated for zone 8 is rated below Austin's average winter, and the Hempstead and Raleigh records speak to the hard ones. So does ours: in the hardest freeze of its ten years, the palm lived and the leaves did not.
 
 Three limits belong next to those records.
 
-- **Size:** the Extension notes that palms are most sensitive to cold as small plants, and its rating for this palm applies once it is established
-- **One garden is one garden:** the 2021 result is the John Fairey Garden's report on its own palms. A different site, soil, or seed source can give a different result.
-- **Leaves first:** on any palm, cold shows first on the lower and outer leaves. The Extension's advice is to remove damaged fronds in spring, and it warns that over-pruned palms are the vulnerable ones.
+- **Size:** the Extension notes that palms are most sensitive to cold as small plants, and its rating for this palm applies once it is established. Ours was about five years old in 2021.
+- **One garden is one garden:** the Hempstead result is the John Fairey Garden's report on its own palms. In South Austin the same freeze burned every leaf on ours.
+- **Leaves first:** on any palm, cold shows first on the lower and outer leaves. The Extension's advice is to remove damaged fronds in spring, and it warns that over-pruned palms are the vulnerable ones. Burned leaves are not a dead palm. Ours grew a new head of fans.
 
 See our guide to [freeze protection for plants in Austin](freeze-protection-plants-austin-tx).
 
@@ -314,7 +330,7 @@ For a buyer the lesson is plain: buy a nursery-grown palm raised from seed. The 
 - **1998:** the IUCN lists it as Vulnerable
 - **1999:** Felger and Joyal publish their account of the palms of Sonora
 - **2001:** Plant Delights Nursery reports one plant unhurt after a 9°F winter in North Carolina
-- **2021:** the John Fairey Garden's palms take the February freeze in Hempstead, Texas with no damage
+- **2021:** the John Fairey Garden's palms take the February freeze in Hempstead, Texas with no damage. In South Austin, our own palm loses every leaf and grows back.
 - **2022:** the IUCN reassesses it as Least Concern
 
 ## What Sources Did We Use?
@@ -338,16 +354,19 @@ We read each of these in November 2026.
 ## FAQ: Questions We Hear
 
 ### Does the blue Sonoran palm grow in Austin?
-Yes. Red Agave's owner has six planted at home in South Austin, and the photos on this page show the largest of them. The John Fairey Garden rates the palm for USDA zone 8, and the USDA's 2023 map puts most of the Austin area in zone 9a.
+Yes. Red Agave's owner has six planted at home in South Austin, and the photos on this page show the largest of them. It is 10 years old, and it grew back after the February 2021 freeze burned every leaf. The John Fairey Garden rates the palm for USDA zone 8, and the USDA's 2023 map puts most of the Austin area in zone 9a.
 
 ### Is the blue Sonoran palm the same as the Mexican blue palm?
 No. The blue Sonoran palm is Sabal uresana, a palmetto with a smooth leaf stalk and a fan that folds along a rib. The Mexican blue palm is Brahea armata. The University of Arizona Campus Arboretum notes that Sabal uresana grows faster than the Mexican blue palm.
 
 ### How cold hardy is Sabal uresana?
-The John Fairey Garden in Hempstead, Texas rates it for USDA zone 8 and reports no damage to its palms in the February 2021 freeze. Plant Delights Nursery reports one unprotected plant unhurt after a low of 9°F in North Carolina. The University of Arizona Extension calls it very cold hardy once established.
+The John Fairey Garden in Hempstead, Texas rates it for USDA zone 8 and reports no damage to its palms in the February 2021 freeze. Plant Delights Nursery reports one unprotected plant unhurt after a low of 9°F in North Carolina. Our own palm in South Austin lost every leaf in the 2021 freeze and grew back. The University of Arizona Extension calls it very cold hardy once established.
+
+### What should you do if the leaves burn in a freeze?
+Wait, and prune only what is dead. The University of Arizona Extension advises removing damaged fronds in spring, and warns that over-pruned palms are the vulnerable ones. Our own palm in South Austin lost every leaf in February 2021 and grew a new head of fans.
 
 ### How fast does Sabal uresana grow?
-Slowly. The University of Arizona Extension lists its growth rate as slow, and Cistus Nursery reports a plant that reached about 4.5 feet in five years in Portland, Oregon. In Sabal the stem grows underground for years before a trunk rises above the soil.
+Slowly. The University of Arizona Extension lists its growth rate as slow, and Cistus Nursery reports a plant that reached about 4.5 feet in five years in Portland, Oregon. In Sabal the stem grows underground for years before a trunk rises above the soil. Our own palm in South Austin is 10 years old and has no trunk in view.
 
 ### How big does a Sonoran palmetto get?
 The University of Arizona Extension lists a landscape palm at 30 to 40 feet tall with a crown 15 to 25 feet wide. In the wild, Felger and Joyal record palms that are often 16 to 50 feet tall, and Zona gives a height up to about 65 feet.

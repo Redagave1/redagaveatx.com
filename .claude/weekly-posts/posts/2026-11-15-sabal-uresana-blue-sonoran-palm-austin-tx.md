@@ -16,9 +16,9 @@ related:
   - yucca-rostrata-austin-tx | Yucca Rostrata in Austin, TX | A slow, blue, trunk-forming yucca from Big Bend.
   - freeze-protection-plants-austin-tx | Freeze Protection for Plants in Austin, TX | Freeze dates, cold limits, and what to cover.
 ---
-**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos, taken in South Austin. Red Agave's owner has six of these palms planted at home. Every fact is tied to a named source, and the sources are listed at the end.
+**Sabal uresana, the blue Sonoran palm or Sonoran palmetto, is a large, slow-growing fan palm from northwestern Mexico with blue-gray leaves, a smooth leaf stalk, and a record of coming through hard freezes in Texas, Arizona, and North Carolina.** It grows wild in the foothills, valleys, and canyons of Sonora and southwestern Chihuahua, from sea level to about 4,900 feet. This guide gathers what the botanical monographs, university extension offices, botanic gardens, and growers have recorded about it, next to our own photos. Red Agave's owner has six of these palms planted at home in South Austin, and every photo on this page shows the largest of the six. Every fact is tied to a named source, and the sources are listed at the end.
 
-[[fig images/plants/sabal-uresana/01-blue-sonoran-palm-smooth-leaf-stalks-800.webp | Young blue Sonoran palms, Sabal uresana, with blue-gray fan leaves on long smooth leaf stalks in front of oak trees in South Austin ;; images/plants/sabal-uresana/02-blue-sonoran-palm-silver-fan-800.webp | One silver-blue fan leaf of a blue Sonoran palm, Sabal uresana, with oak trees behind it, in South Austin || Blue Sonoran palms in South Austin. Left: blue-gray fans on long, smooth leaf stalks. Right: one silver-blue fan against the oaks behind it.]]
+[[fig images/plants/sabal-uresana/01-blue-sonoran-palm-smooth-leaf-stalks-800.webp | Blue Sonoran palm, Sabal uresana, with blue-gray fan leaves on long smooth leaf stalks, planted at a home in South Austin ;; images/plants/sabal-uresana/02-blue-sonoran-palm-silver-fan-800.webp | One silver-blue fan leaf of a blue Sonoran palm, Sabal uresana, with oak trees behind it, in South Austin || The largest of the owner's six blue Sonoran palms, in South Austin. Left: blue-gray fans on long, smooth leaf stalks. Right: one silver-blue fan against the oaks behind it.]]
 
 ## What Are the Key Facts About the Blue Sonoran Palm?
 
@@ -103,7 +103,7 @@ The numbers are large. Zona counted 15 to 35 leaves in a crown and 60 to 75 segm
 
 **Blue Sonoran palm or another palmetto?** Check the color. Zona's key separates it from a close relative, Sabal rosei, by leaves that are glaucous instead of evenly green.
 
-[[fig images/plants/sabal-uresana/04-sabal-uresana-leaf-threads-800.webp | Blue Sonoran palm leaves, Sabal uresana, with fine threads curling between the blue-gray leaf segments, in South Austin ;; images/plants/sabal-uresana/05-blue-sonoran-palm-fans-against-sky-800.webp | Blue-gray fan leaves of blue Sonoran palms, Sabal uresana, against a blue sky, with threads curling off the leaf tips, in South Austin || Threads between the leaf segments, and the fans against the sky.]]
+[[fig images/plants/sabal-uresana/04-sabal-uresana-leaf-threads-800.webp | Blue Sonoran palm leaves, Sabal uresana, with fine threads curling between the blue-gray leaf segments, in South Austin ;; images/plants/sabal-uresana/05-blue-sonoran-palm-fans-against-sky-800.webp | Blue-gray fan leaves of a blue Sonoran palm, Sabal uresana, against a blue sky, with threads curling off the leaf tips, in South Austin || Threads between the leaf segments, and the fans against the sky.]]
 
 ## Why Are the Leaves Blue?
 
@@ -120,7 +120,7 @@ Not every blue Sonoran palm is equally blue. Two things change the color.
 
 So choose the palm, not the label. Look at the plant you are buying, in daylight.
 
-[[fig images/plants/sabal-uresana/06-blue-sonoran-palm-fans-in-sun-1200.webp | Fan leaves of blue Sonoran palms, Sabal uresana, lit by low warm sun, with green and blue-gray pleats, in South Austin || Blue Sonoran palm fans in low, warm sun in South Austin. The color shifts with the light.]]
+[[fig images/plants/sabal-uresana/06-blue-sonoran-palm-fans-in-sun-1200.webp | Fan leaves of a blue Sonoran palm, Sabal uresana, lit by low warm sun, with green and blue-gray pleats, in South Austin || The same palm in low, warm sun. The color shifts with the light.]]
 
 ## How Big Does It Get?
 
@@ -146,7 +146,7 @@ Every source agrees on slow. The University of Arizona Extension lists its growt
 
 The reason is underground. Zona explains that in Sabal the stem begins below the soil. The seedling drives its growing point downward, and a trunk does not rise above the ground until after many years of growth below it. Felger and Joyal add that the plants quickly develop deep roots.
 
-That is the stage in our photos: fans on long stalks, and no trunk in view. In Sonora a palm at this stage has its own name, palma del suelo, the palm of the ground.
+That is the stage of the palm in our photos, the largest of the six: fans on long stalks, and no trunk in view. In Sonora a palm at this stage has its own name, palma del suelo, the palm of the ground.
 
 Slow has two upsides. The palm keeps its scale for years, and it lives a long time. The University of Arizona's campus plant walk still lists a Sonoran palmetto planted by the desert ecologist Forrest Shreve before 1940.
 
@@ -338,7 +338,7 @@ We read each of these in November 2026.
 ## FAQ: Questions We Hear
 
 ### Does the blue Sonoran palm grow in Austin?
-Yes. The photos on this page were taken in South Austin, and Red Agave's owner has six planted at home. The John Fairey Garden rates the palm for USDA zone 8, and the USDA's 2023 map puts most of the Austin area in zone 9a.
+Yes. Red Agave's owner has six planted at home in South Austin, and the photos on this page show the largest of them. The John Fairey Garden rates the palm for USDA zone 8, and the USDA's 2023 map puts most of the Austin area in zone 9a.
 
 ### Is the blue Sonoran palm the same as the Mexican blue palm?
 No. The blue Sonoran palm is Sabal uresana, a palmetto with a smooth leaf stalk and a fan that folds along a rib. The Mexican blue palm is Brahea armata. The University of Arizona Campus Arboretum notes that Sabal uresana grows faster than the Mexican blue palm.

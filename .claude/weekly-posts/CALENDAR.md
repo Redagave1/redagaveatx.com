@@ -146,6 +146,15 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-10 | Red fairy duster | add link | Live |
 | 2026-11-10 | Arroyo sweetwood | add link | Live |
 | 2026-11-10 | Dioon vs. sago palm | add link | Live |
+| 2026-11-15 | Blue Sonoran palm (Sabal uresana), full guide | add link | Live |
+
+Blue Sonoran palm guide (2026-11-15): Jensen sent six of his own palm photos plus the carousel folder `~/Desktop/Caroulsel/Red_Agave_Blue_Sonoran_Carousel-5/` (six slides and `Blue_Sonoran_Facts_and_Sources.md`) and asked for "the most comprehensive research" and "the best piece online with the most information about the palm". So this one is a long guide (about 5,100 words, four tables, 12 FAQs), not a short plant note.
+- All six carousel facts were checked at their sources and hold. Added from new research: Zona 1990 (monograph of Sabal) and Felger and Joyal 1999 (palms of Sonora), both read in full for this species; Joyal 1996 (two abstracts); Arizona Extension AZ1021; University of Arizona Campus Arboretum (species page, plant walk, December 2024 spotlight); Arizona-Sonora Desert Museum; John Fairey Garden; Plant Delights (Tony Avent's 2001 cold report and the product page); Cistus Nursery; Texas A&M AgriLife PLPM-PU-047 (lethal bronzing); Wildflower Center (Sabal mexicana).
+- The one fact most pages get wrong: the IUCN reassessed it in 2022 as Least Concern. Wikipedia and most nursery pages still say Vulnerable (the 1998 listing).
+- Not used, because they could not be opened: Kew POWO, Palmpedia (sign-in), PalmTalk threads and the Biodiversity Heritage Library copy of Trelease's 1901 description (all behind a bot check).
+- Not known, so not in the post: where and when the photos were taken, and whether Red Agave has planted this palm on a job. The post says "our photos" and describes only what they show (smooth stalks, threads, no trunk yet, oaks behind). If Jensen names the place or a project, add it.
+- Photos are in `images/plants/sabal-uresana/`. The whole-plant photo is cropped to leave out nursery pots at the bottom.
+- The builder now makes tables (see README).
 
 ## Published log
 
@@ -179,3 +188,4 @@ Short plant posts in the style of the Pink Fairy Duster and Agave 'Green Giant' 
 | 2026-11-12 | [/blog/freeze-protection-plants-austin-tx](https://www.redagaveatx.com/blog/freeze-protection-plants-austin-tx) | first freeze austin | new | xeriscape service, cold-hardy agaves guide |
 | 2026-11-12 | [/blog/pool-design-austin-tx](https://www.redagaveatx.com/blog/pool-design-austin-tx) | inground pools austin | 20.7 | pools service, design plans page, pool landscaping ideas guide |
 | 2026-11-12 | [/blog/best-landscapers-austin-tx](https://www.redagaveatx.com/blog/best-landscapers-austin-tx) | best landscapers austin | 13.5 | About page, luxury landscaping service, how to choose a landscaper guide |
+| 2026-11-15 | [/blog/sabal-uresana-blue-sonoran-palm-austin-tx](https://www.redagaveatx.com/blog/sabal-uresana-blue-sonoran-palm-austin-tx) | sabal uresana; blue sonoran palm | new | cold-hardy agaves guide, freeze protection post, dioon and sago note, Yucca rostrata note |

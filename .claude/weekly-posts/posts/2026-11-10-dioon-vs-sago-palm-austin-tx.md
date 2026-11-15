@@ -24,7 +24,7 @@ related:
 
 No. NC State Extension describes sago palm as a cycad, not a true palm, native to Japan and southern China. The Missouri Botanical Garden lists Dioon edule, also called chestnut dioon or virgin's palm, as a slow-growing evergreen cycad native to eastern Mexico. It notes that Dioon carries male and female cones on separate plants.
 
-In a design, the word palm sets the wrong picture. Neither plant gives you a tall trunk with a canopy overhead. Both grow slowly and stay low for many years, so they work as sculpture at eye level and below.
+In a design, the word palm sets the wrong picture. Neither plant gives you a tall trunk with a canopy overhead. Both grow slowly and stay low for many years, so they work as sculpture at eye level and below. For a true palm that suits Austin, see our guide to the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx).
 
 ## How Do You Tell Them Apart?
 

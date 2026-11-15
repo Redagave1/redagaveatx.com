@@ -62,7 +62,7 @@ That works best when everything around it stays low. On this terrace the layers 
 
 Decide what job the yucca has before choosing how many to plant. Three in a row set a rhythm along a terrace. One on its own marks a turn in a path or the end of a view from the patio. At night, a single light aimed up into the crown shows every leaf. See our [landscape lighting](../services/landscape-lighting-austin-tx) work.
 
-Yucca rostrata suits a [xeriscape](../services/xeriscape-austin-tx) in full sun, and it is part of the planting on our projects in [Circle C](../locations/circle-c-tx).
+Yucca rostrata suits a [xeriscape](../services/xeriscape-austin-tx) in full sun, and it is part of the planting on our projects in [Circle C](../locations/circle-c-tx). For another slow, blue plant that forms a trunk, see our guide to the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx).
 
 ## FAQ: Questions We Hear
 

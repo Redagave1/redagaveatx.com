@@ -47,7 +47,8 @@ Everything in `.claude/` is blocked from the public site by `netlify.toml`.
 - Project posts get a spec list. Only list what is visible or confirmed.
 - Links: the service page, the city page, and a case study or guide, all as clean addresses (no `.html`).
 - FAQ last, with 3–5 questions. The builder makes the FAQ schema from the visible text, so they always match.
-- 700–1,400 words.
+- 700–1,400 words. The exception is a full plant guide Jensen asks for by name (the Sabal uresana guide is about 5,000 words): research every source that can be opened, name each one in the text, and list them under a "What Sources Did We Use?" H2 placed before the FAQ.
+- Tables: a block where every line starts with `|` becomes a table. The first row is the header, and a `|---|` row is skipped. Use them for key facts, numbers from several sources, and comparisons.
 
 ## Every week
 
@@ -91,6 +92,10 @@ related:
 Paragraph with a [link](../services/outdoor-kitchens-austin-tx) and **bold**.
 
 - **Label:** list item
+
+| Column | Column |
+|---|---|
+| cell | cell with a [link](other-post) |
 
 ## FAQ: Questions We Hear
 

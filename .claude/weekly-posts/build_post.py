@@ -25,6 +25,10 @@ CSS = ("<style>.wp-answer{font-size:17px;line-height:1.85;color:var(--cream,#f0e
        "padding:4px 0 4px 22px;margin:0 0 40px}.wp-fig{margin:36px 0}.wp-fig img{width:100%;height:auto;display:block}"
        ".wp-fig img.wp-tall{max-width:560px}.wp-grid{display:grid;grid-template-columns:repeat(var(--n,2),1fr);gap:4px}.wp-fig figcaption{font-size:12px;line-height:1.7;"
        "letter-spacing:.3px;color:rgba(240,234,214,.55);margin-top:12px}.wp-faq h3{margin-top:28px}"
+       ".wp-table{overflow-x:auto;margin:8px 0 30px}.wp-table table{width:100%;min-width:520px;border-collapse:collapse;font-size:14px;line-height:1.6}"
+       ".wp-table th{text-align:left;padding:10px 12px;border-bottom:2px solid rgba(201,168,76,.3);color:var(--gold,#c8a24a);font-weight:600;"
+       "font-size:10px;letter-spacing:2px;text-transform:uppercase}.wp-table td{padding:10px 12px;border-bottom:1px solid rgba(240,234,214,.08);"
+       "color:rgba(240,234,214,.72);vertical-align:top}.wp-table td:first-child{color:var(--cream,#f0ead6);font-weight:500}"
        "@media(max-width:768px){.wp-grid{grid-template-columns:1fr}}</style>\n")
 
 
@@ -85,7 +89,7 @@ def figure(spec, problems):
 
 
 def render(body, problems):
-    """Markdown-lite: ## h2, ### h3, - lists, [[fig ...]], paragraphs. '## FAQ: Title' starts the FAQ."""
+    """Markdown-lite: ## h2, ### h3, - lists, | tables |, [[fig ...]], paragraphs. '## FAQ: Title' starts the FAQ."""
     blocks = re.split(r"\n\s*\n", body)
     answer = inline(blocks[0].strip())
     out, faqs, in_faq, faq_title, q = [], [], False, "Questions We Hear", None
@@ -108,6 +112,13 @@ def render(body, problems):
             if in_faq: q = h; faqs.append([q, ""])
             out.append(f"<h3>{inline(h)}</h3>"); lines = lines[1:]
         if not lines: continue
+        if all(l.lstrip().startswith("|") for l in lines):  # | a | b | table; first row is the header, |---| rows are skipped
+            rows = [[c.strip() for c in l.strip().strip("|").split("|")] for l in lines]
+            rows = [r for r in rows if not all(re.fullmatch(r":?-{2,}:?", c) for c in r)]
+            cells = lambda r, tag: "".join(f"<{tag}>{inline(c)}</{tag}>" for c in r)
+            out.append('<div class="wp-table"><table>\n<thead><tr>' + cells(rows[0], "th") + "</tr></thead>\n<tbody>\n"
+                       + "\n".join("<tr>" + cells(r, "td") + "</tr>" for r in rows[1:]) + "\n</tbody>\n</table></div>")
+            continue
         if all(l.startswith("- ") for l in lines):
             out.append("<ul>\n" + "\n".join(f"<li>{inline(l[2:])}</li>" for l in lines) + "\n</ul>")
         else:

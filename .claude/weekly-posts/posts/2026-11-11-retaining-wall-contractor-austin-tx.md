@@ -104,7 +104,7 @@ At night, LED strips trace every steel edge and deck transition. See our [landsc
 - **Planting:** sedges, ferns, and muhly grass
 - **Build time:** 18 days, built by our own crew
 
-See the before and after in [the full Circle C case study](../projects/blazyk). We build [steel retaining walls](../services/steel-retaining-walls-austin-tx) across the Austin area, including [Circle C](../locations/circle-c-tx).
+See the before and after in [the full Circle C case study](../projects/blazyk). We build [steel retaining walls](../services/steel-retaining-walls-austin-tx) across the Austin area, including [Circle C](../locations/circle-c-tx). See all of our [retaining walls](../services/retaining-walls-austin-tx) in steel, limestone, block, concrete, and boulders.
 
 ## FAQ: Questions We Hear
 

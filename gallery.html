@@ -796,7 +796,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     "DSC04001":"cd","DSC04039":"pl","DSC04040":"pl","DSC04041 (1)":"pl","DSC04041":"pl",
     "DSC04042 (1)":"pl","DSC04042":"pl","DSC04049":"bb","DSC04080":"xs","DSC04110":"sp",
     "IMG_0001":"fp","IMG_0011":"ll","IMG_0103":"xs","IMG_0106":"xs","IMG_0114":"xs",
-    "IMG_0194":"pl","IMG_0350":"fn","IMG_0591":"fs","IMG_0596":"xs","IMG_0597":"fp",
+    "IMG_0194":"pl","IMG_0350":"fn","IMG_0591":"cp","IMG_0596":"xs","IMG_0597":"fp",
     "IMG_0794":"cd","IMG_0799":"cd","IMG_0851":"cd","IMG_0990":"xs","IMG_0991":"xs",
     "IMG_0994":"xs","IMG_1318":"fs","IMG_1343":"sp","IMG_1422":"cp","IMG_1611":"cd",
     "IMG_2194":"cp","IMG_2207":"sp","IMG_2229":"xs","IMG_2549":"cp","IMG_2554":"cp",
@@ -859,8 +859,10 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     bb:['Bamboo privacy screen and hedge planting Austin TX','Bamboo landscape installation along fence Austin TX','Bamboo grove with gravel and stepping pads Austin TX'],
     fn:['Horizontal steel privacy fence Austin TX','Modern steel fencing with landscape integration Austin TX']
   };
+  var AO={"IMG_0591":"Angular poured concrete slabs set in dark gravel along a side yard walkway, Austin TX"};
   function altFor(file,i){
     var base=decodeURIComponent(file||'').replace(/\.webp$/i,'');
+    if(AO[base])return AO[base];
     var cat=IC[base]||'db';
     var alts=CA[cat];
     return alts[i%alts.length];

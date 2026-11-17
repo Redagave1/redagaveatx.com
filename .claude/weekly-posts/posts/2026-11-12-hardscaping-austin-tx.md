@@ -72,7 +72,7 @@ Gravel needs an edge to stay where it is put. That is why both of these courts a
 
 The water. Drainage is our first phase of construction. Water gets designed before the patio, the planting, or the lighting, because everything built on top relies on it. See our post on [choosing a drainage company](drainage-company-austin-tx).
 
-The levels come next, and they are set on the plan. Every Red Agave project starts with a free consultation, and the CAD plan is included. Our post on [landscape design build](landscape-design-build-austin-tx) shows a hardscape plan next to the finished yard.
+The levels come next, and they are set on the plan. Every Red Agave project starts with a free consultation, and the CAD plan is included. Our post on [landscape design build](landscape-design-build-austin-tx) shows a hardscape plan next to the finished yard. For everything we build, see our [hardscaping](../services/hardscaping-austin-tx) page.
 
 ## FAQ: Questions We Hear
 

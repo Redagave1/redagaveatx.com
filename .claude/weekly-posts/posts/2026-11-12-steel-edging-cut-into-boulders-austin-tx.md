@@ -51,7 +51,7 @@ Thickness matters even more at a boulder. The slot is cut to the plate, so the p
 
 The steel is mild steel, left raw. It develops a natural rust patina over 6 to 12 months. In the finished photo above, taken a few weeks after the install, the edging has already started to turn.
 
-See our guide to [steel edging fabrication](steel-edging-fabrication-austin-tx) and our [steel retaining walls](../services/steel-retaining-walls-austin-tx), which use the same plate.
+See our [steel edging](../services/steel-edging-austin-tx) page, our guide to [steel edging fabrication](steel-edging-fabrication-austin-tx), and our [steel retaining walls](../services/steel-retaining-walls-austin-tx), which use the same plate.
 
 ## Should You Cut a Boulder Yourself?
 

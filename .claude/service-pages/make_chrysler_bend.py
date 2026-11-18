@@ -23,14 +23,14 @@ def pic(name, alt, sizes="(max-width:900px) 100vw, 50vw", cls="", extra=""):
 A = {
  "hero": "Floating triangle steel planter with a variegated century agave at dusk, lit from its rim above basalt gravel, with terraced steel beds running to the front door, in Southeast Austin",
  "09": "Black triangle steel planter with a variegated century agave floating above terraced steel beds of basalt gravel, with the light rim glowing along the outside of the steel, in Southeast Austin",
- "12": "Close view of the angle iron rim of a floating steel triangle planter, with light falling on basalt gravel and silver mounding plants below, in Southeast Austin",
+ "12": "Close view of the angle iron rim of a floating steel triangle planter, with light falling on basalt gravel and silver santolina below, in Southeast Austin",
  "11": "Terraced black steel beds of basalt gravel stepping toward a front door, with a floating triangle planter and a light rim along the outside edge, in Southeast Austin",
  "10": "Side view of a black welded steel triangle planter with an angle iron rim, holding a variegated century agave and silver ponyfoot above basalt gravel, in Southeast Austin",
  "06": "Steel triangle planter before its black penetrating sealer, seen from the side, tapering to a point on one post above a raised steel bed in Southeast Austin",
  "02": "Welded steel triangle planter before its black penetrating sealer, on its post in a raised steel bed, with a second bed lined with landscape fabric beside it, in Southeast Austin",
  "z14": "Close view of the corner where two black steel beds meet, with the light rim washing warm light down the steel onto the lawn and basalt gravel inside the bed, in Southeast Austin",
- "z15": "Variegated century agave with silver ponyfoot in a black triangle steel planter, seen from above, with silver mounding plants in basalt gravel and steel beds stepping away behind it, in Southeast Austin",
- "z16": "Close view of basalt gravel and a silver mounding plant inside a black steel bed, lit warm from the rim of the planter above, in Southeast Austin",
+ "z15": "Variegated century agave with silver ponyfoot in a black triangle steel planter, seen from above, with silver santolina in basalt gravel and steel beds stepping away behind it, in Southeast Austin",
+ "z16": "Close view of basalt gravel and a silver santolina inside a black steel bed, lit warm from the rim of the planter above, in Southeast Austin",
  "sk": "Design sketch of a black triangle steel planter holding a blue agave on raised black steel beds that step toward a front door, with lawn in front, drawn over the front of a house in Southeast Austin",
 }
 
@@ -40,7 +40,7 @@ FAQS = [
  ("What is a light rim?",
   "A steel rim with the light hidden under it. On this project a custom light rim runs around the outside of the terraced steel, and an angle iron light rim circles the planter. You see the glow on the gravel and the lawn, and the light itself stays out of sight."),
  ("What is planted in the floating triangle planter?",
-  "One variegated century agave, with silver ponyfoot trailing around its base. Maiden grass and artichoke agave grow in the terraced beds, and every bed is finished in basalt gravel."),
+  "One variegated century agave, with silver ponyfoot trailing around its base. Three silver santolina grow under the planter, with maiden grass and artichoke agave in the terraced beds. Every bed is finished in basalt gravel."),
  ("How is the steel finished black?",
   "With a black penetrating sealer. The planter and the beds were cut and welded first, and the sealer went on after."),
  ("Who designed and built it?",
@@ -97,7 +97,7 @@ BODY = f"""<body>
         <div class="nar-body">
           <p class="line-mask" data-delay="3"><span>Red Agave Landscape designed and built this front yard in Southeast Austin: terraced black steel beds with a custom light rim around the exterior, and a floating triangle planter above them. The planter is welded steel shaped like an upside-down pyramid. It is carried on one post, and a variegated century agave grows in it.</span></p>
           <p class="line-mask" data-delay="4"><span>The beds step toward the front door. Each one is steel set on edge, sealed with a black penetrating sealer, and filled with basalt gravel. The light rim runs around the outside of the steel. The light sits under the rim, out of sight, and washes down the black face onto the ground. At dusk the steel reads as a dark band with a warm line of light under it.</span></p>
-          <p class="line-mask" data-delay="5"><span>The planter has an angle iron rim, and its light rim is angle iron too. The light shines down on the basalt, so the planter looks like it hangs above the rock. Silver ponyfoot trails around the agave. In the beds, maiden grass and <a href="../blog/artichoke-agave-austin-tx" style="text-decoration:underline;text-underline-offset:3px">artichoke agave</a> grow in the gravel.</span></p>
+          <p class="line-mask" data-delay="5"><span>The planter has an angle iron rim, and its light rim is angle iron too. The light shines down on the basalt, so the planter looks like it hangs above the rock. Silver ponyfoot trails around the agave, and three silver santolina grow under the edge of the planter. In the beds, maiden grass and <a href="../blog/artichoke-agave-austin-tx" style="text-decoration:underline;text-underline-offset:3px">artichoke agave</a> grow in the gravel.</span></p>
         </div>
       </div>
     </aside>
@@ -165,14 +165,14 @@ BODY = f"""<body>
       <div class="psc-pin-stage" data-pin-stage="1">
         <div class="ps-mask-wrap"><div class="ps-mask-text ps-eyebrow">Planting &middot; 02</div></div>
         <div class="ps-mask-wrap"><h3 class="ps-mask-text ps-cream">Agave and Silver</h3></div>
-        <div class="ps-mask-wrap"><span class="ps-mask-text ps-pulse">Century Agave &middot; Ponyfoot &middot; Maiden Grass</span></div>
-        <div class="ps-mask-wrap"><p class="ps-mask-text ps-mono">One variegated century agave fills the triangle, with silver ponyfoot trailing around its base. Maiden grass and artichoke agave grow in the beds, in basalt gravel. An agave holds its shape all year and takes full sun.</p></div>
+        <div class="ps-mask-wrap"><span class="ps-mask-text ps-pulse">Century Agave &middot; Ponyfoot &middot; Santolina</span></div>
+        <div class="ps-mask-wrap"><p class="ps-mask-text ps-mono">One variegated century agave fills the triangle, with silver ponyfoot trailing around its base. Silver santolina, maiden grass, and artichoke agave grow in the beds, in basalt gravel. An agave holds its shape all year and takes full sun.</p></div>
       </div>
       <div class="psc-pin-stage" data-pin-stage="2">
         <div class="ps-mask-wrap"><div class="ps-mask-text ps-eyebrow">Ground &middot; 03</div></div>
         <div class="ps-mask-wrap"><h3 class="ps-mask-text ps-cream">Basalt</h3></div>
         <div class="ps-mask-wrap"><span class="ps-mask-text ps-pulse">Dark Gravel &middot; Black Steel</span></div>
-        <div class="ps-mask-wrap"><p class="ps-mask-text ps-mono">Every bed is finished in basalt gravel, held by the black steel. Under the light rim the dark rock turns warm, and the silver plants stand out against it.</p></div>
+        <div class="ps-mask-wrap"><p class="ps-mask-text ps-mono">Every bed is finished in basalt gravel, held by the black steel. Under the light rim the dark rock turns warm, and the silver santolina stands out against it.</p></div>
       </div>
 
       <div class="psc-pin-bar">
@@ -239,6 +239,7 @@ BODY = f"""<body>
         <ul>
           <li>Variegated century agave</li>
           <li>Silver ponyfoot</li>
+          <li>Silver santolina</li>
           <li>Maiden grass</li>
           <li>Artichoke agave</li>
         </ul>
@@ -324,7 +325,7 @@ def main():
     e = lambda x: html.escape(x, quote=True)
     article = {"@context": "https://schema.org", "@type": "Article",
                "headline": "Chrysler Bend: Floating Triangle Planter and Terraced Steel in Southeast Austin, TX",
-               "description": "Terraced steel beds finished in a black penetrating sealer with a custom light rim around the exterior, a floating welded steel triangle planter with an angle iron rim and an angle iron light rim, a variegated century agave, silver ponyfoot, maiden grass, artichoke agave, and basalt gravel. Designed and built by Red Agave Landscape.",
+               "description": "Terraced steel beds finished in a black penetrating sealer with a custom light rim around the exterior, a floating welded steel triangle planter with an angle iron rim and an angle iron light rim, a variegated century agave, silver ponyfoot, silver santolina, maiden grass, artichoke agave, and basalt gravel. Designed and built by Red Agave Landscape.",
                "image": [ABS + "floating-triangle-project-share.webp", ABS + "13-floating-triangle-planter-dusk-1125.webp", ABS + "09-terraced-steel-light-rim-triangle-planter-1125.webp"],
                "datePublished": "2026-11-18", "dateModified": "2026-11-18",
                "author": {"@type": "Organization", "name": "Red Agave Landscape", "url": "https://www.redagaveatx.com"},

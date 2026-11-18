@@ -18,7 +18,7 @@ related:
 ---
 **A tapered steel planter is wide at the rim and narrow at the base, and Red Agave Landscape builds them from flat steel plate, welded at every seam.** In Southeast Austin we built one as a triangle: three plates that narrow from a steel rim to a single point. This post covers how that shape is made, how much soil it holds, and when a taper is a better choice than a box.
 
-[[fig images/projects/southeast-austin-triangle-planter/08-tapered-triangle-planter-faces-lit-1200.webp | Black steel triangle planter tapering from an angle iron rim to a point above lit basalt gravel and silver mounding plants in Southeast Austin || Southeast Austin: the steel faces taper from the rim to a point above the rock.]]
+[[fig images/projects/southeast-austin-triangle-planter/08-tapered-triangle-planter-faces-lit-1200.webp | Black steel triangle planter tapering from an angle iron rim to a point above lit basalt gravel and silver santolina in Southeast Austin || Southeast Austin: the steel faces taper from the rim to a point above the rock.]]
 
 ## What Is a Tapered Planter?
 

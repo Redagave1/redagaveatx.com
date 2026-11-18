@@ -18,7 +18,7 @@ related:
 ---
 **Red Agave Landscape built a floating triangle planter in Southeast Austin: a welded steel planter shaped like an upside-down pyramid, carried on one post above a raised steel bed.** It stands in the front yard, below a front window. A variegated century agave grows in it, and a light rim made of angle iron shines down on the basalt gravel below. The sketch, the build, and the finished planter are all on this page.
 
-[[fig images/projects/southeast-austin-triangle-planter/03-floating-triangle-planter-agave-lit-800.webp | Black triangle steel planter with a variegated century agave floating above a raised steel bed of basalt gravel, lit from its rim, in a front yard in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/04-floating-triangle-planter-side-view-800.webp | Side view of a black steel planter shaped like an upside-down pyramid, holding a variegated century agave above silver mounding plants and lit basalt gravel in Southeast Austin || Southeast Austin: the triangle planter above its raised steel bed, lit from its rim.]]
+[[fig images/projects/southeast-austin-triangle-planter/03-floating-triangle-planter-agave-lit-800.webp | Black triangle steel planter with a variegated century agave floating above a raised steel bed of basalt gravel, lit from its rim, in a front yard in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/04-floating-triangle-planter-side-view-800.webp | Side view of a black steel planter shaped like an upside-down pyramid, holding a variegated century agave above silver santolina and lit basalt gravel in Southeast Austin || Southeast Austin: the triangle planter above its raised steel bed, lit from its rim.]]
 
 ## What Is a Floating Planter?
 
@@ -63,7 +63,7 @@ See our [custom steel planters](../services/custom-planters-austin-tx) and our g
 
 ## Why a Triangle on One Post?
 
-Because it leaves the bed open. A box planter covers the ground it sits on. This planter narrows to a point, so the rock and the plants run right under it. Three silver mounding plants grow below the edge of the planter, in ground a box would have covered.
+Because it leaves the bed open. A box planter covers the ground it sits on. This planter narrows to a point, so the rock and the plants run right under it. Three silver santolina grow below the edge of the planter, in ground a box would have covered.
 
 The point does a second job. It makes the support small. One post is all that meets the bed, so the planter reads as if it hangs above the rock.
 
@@ -74,13 +74,13 @@ The rim does a third. It draws one sharp black line around the agave, and the sl
 One agave above, and low silver plants below.
 
 - **In the planter:** one variegated century agave, with silver ponyfoot trailing around its base
-- **Under the planter:** three silver mounding plants in basalt gravel
+- **Under the planter:** three silver santolina in basalt gravel
 - **In the beds:** maiden grass and artichoke agave
 - **In front:** lawn
 
 An agave suits a planter like this. It holds its shape all year, and it takes full sun.
 
-[[fig images/projects/southeast-austin-triangle-planter/05-variegated-agave-triangle-planter-800.webp | Variegated century agave with yellow-edged leaves in a black triangle steel planter above basalt gravel and silver mounding plants in Southeast Austin || From above: the agave fills the triangle, and the rock and the plants continue under it.]]
+[[fig images/projects/southeast-austin-triangle-planter/05-variegated-agave-triangle-planter-800.webp | Variegated century agave with yellow-edged leaves in a black triangle steel planter above basalt gravel and silver santolina in Southeast Austin || From above: the agave fills the triangle, and the rock and the plants continue under it.]]
 
 See our guide to [cold-hardy agaves for Central Texas](cold-hardy-agaves-central-texas), our post on the [artichoke agave](artichoke-agave-austin-tx), and our [xeriscape service](../services/xeriscape-austin-tx).
 

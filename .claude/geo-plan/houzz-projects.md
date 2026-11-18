@@ -83,3 +83,24 @@ Added later on 2026-11-18, after Jensen said yes: project 12, "Pool, Screened Ro
 Do not ask Jensen about the limestone retaining wall job; he will say when it is done.
 
 Still open: whether to show the Tarrytown house-number photos; years for five projects; a new cover photo; a public reply to the one-star review from July 2022; asking recent clients for Houzz reviews.
+
+## Gallery projects added 2026-11-18 (Jensen approved the groups from an overview picture)
+
+Built from gallery photos that are not part of the twelve named jobs. Photos showing a house number were left out or cropped. The profile now shows 24 projects.
+
+| # | Houzz project name | Photos | Houzz id | Links to |
+|---|---|---|---|---|
+| 13 | Pool With Ipe Deck and Bamboo Screen, Austin | 5 | 7987496 | /services/custom-decks-austin-tx |
+| 14 | Boulder Stream, Steel Fire Trough and Lit Steel Edging, Austin | 8 | 7987497 | /services/water-features-austin-tx |
+| 15 | Courtyard Stream With Boulders and a Japanese Maple, Austin | 4 | 7987499 | /services/water-features-austin-tx |
+| 16 | Triangle Steel Fire Pit and Stock Tank Pool, Austin | 4 | 7987500 | /services/fire-pits-austin-tx |
+| 17 | Fire Pits in Boulder, Steel, Block and Concrete, Austin | 12 | 7987502 | /services/fire-pits-austin-tx |
+| 18 | Steel Planters and Steel Terraces, Austin | 12 | 7987504 | /services/custom-planters-austin-tx |
+| 19 | Xeriscape Front Yards, Austin | 12 | 7987505 | /services/xeriscape-austin-tx |
+| 20 | Decks and Outdoor Rooms, Austin | 10 | 7987506 | /services/custom-decks-austin-tx |
+| 21 | Concrete Pavers, Flagstone and Walkways, Austin | 12 | 7987507 | /services/hardscaping-austin-tx |
+| 22 | Pools and Poolside Planting, Austin | 8 | 7987509 | /services/pools-austin-tx |
+| 23 | Landscape Lighting at Night, Austin | 7 | 7987511 | /services/landscape-lighting-austin-tx |
+| 24 | Walls, Fences and Gates, Austin | 5 | 7987513 | /services/masonry-concrete-austin-tx |
+
+Gallery file names for each group are in the session scratchpad only. To rebuild a group, pick from `images/gallery/` by looking at the photos; do not trust the gallery's category codes.

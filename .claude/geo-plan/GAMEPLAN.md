@@ -55,7 +55,7 @@ Jensen's rule (2026-11-18): no paid memberships or paid profiles. Not the Better
 Claude drafts every profile text, request, and pitch. Jensen signs in, creates accounts, and sends. Nothing is sent or created without his yes.
 
 **A. Houzz, free profile (week 2).** Houzz was the outside site AI quoted most in the audit, and the profile already carries two awards.
-- [ ] Add the newest projects to the free profile: Chrysler Bend, the Southeast Austin water feature, the Pflugerville courtyard
+- [x] Eleven current projects added to the free profile and the twelve old ones removed (2026-11-18). Details in `houzz-projects.md`.
 - [ ] Ask three to five recent clients for a Houzz review (7 reviews there today)
 
 **B. Free listings AI reads (weeks 2 to 4).** One master sheet: name, address, phone, hours, a 50-word and a 150-word description, the service list, the two awards, ten photos. Then:

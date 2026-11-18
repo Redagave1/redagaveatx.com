@@ -1,20 +1,20 @@
-# Houzz projects to add (prepared 2026-11-18)
+# Houzz projects (added 2026-11-18)
 
 Photos are converted copies of the site's own project photos (JPEG, 1,000 pixels wide or more). No prices, no street addresses, no customer names. Photos that show a street address are left out.
 
 | # | Houzz project name | Year | Photos | Status |
 |---|---|---|---|---|
-| 1 | Floating Triangle Planter and Terraced Steel, Southeast Austin | 2026 | 5 | waiting for Jensen's OK |
-| 2 | Round Water Feature and Two Steel Fire Pits, Southeast Austin | 2025 | 6 | waiting for Jensen's OK |
-| 3 | Patio Courtyard With Boulder Fountains and a Floating Fire Pit, Pflugerville | blank | 10 | waiting for Jensen's OK |
-| 4 | Cantilevered Steel Planters and Steel Retaining Wall, Tarrytown | blank | 7 | waiting for Jensen's OK |
-| 5 | Steel Terraces, Fire Features and Deck on a Slope, Circle C | blank | 7 | waiting for Jensen's OK |
-| 6 | Deck Over Flagstone, Steel Pergola Panels and Boulder Fire Pit, Circle C | 2024 | 10 | waiting for Jensen's OK |
-| 7 | Black Cantera Wall, Marbled Concrete and Floating Fire Pit, Austin | 2024 | 8 | waiting for Jensen's OK |
-| 8 | Large Pavers in Turf, Floating Steel Fire Pits and Native Planting, Cedar Creek | 2024 | 9 | waiting for Jensen's OK |
-| 9 | Terraced Turf Yard With Drilled Boulder Fire Pit and Lighting, Austin | 2024 | 10 | waiting for Jensen's OK |
-| 10 | Steel-Framed Screened Room With Cedar Skylights, South Austin | blank | 4 | waiting for Jensen's OK |
-| 11 | Steel Edging Cut Into Boulders, East Austin | blank | 3 | waiting for Jensen's OK |
+| 1 | Floating Triangle Planter and Terraced Steel, Southeast Austin | 2026 | 5 | live on Houzz |
+| 2 | Round Water Feature and Two Steel Fire Pits, Southeast Austin | 2025 | 6 | live on Houzz |
+| 3 | Patio Courtyard With Boulder Fountains and a Floating Fire Pit, Pflugerville | blank | 10 | live on Houzz |
+| 4 | Cantilevered Steel Planters and Steel Retaining Wall, Tarrytown | blank | 7 | live on Houzz |
+| 5 | Steel Terraces, Fire Features and Deck on a Slope, Circle C | blank | 7 | live on Houzz |
+| 6 | Deck Over Flagstone, Steel Pergola Panels and Boulder Fire Pit, Circle C | 2024 | 10 | live on Houzz |
+| 7 | Black Cantera Wall, Marbled Concrete and Floating Fire Pit, Austin | 2024 | 8 | live on Houzz |
+| 8 | Large Pavers in Turf, Floating Steel Fire Pits and Native Planting, Cedar Creek | 2024 | 9 | live on Houzz |
+| 9 | Terraced Turf Yard With Drilled Boulder Fire Pit and Lighting, Austin | 2024 | 10 | live on Houzz |
+| 10 | Steel-Framed Screened Room With Cedar Skylights, South Austin | blank | 4 | live on Houzz |
+| 11 | Steel Edging Cut Into Boulders, East Austin | blank | 3 | live on Houzz |
 
 ## Descriptions
 
@@ -67,3 +67,15 @@ Quarter-inch steel edging that runs through the boulders in a front yard. A slot
 - East Austin pool, screened porch and outdoor kitchen: the photos on the site are by a real estate photographer. Needs Jensen to confirm he can post them.
 - Tarrytown photos that show the house number on the steel sign.
 - The eight older case-study pages: not confirmed as real jobs.
+
+## Done 2026-11-18
+
+All eleven are live on the profile (https://www.houzz.com/pro/webuser-54721083). Each has a name, description, year where known, style Modern, keywords, and a link to the matching page on redagaveatx.com. Cost and street address were left empty.
+
+Houzz project ids: 7987448 floating triangle, 7987452 water feature, 7987455 Pflugerville courtyard, 7987457 Tarrytown planters, 7987459 Circle C terraces, 7987460 Circle C deck and pergola, 7987465 cantera wall, 7987468 Cedar Creek, 7987470 terraced turf, 7987472 South Austin screened room, 7987473 East Austin steel edging.
+
+The twelve old projects were deleted with Jensen's yes. Houzz keeps their photos under "Manage Unassigned Photos"; they are not shown as projects. The profile cover is still an old pool photo.
+
+How it was done: the upload page is https://www.houzz.com/uploadSpaces/uploadTo=project. Pick "Create a new project", fill the fields, hand the files to the page's file input, add them to the page's Dropzone queue, click Upload, close the photo editor, click Done, then set the description on the project's edit page. Photos must be JPEG and 1,000 pixels wide or more, under 10 MB per upload.
+
+Still open: Jensen's rights to the East Austin pool photos; whether to show the Tarrytown house-number photos; years for five projects; a new cover photo; a public reply to the one-star review from July 2022; asking recent clients for Houzz reviews.

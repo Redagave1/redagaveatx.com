@@ -5,9 +5,10 @@ H3 = 'style="font-family:\'Montserrat\',sans-serif;font-size:17px;font-weight:60
 BANNED = ["bare steel", "—", "&mdash;", " may ", " might ", "not sure", "uncertain", "we think", "probably", "it depends", "subcontract", "butcher",
           "design fee", "$", "Corten", "neighbor", "Southern Love", "Blazyk", "Hopeland", "Flycatcher", "Axehandle", "Silhouette", "Allison"]
 
-def fig(items, cap):
+def fig(items, cap, wide=False):
+    """wide=True keeps a pair of landscape photos at 4:3 instead of cropping them to 3:4."""
     imgs = "".join(f'<img src="../{p}" width="{w}" height="{h}" alt="{html.escape(a, quote=True)}" loading="lazy" decoding="async">' for p, w, h, a in items)
-    return f'<figure class="sv-fig"><div class="sv-figs sv-n{len(items)}">{imgs}</div><figcaption>{cap}</figcaption></figure>'
+    return f'<figure class="sv-fig"><div class="sv-figs sv-n{len(items)}{" sv-wide" if wide else ""}">{imgs}</div><figcaption>{cap}</figcaption></figure>'
 
 def step(n, t, body):
     return f'<div class="step-card"><div class="step-card-num">{n:02d}</div><div class="step-card-title">{t}</div><p>{body}</p></div>'
@@ -17,7 +18,7 @@ def sec(eye, h2, body, alt=False):
             f'  <h2 class="s-title rev">{h2}</h2>\n  <div class="content-body rev">\n{body}\n  </div>\n</section>\n')
 
 CSS = ("<style>.sv-fig{margin:36px 0 8px}.sv-figs{display:grid;gap:12px}.sv-n2{grid-template-columns:1fr 1fr}.sv-n3{grid-template-columns:repeat(3,1fr)}"
-       ".sv-figs img{width:100%;height:100%;object-fit:cover;display:block}.sv-n2 img,.sv-n3 img{aspect-ratio:3/4}"
+       ".sv-figs img{width:100%;height:100%;object-fit:cover;display:block}.sv-n2 img,.sv-n3 img{aspect-ratio:3/4}.sv-wide img{aspect-ratio:4/3}"
        ".sv-fig figcaption{font-size:12px;line-height:1.7;color:var(--cream60);margin-top:12px;letter-spacing:.3px}"
        ".cost-table td:first-child{color:var(--cream)}.cost-table a{color:var(--gold);border-bottom:1px solid rgba(201,168,76,0.3)}"
        "@media(max-width:600px){.sv-n3{grid-template-columns:1fr 1fr}.sv-n3 img:first-child{grid-column:1/-1;aspect-ratio:4/3}.cost-table{font-size:12px}.cost-table th,.cost-table td{padding:8px 6px}}</style>")

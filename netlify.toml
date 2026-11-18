@@ -1125,6 +1125,12 @@
   force = true
 
 [[redirects]]
+  from = "/services/water-features-austin-tx.html"
+  to = "/services/water-features-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/services/steel-retaining-walls-austin-tx.html"
   to = "/services/steel-retaining-walls-austin-tx"
   status = 301

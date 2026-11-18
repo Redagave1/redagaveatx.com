@@ -32,7 +32,7 @@ Each part has a job. The shell holds a true circle and carries the cap on its ri
 
 The inside is finished black, and that sets the look of the whole space. Black water works like a dark mirror. In the photo above, the surface reflects the flames in front of it and the evening sky above it.
 
-For full-size projects, see our [pool construction](../services/pools-austin-tx) page. To compare the types of water features and what each one costs, see our [water feature cost guide](water-feature-cost-austin-tx).
+For everything we build with water, see our [water features](../services/water-features-austin-tx) page. For full-size projects, see our [pool construction](../services/pools-austin-tx) page. To compare the types of water features and what each one costs, see our [water feature cost guide](water-feature-cost-austin-tx).
 
 ## How Was It Built?
 

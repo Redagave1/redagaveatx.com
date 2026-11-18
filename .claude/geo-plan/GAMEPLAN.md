@@ -59,8 +59,9 @@ Claude drafts every profile text, request, and pitch. Jensen signs in, creates a
 - [ ] Ask three to five recent clients for a Houzz review (7 reviews there today)
 
 **A2. Pinterest, free (done 2026-11-18).**
-- [x] 40 pins on 8 boards, each linking to its service or project page. Details and the upload steps in `pinterest-pins.md`.
-- [ ] Profile name, bio and old saved pins: open items in `pinterest-pins.md` (need Jensen)
+- [x] 91 pins on 9 boards (40, then 51 more the same day), each linking to its service or project page. Details and the upload steps in `pinterest-pins.md`.
+- [x] Profile name changed to "Red Agave Landscape"
+- [ ] Bio, website field and old saved pins: open items in `pinterest-pins.md` (need Jensen)
 
 **B. Free listings AI reads (weeks 2 to 4).** One master sheet: name, address, phone, hours, a 50-word and a 150-word description, the service list, the two awards, ten photos. Then:
 - [ ] Yelp (already there: check hours and services)

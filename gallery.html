@@ -415,7 +415,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <div class="gallery-wrap">
   <div class="gallery-header">
     <span class="gallery-label">All Projects &nbsp;&middot;&nbsp; Austin, TX</span>
-    <span class="gallery-showing" id="showing-label">Showing 30 of 233</span>
+    <span class="gallery-showing" id="showing-label">Showing 16 of 262</span>
   </div>
   <div class="g-grid" id="g-grid"></div>
   <div class="load-more-wrap" id="lm-wrap">
@@ -515,6 +515,11 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
   /* ── GALLERY ── */
   var IMAGES = [
+    "triangle-planter-light-rim-1.webp",
+    "triangle-planter-light-rim-2.webp",
+    "triangle-planter-light-rim-3.webp",
+    "triangle-planter-light-rim-4.webp",
+    "triangle-planter-light-rim-5.webp",
     "2024-06-02.webp",
     "IMG_1512.webp",
     "IMG_4729.webp",
@@ -839,7 +844,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     "img-2917-2":"db","img-4831":"ol","img-5127":"fp","img-5129":"fp","img-5344":"ll",
     "img-5394":"pl","img-5402":"pl","img-5410":"xs","img-5414":"pl","img-5419":"sp",
     "img-6305":"cp","img-6311":"cp","img-6504":"tu","img-7237":"sp","img-7305":"tu",
-    "img-7335":"ol"
+    "img-7335":"ol",
+    "triangle-planter-light-rim-1":"sp","triangle-planter-light-rim-2":"sp","triangle-planter-light-rim-3":"sp","triangle-planter-light-rim-4":"sp","triangle-planter-light-rim-5":"sp"
   };
   var CA={
     fp:['Custom fire pit with lava rock in Austin TX backyard','Gas fire feature with volcanic rock on gravel patio Austin TX','Steel fire bowl with fire glass in Austin outdoor living space','Limestone fire pit with seating area Austin TX','Boulder fire pit with gas flames in Austin backyard','Custom fire pit installation by Red Agave Landscape Austin TX','Modern fire pit on concrete patio with landscape lighting Austin TX','Fire pit with steel surround and gravel landscaping Austin TX'],
@@ -859,7 +865,12 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
     bb:['Bamboo privacy screen and hedge planting Austin TX','Bamboo landscape installation along fence Austin TX','Bamboo grove with gravel and stepping pads Austin TX'],
     fn:['Horizontal steel privacy fence Austin TX','Modern steel fencing with landscape integration Austin TX']
   };
-  var AO={"IMG_0591":"Angular poured concrete slabs set in dark gravel along a side yard walkway, Austin TX"};
+  var AO={"IMG_0591":"Angular poured concrete slabs set in dark gravel along a side yard walkway, Austin TX",
+    "triangle-planter-light-rim-1":"Black triangle steel planter with a variegated century agave floating above terraced steel beds of basalt gravel, with a light rim glowing along the outside of the steel, in Southeast Austin",
+    "triangle-planter-light-rim-2":"Side view of a black welded steel triangle planter with an angle iron rim, holding a variegated century agave above basalt gravel in a raised steel bed, in Southeast Austin",
+    "triangle-planter-light-rim-3":"Terraced black steel beds of basalt gravel stepping toward a front door, with a floating triangle planter and a light rim along the outside edge, in Southeast Austin",
+    "triangle-planter-light-rim-4":"Close view of the angle iron rim of a floating steel triangle planter, with light falling on basalt gravel and silver mounding plants below, in Southeast Austin",
+    "triangle-planter-light-rim-5":"Floating triangle steel planter with a variegated century agave at dusk, lit from its rim above basalt gravel, with terraced steel beds running to the front door, in Southeast Austin"};
   function altFor(file,i){
     var base=decodeURIComponent(file||'').replace(/\.webp$/i,'');
     if(AO[base])return AO[base];

@@ -939,6 +939,12 @@
   force = true
 
 [[redirects]]
+  from = "/projects/chrysler-bend.html"
+  to = "/projects/chrysler-bend"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/projects/dormarion.html"
   to = "/projects/dormarion"
   status = 301

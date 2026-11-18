@@ -2,7 +2,7 @@
 import re, json, html, os
 
 H3 = 'style="font-family:\'Montserrat\',sans-serif;font-size:17px;font-weight:600;color:var(--cream);margin:32px 0 12px"'
-BANNED = ["—", "&mdash;", " may ", " might ", "not sure", "uncertain", "we think", "probably", "it depends", "subcontract", "butcher",
+BANNED = ["bare steel", "—", "&mdash;", " may ", " might ", "not sure", "uncertain", "we think", "probably", "it depends", "subcontract", "butcher",
           "design fee", "$", "Corten", "neighbor", "Southern Love", "Blazyk", "Hopeland", "Flycatcher", "Axehandle", "Silhouette", "Allison"]
 
 def fig(items, cap):

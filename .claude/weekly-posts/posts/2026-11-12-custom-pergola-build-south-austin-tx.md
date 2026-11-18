@@ -41,7 +41,7 @@ First, and alone. In our October photos the steel stands by itself on the slab, 
 
 The frame runs along the back wall of the house and passes above the French doors. Posts stand at the corners and along the outer edge of the slab. A low steel rail ties the posts together, and the roof framing sits on top.
 
-[[fig images/projects/south-austin-screened-room/01-steel-pergola-frame-on-slab-800.webp | Bare welded steel pergola frame standing on a concrete slab against the back wall of a house in South Austin ;; images/projects/south-austin-screened-room/02-steel-roof-framing-skylight-opening-800.webp | Steel roof framing seen from below, with a framed opening for a skylight above French doors, in South Austin || October: the bare steel frame on the slab, and the roof framing above the back doors.]]
+[[fig images/projects/south-austin-screened-room/01-steel-pergola-frame-on-slab-800.webp | Welded steel pergola frame standing on a concrete slab against the back wall of a house in South Austin ;; images/projects/south-austin-screened-room/02-steel-roof-framing-skylight-opening-800.webp | Steel roof framing seen from below, with a framed opening for a skylight above French doors, in South Austin || October: the steel frame on the slab, and the roof framing above the back doors.]]
 
 Every later part fastens to this frame: the roof, the ceiling, the fan, and the screens. That is why the steel is set and squared before anything else arrives.
 
@@ -53,7 +53,7 @@ To keep the room bright. A solid roof over the back doors shades them, and the s
 
 The skylights were planned in the steel. The roof framing has a rectangular opening for each one, welded in before the roof went on. Later the cedar ceiling was carried up into each opening, so each skylight sits at the top of a cedar well.
 
-[[fig images/projects/south-austin-screened-room/03-steel-frame-skylight-openings-from-below-800.webp | Framed skylight opening in bare steel roof framing against the sky, above the back doors of a house in South Austin ;; images/projects/south-austin-screened-room/07-cedar-skylight-well-ceiling-fan-800.webp | The same skylight finished, at the top of a well lined in cedar planks, with a black ceiling fan below || A skylight opening in the bare steel, and the finished skylight in its cedar well.]]
+[[fig images/projects/south-austin-screened-room/03-steel-frame-skylight-openings-from-below-800.webp | Framed skylight opening in steel roof framing against the sky, above the back doors of a house in South Austin ;; images/projects/south-austin-screened-room/07-cedar-skylight-well-ceiling-fan-800.webp | The same skylight finished, at the top of a well lined in cedar planks, with a black ceiling fan below || A skylight opening in the steel framing, and the finished skylight in its cedar well.]]
 
 ## What Goes On After the Steel?
 

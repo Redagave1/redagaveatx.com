@@ -16,21 +16,21 @@ related:
   - water-feature-fire-pits-southeast-austin-tx | Water Feature and Fire Pits in Southeast Austin | A round water feature, two steel fire pits, and a steel planter welded on site.
   - cold-hardy-agaves-central-texas | Cold-Hardy Agaves for Central Texas | Which agaves take an Austin winter, and how big each one grows.
 ---
-**Red Agave Landscape built a floating triangle planter in Southeast Austin: a welded steel planter shaped like an upside-down pyramid, carried on one post above a raised steel bed.** It stands in the front yard, below a front window. A variegated agave grows in it, and a light under it shines on the rock below. The sketch, the build, and the finished planter are all on this page.
+**Red Agave Landscape built a floating triangle planter in Southeast Austin: a welded steel planter shaped like an upside-down pyramid, carried on one post above a raised steel bed.** It stands in the front yard, below a front window. A variegated century agave grows in it, and a light rim made of angle iron shines down on the basalt gravel below. The sketch, the build, and the finished planter are all on this page.
 
-[[fig images/projects/southeast-austin-triangle-planter/03-floating-triangle-planter-agave-lit-800.webp | Black triangle steel planter with a variegated agave floating above a raised steel bed of dark crushed rock, lit from underneath, in a front yard in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/04-floating-triangle-planter-side-view-800.webp | Side view of a black steel planter shaped like an upside-down pyramid, holding a variegated agave above silver mounding plants and lit crushed rock in Southeast Austin || Southeast Austin: the triangle planter above its raised steel bed, lit from underneath.]]
+[[fig images/projects/southeast-austin-triangle-planter/03-floating-triangle-planter-agave-lit-800.webp | Black triangle steel planter with a variegated century agave floating above a raised steel bed of basalt gravel, lit from its rim, in a front yard in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/04-floating-triangle-planter-side-view-800.webp | Side view of a black steel planter shaped like an upside-down pyramid, holding a variegated century agave above silver mounding plants and lit basalt gravel in Southeast Austin || Southeast Austin: the triangle planter above its raised steel bed, lit from its rim.]]
 
 ## What Is a Floating Planter?
 
 A planter held off the ground, so there is open space under it. Most planters are boxes that sit on the ground. A floating planter shows its underside, and the gap below it is part of the design.
 
-This one is a triangle. Three steel faces slope down from a flat rim to a single point, and the point sits on one post. The post is short and stands under the middle of the planter. From the lawn you see the planter and the light under it.
+This one is a triangle. Three steel faces slope down from an angle iron rim to a single point, and the point sits on one post. The post is short and stands under the middle of the planter. From the lawn you see the planter and the light from its rim.
 
 - **Shape:** a triangle from above, an upside-down pyramid from the side
 - **Support:** one post, under the point
-- **Rim:** a flat band of steel around the top edge
-- **Finish:** black
-- **Below:** a raised steel bed filled with dark crushed rock
+- **Rim:** angle iron around the top edge
+- **Finish:** a black penetrating sealer
+- **Below:** a raised steel bed filled with basalt gravel
 
 ## What Did the Sketch Call For?
 
@@ -44,18 +44,18 @@ More of our drawings are on the [design plans page](../designs).
 
 ## How Is It Built?
 
-In steel plate, cut and welded. Our June photos show the planter and the bed in bare steel, with no finish on the steel and no plants in the bed.
+In steel plate, cut and welded. Our June photos show the planter and the bed in steel, before the black penetrating sealer and before any planting.
 
 - **The bed:** steel plate set on edge to make a raised square bed
 - **The post:** one post standing in the middle of the bed
-- **The planter:** three steel plates welded into a point, with a flat steel rim welded around the top
+- **The planter:** three steel plates welded into a point, with an angle iron rim welded around the top
 - **The second bed:** a steel bed beside the first, lined with landscape fabric
 
 The two beds meet at a corner. The second bed is set back from the first, so the front of the steel has a step in it. You can see that step in the finished photo at the top of this page.
 
-[[fig images/projects/southeast-austin-triangle-planter/01-triangle-planter-steel-on-post-800.webp | Bare steel triangle planter standing on one post in a raised steel bed under construction in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/02-triangle-planter-welded-steel-bed-800.webp | Bare welded steel triangle planter on its post in a raised steel bed, with a second bed lined with landscape fabric beside it, in Southeast Austin || June: the planter in bare steel on its post, with the raised bed around it. The bed beside it is lined with fabric.]]
+[[fig images/projects/southeast-austin-triangle-planter/01-triangle-planter-steel-on-post-800.webp | Steel triangle planter before its black penetrating sealer, standing on one post in a raised steel bed in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/02-triangle-planter-welded-steel-bed-800.webp | Welded steel triangle planter before its black penetrating sealer, on its post in a raised steel bed, with a second bed lined with landscape fabric beside it, in Southeast Austin || June: the planter on its post before the black penetrating sealer, with the raised bed around it. The bed beside it is lined with fabric.]]
 
-The finished planter and beds are black, and the beds are filled with dark crushed rock.
+The finished planter and beds are sealed with a black penetrating sealer, and the beds are filled with basalt gravel.
 
 For the shape itself, how the three plates make the taper and how much soil it holds, see our post on [tapered steel planters](tapered-steel-planter-austin-tx).
 
@@ -73,20 +73,26 @@ The rim does a third. It draws one sharp black line around the agave, and the sl
 
 One agave above, and low silver plants below.
 
-- **In the planter:** one variegated agave, with a silver trailing plant around its base
-- **Under the planter:** three silver mounding plants in dark crushed rock
-- **Around them:** small flowering plants set into the rock
+- **In the planter:** one variegated century agave, with silver ponyfoot trailing around its base
+- **Under the planter:** three silver mounding plants in basalt gravel
+- **In the beds:** maiden grass and artichoke agave
 - **In front:** lawn
 
 An agave suits a planter like this. It holds its shape all year, and it takes full sun.
 
-[[fig images/projects/southeast-austin-triangle-planter/05-variegated-agave-triangle-planter-800.webp | Variegated agave with yellow-edged leaves in a black triangle steel planter above dark crushed rock and silver mounding plants in Southeast Austin || From above: the agave fills the triangle, and the rock and the plants continue under it.]]
+[[fig images/projects/southeast-austin-triangle-planter/05-variegated-agave-triangle-planter-800.webp | Variegated century agave with yellow-edged leaves in a black triangle steel planter above basalt gravel and silver mounding plants in Southeast Austin || From above: the agave fills the triangle, and the rock and the plants continue under it.]]
 
 See our guide to [cold-hardy agaves for Central Texas](cold-hardy-agaves-central-texas), our post on the [artichoke agave](artichoke-agave-austin-tx), and our [xeriscape service](../services/xeriscape-austin-tx).
 
 ## How Is It Lit?
 
-From underneath. A light under the planter shines down on the rock and the plants. In the evening the rock glows warm, and the black steel stands out above it.
+From its rim. The planter has an angle iron rim, and its light rim is made of angle iron too. The light sits under the steel, out of sight, and shines down on the basalt gravel and the plants. In the evening the rock glows warm, and the black steel stands out above it.
+
+The raised beds are terraced, and a custom light rim runs around the outside of them. It washes down the black steel onto the lawn.
+
+[[fig images/projects/southeast-austin-triangle-planter/09-terraced-steel-light-rim-triangle-planter-800.webp | Black triangle steel planter with a variegated century agave floating above terraced steel beds of basalt gravel, with the light rim glowing along the outside of the steel, in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/13-floating-triangle-planter-dusk-800.webp | Floating triangle steel planter with a variegated century agave at dusk, lit from its rim above basalt gravel, with terraced steel beds running to the front door, in Southeast Austin || The light rim around the terraced steel, and the planter at dusk.]]
+
+More photos of this yard are on its project page, [Chrysler Bend](../projects/chrysler-bend).
 
 Red Agave is the only company in Austin that builds custom LED planters with custom light channels. In [Circle C](../projects/hopeland), a long steel planter is lit under its rim.
 
@@ -115,10 +121,10 @@ A planter held off the ground, so there is open space under it. Ours in Southeas
 One post under its point. The planter narrows from a wide rim to a single point, and the point sits on the post.
 
 ### Can a steel planter be black instead of rusted?
-Yes. Raw mild steel develops a natural rust patina over 6 to 12 months, and a planter can be finished in a color instead. This one is black.
+Yes. Raw mild steel develops a natural rust patina over 6 to 12 months, and a planter can be finished in a color instead. This one is sealed with a black penetrating sealer.
 
 ### What do you plant in a steel planter in Austin?
-In Southeast Austin we planted a variegated agave with a silver trailing plant around its base. An agave holds its shape all year and takes full sun.
+In Southeast Austin we planted a variegated century agave with silver ponyfoot around its base. An agave holds its shape all year and takes full sun.
 
 ### Do you build in Southeast Austin?
 Yes. Red Agave Landscape designs and builds across the Austin area, and every project is built by our own crew.

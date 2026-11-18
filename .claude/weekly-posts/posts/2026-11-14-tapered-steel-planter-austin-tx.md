@@ -18,7 +18,7 @@ related:
 ---
 **A tapered steel planter is wide at the rim and narrow at the base, and Red Agave Landscape builds them from flat steel plate, welded at every seam.** In Southeast Austin we built one as a triangle: three plates that narrow from a steel rim to a single point. This post covers how that shape is made, how much soil it holds, and when a taper is a better choice than a box.
 
-[[fig images/projects/southeast-austin-triangle-planter/08-tapered-triangle-planter-faces-lit-1200.webp | Black steel triangle planter tapering from a flat rim to a point above lit crushed rock and silver mounding plants in Southeast Austin || Southeast Austin: the steel faces taper from the rim to a point above the rock.]]
+[[fig images/projects/southeast-austin-triangle-planter/08-tapered-triangle-planter-faces-lit-1200.webp | Black steel triangle planter tapering from an angle iron rim to a point above lit basalt gravel and silver mounding plants in Southeast Austin || Southeast Austin: the steel faces taper from the rim to a point above the rock.]]
 
 ## What Is a Tapered Planter?
 
@@ -35,16 +35,16 @@ From three flat steel plates.
 
 - **Three plates:** each one is a triangle, wide at the top and pointed at the bottom
 - **Three seams:** the plates meet edge to edge, and each seam runs from a corner of the rim down to the point
-- **One rim:** a band of steel welded around the top edge
+- **One rim:** angle iron welded around the top edge
 - **One post:** the point sits on a single post
 
 On a box, every corner is square. On this planter the plates lean outward, so every seam is an open angle, wider than a square corner. We fully weld every seam.
 
-Our June build photos show the planter in bare steel. From the side you see the taper. From above you see inside it: the three plates, the rim, and the weld marks.
+Our June build photos show the planter before the black penetrating sealer. From the side you see the taper. From above you see inside it: the three plates, the rim, and the weld marks.
 
-[[fig images/projects/southeast-austin-triangle-planter/06-tapered-triangle-planter-profile-bare-steel-800.webp | Bare steel triangle planter seen from the side, tapering to a point on one post above a raised steel bed, in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/07-tapered-triangle-planter-inside-seams-800.webp | Inside of a bare steel triangle planter showing three welded plates and the steel rim, in Southeast Austin || June, in bare steel: the taper from the side, and the inside of the planter, where the three plates meet.]]
+[[fig images/projects/southeast-austin-triangle-planter/06-tapered-triangle-planter-profile-bare-steel-800.webp | Steel triangle planter before its black penetrating sealer, seen from the side, tapering to a point on one post above a raised steel bed, in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/07-tapered-triangle-planter-inside-seams-800.webp | Inside of the steel triangle planter before its black penetrating sealer, showing three welded plates and the angle iron rim, in Southeast Austin || June, before the black penetrating sealer: the taper from the side, and the inside of the planter, where the three plates meet.]]
 
-The finished planter is black. For the full build, from the sketch to the finished front yard, see our post on the [floating triangle planter](floating-triangle-steel-planter-austin-tx).
+The finished planter is sealed with a black penetrating sealer. For the full build, from the sketch to the finished front yard, see our post on the [floating triangle planter](floating-triangle-steel-planter-austin-tx).
 
 ## How Much Soil Does a Tapered Planter Hold?
 
@@ -55,7 +55,7 @@ It matters in two ways.
 - **Weight:** less soil is less weight on the post
 - **Planting:** the soil is deepest in the middle and shallow at the edges, so the planter suits one plant set at the center
 
-We planted one variegated agave in the middle of ours.
+We planted one variegated century agave in the middle of ours.
 
 ## Why Does an Agave Suit a Tapered Planter?
 
@@ -72,7 +72,7 @@ See our guide to [cold-hardy agaves for Central Texas](cold-hardy-agaves-central
 Three reasons, and you can see all three in Southeast Austin.
 
 - **It opens the ground:** the bed under the planter stays open, and rock and plants run right under it
-- **It shows the underside:** the sloped faces are in view from the lawn, and a light under the planter shines on the rock
+- **It shows the underside:** the sloped faces are in view from the lawn, and the light rim shines down on the gravel
 - **It looks light:** a wide rim over a small base reads lighter than a box of the same width
 
 The sketch shows the same taper: a planter drawn wide at the rim and narrow where it meets the bed.
@@ -108,13 +108,13 @@ Every Red Agave project starts with a free consultation, and the CAD plan is inc
 A planter whose sides lean in, so the base is smaller than the rim. Ours in Southeast Austin is a steel triangle that tapers all the way to a point.
 
 ### How is a tapered steel planter made?
-From flat steel plate. Our triangle planter is three triangular plates welded along three seams, with a steel rim welded around the top edge.
+From flat steel plate. Our triangle planter is three triangular plates welded along three seams, with an angle iron rim welded around the top edge.
 
 ### Does a tapered planter hold less soil than a box?
 Yes. A planter that tapers to a point holds one third of the soil of a straight-sided planter with the same rim and the same depth.
 
 ### What grows well in a tapered planter?
-One specimen plant set at the center, where the soil is deepest. We planted a variegated agave. Agaves need full sun and soil with good drainage.
+One specimen plant set at the center, where the soil is deepest. We planted a variegated century agave. Agaves need full sun and soil with good drainage.
 
 ### Can a tapered planter be lit?
-Yes. A light under our triangle planter shines on the rock below it, and the tapered base of our square planter is lit from inside.
+Yes. The angle iron light rim on our triangle planter shines on the basalt gravel below it, and the tapered base of our square planter is lit from inside.

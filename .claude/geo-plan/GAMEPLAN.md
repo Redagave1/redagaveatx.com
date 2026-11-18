@@ -16,7 +16,8 @@ Where we start: named on 2 of 10 questions. Cited in 15 of 78 answers that list 
 - [x] Hours: site data now matches the Google listing (open daily 6am to 8pm, Tuesday to 8:30pm). Consultation hours stay Tue to Thu 10am to 1pm because the booking calendar uses them.
 - [x] Mowing: the about page and llms.txt now say we also mow.
 - [x] Gallery description says 260+ photos.
-- [ ] **Rating (needs Jensen):** the site says 5.0 stars across 86 Google reviews. The main listing shows 4.8 from 84, and the second listing shows 5.0 from 2. Recommended: say 4.8 stars across 86 reviews everywhere, including the hidden rating data on the home page.
+- [x] Rating: the site now says 4.8 stars across 86 Google reviews everywhere, including the rating data on the home and reviews pages (Jensen approved 2026-11-18).
+- [x] Awards: Best of Houzz Service 2019 and 2020 added to the home, about and reviews pages, the business data, and llms.txt (checked on the Houzz profile).
 - [ ] Lawn service has no page. A short lawn service page would back up "we also mow".
 
 ## Step 2. Answer the eight questions AI asked (weeks 1 to 4)
@@ -42,42 +43,51 @@ Jensen supplies the facts for each (which decking we install, which kitchens we 
 
 - [ ] Add real outside sources to the top 20 posts and the service pages. The audit counts about one per page and wants five. Sources: City of Austin water rules and rebates, Austin permit pages, Texas A&M AgriLife, the Wildflower Center, manufacturer specs. Each one is opened and checked before it is linked.
 - [ ] Put a name and a date on posts: "By Jensen Mehrens, owner" and "Updated" with the real date. Service pages get a date too. Dates only change when the page really changes.
-- [ ] One credentials line used the same way everywhere: insured, in Austin since 2009, 750+ projects, review count. **Needs Jensen:** any licenses, certifications, memberships, awards, or press.
+- [ ] One credentials line used the same way everywhere: insured, in Austin since 2009, 750+ projects, 4.8 stars across 86 Google reviews, Best of Houzz Service 2019 and 2020.
 - [ ] Lengthen the 19 older service pages and open each with the answer.
 - [ ] Finish the service pages still on the list: driveways, fences and gates, patio covers and pavilions, paver patios (waiting on photos).
 - [ ] Three more city pages: Leander, Oak Hill, Spicewood.
 
-## Step 4. Build citations off the site (weeks 2 to 12)
+## Step 4. Build citations off the site, without paying for them (weeks 2 to 12)
+
+Jensen's rule (2026-11-18): no paid memberships or paid profiles. Not the Better Business Bureau (about 500 a year), not paid Houzz (about 4,000 a year). Everything below is free.
 
 Claude drafts every profile text, request, and pitch. Jensen signs in, creates accounts, and sends. Nothing is sent or created without his yes.
 
-**A. Listings (weeks 2 to 4).** One master sheet: name, address, phone, hours, a 50-word and a 150-word description, the service list, ten photos. Then, in this order:
+**A. Houzz, free profile (week 2).** Houzz was the outside site AI quoted most in the audit, and the profile already carries two awards.
+- [ ] Add the newest projects to the free profile: Chrysler Bend, the Southeast Austin water feature, the Pflugerville courtyard
+- [ ] Ask three to five recent clients for a Houzz review (7 reviews there today)
+
+**B. Free listings AI reads (weeks 2 to 4).** One master sheet: name, address, phone, hours, a 50-word and a 150-word description, the service list, the two awards, ten photos. Then:
 - [ ] Yelp (already there: check hours and services)
-- [ ] Houzz (the outside site AI quoted most in the audit)
-- [ ] Angi and HomeAdvisor
-- [ ] Thumbtack
-- [ ] Better Business Bureau
+- [ ] Nextdoor business page
 - [ ] Apple Maps and Bing Places
-- [ ] Nextdoor and Facebook
-- [ ] Auto-built listings with wrong details (serviceagent.ai and others): ask for a correction where the site allows it
+- [ ] Thumbtack and Angi, free profile only
+- [ ] Free "best of" lists: Expertise.com review request, LawnStarter provider sign-up, HomeGuide
+- [ ] Auto-built listings with old details (serviceagent.ai and others): ask for a correction where the site allows it
 
-**B. Local and trade links (weeks 4 to 8).**
+**C. People we already do business with (weeks 3 to 8).** The cheapest good links there are.
+- [ ] Suppliers: the stone yard, the steel supplier, the nurseries, the lighting supplier. Ask each for a project feature or a spot on their contractor list. Offer finished photos. **Needs Jensen:** the list of who we buy from.
+- [ ] Brands we install: their "find an installer" page or project gallery (the composite decking, the paver coating, the pool heater)
+- [ ] Project credits: photographers, realtors, architects, and builders tied to our jobs link to the project page
+- [ ] Testimonials: we give a supplier a short written testimonial, and they publish it with a link
+
+**D. Local lists and groups (weeks 4 to 8).** Each one gets checked before we ask.
+- [ ] City of Austin Grow Green landscape professionals list
 - [ ] The Natural Gardener landscaper referral list
-- [ ] Home Builders Association of Greater Austin
-- [ ] AIA Austin allied members
-- [ ] "Find an installer" pages of the brands we install
-- [ ] Project credits: architects, builders, and photographers we have worked with link to the project page
+- [ ] Native Plant Society of Texas, Austin chapter: offer the plant guides as a resource
 
-**C. "Best of" lists AI already quotes (weeks 6 to 10).**
-- [ ] LawnStarter, Expertise.com, Trees.com, HomeGuide
-- [ ] RTA Outdoor Living's Austin outdoor kitchen builders list
+**E. Press and expert quotes (weeks 6 to 12).** One standout project per pitch: the floating triangle planter, the plaster container pool, a carved boulder fire pit.
+- [ ] Central Texas Gardener (Austin PBS), which features local gardens and designers
+- [ ] CultureMap Austin home and design, Community Impact
+- [ ] Reporter-request newsletters: answer questions about xeriscape, steel, and drainage as a named expert
 
-**D. Press (weeks 8 to 12).** One standout project per pitch: the floating triangle planter, the plaster container pool, a carved boulder fire pit.
-- [ ] CultureMap Austin home and design
-- [ ] Tribeza
-- [ ] Austin Outdoor Living Tour
+**F. Mentions with no link (ongoing).**
+- [ ] Find pages that name Red Agave without linking, and ask for the link
 
-Source for B to D: `google-profile/link-prospects.md` (written July 2026). Each entry gets re-checked before we use it.
+Skipped because they cost money: Better Business Bureau accreditation, paid Houzz, AIA Austin allied membership, Home Builders Association membership, sponsored magazine placements.
+
+Source for several entries: `google-profile/link-prospects.md` (written July 2026). Each entry gets re-checked before we use it.
 
 ## Step 5. Measure (day 30, 60, 90)
 

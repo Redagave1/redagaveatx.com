@@ -78,4 +78,8 @@ The twelve old projects were deleted with Jensen's yes. Houzz keeps their photos
 
 How it was done: the upload page is https://www.houzz.com/uploadSpaces/uploadTo=project. Pick "Create a new project", fill the fields, hand the files to the page's file input, add them to the page's Dropzone queue, click Upload, close the photo editor, click Done, then set the description on the project's edit page. Photos must be JPEG and 1,000 pixels wide or more, under 10 MB per upload.
 
-Still open: Jensen's rights to the East Austin pool photos; whether to show the Tarrytown house-number photos; years for five projects; a new cover photo; a public reply to the one-star review from July 2022; asking recent clients for Houzz reviews.
+Added later on 2026-11-18, after Jensen said yes: project 12, "Pool, Screened Room, Teak Deck and Outdoor Kitchen, East Austin" (2023, five photos, Houzz id 7987483, links to /projects/ulit). Its description ends with "Photos by Kieran Reeves Photography."
+
+Do not ask Jensen about the limestone retaining wall job; he will say when it is done.
+
+Still open: whether to show the Tarrytown house-number photos; years for five projects; a new cover photo; a public reply to the one-star review from July 2022; asking recent clients for Houzz reviews.

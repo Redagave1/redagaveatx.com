@@ -15,7 +15,7 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 | Facebook | signed in as a profile named "Red Agave" that manages no Pages (Meta Business Suite: "does not have access to any Facebook Pages") | Page https://www.facebook.com/redagaveatx is "Red Agave ATX": 136 followers, category "Product/service", bio "Welcome to Red Agave...", no phone, address or hours, albums "Red Agave Landscape Projects" (121) and "Untitled album" (31) | Jensen signs in with the account that is admin of the page |
 | Nextdoor | no | Unknown whether a business page exists | Jensen signs in or creates the business page |
 | Bing Places | no (2026-11-19: Bing Places asks to choose Google, Facebook, Microsoft or work account) | Unknown | Jensen completes the sign-in at bing.com/forbusiness |
-| Apple Business | no | Unknown | Jensen signs in with an Apple account |
+| Apple Business | yes (2026-11-19, organization "red agave landscape", unverified) | Existing Maps place found: "Red Agave", 820 Indian Tree Trail, San Leanna, TX 78748, category Landscaping Service, hours Mon to Fri 9 to 5, no phone. Add-a-location wizard filled to step 4 of 4 (display name "Red Agave Landscape", phone, website, brand owned by the organization); NOT sent | Step 4 needs two verification methods from Jensen: Business ID (D-U-N-S or EIN), business license, domain validation (TXT record in DNS), lease, sales tax permit, utility bill or other document. Photos and hours (daily 6 AM to 8 PM, Tuesday to 8:30 PM) come after verification |
 | Thumbtack | no | Unknown | Jensen signs in or creates the free profile |
 | Angi | no | Unknown | Jensen signs in or creates the free profile |
 

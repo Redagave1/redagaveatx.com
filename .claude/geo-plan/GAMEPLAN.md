@@ -59,12 +59,13 @@ Claude drafts every profile text, request, and pitch. Jensen signs in, creates a
 - [ ] Ask three to five recent clients for a Houzz review (7 reviews there today)
 
 **A2. Pinterest, free (done 2026-11-18).**
-- [x] 91 pins on 9 boards (40, then 51 more the same day), each linking to its service or project page. Details and the upload steps in `pinterest-pins.md`.
+- [x] 137 pins on 15 boards (40 and 51 on 2026-11-18, then 46 on six new boards on 2026-11-19), each linking to its service, project or design plans page. Details and the upload steps in `pinterest-pins.md`.
 - [x] Profile name changed to "Red Agave Landscape"
 - [ ] Bio, website field and old saved pins: open items in `pinterest-pins.md` (need Jensen)
 
 **A3. Other photo sites (started 2026-11-18).** Jensen asked for photos on every free site, starting with Dwell and Architizer. Status per site in `photo-sites.md`.
-- [ ] Architizer: firm profile and seven projects (ready; waits on Jensen creating the account)
+- [x] Architizer: firm profile filled in and seven projects submitted 2026-11-19 (pending their review)
+- [ ] Architizer: five more signature projects, waiting on a build year for each from Jensen
 - [ ] Dwell: project posting is switched off on their side; check again later
 - [ ] Yelp, Facebook, Nextdoor, Bing Places, Apple Business, Thumbtack, Angi: photos and master description (each waits on Jensen signing in)
 

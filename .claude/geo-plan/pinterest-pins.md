@@ -1,7 +1,7 @@
-# Pinterest: boards and pins (2026-11-18)
+# Pinterest: boards and pins (2026-11-18 and 2026-11-19)
 
 Account: `redagave` ("Red Agave Landscape"), https://www.pinterest.com/redagave/_boards/
-Uploaded through Claude in Chrome with Jensen signed in, in two rounds on 2026-11-18: 40 pins on 8 new boards, then 51 more pins and a ninth board. 91 pins on 9 boards. Every pin has a title, a one-sentence description that ends with the area and "Red Agave Landscape.", and a link back to the matching page on redagaveatx.com.
+Uploaded through Claude in Chrome with Jensen signed in, in three rounds: 40 pins on 8 new boards and then 51 more pins and a ninth board (2026-11-18), then 46 pins on six more boards (2026-11-19, after Jensen said "we should do more boards"). 137 pins on 15 boards, checked on the boards page. Every pin has a title, a one-sentence description that ends with the area and "Red Agave Landscape.", and a link back to the matching page on redagaveatx.com.
 
 ## Boards
 
@@ -16,6 +16,12 @@ Uploaded through Claude in Chrome with Jensen signed in, in two rounds on 2026-1
 | Pools | 9 | /services/pools-austin-tx, /projects/ulit |
 | Landscape Lighting | 10 | /services/landscape-lighting-austin-tx, /projects/chrysler-bend, /projects/blazyk, /projects/riverview |
 | Walls, Fences and Gates | 5 | /services/masonry-concrete-austin-tx, /services/steel-retaining-walls-austin-tx, /projects/riverview |
+| Landscape Design Plans (round 3) | 13 | /designs |
+| Steel Retaining Walls (round 3) | 7 | /services/steel-retaining-walls-austin-tx, /projects/dormarion, /projects/blazyk |
+| Boulders and Rock Gardens (round 3) | 7 | water features and xeriscape pages, /projects/axehandle, /projects/dormarion, /projects/blazyk |
+| Artificial Turf Backyards (round 3) | 7 | /projects/riverview, /projects/flycatcher, /projects/madison |
+| Gravel Patios and Fire Pit Courts (round 3) | 5 | /services/fire-pits-austin-tx, /projects/blazyk |
+| Modern Concrete Pavers (round 3) | 7 | /services/patios-austin-tx, /services/hardscaping-austin-tx, /projects/axehandle, /projects/hopeland |
 
 ## Pin titles, round 1 (40)
 
@@ -57,9 +63,25 @@ Uploaded through Claude in Chrome with Jensen signed in, in two rounds on 2026-1
 
 The four East Austin pins credit the photographer in the description: "Photo: Kieran Reeves Photography."
 
+## Pin titles, round 3 (46, all on new boards)
+
+**Landscape Design Plans (13):** Design plan: steel terraces on a slope · Design plan: round water feature and two fire pits · Concept sketches: outdoor kitchen, screened porch and pool · Design plan: decks, diagonal pavers and a fire pit · Design plan: pool, pavers in turf and two fire pits · Design sketch: floating triangle steel planter · Design plan: pool, deck and fire court · Design plan: pool with a diagonal paver terrace · Design plan: fire pit court with dimensions · Design plan: side yard built around water · Design plan: decks, paver pads and water troughs · Design plan: pool and terracotta courtyard · Design sketch: cantilever planter and steel steps
+
+**Steel Retaining Walls (7):** Sealed steel retaining wall above a lawn (Tarrytown) · Steel terraces with boulders and grasses on a slope (Circle C) · Cantilevered steel planter over steel terraces (Circle C) · Curved steel wall holding a gravel cactus bed · Steel terraces stepping past limestone blocks · Steel retaining corner with yucca and red blooms · Steel-edged raised bed along a block wall
+
+**Boulders and Rock Gardens (7):** Square steel fire pit over boulders and ferns (Pflugerville) · Boulders in a river rock bed with steel edging (Tarrytown) · Boulder stream garden with ferns and heuchera · Burgundy heuchera among boulders by a stream · Boulders, grasses and a fire trough along a lit steel edge · Standing boulder in a steel box of river rock · Round boulders stepping down steel terraces (Circle C)
+
+**Artificial Turf Backyards (7):** Marbled concrete slabs set in synthetic turf · Concrete pads crossing a turf side yard · Turf steps with steel risers beside a pool (Cedar Creek) · Turf terraces and pavers stepping up to a pool (Cedar Creek) · Turf lawn with concrete pads and standing boulders · Turf yard with a gravel fire court at dusk · Stepped turf plinth under a steel planter
+
+**Gravel Patios and Fire Pit Courts (5):** Gravel patio in a steel frame with a block fire pit · Gravel fire court with white chairs under a tree · Gravel fire court with wood benches under an oak · Two boulder fire pits between wood benches · Fire boulder court behind a curved slatted bench (Circle C)
+
+**Modern Concrete Pavers (7):** Poured concrete pads with lit gravel joints (Pflugerville) · Concrete pads with black gravel joints below a deck · Raised paver patio with black bands and a steel edge · Paver patio corner with black banding · Large concrete pads with dark gravel joints · Concrete pad walkway with black gravel bands · Angled concrete pads beside a lit steel planter (Circle C)
+
 ## Where the photos came from
 
-Both rounds used the converted JPEGs made for the Houzz projects (the site's own project and gallery photos). Round 2 picked from the 143 that round 1 left unused; about 90 are still unused, mostly second angles of jobs already pinned and build-in-progress shots. One round 2 photo (side yard walkway) was cropped to remove a house number.
+Rounds 1 and 2 used the converted JPEGs made for the Houzz projects (the site's own project and gallery photos). Round 2 picked from the 143 that round 1 left unused. One round 2 photo (side yard walkway) was cropped to remove a house number.
+
+Round 3 used 33 more of those photos plus the 13 plan drawings from `images/designs` (Jensen's own plans, as shown on /designs). One photo (concrete pad walkway at a modern entry) was cropped below the front door so no house number can show. About 59 photos are still unused: mostly third angles of jobs already pinned, construction shots, and more views of the Circle C lounge and the screened room. Board ideas that were looked at and left out because the photos would repeat or look unfinished: construction process, cabanas and screened rooms, tropical pool gardens, outdoor kitchens (too few photos).
 
 ## Rules used
 
@@ -83,3 +105,13 @@ Source photos: JPEG, 1200 px or wider. Pin tool: https://www.pinterest.com/pin-c
 5. First pin of a new board: Tab, Tab lands on "Create board"; Return opens a dialog with the name filled in; click Create.
 6. If a board made a minute ago is missing from the board list, close the list with Escape and reload the pin tool. Drafts and their text are kept. Never click Create a second time.
 7. Five or six pins fit in one batch of browser steps. To fix a published pin, open it, use the three-dot menu, Edit Pin.
+
+Learned in round 3 (2026-11-19):
+
+- Click positions depend on the window size. Read them from the page first (first draft, Publish button, Create button) instead of reusing old numbers. At a 1200 by 894 view: first draft (1025,319), a single remaining draft (1025,283), Publish (794,117), Create in the new-board dialog (781,625).
+- One upload takes ten files at most; extra files are dropped without a message. Upload one board at a time.
+- After clicking Create for a new board, wait until the dialog is gone and the Board field shows the new name. It can take longer than three seconds.
+- A board made a minute ago was missing from the list on two of six new boards. Reload the pin tool, select the titled draft, focus the Board button, and pick the board.
+- If the board list opens unfiltered (the typed name did not land in the search box), stop and click the board's row directly. Wait three seconds after opening the list before typing.
+- If the draft count has not dropped 45 seconds after one Publish click, reload the pin tool. If the titled draft is still there, the click did not register: select it, check the fields, and click Publish once.
+- After a reload the draft thumbnails load at full size, so match drafts by height divided by width, not by height alone.

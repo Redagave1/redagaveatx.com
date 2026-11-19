@@ -63,6 +63,11 @@ Claude drafts every profile text, request, and pitch. Jensen signs in, creates a
 - [x] Profile name changed to "Red Agave Landscape"
 - [ ] Bio, website field and old saved pins: open items in `pinterest-pins.md` (need Jensen)
 
+**A3. Other photo sites (started 2026-11-18).** Jensen asked for photos on every free site, starting with Dwell and Architizer. Status per site in `photo-sites.md`.
+- [ ] Architizer: firm profile and seven projects (ready; waits on Jensen creating the account)
+- [ ] Dwell: project posting is switched off on their side; check again later
+- [ ] Yelp, Facebook, Nextdoor, Bing Places, Apple Business, Thumbtack, Angi: photos and master description (each waits on Jensen signing in)
+
 **B. Free listings AI reads (weeks 2 to 4).** One master sheet: name, address, phone, hours, a 50-word and a 150-word description, the service list, the two awards, ten photos. Then:
 - [ ] Yelp (already there: check hours and services)
 - [ ] Nextdoor business page

@@ -8,9 +8,9 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 |---|---|---|---|
 | Dwell | no | "Post a Project" page (dwell.com/addhome) says project creation is temporarily unavailable | Check again later; nothing can be posted now |
 | Architizer | no | Free firm profile, free project uploads. First project is reviewed by their staff before it shows; later ones publish at once | Jensen creates the account, then Claude builds the firm profile and uploads |
-| Instagram | yes (`redagaveatx`) | 26 posts, 361 followers, all art-directed carousels | Leave to the carousel workflow; no bulk photo posts |
-| YouTube | yes | 22 Shorts and 5 videos already up | No uploads needed; text cleanup below needs Jensen's yes |
-| Yelp for Business | no | Listing exists | Jensen signs in at biz.yelp.com |
+| Instagram | yes (`redagaveatx`) | 26 posts, 361 followers, all art-directed carousels | Hands off: Jensen runs it (said 2026-11-18) |
+| YouTube | yes | 22 Shorts and 5 videos already up | Hands off: Jensen runs it (said 2026-11-18) |
+| Yelp for Business | no | Claimed listing "Red Agave" at yelp.com/biz/red-agave-austin: 4.6 stars, 76 reviews, 419 photos already. Hours show 8 AM to 5 PM (master sheet says daily 6 AM to 8 PM), "No portfolio projects", "License not provided" | Jensen signs in at biz.yelp.com; then add portfolio projects, fix hours and name |
 | Facebook | no | Page exists (linked from the site) | Jensen signs in |
 | Nextdoor | no | Unknown whether a business page exists | Jensen signs in or creates the business page |
 | Bing Places | no | Unknown | Jensen signs in with a Microsoft account |
@@ -40,7 +40,7 @@ Firm profile text: the Standard description from `master-description.md`, websit
 
 Photo set: the 40 round 1 Pinterest photos (the best shot of each job), with the pin titles as captions. Text: `master-description.md`, word for word. No prices, no customer names, no photo with a house number.
 
-## YouTube: cleanup found, not done (needs Jensen's yes)
+## YouTube: cleanup found, not done (Jensen handles YouTube; do not touch)
 
 - One Short title starts with a job name ("Ryan beat ...", 2026-10-22), and the 2026-11-16 Short's description contains a file name with a job name in it.
 - Several descriptions still hold pasted draft text ("YouTube Description", "Option 2: Short & Punchy", "MOV + 1", "MP4 + 1") and one title starts with "lightbox reels 9x16".

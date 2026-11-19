@@ -19,6 +19,14 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 | Thumbtack | no | Unknown | Jensen signs in or creates the free profile |
 | Angi | no | Unknown | Jensen signs in or creates the free profile |
 
+## Second location: 7913 Posten Ln, Austin, TX 78744
+
+Jensen asked on 2026-11-19 to also add this address. Done on Architizer (firm page lists both addresses). BuildZoom takes one address only, so it keeps 820 Indian Tree Trail. Apple Business: add it as a second location once the organization is verified (the wizard cannot save a location before that). Bing Places, Yelp and the others: add it when Jensen is signed in.
+
+## Facebook: what the business login shows (2026-11-19)
+
+Jensen sent a screenshot of Meta Business Suite for the business portfolio "Red Agave Landscape": "No ad accounts" and "No Pages". The Red Agave ATX page is not in that portfolio, and the signed-in profile is not an admin of it. Do not create a new Page (it would duplicate the existing one with 136 followers and its reviews). Jensen has to log in with the account that is admin of Red Agave ATX, or add the page to the portfolio from that account.
+
 ## Architizer: done 2026-11-19
 
 Jensen created the account and the firm (company type "Construction Firm"). Jensen asked for all the signature projects, so the target is all twelve.

@@ -11,9 +11,10 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 | Instagram | yes (`redagaveatx`) | 26 posts, 361 followers, all art-directed carousels | Hands off: Jensen runs it (said 2026-11-18) |
 | YouTube | yes | 22 Shorts and 5 videos already up | Hands off: Jensen runs it (said 2026-11-18) |
 | Yelp for Business | no | Claimed listing "Red Agave" at yelp.com/biz/red-agave-austin: 4.6 stars, 76 reviews, 419 photos already. Hours show 8 AM to 5 PM (master sheet says daily 6 AM to 8 PM), "No portfolio projects", "License not provided" | Jensen signs in at biz.yelp.com; then add portfolio projects, fix hours and name |
-| Facebook | no | Page exists (linked from the site) | Jensen signs in |
+| BuildZoom | yes (2026-11-19, Jensen started the profile) | https://www.buildzoom.com/contractor/red-agave-landscape : name, description, founded 2009, website, Facebook and Yelp links, logo, banner, 4 featured photos, search photo, 12 project galleries (84 photos) | Shows a red "ALERT: no active license on file" and score 0. Needs from Jensen: license info if any, insurance carrier, amount and policy number, email and phone verification. Referral agreement NOT signed, no upgrade |
+| Facebook | signed in as a profile named "Red Agave" that manages no Pages (Meta Business Suite: "does not have access to any Facebook Pages") | Page https://www.facebook.com/redagaveatx is "Red Agave ATX": 136 followers, category "Product/service", bio "Welcome to Red Agave...", no phone, address or hours, albums "Red Agave Landscape Projects" (121) and "Untitled album" (31) | Jensen signs in with the account that is admin of the page |
 | Nextdoor | no | Unknown whether a business page exists | Jensen signs in or creates the business page |
-| Bing Places | no | Unknown | Jensen signs in with a Microsoft account |
+| Bing Places | no (2026-11-19: Bing Places asks to choose Google, Facebook, Microsoft or work account) | Unknown | Jensen completes the sign-in at bing.com/forbusiness |
 | Apple Business | no | Unknown | Jensen signs in with an Apple account |
 | Thumbtack | no | Unknown | Jensen signs in or creates the free profile |
 | Angi | no | Unknown | Jensen signs in or creates the free profile |

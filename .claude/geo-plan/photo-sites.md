@@ -7,7 +7,7 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 | Site | Signed in? | State | Next step |
 |---|---|---|---|
 | Dwell | no | "Post a Project" page (dwell.com/addhome) says project creation is temporarily unavailable | Check again later; nothing can be posted now |
-| Architizer | no | Free firm profile, free project uploads. First project is reviewed by their staff before it shows; later ones publish at once | Jensen creates the account, then Claude builds the firm profile and uploads |
+| Architizer | yes (2026-11-19) | Firm page https://architizer.com/firms/red-agave-landscape/ with description, phone, website and address. Seven projects submitted 2026-11-19, all "Pending Approval" (their staff review the first ones) | Five more projects need a build year from Jensen; then logo and cover image |
 | Instagram | yes (`redagaveatx`) | 26 posts, 361 followers, all art-directed carousels | Hands off: Jensen runs it (said 2026-11-18) |
 | YouTube | yes | 22 Shorts and 5 videos already up | Hands off: Jensen runs it (said 2026-11-18) |
 | Yelp for Business | no | Claimed listing "Red Agave" at yelp.com/biz/red-agave-austin: 4.6 stars, 76 reviews, 419 photos already. Hours show 8 AM to 5 PM (master sheet says daily 6 AM to 8 PM), "No portfolio projects", "License not provided" | Jensen signs in at biz.yelp.com; then add portfolio projects, fix hours and name |
@@ -18,23 +18,25 @@ Jensen asked on 2026-11-18 to put project photos on every free site that helps s
 | Thumbtack | no | Unknown | Jensen signs in or creates the free profile |
 | Angi | no | Unknown | Jensen signs in or creates the free profile |
 
-## Architizer: what is ready
+## Architizer: done 2026-11-19
 
-Rules read on their help pages: JPG or PNG only, 10 MB per image, no special characters in file names, no advertisements, only images we have the rights to. Fields per project: name, type, status, completion year, location, size, budget (leave empty: no prices), description.
+Jensen created the account and the firm (company type "Construction Firm"). Jensen asked for all the signature projects, so the target is all twelve.
 
-Upload order (strongest first, because the first one is the one their staff reviews). Names, descriptions and photos are the ones already used on Houzz (`houzz-projects.md`):
+Submitted (type Landscape + Planning, Private Garden; status Built; descriptions and photos as on Houzz; size and budget left empty):
 
-1. Floating Triangle Planter and Terraced Steel, Southeast Austin (2026), 5 photos
-2. Black Cantera Wall, Marbled Concrete and Floating Fire Pit, Austin (2024), 8 photos
-3. Round Water Feature and Two Steel Fire Pits, Southeast Austin (2025), 6 photos
-4. Large Pavers in Turf, Floating Steel Fire Pits and Native Planting, Cedar Creek (2024), 9 photos
-5. Steel Terraces, Fire Features and Deck on a Slope, Circle C, 7 photos
-6. Cantilevered Steel Planters and Steel Retaining Wall, Tarrytown (leave out the photos that show the house number)
-7. Terraced Turf Yard With Drilled Boulder Fire Pit and Lighting, Austin (2024), 10 photos
+1. Chrysler Bend: Floating Triangle Planter and Terraced Steel (2026, Austin), 5 photos
+2. Black Cantera Wall, Marbled Concrete and Floating Fire Pit (2024, Austin), 8 photos
+3. Round Water Feature and Two Steel Fire Pits (2025, Austin), 6 photos
+4. Large Pavers in Turf, Floating Steel Fire Pits and Native Planting (2024, Cedar Creek), 9 photos
+5. Terraced Turf Yard With Drilled Boulder Fire Pit and Lighting (2024, Austin), 10 photos
+6. Deck Over Flagstone, Steel Pergola Panels and Boulder Fire Pit (2024, Austin), 10 photos
+7. Pool, Screened Room, Teak Deck and Outdoor Kitchen (2023, Austin), 5 photos, description ends "Photos by Kieran Reeves Photography."
 
-Left out: the East Austin pool. Its photos are by Kieran Reeves Photography and Architizer removes images without clear permission; add it only if Jensen confirms the rights.
+Waiting on a build year from Jensen (the form will not create a built project without one): Steel Terraces, Fire Features and Deck on a Slope (Circle C); Cantilevered Steel Planters and Steel Retaining Wall (Tarrytown); Patio Courtyard With Boulder Fountains and a Floating Fire Pit (Pflugerville); Steel-Framed Screened Room With Cedar Skylights (South Austin); Steel Edging Cut Into Boulders (East Austin). Upload folders are ready in the scratchpad `architizer/` folder.
 
-Firm profile text: the Standard description from `master-description.md`, website https://www.redagaveatx.com, phone (512) 695-7566, office location Austin, TX.
+How it is done: open https://architizer.com/projects/create/?firm=firms.firm.217182. Step 1: name, type (scroll the list to "Landscape + Planning", tick Private Garden), status Built, year, location (type the city, then pick the suggestion; a typed city alone is refused). Create Project. Step 2: description, hand the files to the first file input, wait for "Upload Complete" on every tile, Finish. Rules: JPG or PNG, each side 1000 pixels or more, 10 MB per image.
+
+Not done yet: firm logo and cover image; the articles field (opens after the first approval).
 
 ## Listing sites: what is ready
 

@@ -303,6 +303,151 @@
       "card_alt": "Limestone chop block fire pit on basalt gravel with a dioon and clumping bamboo in South Austin",
       "card": "Limestone pavers in pea gravel, a chop block fire pit on basalt gravel, a deck, and welded steel between three gravels.",
       "llms": "Welded steel dividing basalt gravel, pea gravel and limestone gravel, with two-by-four-foot limestone pavers, a limestone chop block fire pit, a wood deck, dioon, clumping bamboo and artichoke agave."
+    },
+    {
+      "slug": "strass-drive",
+      "name": "Strass Drive",
+      "area": "Central Austin",
+      "year": "2018",
+      "date": "2026-11-20",
+      "title": "Strass Drive: Concrete Pavers + Steel, Austin | Red Agave",
+      "desc": "Central Austin front yard by Red Agave, built in 2018: oversized poured concrete pavers, basalt and marble gravel, and welded quarter-inch steel planters.",
+      "headline": "Strass Drive: Oversized Concrete Pavers, Basalt, Marble Gravel and Steel Planters in Central Austin, TX",
+      "schema_desc": "A front walk of oversized poured concrete pavers with basalt gravel joints, white marble gravel, welded quarter-inch steel edging and square steel planters, sky pencil holly and barrel cacti. Built in Central Austin in 2018. Designed and built by Red Agave Landscape.",
+      "kicker": "Poured Concrete &middot; Quarter-Inch Steel &middot; Basalt &middot; Marble",
+      "h2": "Oversized concrete pavers, black basalt, white marble, and quarter-inch steel.",
+      "paras": [
+        "Red Agave Landscape designed and built this front yard on Strass Drive in Central Austin in 2018. Oversized pavers of poured concrete lead from the street to the front door, with basalt gravel in the joints. Welded <a href=\"../services/steel-edging-austin-tx\">quarter-inch steel</a> frames the walk and keeps the black basalt apart from the white marble gravel.",
+        "Three square <a href=\"../services/custom-planters-austin-tx\">steel planters</a> sit in the marble gravel. Each one is filled with basalt and holds a barrel cactus. A long steel planter runs along the front wall of the house, planted with sky pencil holly. More barrel cacti grow in the basalt bed at the curb."
+      ],
+      "img_dir": "images/projects/strass-drive/",
+      "share": "strass-drive-share.webp",
+      "hero": {
+        "file": "01-concrete-paver-walk-steel-planters-barrel-cacti",
+        "pos": "50% 62%",
+        "alt": "Oversized poured concrete pavers with basalt gravel joints leading to a front door, beside square steel planters holding barrel cacti in white marble gravel, in Central Austin"
+      },
+      "figs": [
+        {
+          "file": "02-square-steel-planters-barrel-cacti-marble-gravel",
+          "alt": "Three square welded steel planters filled with basalt, each holding a barrel cactus, set in white marble gravel, with sky pencil holly along the front wall of the house, in Central Austin",
+          "cap_a": "01 &middot; Planters",
+          "cap_b": "Quarter-inch steel / barrel cacti"
+        },
+        {
+          "file": "03-oversized-concrete-pavers-basalt-joints-front-walk",
+          "alt": "Front walk of oversized poured concrete pavers framed in welded steel, with basalt gravel in the joints and white marble gravel on both sides, in Central Austin",
+          "cap_a": "02 &middot; Front Walk",
+          "cap_b": "Poured concrete / basalt joints"
+        }
+      ],
+      "built": [
+        {
+          "eb": "01 / Concrete",
+          "h": "Front Walk",
+          "items": [
+            "Oversized pavers of poured concrete",
+            "Basalt gravel in the joints",
+            "Runs from the curb to the front door"
+          ]
+        },
+        {
+          "eb": "02 / Steel",
+          "h": "Edging + Planters",
+          "items": [
+            "Welded quarter-inch steel",
+            "Steel frame around the walk",
+            "Three square steel planters",
+            "Long steel planter along the house"
+          ]
+        },
+        {
+          "eb": "03 / Ground",
+          "h": "Two Gravels",
+          "items": [
+            "Basalt gravel",
+            "Marble gravel"
+          ]
+        },
+        {
+          "eb": "04 / Plant Palette",
+          "h": "Planting",
+          "items": [
+            "Sky pencil holly",
+            "Barrel cacti"
+          ]
+        }
+      ],
+      "meta": [
+        [
+          "Built",
+          "2018"
+        ],
+        [
+          "Area",
+          "Central Austin"
+        ],
+        [
+          "Steel",
+          "Quarter-Inch, Welded"
+        ],
+        [
+          "Stone",
+          "Basalt + Marble"
+        ]
+      ],
+      "faqs": [
+        [
+          "What are the pavers made of?",
+          "Poured concrete. They are oversized pavers, with basalt gravel in the joints, and they run from the curb to the front door."
+        ],
+        [
+          "How thick is the steel?",
+          "A quarter inch. The edging and the planters are welded quarter-inch steel."
+        ],
+        [
+          "What are the white and black gravels?",
+          "The white gravel is marble and the black gravel is basalt. Welded steel keeps the two apart."
+        ],
+        [
+          "What is planted in this yard?",
+          "Sky pencil holly along the front wall of the house, and barrel cacti in the steel planters and the basalt beds."
+        ],
+        [
+          "Who built it, and when?",
+          "Red Agave Landscape built it in 2018, with our own crew. Every project starts with a free consultation, and the CAD plan is included."
+        ]
+      ],
+      "links": [
+        [
+          "../services/custom-planters-austin-tx",
+          "Custom steel planters"
+        ],
+        [
+          "../services/steel-edging-austin-tx",
+          "Steel edging"
+        ],
+        [
+          "../services/masonry-concrete-austin-tx",
+          "Masonry and concrete"
+        ],
+        [
+          "../services/xeriscape-austin-tx",
+          "Xeriscape"
+        ],
+        [
+          "../featured",
+          "Signature projects"
+        ],
+        [
+          "../contact",
+          "Free consultation"
+        ]
+      ],
+      "card_img": "01-concrete-paver-walk-steel-planters-barrel-cacti-800.webp",
+      "card_alt": "Oversized concrete pavers and square steel planters with barrel cacti in marble gravel in Central Austin",
+      "card": "Oversized poured concrete pavers with basalt joints, marble gravel, and welded quarter-inch steel planters with barrel cacti.",
+      "llms": "Front walk of oversized poured concrete pavers with basalt gravel joints, white marble gravel, welded quarter-inch steel edging and square steel planters, sky pencil holly and barrel cacti."
     }
   ]
 }

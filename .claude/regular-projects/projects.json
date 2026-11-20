@@ -45,29 +45,264 @@
         }
       ],
       "built": [
-        {"eb": "01 / Fire", "h": "Fire Pit", "items": ["Custom formed and framed", "Poured concrete", "Square fire pit", "Form board lines left in the faces"]},
-        {"eb": "02 / Steel", "h": "Gravel Court", "items": ["Raised court framed in steel", "Dark gravel", "Lower steel-framed step at the lawn"]},
-        {"eb": "03 / Green", "h": "Trellis", "items": ["Steel posts and rails", "Wire grid panels", "Wraps two sides of the court", "Jasmine"]}
+        {
+          "eb": "01 / Fire",
+          "h": "Fire Pit",
+          "items": [
+            "Custom formed and framed",
+            "Poured concrete",
+            "Square fire pit",
+            "Form board lines left in the faces"
+          ]
+        },
+        {
+          "eb": "02 / Steel",
+          "h": "Gravel Court",
+          "items": [
+            "Raised court framed in steel",
+            "Dark gravel",
+            "Lower steel-framed step at the lawn"
+          ]
+        },
+        {
+          "eb": "03 / Green",
+          "h": "Trellis",
+          "items": [
+            "Steel posts and rails",
+            "Wire grid panels",
+            "Wraps two sides of the court",
+            "Jasmine"
+          ]
+        }
       ],
-      "meta": [["Built", "2018"], ["Area", "East Austin"], ["Fire", "Poured Concrete"], ["Trellis", "Steel + Jasmine"]],
+      "meta": [
+        [
+          "Built",
+          "2018"
+        ],
+        [
+          "Area",
+          "East Austin"
+        ],
+        [
+          "Fire",
+          "Poured Concrete"
+        ],
+        [
+          "Trellis",
+          "Steel + Jasmine"
+        ]
+      ],
       "faqs": [
-        ["What is the fire pit made of?", "Poured concrete. Red Agave formed and framed it for this yard, and the lines of the form boards show on its faces."],
-        ["What holds the gravel court?", "Steel. The court is a raised bed of dark gravel framed in steel, with a second, lower steel frame as the step up from the lawn."],
-        ["What grows on the trellis?", "Jasmine. The trellis is steel with wire grid panels, and it wraps around two sides of the seating area."],
-        ["Who built it, and when?", "Red Agave Landscape built it in 2018, with our own crew. Every project starts with a free consultation, and the CAD plan is included."]
+        [
+          "What is the fire pit made of?",
+          "Poured concrete. Red Agave formed and framed it for this yard, and the lines of the form boards show on its faces."
+        ],
+        [
+          "What holds the gravel court?",
+          "Steel. The court is a raised bed of dark gravel framed in steel, with a second, lower steel frame as the step up from the lawn."
+        ],
+        [
+          "What grows on the trellis?",
+          "Jasmine. The trellis is steel with wire grid panels, and it wraps around two sides of the seating area."
+        ],
+        [
+          "Who built it, and when?",
+          "Red Agave Landscape built it in 2018, with our own crew. Every project starts with a free consultation, and the CAD plan is included."
+        ]
       ],
       "links": [
-        ["../services/fire-pits-austin-tx", "Custom fire pits"],
-        ["../services/steel-edging-austin-tx", "Steel edging"],
-        ["../services/masonry-concrete-austin-tx", "Masonry and concrete"],
-        ["../blog/custom-fire-pits-austin-tx", "How we design fire pits"],
-        ["../featured", "Signature projects"],
-        ["../contact", "Free consultation"]
+        [
+          "../services/fire-pits-austin-tx",
+          "Custom fire pits"
+        ],
+        [
+          "../services/steel-edging-austin-tx",
+          "Steel edging"
+        ],
+        [
+          "../services/masonry-concrete-austin-tx",
+          "Masonry and concrete"
+        ],
+        [
+          "../blog/custom-fire-pits-austin-tx",
+          "How we design fire pits"
+        ],
+        [
+          "../featured",
+          "Signature projects"
+        ],
+        [
+          "../contact",
+          "Free consultation"
+        ]
       ],
       "card_img": "01-concrete-fire-pit-steel-court-jasmine-trellis-800.webp",
       "card_alt": "Poured concrete fire pit on a steel-framed gravel court with a jasmine trellis in East Austin",
       "card": "A poured concrete fire pit on a steel-framed gravel court, wrapped by a steel trellis with jasmine.",
       "llms": "Custom formed and poured concrete fire pit on a raised gravel court framed in steel, with a wrap-around steel trellis carrying jasmine."
+    },
+    {
+      "slug": "williston-loop",
+      "name": "Williston Loop",
+      "area": "South Austin",
+      "year": "2018",
+      "date": "2026-11-20",
+      "title": "Williston Loop: Limestone + Steel, South Austin | Red Agave",
+      "desc": "South Austin yard by Red Agave, built in 2018: limestone pavers in pea gravel, a chop block fire pit on basalt gravel, a deck and welded steel edging.",
+      "headline": "Williston Loop: Limestone Pavers, Three Gravels and a Chop Block Fire Pit in South Austin, TX",
+      "schema_desc": "Welded steel dividing beds of basalt gravel, pea gravel and limestone gravel, with two-by-four-foot limestone pavers, a limestone chop block fire pit, a wood deck, dioon, clumping bamboo and artichoke agave. Built in South Austin in 2018. Designed and built by Red Agave Landscape.",
+      "kicker": "Limestone &middot; Welded Steel &middot; Basalt &middot; Pea Gravel",
+      "h2": "Three gravels, limestone pavers, and a chop block fire pit, held by welded steel.",
+      "paras": [
+        "Red Agave Landscape designed and built this back yard and side yard on Williston Loop in South Austin in 2018. <a href=\"../services/steel-edging-austin-tx\">Welded steel</a> divides the ground into beds of basalt gravel, pea gravel and limestone gravel. Limestone pavers, each two feet by four feet, run down the side yard to a wood deck and a limestone chop block <a href=\"../services/fire-pits-austin-tx\">fire pit</a>.",
+        "The pavers sit in pea gravel inside a raised steel frame. Limestone gravel fills the paths beside them, and the fire pit stands on a square of basalt gravel. The planting is <a href=\"../blog/dioon-vs-sago-palm-austin-tx\">dioon</a>, clumping bamboo and <a href=\"../blog/artichoke-agave-austin-tx\">artichoke agave</a>. The dioons grow in pea gravel beds along the fence, and the bamboo grows along the back fence."
+      ],
+      "img_dir": "images/projects/williston-loop/",
+      "share": "williston-loop-share.webp",
+      "hero": {
+        "file": "01-chop-block-fire-pit-basalt-gravel-dioon-bamboo",
+        "pos": "50% 58%",
+        "alt": "Square limestone chop block fire pit on basalt gravel, with a dioon in a pea gravel bed edged in welded steel and clumping bamboo along the fence, in South Austin"
+      },
+      "figs": [
+        {
+          "file": "02-limestone-pavers-pea-gravel-welded-steel-side-yard",
+          "alt": "Two-by-four-foot limestone pavers set in pea gravel inside a welded steel frame, running down a side yard between limestone gravel and basalt gravel, in South Austin",
+          "cap_a": "01 &middot; Pavers",
+          "cap_b": "Limestone in pea gravel / welded steel"
+        },
+        {
+          "file": "03-limestone-chop-block-fire-pit-paver-path",
+          "alt": "Limestone chop block fire pit with limestone caps on basalt gravel, looking back along the paver path, with two dioons in pea gravel along the fence, in South Austin",
+          "cap_a": "02 &middot; Fire Pit",
+          "cap_b": "Limestone chop block / basalt gravel"
+        },
+        {
+          "file": "04-dioon-pea-gravel-fire-pit-deck-steps",
+          "alt": "Dioon planted in pea gravel beside a limestone gravel path, with the chop block fire pit on basalt gravel and the deck steps behind, in South Austin",
+          "cap_a": "03 &middot; Planting",
+          "cap_b": "Dioon in pea gravel"
+        },
+        {
+          "file": "05-limestone-gravel-court-pavers-deck",
+          "alt": "Limestone gravel beside a raised steel-framed bed of pea gravel and limestone pavers, leading to the wood deck steps and the fire pit, in South Austin",
+          "cap_a": "04 &middot; Gravel",
+          "cap_b": "Limestone gravel / deck steps"
+        }
+      ],
+      "built": [
+        {
+          "eb": "01 / Ground",
+          "h": "Three Gravels",
+          "items": [
+            "Basalt gravel",
+            "Pea gravel",
+            "Limestone gravel"
+          ]
+        },
+        {
+          "eb": "02 / Stone",
+          "h": "Pavers + Fire Pit",
+          "items": [
+            "Limestone pavers, 2 ft by 4 ft",
+            "Limestone chop block fire pit",
+            "Limestone caps on the fire pit"
+          ]
+        },
+        {
+          "eb": "03 / Steel + Wood",
+          "h": "Steel + Deck",
+          "items": [
+            "Welded steel between every gravel",
+            "Raised steel frame around the paver path",
+            "Wood deck with steps"
+          ]
+        },
+        {
+          "eb": "04 / Plant Palette",
+          "h": "Planting",
+          "items": [
+            "Dioon",
+            "Clumping bamboo",
+            "Artichoke agave"
+          ]
+        }
+      ],
+      "meta": [
+        [
+          "Built",
+          "2018"
+        ],
+        [
+          "Area",
+          "South Austin"
+        ],
+        [
+          "Stone",
+          "Limestone"
+        ],
+        [
+          "Steel",
+          "Welded"
+        ]
+      ],
+      "faqs": [
+        [
+          "What are the three gravels?",
+          "Basalt gravel around the fire pit, pea gravel around the pavers and in the planting beds, and limestone gravel on the paths. Welded steel keeps each one in its own bed."
+        ],
+        [
+          "What is a chop block fire pit?",
+          "A fire pit built from limestone chop block, which is limestone cut into blocks with a rough face. This one is square, with limestone caps."
+        ],
+        [
+          "What size are the limestone pavers?",
+          "Two feet by four feet. They are set in pea gravel inside a raised welded steel frame."
+        ],
+        [
+          "What is planted in this yard?",
+          "Dioon, clumping bamboo and artichoke agave."
+        ],
+        [
+          "Who built it, and when?",
+          "Red Agave Landscape built it in 2018, with our own crew. Every project starts with a free consultation, and the CAD plan is included."
+        ]
+      ],
+      "links": [
+        [
+          "../services/steel-edging-austin-tx",
+          "Steel edging"
+        ],
+        [
+          "../services/fire-pits-austin-tx",
+          "Custom fire pits"
+        ],
+        [
+          "../services/xeriscape-austin-tx",
+          "Xeriscape"
+        ],
+        [
+          "../services/custom-decks-austin-tx",
+          "Custom decks"
+        ],
+        [
+          "../blog/dioon-vs-sago-palm-austin-tx",
+          "Dioon vs. sago palm"
+        ],
+        [
+          "../featured",
+          "Signature projects"
+        ],
+        [
+          "../contact",
+          "Free consultation"
+        ]
+      ],
+      "card_img": "01-chop-block-fire-pit-basalt-gravel-dioon-bamboo-768.webp",
+      "card_alt": "Limestone chop block fire pit on basalt gravel with a dioon and clumping bamboo in South Austin",
+      "card": "Limestone pavers in pea gravel, a chop block fire pit on basalt gravel, a deck, and welded steel between three gravels.",
+      "llms": "Welded steel dividing basalt gravel, pea gravel and limestone gravel, with two-by-four-foot limestone pavers, a limestone chop block fire pit, a wood deck, dioon, clumping bamboo and artichoke agave."
     }
   ]
 }

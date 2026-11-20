@@ -16,6 +16,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 BANNED = ["bare steel", "raw steel", "—", "&mdash;", " may ", " might ", "not sure", "uncertain", "we think", "probably", "it depends",
           "subcontract", "butcher", "design fee", "$", "Corten", "neighbor", "Southern Love", "Cutters", "Blazyk", "Hopeland", "Flycatcher",
           "Fly Catcher", "Axehandle", "Dormarion", "Riverview", "Madison", "Ulit", "Silhouette", "Allison"]
+KNOWN = set()   # slugs being built in this run (a page may link to one that is written after it)
 e = lambda x: html.escape(x, quote=True)
 ld = lambda d: '<script type="application/ld+json">' + json.dumps(d, ensure_ascii=False) + "</script>"
 
@@ -44,7 +45,7 @@ CSS_ADD = """
 .pj-sig:hover{border-color:var(--gold-pulse);color:var(--gold-pulse)}
 .pj-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;max-width:1320px;margin:0 auto;padding:0 48px 150px}
 .pj-card{display:block;color:var(--cream)}
-.pj-card-media{aspect-ratio:4/3;overflow:hidden;background:#111}
+.pj-card-media{display:block;aspect-ratio:4/3;overflow:hidden;background:#111}
 .pj-card-media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .9s cubic-bezier(.2,.7,.2,1)}
 .pj-card:hover .pj-card-media img{transform:scale(1.04)}
 .pj-card-eb{display:block;margin-top:18px;font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--gold)}
@@ -96,7 +97,7 @@ def check(name, title, desc, body, out, schemas, base_dir):
     assert not hits, f"{name}: banned wording {hits}"
     miss = []
     for h in re.findall(r'(?:href|src)="([^"#]+)"', body) + [u.split(" ")[0] for ss in re.findall(r'srcset="([^"]+)"', body) for u in ss.split(", ")]:
-        if h.startswith(("http", "sms:", "tel:", "mailto:")): continue
+        if h.startswith(("http", "sms:", "tel:", "mailto:")) or h in KNOWN: continue
         p = os.path.normpath(os.path.join(ROOT, base_dir, h))
         if not (os.path.exists(p) or os.path.exists(p + ".html") or os.path.isdir(p)): miss.append(h)
     assert not miss, f"{name}: missing targets {miss}"
@@ -137,7 +138,7 @@ def build_page(sp, pre, fonts, css, foot, nxt):
 <section class="thr">
   <a href="./" class="thr-back t-eyebrow">All Projects</a>
   <div class="thr-media">
-    <img class="thr-img" fetchpriority="high" src="{rel}{hero["file"]}-{hws[-1]}.webp" srcset="{", ".join(f"{rel}{hero['file']}-{w}.webp {w}w" for w in hws)}" sizes="100vw" alt="{e(hero["alt"])}">
+    <img class="thr-img" fetchpriority="high"{' style="object-position:' + hero["pos"] + '"' if hero.get("pos") else ""} src="{rel}{hero["file"]}-{hws[-1]}.webp" srcset="{", ".join(f"{rel}{hero['file']}-{w}.webp {w}w" for w in hws)}" sizes="100vw" alt="{e(hero["alt"])}">
   </div>
   <div class="thr-scrim"></div>
   <div class="thr-inner">
@@ -318,6 +319,7 @@ def main():
     cfg, items = data["index"], data["projects"]
     pre, fonts, css, foot = shell()
     own = [sp for sp in items if not sp.get("external")]
+    KNOWN.update(sp["slug"] for sp in own)
     for i, sp in enumerate(own):
         if len(own) > 1:
             n = own[(i + 1) % len(own)]

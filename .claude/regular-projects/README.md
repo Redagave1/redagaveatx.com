@@ -8,7 +8,7 @@ Two tiers:
 
 ## Add a project
 
-1. Jensen sends photos and a few words (street, year, what was built). Look at every photo. Leave out any that show a house number.
+1. Jensen sends photos and a few words (street, year, what was built). Look at every photo, and zoom in on the front door, mailbox and curb. Leave out any photo that shows a house number, or paint the number out first when the photo is needed (Strass Drive: a patch of the same wood wall copied over the digits, then checked zoomed in). Chat photos often arrive twice; use one of each.
 2. Save the photos as WebP in `images/projects/<slug>/`, named `NN-what-it-shows-<width>.webp`, at the widest size you have and at 800. Make a 1200 by 630 share image.
 3. Add an entry to `projects.json` (copy Signal Point).
 4. Build and register: `python3 -I .claude/regular-projects/build_regular.py . --register`

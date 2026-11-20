@@ -339,6 +339,24 @@
   force = true
 
 [[redirects]]
+  from = "/locations/leander-tx.html"
+  to = "/locations/leander-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/process.html"
+  to = "/process"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/faq.html"
+  to = "/faq"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/designs.html"
   to = "/designs"
   status = 301

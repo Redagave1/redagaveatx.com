@@ -16,9 +16,9 @@ FAQS = [
     ("How are the joints made?",
      "Each length is butt-welded to the next on site, and the weld is ground smooth and flush. A run of our edging has no clips, bolts, or overlaps."),
     ("Does steel edging rust through?",
-     "No. Raw mild steel forms a stable layer of rust that seals the steel under it. At a quarter inch thick, decades of surface rust leave far more steel than the edge needs."),
+     "No. Uncoated mild steel forms a stable layer of rust that seals the steel under it. At a quarter inch thick, decades of surface rust leave far more steel than the edge needs."),
     ("How long does the rust patina take?",
-     "Raw steel develops a natural rust patina over 6 to 12 months. It starts bright orange in the first weeks and settles to an even rust-brown."),
+     "Uncoated steel develops a natural rust patina over 6 to 12 months. It starts bright orange in the first weeks and settles to an even rust-brown."),
     ("Can steel edging be black?",
      "Yes. Steel can be powder-coated in black, dark bronze, or charcoal. It can also be clear-coated to hold its dark gray color, or wax-sealed to hold a patina tone."),
     ("Can steel edging curve?",
@@ -60,7 +60,7 @@ S += sec("How We Build", "How Is Our Steel Edging Made and Installed?", f"""    
     {step(3, "Stakes", "Half-inch rebar stakes are MIG-welded to the back of the plate every 3 to 4 feet, where they are hidden. They are driven 12 to 18 inches into the ground.")}
     {step(4, "Joints", "Each length is butt-welded to the next on site. The weld is ground smooth and flush, so the run reads as one continuous band of steel.")}
     {step(5, "Curves and Corners", "Curves are rolled, bent, or heated on site to the line on the plan. Corners are cut and welded.")}
-    {step(6, "Finish", "The steel is left raw to weather, or it is coated. Then the gravel, the mulch, and the planting go in against it.")}""")
+    {step(6, "Finish", "The steel is left to weather, or it is coated. Then the gravel, the mulch, and the planting go in against it.")}""")
 
 S += sec("Curves", "How Do We Bend Steel Into Curves?", f"""    <p>By the radius. A wide sweep and a tight ring are made in different ways.</p>
     <table class="cost-table">
@@ -72,7 +72,7 @@ S += sec("Curves", "How Do We Bend Steel Into Curves?", f"""    <p>By the radius
       </tbody></table>
     <p>Thin edging shows a curve as a row of short straight pieces. Quarter-inch plate bends into one true arc.</p>""", alt=True)
 
-S += sec("Patina", "How Does Steel Edging Age?", f"""    <p>It rusts on the surface, and then it stops. Raw mild steel develops a natural rust patina over 6 to 12 months. The stable layer of rust seals the steel under it.</p>
+S += sec("Patina", "How Does Steel Edging Age?", f"""    <p>It rusts on the surface, and then it stops. Uncoated mild steel develops a natural rust patina over 6 to 12 months. The stable layer of rust seals the steel under it.</p>
     <table class="cost-table">
       <thead><tr><th>Time</th><th>Color</th></tr></thead><tbody>
       <tr><td>Weeks 1 to 2</td><td>Bright orange flash rust</td></tr>
@@ -89,7 +89,7 @@ S += sec("Patina", "How Does Steel Edging Age?", f"""    <p>It rusts on the surf
       <li><strong>Wax-sealed:</strong> wax applied once the patina has started holds that tone.</li>
     </ul>
     {fig([("images/gallery/IMG_0991-800.webp", 800, 600, "Rust-patina steel edging holding a gravel bed of agaves, prickly pear, and fountain grass, with tan decomposed granite in front")],
-         "Raw steel after it has weathered: an even rust-brown edge around a gravel bed.")}""")
+         "Uncoated steel after it has weathered: an even rust-brown edge around a gravel bed.")}""")
 
 S += sec("Steel and Stone", "What Happens Where the Edge Meets a Boulder?", f"""    <p>The steel goes into the stone. We set the boulder first, cut a narrow slot into the rock with an angle grinder, and seat the quarter-inch plate inside it. The steel does not stop short of the boulder or bend around it.</p>
     <p>A gap is where an edge fails. If the steel stops beside a boulder, the gravel and the mulch meet in the space between them. With the plate inside the stone, there is no opening. See our post on <a href="../blog/steel-edging-cut-into-boulders-austin-tx">steel edging cut into boulders</a>.</p>

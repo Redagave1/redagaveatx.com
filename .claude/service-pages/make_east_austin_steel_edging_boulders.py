@@ -32,7 +32,6 @@ FAQS = [
 
 SPEC = {
  "slug": "east-austin-steel-edging-boulders",
- "num": "12",
  "date": "2026-11-20",
  "title": "Steel Edging Cut Into Boulders, East Austin | Red Agave",
  "desc": "East Austin front yard by Red Agave: 1/4-inch steel edging seated in slots cut into the boulders with an angle grinder, so steel and stone read as one.",

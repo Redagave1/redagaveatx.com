@@ -1000,7 +1000,13 @@
 
 [[redirects]]
   from = "/projects/barton-plunge.html"
-  to = "/projects/barton-plunge"
+  to = "/services/container-plunge-pools-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/barton-plunge"
+  to = "/services/container-plunge-pools-austin-tx"
   status = 301
   force = true
 
@@ -1120,7 +1126,13 @@
 
 [[redirects]]
   from = "/projects/pflugerville-xeriscape.html"
-  to = "/projects/pflugerville-xeriscape"
+  to = "/services/xeriscape-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/pflugerville-xeriscape"
+  to = "/services/xeriscape-austin-tx"
   status = 301
   force = true
 

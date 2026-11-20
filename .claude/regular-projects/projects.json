@@ -500,6 +500,17 @@
       "card_img": "triangle-fire-pit-share.webp",
       "card_alt": "Triangle steel fire pit burning at the edge of a stock tank pool, with water falling from its spillway, in Austin",
       "card": "A triangle steel fire pit set at the edge of a stock tank pool, with a steel spillway that pours into the water."
+    },
+    {
+      "slug": "east-austin-steel-edging-boulders",
+      "external": true,
+      "name": "Steel Edging Cut Into Boulders",
+      "area": "East Austin",
+      "date": "2026-11-20",
+      "img_dir": "images/projects/east-austin-steel-boulders/",
+      "card_img": "03-finished-steel-edging-boulders-mulch-fern-800.webp",
+      "card_alt": "Quarter-inch steel edging seated in a slot cut into a boulder, with mulch and a fern on one side and river rock on the other, in East Austin",
+      "card": "Quarter-inch steel edging seated in slots cut into the boulders with an angle grinder, so steel and stone read as one."
     }
   ]
 }

@@ -9,7 +9,7 @@ SLUG = "chrysler-bend"
 URL = f"https://www.redagaveatx.com/projects/{SLUG}"
 IMG = "../images/projects/southeast-austin-triangle-planter/"
 ABS = "https://www.redagaveatx.com/images/projects/southeast-austin-triangle-planter/"
-TITLE = "Floating Triangle Planter, Southeast Austin | Red Agave"
+TITLE = "Chrysler Bend: Triangle Planter, Easton Park | Red Agave"
 DESC = "Southeast Austin front yard by Red Agave: terraced steel beds with a custom light rim, a floating triangle planter, century agave, and basalt gravel."
 BANNED = ["bare steel", "—", "&mdash;", " may ", " might ", "not sure", "uncertain", "we think", "probably", "it depends", "subcontract", "butcher",
           "design fee", "$", "Corten", "neighbor", "Southern Love", "Blazyk", "Hopeland", "Flycatcher", "Fly Catcher", "Axehandle",
@@ -71,14 +71,14 @@ BODY = f"""<body>
     <div class="thr-top">
       <div class="thr-locator">
         <span class="line-mask" data-delay="1"><span class="t-eyebrow with-line">Project / 09</span></span>
-        <span class="line-mask" data-delay="2"><span class="t-eyebrow">Southeast Austin, Texas</span></span>
+        <span class="line-mask" data-delay="2"><span class="t-eyebrow">Easton Park, Southeast Austin, Texas</span></span>
       </div>
       <span class="line-mask" data-delay="3"><span class="thr-num">09</span></span>
     </div>
     <div class="thr-bottom">
       <h1 class="line-mask" data-delay="2"><span class="thr-title thr-title-2">Chrysler Bend</span></h1>
       <div class="thr-meta line-mask" data-delay="4">
-        <span class="t-eyebrow">Residence &middot; Southeast Austin, TX</span>
+        <span class="t-eyebrow">Residence &middot; Easton Park, Southeast Austin, TX</span>
         <span class="t-eyebrow">Terraced steel &middot; Light rim &middot; Angle iron &middot; Basalt gravel</span>
       </div>
     </div>

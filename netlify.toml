@@ -117,6 +117,42 @@
   force = true
 
 [[redirects]]
+  from = "/blog/outdoor-kitchen-builders-austin-tx.html"
+  to = "/blog/outdoor-kitchen-builders-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pool-and-fire-feature-design-build-austin-tx.html"
+  to = "/blog/pool-and-fire-feature-design-build-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/do-outdoor-kitchens-add-value-austin-tx.html"
+  to = "/blog/do-outdoor-kitchens-add-value-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pergola-vs-pavilion-vs-shade-sail-austin-tx.html"
+  to = "/blog/pergola-vs-pavilion-vs-shade-sail-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/xeriscaping-benefits-austin-tx.html"
+  to = "/blog/xeriscaping-benefits-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/hardscape-vs-xeriscape-austin-tx.html"
+  to = "/blog/hardscape-vs-xeriscape-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/modern-landscaping-austin-tx.html"
   to = "/blog/modern-landscaping-austin-tx"
   status = 301

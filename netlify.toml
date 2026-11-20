@@ -1012,7 +1012,13 @@
 
 [[redirects]]
   from = "/projects/blazyk-transformation.html"
-  to = "/projects/blazyk-transformation"
+  to = "/projects/blazyk"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/blazyk-transformation"
+  to = "/projects/blazyk"
   status = 301
   force = true
 
@@ -1024,7 +1030,13 @@
 
 [[redirects]]
   from = "/projects/circle-c-outdoor-living.html"
-  to = "/projects/circle-c-outdoor-living"
+  to = "/projects/hopeland"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/circle-c-outdoor-living"
+  to = "/projects/hopeland"
   status = 301
   force = true
 
@@ -1114,7 +1126,13 @@
 
 [[redirects]]
   from = "/projects/lakeway-hardscape.html"
-  to = "/projects/lakeway-hardscape"
+  to = "/services/marbled-concrete-patios-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/lakeway-hardscape"
+  to = "/services/marbled-concrete-patios-austin-tx"
   status = 301
   force = true
 
@@ -1138,7 +1156,13 @@
 
 [[redirects]]
   from = "/projects/riverview-fire.html"
-  to = "/projects/riverview-fire"
+  to = "/projects/riverview"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/riverview-fire"
+  to = "/projects/riverview"
   status = 301
   force = true
 
@@ -1150,7 +1174,13 @@
 
 [[redirects]]
   from = "/projects/tarrytown-glow.html"
-  to = "/projects/tarrytown-glow"
+  to = "/services/landscape-lighting-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/tarrytown-glow"
+  to = "/services/landscape-lighting-austin-tx"
   status = 301
   force = true
 
@@ -1162,7 +1192,13 @@
 
 [[redirects]]
   from = "/projects/westlake-steel.html"
-  to = "/projects/westlake-steel"
+  to = "/services/steel-retaining-walls-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/westlake-steel"
+  to = "/services/steel-retaining-walls-austin-tx"
   status = 301
   force = true
 

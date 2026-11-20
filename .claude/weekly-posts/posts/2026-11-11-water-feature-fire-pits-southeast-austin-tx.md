@@ -71,7 +71,7 @@ Fire beside water is the point of the layout. The front fire pit sits at the foo
 
 [[fig images/projects/se-austin-fire-water/16-floating-fire-pit-curved-steel-800.webp | Curved steel fire pit set off the concrete in front of a round water feature during the build in Southeast Austin ;; images/projects/se-austin-fire-water/17-fire-pit-burner-pan-boulders-800.webp | Square steel fire pit pan with a ring burner resting between two boulders in Southeast Austin || The curved steel of the floating fire pit during the build, and the steel pan and ring burner of the second fire pit between its two boulders.]]
 
-A floating fire pit does not have to be steel. On [our East Austin project](../projects/riverview-fire), the floating fire pit is concrete and sits on hidden legs.
+A floating fire pit does not have to be steel. On [our East Austin project](../projects/riverview), the floating fire pit is concrete and sits on hidden legs.
 
 Our post on [custom fire pits in Austin](custom-fire-pits-austin-tx) shows the plan this yard was drawn from, next to the finished fires. See our [custom fire pits](../services/fire-pits-austin-tx) page, our guide to [gas and wood fire pits](gas-vs-wood-fire-pit-austin-tx), and our notes on [fire pit engineering](fire-pit-engineering-austin-tx).
 

@@ -12,7 +12,7 @@ image: images/projects/ulit/030-1200.webp
 cta_title: Design Your Yard With Red Agave
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
 related:
-  - landscape-design-build-austin-tx | Landscape Design Build in Austin, TX | A Circle C yard followed from the plan to the finished build.
+  - landscape-design-build-austin-tx | Landscape Design Build in Austin, TX | A Southwest Austin yard followed from the plan to the finished build.
   - custom-fire-pits-austin-tx | Custom Fire Pits in Austin, TX | Two fires drawn and built around one round pool.
   - how-to-choose-landscaper-austin-tx | How to Choose a Landscaper in Austin | What to ask before you hire.
 ---
@@ -35,15 +35,15 @@ Not the price of any one feature. A yard reads as high-end when everything in it
 
 Because a luxury yard is one design. Every Red Agave project starts with a free consultation, and the owner, Jensen Mehrens, draws the plan. It sets the layout, the sizes, and the materials before anything is ordered.
 
-In Circle C, that plan turned a bare slope into two deck levels, a gravel fire court, and steel terraces. You can see the drawing next to the finished yard in our post on [landscape design build](landscape-design-build-austin-tx), and more drawings on our [design plans](../designs) page.
+At the Overlook at Lewis Mountain in Southwest Austin, that plan turned a bare slope into two deck levels, a gravel fire court, and steel terraces. You can see the drawing next to the finished yard in our post on [landscape design build](landscape-design-build-austin-tx), and more drawings on our [design plans](../designs) page.
 
 ## What Does Custom Steel Add?
 
 Shapes you cannot buy. We cut steel plate and weld it on site, so the steel fits the yard and not the other way around.
 
-[[fig images/projects/blazyk/IMG_3193-800.webp | Steel terraces of dark gravel, boulders, and sedges stepping up to a gravel court with two fires in Circle C, Austin ;; images/projects/se-austin-fire-water/21-water-feature-curved-fire-pit-dusk-800.webp | Curved steel fire pit burning at the foot of a round raised water feature at dusk in Southeast Austin || Steel terraces in Circle C, and a steel fire pit bent to follow a round pool in Southeast Austin.]]
+[[fig images/projects/blazyk/IMG_3193-800.webp | Steel terraces of dark gravel, boulders, and sedges stepping up to a gravel court with two fires at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/se-austin-fire-water/21-water-feature-curved-fire-pit-dusk-800.webp | Curved steel fire pit burning at the foot of a round raised water feature at dusk in Southeast Austin || Steel terraces at Lewis Mountain, and a steel fire pit bent to follow a round pool in Southeast Austin.]]
 
-- **Terraces:** in Circle C, quarter-inch steel edges every level of the slope
+- **Terraces:** at Lewis Mountain, quarter-inch steel edges every level of the slope
 - **Fire:** in Southeast Austin, a steel fire pit is bent to follow the round wall of a pool
 - **Planters:** steel planters stand on tapered bases and are lit from inside
 

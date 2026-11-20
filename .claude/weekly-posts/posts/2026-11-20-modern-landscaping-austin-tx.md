@@ -39,7 +39,7 @@ Three of our front and back yards are built on it:
 
 - **Southeast Austin:** black steel beds step toward the front door, and a welded steel triangle planter floats above them on one post. The steel is sealed with a black penetrating sealer.
 - **[Tarrytown](../locations/tarrytown-tx):** two cantilevered steel planters frame the front entry, stacked and offset, on welded steel legs above gravel and Mexican beach pebbles. The steel is darkened and sealed.
-- **[Circle C](../locations/circle-c-tx):** a bare slope cut into three steel terraces, with quarter-inch steel on every edge, 260 linear feet in all.
+- **Overlook at Lewis Mountain, Southwest Austin:** a bare slope cut into three steel terraces, with quarter-inch steel on every edge, 260 linear feet in all.
 
 [[fig images/projects/southeast-austin-triangle-planter/09-terraced-steel-light-rim-triangle-planter-800.webp | Black triangle steel planter with a variegated century agave floating above a black steel bed of basalt gravel and silver santolina, with light falling on the lawn below the steel, in Southeast Austin ;; images/projects/dormarion/IMG_6295-800.webp | Cantilevered black steel planter with artichoke agaves and trailing sedum above river rock, a dark boulder, and concrete stepping pads in Tarrytown, Austin || Steel in Southeast Austin and in Tarrytown: a planter on one post, and a planter cantilevered over river rock.]]
 
@@ -51,7 +51,7 @@ It gives the yard a floor made of a few big pieces. We often pour a patio as sep
 
 - **Cedar Creek:** large pavers poured beside a pool, with artificial turf in every joint
 - **Austin:** large slabs poured to look like marble, each edged in 1/4-inch welded steel
-- **Pflugerville:** poured pavers framed in steel, with light in the gravel joints
+- **Pearson Ranch, Northwest Austin:** poured pavers framed in steel, with light in the gravel joints
 
 [[fig images/projects/flycatcher/IMG_8720-800.webp | Large poured concrete pavers with artificial turf joints beside a pool, with steel-edged steps below, in Cedar Creek, TX ;; images/projects/riverview/IMG_9839-800.webp | Large concrete slabs poured to look like marble, each edged in steel and set in artificial turf, around a black fire pit burning, in Austin || Large-format concrete: turf joints in Cedar Creek, and marbled slabs edged in steel in Austin.]]
 
@@ -61,14 +61,14 @@ Our post on [pavers with artificial turf](pavers-with-artificial-turf-austin-tx)
 
 From inside the structure. We build light under the rims of steel planters, along steel and deck edges, and under pergola beams. The source stays out of sight, and the light lands where it is used.
 
-- **Circle C:** LED strips trace the steel edges and the deck transitions
-- **Pflugerville:** the gravel joints between the concrete pavers are lit
+- **Lewis Mountain:** LED strips trace the steel edges and the deck transitions
+- **Pearson Ranch, Northwest Austin:** the gravel joints between the concrete pavers are lit
 - **Southeast Austin:** a light rim runs around the outside of the steel beds, and the light washes down the black face
 - **Austin:** light sits under the concrete fire pit, which stands on hidden legs and appears to float
 
 Red Agave is the only company in Austin that builds custom LED planters with custom light channels. Our systems run on 24V low voltage, in zones you control from a phone.
 
-[[fig images/projects/blazyk/IMG_8693-800.webp | Light strips along deck edges and the steel edge of a gravel fire court at night, with slatted benches and a fire pit burning, in Circle C, Austin ;; images/projects/axehandle/IMG_8574-800.webp | Poured concrete pavers with lit steel-edged gravel joints, a boulder set in one paver, and a steel fire pit burning beside ferns in Pflugerville || Light as a line: along the deck and steel edges in Circle C, and in the gravel joints in Pflugerville.]]
+[[fig images/projects/blazyk/IMG_8693-800.webp | Light strips along deck edges and the steel edge of a gravel fire court at night, with slatted benches and a fire pit burning, at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/axehandle/IMG_8574-800.webp | Poured concrete pavers with lit steel-edged gravel joints, a boulder set in one paver, and a steel fire pit burning beside ferns in Pearson Ranch, Northwest Austin || Light as a line: along the deck and steel edges at Lewis Mountain, and in the gravel joints in Pearson Ranch.]]
 
 See our [landscape lighting](../services/landscape-lighting-austin-tx) page and our post on [landscape lighting installation](landscape-lighting-installation-austin-tx).
 
@@ -79,7 +79,7 @@ Plants with a shape of their own. An agave holds its form all year and takes ful
 - **Southeast Austin:** one variegated century agave in the triangle planter, with silver ponyfoot around it. Silver santolina, maiden grass, and artichoke agave grow in basalt gravel below.
 - **Tarrytown:** Agave weberi and artichoke agave in the steel planters, with blue spruce sedum over the edge
 - **Austin:** maiden grass in a steel bed along the fence, with sky pencil holly, soft leaf yucca, and whale's tongue agave
-- **Circle C:** sedges, ferns, and muhly grass between the steel walls
+- **Lewis Mountain:** sedges, ferns, and muhly grass between the steel walls
 
 [[fig images/projects/dormarion/IMG_6345-800.webp | Agave in a black steel planter lit under its rim, with artichoke agaves in a narrow steel planter beside it and a boulder in river rock, in Tarrytown, Austin || Tarrytown: agaves in steel, river rock, and a boulder.]]
 

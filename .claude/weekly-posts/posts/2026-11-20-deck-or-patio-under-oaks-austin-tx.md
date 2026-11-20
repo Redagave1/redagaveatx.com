@@ -18,7 +18,7 @@ related:
 ---
 **Under a protected oak in Austin, TX, build a deck near the tree and keep a patio to the outer part of the root zone.** A patio needs a dug and compacted base under every square foot. A deck touches the ground only at its footings. The City of Austin limits digging near regulated trees, so the tree decides the surface. Red Agave Landscape builds both, and this post shows the rules and the yards where we built around the trees.
 
-[[fig images/projects/blazyk/before-800.webp | Bare sloped backyard under a mature live oak before the build in Circle C, Austin ;; images/projects/blazyk/IMG_8667-800.webp | Live oak hung with lanterns above a gravel fire court and steel-edged gravel terraces at dusk in Circle C, Austin || Circle C, before and after. The live oak stayed, and the yard was built under it in decks, gravel, and steel.]]
+[[fig images/projects/blazyk/before-800.webp | Bare sloped backyard under a mature live oak before the build at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_8667-800.webp | Live oak hung with lanterns above a gravel fire court and steel-edged gravel terraces at dusk at the Overlook at Lewis Mountain, Southwest Austin || Lewis Mountain in Southwest Austin, before and after. The live oak stayed, and the yard was built under it in decks, gravel, and steel.]]
 
 ## Which Oaks Are Protected in Austin?
 
@@ -65,9 +65,9 @@ See our [custom decks](../services/custom-decks-austin-tx) and our [patios](../s
 
 Near the tree, on a slope, and wherever the floor has to meet a door.
 
-In [Circle C](../locations/circle-c-tx) the yard was bare ground under a mature live oak, and it dropped away from the house. The oak stayed. Two deck levels step off the back of the house. Below them the slope is held in gravel and steel: a pea gravel fire court and three terraces of dark gravel. Lanterns hang in the canopy. See [the Circle C case study](../projects/blazyk).
+At the Overlook at Lewis Mountain in Southwest Austin the yard was bare ground under a mature live oak, and it dropped away from the house. The oak stayed. Two deck levels step off the back of the house. Below them the slope is held in gravel and steel: a pea gravel fire court and three terraces of dark gravel. Lanterns hang in the canopy. See [the Lewis Mountain case study](../projects/blazyk).
 
-[[fig images/projects/blazyk/IMG_3161-800.webp | Deck edge with a light strip beside a gravel fire court with slatted wood benches and a fire pit set in boulders, under an oak canopy in Circle C, Austin ;; images/projects/bee-cave-deck/deck-stairs.webp | Wood deck with steel cable railing and a stair to an upper level, set on gravel with live oaks beyond in Bee Cave ;; images/projects/bee-cave-deck/deck-terraces.webp | Steel-walled terraces of dark gravel stepping along a slope beside a wood deck, with a live oak beyond, in Bee Cave || The Circle C deck edge and gravel court, and the Bee Cave deck with its gravel terraces.]]
+[[fig images/projects/blazyk/IMG_3161-800.webp | Deck edge with a light strip beside a gravel fire court with slatted wood benches and a fire pit set in boulders, under an oak canopy at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/bee-cave-deck/deck-stairs.webp | Wood deck with steel cable railing and a stair to an upper level, set on gravel with live oaks beyond in Bee Cave ;; images/projects/bee-cave-deck/deck-terraces.webp | Steel-walled terraces of dark gravel stepping along a slope beside a wood deck, with a live oak beyond, in Bee Cave || The Lewis Mountain deck edge and gravel court, and the Bee Cave deck with its gravel terraces.]]
 
 In [Bee Cave](../locations/bee-cave-tx) a wood deck with steel cable railing sits low on a Hill Country slope, with live oaks around it. Beside it, steel walls hold level terraces of dark gravel.
 
@@ -79,9 +79,9 @@ When it stays out of the inner root zone and lets rain reach the soil. Three way
 
 - **Pour pads, not one slab.** Pads with gravel joints let rain soak in between them.
 - **Use gravel.** A gravel court is a floor that drains. It needs an edge to stay where it is put, and we build that edge in steel.
-- **Build over what is already there.** In a second Circle C yard we laid composite decking over an old flagstone patio, so the new deck sits on ground that was already covered. See [that project](../projects/hopeland).
+- **Build over what is already there.** In [Circle C](../locations/circle-c-tx) we laid composite decking over an old flagstone patio, so the new deck sits on ground that was already covered. See [that project](../projects/hopeland).
 
-[[fig images/projects/hopeland/IMG_9687-800.webp | Composite deck laid over an old flagstone patio, stepping down to a platform with a boulder fire pit in front of a slatted cabana at dusk in Circle C, Austin || The second Circle C yard: composite decking laid over the old flagstone patio.]]
+[[fig images/projects/hopeland/IMG_9687-800.webp | Composite deck laid over an old flagstone patio, stepping down to a platform with a boulder fire pit in front of a slatted cabana at dusk in Circle C, Austin || The Circle C yard: composite decking laid over the old flagstone patio.]]
 
 ## When Can Oaks Be Pruned for a Build?
 

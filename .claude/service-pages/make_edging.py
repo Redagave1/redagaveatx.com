@@ -98,14 +98,14 @@ S += sec("Steel and Stone", "What Happens Where the Edge Meets a Boulder?", f"""
 
 S += sec("After Dark", "Can Steel Edging Be Lit?", f"""    <p>Yes. We run LED strips along the steel, so the edge of a gravel court or a bed is a line of light at night. Red Agave is the only company in Austin that builds custom LED planters with custom light channels, and we light our edging the same way.</p>
     <ul>
-      <li><strong>Circle C:</strong> a light strip traces the steel edge of the gravel fire court.</li>
+      <li><strong>Overlook at Lewis Mountain, Southwest Austin:</strong> a light strip traces the steel edge of the gravel fire court.</li>
       <li><strong>Southeast Austin:</strong> light strips run along the steel edging around a round water feature and two fire pits.</li>
-      <li><strong>Pflugerville:</strong> warm LED strips glow under the steel edging around concrete patio pads.</li>
+      <li><strong>Pearson Ranch, Northwest Austin:</strong> warm LED strips glow under the steel edging around concrete patio pads.</li>
     </ul>
     <p>See our <a href="landscape-lighting-austin-tx">landscape lighting</a> page.</p>
-    {fig([(P + "blazyk/IMG_8703-800.webp", 800, 1067, "Gravel court with boulders, ferns, and a fire pit, lit by a strip along its steel edge at night in Circle C, Austin"),
+    {fig([(P + "blazyk/IMG_8703-800.webp", 800, 1067, "Gravel court with boulders, ferns, and a fire pit, lit by a strip along its steel edge at night at the Overlook at Lewis Mountain, Southwest Austin"),
           (P + "se-austin-fire-water/19-finished-water-feature-fire-pit-dusk-800.webp", 800, 1067, "Round water feature and curved steel fire pit at dusk with light strips along the steel edging in Southeast Austin")],
-         "Lit steel edges in Circle C and in Southeast Austin.")}""")
+         "Lit steel edges at the Overlook at Lewis Mountain and in Southeast Austin.")}""")
 
 S += sec("The Metal", "Why Mild Steel?", f"""    <p>Because it does everything an edge needs. We build in mild steel, not aluminum.</p>
     <ul>
@@ -117,10 +117,10 @@ S += sec("The Metal", "Why Mild Steel?", f"""    <p>Because it does everything a
 
 S += sec("Our Work", "Where Have We Installed Steel Edging?", f"""    <p>On almost every yard we build. Six of them:</p>
     <ul>
-      <li><strong><a href="../locations/circle-c-tx">Circle C</a>:</strong> 260 linear feet of quarter-inch steel edges every level of a terraced slope. See <a href="../projects/blazyk">the case study</a>.</li>
+      <li><strong>Overlook at Lewis Mountain, Southwest Austin:</strong> 260 linear feet of quarter-inch steel edges every level of a terraced slope. See <a href="../projects/blazyk">the case study</a>.</li>
       <li><strong>East Austin:</strong> steel edging cut into boulders, with black mulch on one side and river rock on the other.</li>
       <li><strong>Southeast Austin:</strong> lit steel edging around a dark gravel court, a round water feature, and two fire pits. See <a href="../blog/water-feature-fire-pits-southeast-austin-tx">the build</a>.</li>
-      <li><strong><a href="../locations/pflugerville-tx">Pflugerville</a>:</strong> steel-edged gravel joints between concrete patio pads, lit from under the steel. See <a href="../projects/axehandle">the case study</a>.</li>
+      <li><strong>Pearson Ranch, Northwest Austin:</strong> steel-edged gravel joints between concrete patio pads, lit from under the steel. See <a href="../projects/axehandle">the case study</a>.</li>
       <li><strong>South Austin:</strong> a black steel edge along a front-yard terrace, with firecracker fern spilling over it.</li>
       <li><strong><a href="../locations/bee-cave-tx">Bee Cave</a>:</strong> steel-walled terraces of dark gravel beside a wood deck.</li>
     </ul>

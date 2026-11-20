@@ -18,7 +18,7 @@ related:
 ---
 **Hardscaping in Austin, TX is the built part of a landscape: the walls, patios, decks, steps, and edges that stay put while the plants grow around them.** Red Agave Landscape designs and builds hardscape in five materials: steel, concrete, stone, wood, and gravel. This post shows each one on a real project, and explains what has to be decided before any of it goes in.
 
-[[fig images/projects/blazyk/hero-800.webp | Three low steel retaining walls stepping down a slope with gravel, boulders, and grasses below two fire features in Circle C, Austin || Circle C: steel walls, gravel, and boulders turn a bare slope into level terraces.]]
+[[fig images/projects/blazyk/hero-800.webp | Three low steel retaining walls stepping down a slope with gravel, boulders, and grasses below two fire features at the Overlook at Lewis Mountain, Southwest Austin || Lewis Mountain, Southwest Austin: steel walls, gravel, and boulders turn a bare slope into level terraces.]]
 
 ## What Counts as Hardscaping?
 
@@ -34,9 +34,9 @@ Hardscape goes in first, because it sets the levels. Planting and lighting are f
 
 ## What Does Steel Do in a Yard?
 
-It holds an edge. In Circle C the yard dropped away from the house with nothing to hold it. We cut the slope into three steel terraces and two deck levels, and quarter-inch steel edges every transition.
+It holds an edge. At the Overlook at Lewis Mountain in Southwest Austin the yard dropped away from the house with nothing to hold it. We cut the slope into three steel terraces and two deck levels, and quarter-inch steel edges every transition.
 
-[[fig images/projects/blazyk/IMG_3173-800.webp | Low steel retaining walls with dark gravel, boulders, and a raised steel planter in Circle C, Austin ;; images/projects/blazyk/IMG_3199-800.webp | Muhly grass in bloom beside black steel terraces and a gravel bed in Circle C, Austin || Steel in Circle C: low walls and a raised planter, and a steel edge between gravel and grasses.]]
+[[fig images/projects/blazyk/IMG_3173-800.webp | Low steel retaining walls with dark gravel, boulders, and a raised steel planter at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_3199-800.webp | Muhly grass in bloom beside black steel terraces and a gravel bed at the Overlook at Lewis Mountain, Southwest Austin || Steel at Lewis Mountain: low walls and a raised planter, and a steel edge between gravel and grasses.]]
 
 Steel is thin, so a steel wall takes almost no room, and it can be cut to any line. We cut and weld it on site. See our [steel retaining walls](../services/steel-retaining-walls-austin-tx) and our post on [choosing a retaining wall contractor](retaining-wall-contractor-austin-tx).
 
@@ -50,7 +50,7 @@ Pads with gravel joints let rain soak in between them, and they read as lighter 
 
 ## Where Does Stone Come In?
 
-In two ways: as boulders and as coping. Boulders sit at the grade breaks in Circle C, where one level turns into the next. In Southeast Austin, boulders carry a fire pit and are the source of the water. In East Austin, natural stone coping edges the pool.
+In two ways: as boulders and as coping. Boulders sit at the grade breaks at Lewis Mountain, where one level turns into the next. In Southeast Austin, boulders carry a fire pit and are the source of the water. In East Austin, natural stone coping edges the pool.
 
 A boulder is hardscape that does not look built, which is why it works beside steel and concrete. Where a steel edge meets a boulder, we [cut the steel into the stone](steel-edging-cut-into-boulders-austin-tx).
 
@@ -64,7 +64,7 @@ See our [custom decks](../services/custom-decks-austin-tx) page and our post on 
 
 ## Why Is Gravel Hardscape?
 
-Because it is a surface. A gravel court is a floor that drains. In Circle C the fire court is gravel, edged in steel. In Southeast Austin a dark gravel court holds the second fire pit, with a light strip along its steel edge.
+Because it is a surface. A gravel court is a floor that drains. At Lewis Mountain the fire court is gravel, edged in steel. In Southeast Austin a dark gravel court holds the second fire pit, with a light strip along its steel edge.
 
 Gravel needs an edge to stay where it is put. That is why both of these courts are edged in steel.
 
@@ -86,7 +86,7 @@ Steel, concrete, stone, wood, and gravel. We cut and weld the steel on site.
 Yes. Hardscape sets the levels of the yard, so it goes in first. Drainage comes before the hardscape.
 
 ### Can hardscape fix a sloped yard?
-Yes. In Circle C we cut a bare slope into three steel terraces and two deck levels.
+Yes. At the Overlook at Lewis Mountain in Southwest Austin we cut a bare slope into three steel terraces and two deck levels.
 
 ### Do you design the hardscape too?
 Yes. The owner draws every plan, and our own crew builds it. The consultation is free, and the CAD plan is included.

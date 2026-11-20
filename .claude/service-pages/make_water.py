@@ -19,13 +19,13 @@ FAQS = [
     ("What keeps the water clear?",
      "Circulation and filtration. Our round water feature in Southeast Austin runs on a sand pool filter, the same way a swimming pool does."),
     ("What is a drilled boulder fountain?",
-     "A natural boulder with a hole drilled through it and a water line run to it, so water comes out of the stone. In Pflugerville we built two, with no hardware in view."),
+     "A natural boulder with a hole drilled through it and a water line run to it, so water comes out of the stone. In Pearson Ranch in Northwest Austin we built two, with no hardware in view."),
     ("Can a fire pit go next to a water feature?",
-     "Yes. In Southeast Austin a curved steel fire pit follows the front of a round pool, and the flames reflect on the water. In Pflugerville a floating fire pit sits in the same bed as two boulder fountains."),
+     "Yes. In Southeast Austin a curved steel fire pit follows the front of a round pool, and the flames reflect on the water. In Pearson Ranch in Northwest Austin a floating fire pit sits in the same bed as two boulder fountains."),
     ("Does a water feature need electricity?",
      "Yes. Every water feature has a pump, and the pump runs on a dedicated outdoor GFCI circuit. We plan the power with the plumbing, before any concrete is poured."),
     ("Can a water feature be added to a patio I already have?",
-     "Yes. In Pflugerville we expanded an existing patio and added two drilled boulder fountains and a floating fire pit beside it."),
+     "Yes. In Pearson Ranch in Northwest Austin we expanded an existing patio and added two drilled boulder fountains and a floating fire pit beside it."),
     ("What does a water feature cost in Austin?",
      "Every water feature is priced after a free on-site consultation. The type, the size, the rock in the ground, and the distance to power drive the price. Our water feature cost guide lists the ranges by type."),
 ]
@@ -35,9 +35,9 @@ S += sec("The Work", "What Water Features Do We Build?", f"""    <p>Water that i
     <table class="cost-table">
       <thead><tr><th>Water Feature</th><th>What It Is</th><th>Where</th></tr></thead><tbody>
       <tr><td>Raised pool</td><td>A concrete shell with a plaster interior and a pool filter, raised above the patio</td><td>Built in Southeast Austin</td></tr>
-      <tr><td>Drilled boulder fountain</td><td>A boulder drilled and plumbed so water runs out of the stone</td><td>Built in Pflugerville</td></tr>
+      <tr><td>Drilled boulder fountain</td><td>A boulder drilled and plumbed so water runs out of the stone</td><td>Built in Pearson Ranch, Northwest Austin</td></tr>
       <tr><td>Steel channel</td><td>An open steel channel that carries water from its source to a fall</td><td>Built in Southeast Austin</td></tr>
-      <tr><td>Fire beside water</td><td>A steel fire pit set at the edge of the water, so the flames reflect on it</td><td>Built in Southeast Austin and Pflugerville</td></tr>
+      <tr><td>Fire beside water</td><td>A steel fire pit set at the edge of the water, so the flames reflect on it</td><td>Built in Southeast Austin and in Pearson Ranch, Northwest Austin</td></tr>
       <tr><td>Stream and pond</td><td>A pond edged with boulders, with a stream running to a second pond</td><td>On our <a href="../designs">design plans</a></td></tr>
       <tr><td>Water wall</td><td>A sheet of water running down a wall of stone or steel</td><td>Drawn for the site</td></tr>
       <tr><td>Water in a pool</td><td>Spillover spas, bubblers, laminar jets, and sheer descent waterfalls</td><td>Built with the <a href="pools-austin-tx">pool</a></td></tr>
@@ -73,24 +73,24 @@ S += sec("The Source", "Where Does the Water Come From?", f"""    <p>From someth
     <p>The channel is welded steel, like our <a href="steel-edging-austin-tx">steel edging</a> and our <a href="custom-planters-austin-tx">custom steel planters</a>. We cut and weld steel on site.</p>""")
 
 S += sec("Stone", "What Is a Drilled Boulder Fountain?", f"""    <p>A natural boulder with a hole drilled through it and a water line run to it, so water comes out of the stone. There is no spout, no basin on a pedestal, and no hardware in view.</p>
-    <p>In <a href="../locations/pflugerville-tx">Pflugerville</a> we built two. The boulders stand on either side of a planting bed beside the patio. They are drilled and plumbed to run water from the top, and mist rises between them.</p>
+    <p>In Pearson Ranch, in Northwest Austin, we built two. The boulders stand on either side of a planting bed beside the patio. They are drilled and plumbed to run water from the top, and mist rises between them.</p>
     <ul>
       <li><strong>Sound without a pond:</strong> the water runs over stone and back into the bed</li>
       <li><strong>Planting right against it:</strong> river fern, creeping Jenny, and horsetail reed grow around the boulders</li>
       <li><strong>Stone below:</strong> river rock fills the bed between the boulders</li>
       <li><strong>Fire in the same bed:</strong> a floating steel fire pit sits beside the fountains</li>
     </ul>
-    {fig([(PF + "pflugerville-drilled-boulder-fountain-ferns-800.webp", 800, 600, "Boulders in a bed of river rock with ferns and mist rising between them, beside a steel fire pit and a concrete patio in Pflugerville"),
-          (PF + "pflugerville-boulder-fountains-mist-fire-pit-800.webp", 800, 600, "Boulder fountains with mist, ferns, and river rock around a square steel fire pit set on the diagonal, beside concrete patio pads in Pflugerville")],
-         "Pflugerville: boulder fountains, ferns, and river rock around a floating fire pit.", wide=True)}
-    <p>We work boulders more than one way. We drill them for water, cut slots in them for steel edging, and carve fire pits into them. See <a href="../blog/steel-edging-cut-into-boulders-austin-tx">how we cut steel into boulders</a>, and the <a href="../projects/axehandle">Pflugerville project</a>.</p>""", alt=True)
+    {fig([(PF + "pflugerville-drilled-boulder-fountain-ferns-800.webp", 800, 600, "Boulders in a bed of river rock with ferns and mist rising between them, beside a steel fire pit and a concrete patio in Pearson Ranch, Northwest Austin"),
+          (PF + "pflugerville-boulder-fountains-mist-fire-pit-800.webp", 800, 600, "Boulder fountains with mist, ferns, and river rock around a square steel fire pit set on the diagonal, beside concrete patio pads in Pearson Ranch, Northwest Austin")],
+         "Pearson Ranch, Northwest Austin: boulder fountains, ferns, and river rock around a floating fire pit.", wide=True)}
+    <p>We work boulders more than one way. We drill them for water, cut slots in them for steel edging, and carve fire pits into them. See <a href="../blog/steel-edging-cut-into-boulders-austin-tx">how we cut steel into boulders</a>, and the <a href="../projects/axehandle">Pearson Ranch project</a>.</p>""", alt=True)
 
 S += sec("Fire + Water", "Why Put Fire Beside Water?", f"""    <p>Because each one makes the other look better. Water gives the fire a surface to reflect on, and fire gives the water light after dark.</p>
     <p>In Southeast Austin a floating steel fire pit curves along the front of the pool. It sits at the foot of the pool wall, so the flames light the wall and reflect on the water. A second fire pit, a square steel pan, is suspended between two boulders behind the pool.</p>
     <p>Red Agave is the only company in Austin that builds floating welded steel fire pits, and we carve fire pits into boulders.</p>
     {fig([(W + "19-finished-water-feature-fire-pit-dusk-800.webp", 800, 1067, "Round raised water feature with a dark cap, a curved steel fire pit burning in front, and a steel planter behind, at dusk in a Southeast Austin backyard"),
-          (PF + "pflugerville-floating-fire-pit-boulders-ferns-800.webp", 800, 1067, "Square steel fire pit burning beside boulders, ferns, and river rock in a planting bed next to concrete patio pads in Pflugerville")],
-         "Fire beside water in Southeast Austin, and fire beside the boulder fountains in Pflugerville.")}
+          (PF + "pflugerville-floating-fire-pit-boulders-ferns-800.webp", 800, 1067, "Square steel fire pit burning beside boulders, ferns, and river rock in a planting bed next to concrete patio pads in Pearson Ranch, Northwest Austin")],
+         "Fire beside water in Southeast Austin, and fire beside the boulder fountains in Pearson Ranch, Northwest Austin.")}
     <p>See our post on <a href="../blog/custom-fire-pits-austin-tx">custom fire pits</a>, which shows the plan for the Southeast Austin yard next to the finished fires.</p>""")
 
 S += sec("Clear Water", "What Keeps the Water Clear and Moving?", f"""    <p>A pump, a filter, and a plan for topping it off. A water feature does not use water the way irrigation does. It recirculates the same water.</p>
@@ -150,7 +150,7 @@ S += sec("Choosing", "Which Water Feature Fits Your Yard?", f"""    <p>The one t
 
 S += sec("Built Work", "Where Have We Built Water Features?", f"""    <ul>
       <li><strong>Southeast Austin:</strong> a round raised pool with a concrete shell, a plaster interior finished black, and a sand pool filter, fed from a drilled boulder by a steel channel, with two steel fire pits. See <a href="../blog/water-feature-fire-pits-southeast-austin-tx">the build</a>.</li>
-      <li><strong><a href="../locations/pflugerville-tx">Pflugerville</a>:</strong> two drilled boulder fountains in a fern bed beside an expanded patio, with a floating fire pit. See <a href="../projects/axehandle">the project</a>.</li>
+      <li><strong>Pearson Ranch, Northwest Austin:</strong> two drilled boulder fountains in a fern bed beside an expanded patio, with a floating fire pit. See <a href="../projects/axehandle">the project</a>.</li>
       <li><strong>Pools across Austin:</strong> water built into the pool itself. See our <a href="pools-austin-tx">pools</a> page.</li>
     </ul>
     <p>We build across the Austin area, from <a href="../locations/westlake-hills-tx">Westlake Hills</a> and <a href="../locations/lakeway-tx">Lakeway</a> to <a href="../locations/buda-kyle-tx">Buda and Kyle</a>. More of our built work is on the <a href="../featured">Signature Projects</a> page.</p>""")

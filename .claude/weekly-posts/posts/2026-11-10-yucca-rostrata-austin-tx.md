@@ -16,7 +16,7 @@ related:
   - firecracker-fern-austin-tx | Firecracker Fern in Austin, TX | Red flowers that spill over a steel edge.
   - front-yard-xeriscape-ideas-austin-tx | Front Yard Xeriscape Ideas for Austin, TX | Layouts and plant palettes for a front yard with no lawn.
 ---
-**Yucca rostrata, the beaked yucca, is a slow-growing, trunk-forming yucca from the Big Bend country of West Texas and northern Mexico, topped by a round crown of more than 100 narrow blue-green leaves.** It wants full sun and fast drainage, and it needs little water once it is established. Yucca rostrata is in the planting on two of our Circle C projects: [a backyard with a steel pergola and cantilevered steel planters](../projects/hopeland) and [a terraced slope held by steel walls](../projects/blazyk-transformation).
+**Yucca rostrata, the beaked yucca, is a slow-growing, trunk-forming yucca from the Big Bend country of West Texas and northern Mexico, topped by a round crown of more than 100 narrow blue-green leaves.** It wants full sun and fast drainage, and it needs little water once it is established. Yucca rostrata is in the planting on two of our projects: [a Circle C backyard with a steel pergola and cantilevered steel planters](../projects/hopeland) and [a terraced slope held by steel walls at the Overlook at Lewis Mountain in Southwest Austin](../projects/blazyk-transformation).
 
 [[fig images/plants/yucca-rostrata/yucca-rostrata-steel-terrace-1200.webp | Three Yucca rostrata on the upper level of a black steel terrace in South Austin, with firecracker fern along the steel edge and artichoke agaves in tan gravel below || Three Yucca rostrata on the upper level of a front-yard steel terrace in South Austin, with firecracker fern along the steel edge and artichoke agaves and Texas tuberose in the gravel below.]]
 
@@ -62,7 +62,7 @@ That works best when everything around it stays low. On this terrace the layers 
 
 Decide what job the yucca has before choosing how many to plant. Three in a row set a rhythm along a terrace. One on its own marks a turn in a path or the end of a view from the patio. At night, a single light aimed up into the crown shows every leaf. See our [landscape lighting](../services/landscape-lighting-austin-tx) work.
 
-Yucca rostrata suits a [xeriscape](../services/xeriscape-austin-tx) in full sun, and it is part of the planting on our projects in [Circle C](../locations/circle-c-tx). For another slow, blue plant that forms a trunk, see our guide to the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx).
+Yucca rostrata suits a [xeriscape](../services/xeriscape-austin-tx) in full sun, and it is part of the planting on our project in [Circle C](../locations/circle-c-tx). For another slow, blue plant that forms a trunk, see our guide to the [blue Sonoran palm](sabal-uresana-blue-sonoran-palm-austin-tx).
 
 ## FAQ: Questions We Hear
 

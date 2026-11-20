@@ -2,12 +2,12 @@
 slug: landscape-design-build-austin-tx
 date: 2026-11-12
 format: project
-target: landscape design build austin; austin landscape design build; design build landscaping austin; landscaping circle c austin; backyard landscaping austin
+target: landscape design build austin; austin landscape design build; design build landscaping austin; backyard landscaping austin
 title: Landscape Design Build in Austin, TX | Red Agave
-description: Landscape design build in Austin, TX, on one Circle C backyard: the owner's plan, then the decks, fire court, and steel terraces our crew built.
-h1: Landscape Design Build in Austin, TX: One Circle C Yard, From Plan to Night
+description: Landscape design build in Austin, TX, on one Southwest Austin backyard: the owner's plan, then the decks, fire court, and steel terraces our crew built.
+h1: Landscape Design Build in Austin, TX: One Southwest Austin Yard, From Plan to Night
 crumb: Landscape Design Build
-excerpt: One Circle C backyard from the owner's drawing to the finished yard: two deck levels, a gravel fire court, and steel terraces, by day and after dark.
+excerpt: One Southwest Austin backyard from the owner's drawing to the finished yard: two deck levels, a gravel fire court, and steel terraces, by day and after dark.
 image: images/projects/blazyk/IMG_8693-1200.webp
 cta_title: Design and Build Your Yard
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
@@ -16,9 +16,9 @@ related:
   - retaining-wall-contractor-austin-tx | Retaining Wall Contractor in Austin, TX | Why this slope got three low steel walls and not one tall one.
   - landscape-lighting-installation-austin-tx | Landscape Lighting Installation in Austin, TX | How light gets built into steel, decks, and planters.
 ---
-**Red Agave Landscape is a landscape design build company in Austin, TX: the owner draws the plan, and our own crew builds it.** This backyard in Circle C shows the whole path. It started as one drawing of two deck levels, a gravel court with a fire pit, and steel terraces stepping down a slope. Here is that plan, and the yard it became, by day and after dark.
+**Red Agave Landscape is a landscape design build company in Austin, TX: the owner draws the plan, and our own crew builds it.** This backyard at the Overlook at Lewis Mountain in Southwest Austin shows the whole path. It started as one drawing of two deck levels, a gravel court with a fire pit, and steel terraces stepping down a slope. Here is that plan, and the yard it became, by day and after dark.
 
-[[fig images/designs/circle-c-steel-terraces-plan.webp | Landscape design plan for a sloped Circle C backyard in Austin, with two deck levels, a gravel fire court, gravel terraces, boulders, and steel edging marked by height || The plan. Brown is deck, the pale areas are gravel, and the dashed lines are steel edging: orange for 4 to 8 inches tall, blue for 1 to 2 feet.]]
+[[fig images/designs/circle-c-steel-terraces-plan.webp | Landscape design plan for a sloped backyard at the Overlook at Lewis Mountain in Southwest Austin, with two deck levels, a gravel fire court, gravel terraces, boulders, and steel edging marked by height || The plan. Brown is deck, the pale areas are gravel, and the dashed lines are steel edging: orange for 4 to 8 inches tall, blue for 1 to 2 feet.]]
 
 ## What Did the Plan Decide?
 
@@ -36,7 +36,7 @@ The plan also names the deck: pressure-treated boards, finished with Ready Seal 
 
 Like the drawing, with seats.
 
-[[fig images/projects/blazyk/court-fire-pit-benches-1200.webp | Gravel fire court in a Circle C backyard in Austin with a steel fire pan on boulders, slatted wood benches on two sides, and lawn beyond || The court from the deck: gravel edged in steel, fire on the boulders, and slatted benches on two sides.]]
+[[fig images/projects/blazyk/court-fire-pit-benches-1200.webp | Gravel fire court in a backyard at the Overlook at Lewis Mountain in Southwest Austin with a steel fire pan on boulders, slatted wood benches on two sides, and lawn beyond || The court from the deck: gravel edged in steel, fire on the boulders, and slatted benches on two sides.]]
 
 The court sits just below the deck, where the plan put it: a square of gravel with a steel edge and fire at the center. Built, it has two fires. One is a steel fire pan set on boulders, and the other burns in a low boulder beside it. Ferns grow between the rocks.
 
@@ -46,7 +46,7 @@ Slatted wood benches on black steel frames close two sides of the court, so the 
 
 Below the court, the slope steps down in bands of black steel. Each band holds a level bed of dark gravel, with boulders at the breaks and grasses in between.
 
-[[fig images/projects/blazyk/IMG_3193-800.webp | Steel terraces of dark gravel, boulders, and sedges stepping up to a gravel court with two fires in Circle C, Austin ;; images/projects/blazyk/IMG_3199-800.webp | Muhly grass in bloom beside black steel terraces and a gravel bed below a house in Circle C, Austin ;; images/projects/blazyk/IMG_3241-800.webp | Raised steel planter filled with turquoise glass and grasses around a young tree, with a fire court behind, in Circle C, Austin || The terraces from below, the grasses along the steel, and the steel planter with turquoise glass.]]
+[[fig images/projects/blazyk/IMG_3193-800.webp | Steel terraces of dark gravel, boulders, and sedges stepping up to a gravel court with two fires at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_3199-800.webp | Muhly grass in bloom beside black steel terraces and a gravel bed below a house at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_3241-800.webp | Raised steel planter filled with turquoise glass and grasses around a young tree, with a fire court behind, at the Overlook at Lewis Mountain, Southwest Austin || The terraces from below, the grasses along the steel, and the steel planter with turquoise glass.]]
 
 At the end of the terraces stands a steel planter, raised on its base and filled with crushed turquoise glass. An Anacacho orchid tree grows from it. Sedges, ferns, and muhly grass soften the steel without hiding it.
 
@@ -65,11 +65,11 @@ Everything the plan set stayed put: the two deck levels, the court, the steps, a
 
 The edges light up.
 
-[[fig images/projects/blazyk/IMG_8693-1200.webp | Fire court at night in a Circle C backyard in Austin, with light strips along the deck and the steel edge of the gravel, slatted benches, and lanterns in the trees || After dark. Light strips run along the deck edges and the steel edge of the court, and a planter set into the deck glows green.]]
+[[fig images/projects/blazyk/IMG_8693-1200.webp | Fire court at night in a backyard at the Overlook at Lewis Mountain in Southwest Austin, with light strips along the deck and the steel edge of the gravel, slatted benches, and lanterns in the trees || After dark. Light strips run along the deck edges and the steel edge of the court, and a planter set into the deck glows green.]]
 
 Light strips trace the deck edges and the steel edge of the court, so every level the plan drew can be read at night. A planter set into the deck glows from inside. Lanterns hang in the live oak over the terraces.
 
-[[fig images/projects/blazyk/IMG_8705-800.webp | Live oak hung with lanterns above a slatted bench and deck edges outlined by light strips at night in Circle C, Austin || The live oak stayed, and lanterns now hang in its canopy.]]
+[[fig images/projects/blazyk/IMG_8705-800.webp | Live oak hung with lanterns above a slatted bench and deck edges outlined by light strips at night at the Overlook at Lewis Mountain, Southwest Austin || The live oak stayed, and lanterns now hang in its canopy.]]
 
 Our post on [landscape lighting installation](landscape-lighting-installation-austin-tx) covers how light gets built into steel and decks.
 
@@ -93,7 +93,7 @@ Every Red Agave project starts with a free consultation, and the CAD plan is inc
 - **Planting:** sedges, ferns, and muhly grass
 - **Lighting:** light strips on the deck and steel edges, and lanterns in the live oak
 
-See the full set of photos in [our Circle C case study](../projects/blazyk). We design and build across the Austin area, including [Circle C](../locations/circle-c-tx).
+See the full set of photos in [our Lewis Mountain case study](../projects/blazyk). We design and build across the Austin area, including [Circle C](../locations/circle-c-tx).
 
 ## FAQ: Questions We Hear
 
@@ -101,7 +101,7 @@ See the full set of photos in [our Circle C case study](../projects/blazyk). We 
 One company designs the yard and builds it. At Red Agave the owner draws the plan, and our own crew builds what is drawn.
 
 ### Does the finished yard match the plan?
-On this Circle C project, the two deck levels, the fire court, the steps, and the terraces were built where the plan drew them. One gravel changed, and the benches, planters, and lighting were added.
+On this Lewis Mountain project, the two deck levels, the fire court, the steps, and the terraces were built where the plan drew them. One gravel changed, and the benches, planters, and lighting were added.
 
 ### Who draws the plan?
 The owner of Red Agave draws every plan after a free on-site consultation.

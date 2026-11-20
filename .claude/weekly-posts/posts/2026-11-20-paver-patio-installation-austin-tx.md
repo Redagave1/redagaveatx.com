@@ -58,14 +58,14 @@ Four of our builds show the range:
 
 - **Cedar Creek:** large pavers on two sides of a pool, with artificial turf in every joint. One run on the plan is 30 feet 1 inch long and 8 feet 1 inch wide.
 - **[Circle C](../locations/circle-c-tx):** pavers cut on the diagonal, with river rock in the joints. The plan gives the paver fields as 13 feet 6 inches, 10 feet 2 inches, and 13 feet 4 inches.
-- **[Pflugerville](../locations/pflugerville-tx):** an existing patio expanded with poured pavers in a SureCrete Shure Broom finish, which is a brushed texture. Steel frames every edge, and the gravel joints are lit.
+- **Pearson Ranch, Northwest Austin:** an existing patio expanded with poured pavers in a SureCrete Shure Broom finish, which is a brushed texture. Steel frames every edge, and the gravel joints are lit.
 - **Austin:** large slabs poured to look like marble, each edged in 1/4-inch welded steel, sealed, and set in turf.
 
 [[fig images/projects/flycatcher/IMG_8720-800.webp | Large poured concrete pavers with artificial turf joints beside a pool, with steel-edged steps below, in Cedar Creek, TX ;; images/projects/hopeland/IMG_9622-800.webp | Concrete pavers cut on the diagonal with river rock joints beside a long steel planter lit under its rim in Circle C, Austin || Poured in place: turf joints beside a pool in Cedar Creek, and diagonal pavers with river rock joints in Circle C.]]
 
-Pads poured this way read as lighter than one large slab, and rain soaks in between them. See the [Cedar Creek](../projects/flycatcher), [Circle C](../projects/hopeland), [Pflugerville](../projects/axehandle), and [Austin](../projects/riverview) project pages, and our [masonry and concrete](../services/masonry-concrete-austin-tx) work.
+Pads poured this way read as lighter than one large slab, and rain soaks in between them. See the [Cedar Creek](../projects/flycatcher), [Circle C](../projects/hopeland), [Pearson Ranch](../projects/axehandle), and [Austin](../projects/riverview) project pages, and our [masonry and concrete](../services/masonry-concrete-austin-tx) work.
 
-[[fig images/projects/axehandle/IMG_8591-800.webp | Poured concrete pavers with dark gravel joints and a lit steel edge at dusk, with a steel fire pit burning above boulders, in Pflugerville ;; images/projects/riverview/IMG_9839-800.webp | Large concrete slabs poured to look like marble, each edged in steel and set in artificial turf, around a black fire pit burning, in Austin || Pflugerville at dusk, with light in the gravel joints, and marbled slabs edged in steel in Austin.]]
+[[fig images/projects/axehandle/IMG_8591-800.webp | Poured concrete pavers with dark gravel joints and a lit steel edge at dusk, with a steel fire pit burning above boulders, in Pearson Ranch, Northwest Austin ;; images/projects/riverview/IMG_9839-800.webp | Large concrete slabs poured to look like marble, each edged in steel and set in artificial turf, around a black fire pit burning, in Austin || Pearson Ranch, Northwest Austin, at dusk, with light in the gravel joints, and marbled slabs edged in steel in Austin.]]
 
 ## What Goes in the Joints Between Pavers?
 
@@ -74,7 +74,7 @@ The joint is half of the pattern. We have built each of these:
 | Joint | Where we built it | What it does |
 |---|---|---|
 | Dark paver bands | The grid patio above | A solid floor, with the pattern drawn in two colors |
-| Dark gravel | Pflugerville | Rain soaks in between the pavers, and light runs along the steel |
+| Dark gravel | Pearson Ranch, Northwest Austin | Rain soaks in between the pavers, and light runs along the steel |
 | River rock | Circle C | A gray line that sets each paver apart |
 | Artificial turf | Cedar Creek | A green grid that needs no mowing and no water for growth |
 
@@ -104,7 +104,7 @@ Pavers flex with the ground, and a single cracked paver can be replaced. Poured 
 Yes. We form and pour each paver as its own pad. In Cedar Creek one run of poured pavers is 30 feet 1 inch long and 8 feet 1 inch wide on the plan.
 
 ### What can go between pavers?
-Dark paver bands, gravel, river rock, or artificial turf. In Pflugerville the gravel joints are edged in steel and lit.
+Dark paver bands, gravel, river rock, or artificial turf. In Pearson Ranch in Northwest Austin the gravel joints are edged in steel and lit.
 
 ### How long does a paver patio last?
 Concrete pavers last 25 to 50 years, and individual pavers can be replaced. Base preparation is the deciding factor in Austin.

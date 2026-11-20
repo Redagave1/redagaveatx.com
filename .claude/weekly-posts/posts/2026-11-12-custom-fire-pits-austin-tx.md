@@ -14,7 +14,7 @@ cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultatio
 related:
   - water-feature-fire-pits-southeast-austin-tx | Water Feature and Fire Pits in Southeast Austin | How this yard was built, from the excavation to the cap.
   - gas-vs-wood-fire-pit-austin-tx | Gas vs Wood Fire Pit in Austin, TX | Burn bans, installation, and upkeep compared.
-  - landscape-design-build-austin-tx | Landscape Design Build in Austin, TX | A Circle C yard followed from the plan to the finished build.
+  - landscape-design-build-austin-tx | Landscape Design Build in Austin, TX | A Southwest Austin yard followed from the plan to the finished build.
 ---
 **Red Agave Landscape designs and builds custom fire pits in Austin, TX, and each one starts as a mark on the owner's plan.** In this Southeast Austin backyard, the plan put two fire pits around a round water feature. Built, one is a curved steel fire pit that follows the pool wall, and the other is a steel pan held between two boulders. Here is the drawing, and the finished yard at dusk.
 

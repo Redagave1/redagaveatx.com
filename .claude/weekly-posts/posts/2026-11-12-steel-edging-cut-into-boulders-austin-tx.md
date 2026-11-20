@@ -79,7 +79,7 @@ Red Agave is the only company in Austin that builds carved boulder fire pits. Se
 Anywhere a steel edge and a boulder meet.
 
 - **Planting beds:** where steel holds mulch or gravel and a boulder sits on the line
-- **Terraces:** where a boulder sits at a change in level. On our [Circle C steel terraces](../projects/blazyk), boulders sit at the grade breaks.
+- **Terraces:** where a boulder sits at a change in level. On our [steel terraces at the Overlook at Lewis Mountain](../projects/blazyk) in Southwest Austin, boulders sit at the grade breaks.
 - **Paths:** where an edge runs along stone pavers and a boulder marks a turn
 
 It is planned on paper first. Our plans show the boulders and the steel lines together. See our [design plans](../designs).

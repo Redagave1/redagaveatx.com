@@ -7,7 +7,7 @@ title: Drainage Company in Austin, TX: Water First | Red Agave
 description: A drainage company in Austin, TX should trace the water before it quotes. See how Red Agave plans drains, swales, and steel terraces on real slopes.
 h1: Drainage Company in Austin, TX: Where the Water Goes First
 crumb: Drainage Company in Austin
-excerpt: What a drainage company should look at before it quotes, shown on a Circle C slope we terraced in steel and a sloped lot in Bee Cave.
+excerpt: What a drainage company should look at before it quotes, shown on a Southwest Austin slope we terraced in steel and a sloped lot in Bee Cave.
 image: images/projects/blazyk/IMG_3205-1200.webp
 cta_title: Fix the Water First
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
@@ -16,9 +16,9 @@ related:
   - drainage-cost-austin-tx | Yard Drainage Solutions Cost in Austin, TX | What drives the price of drainage work in Austin.
   - retaining-wall-engineering-austin-tx | Engineering Retaining Walls for Hill Country Slopes | How a wall on a slope is built to handle the water behind it.
 ---
-**Red Agave Landscape is a drainage company in Austin, TX that starts every job by tracing the water: where it enters the lot, where it sits, and where it has to leave.** Then we draw the fix on a CAD plan and build it with our own crew: French drains, channel drains, catch basins, swales, dry creek beds, and steel terraces on slopes. The photos are from a slope we terraced in Circle C and a sloped lot in Bee Cave.
+**Red Agave Landscape is a drainage company in Austin, TX that starts every job by tracing the water: where it enters the lot, where it sits, and where it has to leave.** Then we draw the fix on a CAD plan and build it with our own crew: French drains, channel drains, catch basins, swales, dry creek beds, and steel terraces on slopes. The photos are from a slope we terraced at the Overlook at Lewis Mountain in Southwest Austin and a sloped lot in Bee Cave.
 
-[[fig images/projects/blazyk/before-800.webp | Bare backyard under a live oak before the slope was terraced in Circle C, Austin ;; images/projects/blazyk/IMG_3205-800.webp | Steel terraces of dark gravel, boulders, and ornamental grasses stepping down from a house in Circle C, Austin || Our Circle C project before and after: bare ground under a live oak, then steel terraces of gravel, boulders, and grasses.]]
+[[fig images/projects/blazyk/before-800.webp | Bare backyard under a live oak before the slope was terraced at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_3205-800.webp | Steel terraces of dark gravel, boulders, and ornamental grasses stepping down from a house at the Overlook at Lewis Mountain, Southwest Austin || Our Lewis Mountain project before and after: bare ground under a live oak, then steel terraces of gravel, boulders, and grasses.]]
 
 ## Why Do Drainage Quotes in Austin Disagree?
 
@@ -63,7 +63,7 @@ We use both rigid PVC and corrugated pipe and pick by the run: rigid PVC holds i
 
 On a slope, the drainage and the structure are one plan. Swales and dry creek beds carry water across the surface. Where it cannot stay on top, French drains, catch basins, and channel drains carry it in pipe. Steel walls then cut the slope into level terraces of gravel or planting, and a deck takes over where the grade drops too fast to fill.
 
-Our [Circle C project](../projects/blazyk) started as the yard in the first photo: bare ground and a live oak, on a slope that dropped away from the house with nothing to hold it. We cut it into five planes: three steel terraces that step down through gravel and boulders, and two deck levels off the house. Quarter-inch steel edges every transition. AgriLife lists terraces among the measures for runoff on the thin soils west of I-35.
+Our [Lewis Mountain project](../projects/blazyk) started as the yard in the first photo: bare ground and a live oak, on a slope that dropped away from the house with nothing to hold it. We cut it into five planes: three steel terraces that step down through gravel and boulders, and two deck levels off the house. Quarter-inch steel edges every transition. AgriLife lists terraces among the measures for runoff on the thin soils west of I-35.
 
 [[fig images/projects/bee-cave-deck/deck-terraces.webp | Steel-walled terraces of dark gravel stepping down a slope beside a wood deck in Bee Cave, TX || A sloped lot in Bee Cave: off the low edge of a wood deck, steel walls hold level terraces of dark gravel that step down the slope.]]
 

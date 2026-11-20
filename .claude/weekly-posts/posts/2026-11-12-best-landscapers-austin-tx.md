@@ -36,13 +36,13 @@ Seven things. Ask every landscaper on your list the same questions.
 
 At Red Agave, the owner draws it and our own crew builds it. Every plan is drawn by Jensen Mehrens after a free on-site consultation. The same company builds the yard, so there is one team and one point of contact from the first visit to the final walkthrough.
 
-The proof is a plan next to the yard built from it. We show two: [a Circle C yard from the drawing to the finished build](landscape-design-build-austin-tx), and [a Southeast Austin plan next to its finished fire pits](custom-fire-pits-austin-tx). More drawings are on our [design plans](../designs) page.
+The proof is a plan next to the yard built from it. We show two: [a Southwest Austin yard from the drawing to the finished build](landscape-design-build-austin-tx), and [a Southeast Austin plan next to its finished fire pits](custom-fire-pits-austin-tx). More drawings are on our [design plans](../designs) page.
 
 ## Does the Company Make Its Own Steel?
 
 We do. Red Agave was one of the first companies in Austin to build landscapes in welded steel. Our crew cuts steel plate and welds it on site, so walls, planters, and fire pits are made for the yard they go in.
 
-[[fig images/projects/se-austin-fire-water/07-welding-steel-planter-base-800.webp | Red Agave welder working on the tapered steel base of a custom planter on site in Southeast Austin ;; images/projects/blazyk/IMG_3173-800.webp | Low welded steel retaining walls with dark gravel, boulders, and a raised steel planter in Circle C, Austin || Steel welded on site in Southeast Austin, and finished steel walls and a planter in Circle C.]]
+[[fig images/projects/se-austin-fire-water/07-welding-steel-planter-base-800.webp | Red Agave welder working on the tapered steel base of a custom planter on site in Southeast Austin ;; images/projects/blazyk/IMG_3173-800.webp | Low welded steel retaining walls with dark gravel, boulders, and a raised steel planter at the Overlook at Lewis Mountain, Southwest Austin || Steel welded on site in Southeast Austin, and finished steel walls and a planter at Lewis Mountain.]]
 
 A landscaper who orders steel from a catalog can offer you the catalog. One who welds can build what the yard needs. See our [steel retaining walls](../services/steel-retaining-walls-austin-tx).
 

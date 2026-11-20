@@ -33,14 +33,14 @@ Light that is aimed down and hidden from view also suits towns with strict outdo
 Into the steel and the deck. Three builds show how.
 
 - **Under a planter rim:** on the Circle C pergola project, each steel planter carries a light strip under its lip. The strip lights the soil and the plants from inside the rim. You see lit leaves and never a bulb.
-- **Along an edge:** on our [Circle C steel terraces](../projects/blazyk), LED strips trace the steel edges and the deck transitions. At night the lines draw every level of the slope, and lanterns hang in the live oak above.
+- **Along an edge:** on our [steel terraces at the Overlook at Lewis Mountain](../projects/blazyk) in Southwest Austin, LED strips trace the steel edges and the deck transitions. At night the lines draw every level of the slope, and lanterns hang in the live oak above.
 - **Inside the steel:** on our [Southeast Austin water feature](water-feature-fire-pits-southeast-austin-tx), the tapered base of a steel planter has a slot packed with river rock and lit from inside. Light strips run along the steel edging beside it.
 
 [[fig images/projects/hopeland/IMG_9645-800.webp | Square steel planter lit from under its rim on a composite deck, with pendant lights over a dining table behind, in Circle C, Austin ;; images/projects/hopeland/hero-800.webp | Steel planter glowing under its rim beside composite deck steps and a slatted cabana with warm light at dusk in Circle C, Austin ;; images/projects/hopeland/IMG_9652-800.webp | Low deck platform with a boulder fire pit and light under its edge, with small lights set in river rock, in Circle C, Austin || Circle C: a planter lit from under its rim, the same light at dusk beside the deck steps, and a line of light under the edge of the fire pit deck.]]
 
 In all three, the light is part of something we were already building. See our [custom steel planters](../services/custom-planters-austin-tx) and our [pergolas](../services/pergolas-austin-tx).
 
-[[fig images/projects/blazyk/IMG_8699-800.webp | Light strips along a deck edge and the steel edge of a gravel fire pit court at dusk, with lanterns in the trees, in Circle C, Austin ;; images/projects/blazyk/IMG_8703-800.webp | Gravel court with boulders, ferns, and a fire pit, lit by a strip along its steel edge at night in Circle C, Austin ;; images/projects/blazyk/IMG_8705-800.webp | Live oak hung with lanterns above deck edges outlined by light strips at night in Circle C, Austin || Circle C after dark: light strips outline the deck and the steel edges of the gravel court, and lanterns hang in the live oak.]]
+[[fig images/projects/blazyk/IMG_8699-800.webp | Light strips along a deck edge and the steel edge of a gravel fire pit court at dusk, with lanterns in the trees, at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_8703-800.webp | Gravel court with boulders, ferns, and a fire pit, lit by a strip along its steel edge at night at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/IMG_8705-800.webp | Live oak hung with lanterns above deck edges outlined by light strips at night at the Overlook at Lewis Mountain, Southwest Austin || Lewis Mountain after dark: light strips outline the deck and the steel edges of the gravel court, and lanterns hang in the live oak.]]
 
 ## How Does the Cable Get Through a Finished Yard?
 
@@ -56,7 +56,7 @@ Before we draw the plan, we assess the existing electrical capacity. Then we ins
 
 Mature trees are another reason to stay low voltage. Less digging makes lighting one of the gentlest upgrades around a mature live oak. Our [Tarrytown page](../locations/tarrytown-tx) covers how Austin's tree rules shape a lighting plan.
 
-The cleanest route is the one planned with the build. On the Circle C and Southeast Austin projects the light sits inside the steel and under the deck edges, so it was drawn with them.
+The cleanest route is the one planned with the build. On the Circle C, Lewis Mountain, and Southeast Austin projects the light sits inside the steel and under the deck edges, so it was drawn with them.
 
 ## What Powers the System, and What Keeps It Aimed?
 

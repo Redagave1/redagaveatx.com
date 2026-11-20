@@ -7,7 +7,7 @@ title: Backyard Makeover in Austin, TX: 3 Real Yards | Red Agave
 description: Three backyard makeovers in Austin, TX with before and after photos: a bare slope, a failing pergola, and a flat lawn, and what we kept in each.
 h1: Backyard Makeover in Austin, TX: Three Before and Afters
 crumb: Backyard Makeover in Austin
-excerpt: A bare slope in Circle C, a failing pergola in Circle C, and a flat lawn in Southeast Austin, each shown before and after, with what stayed and what changed.
+excerpt: A bare slope in Southwest Austin, a failing pergola in Circle C, and a flat lawn in Southeast Austin, each shown before and after, with what stayed and what changed.
 image: images/projects/blazyk/hero-share.webp
 cta_title: Plan Your Backyard Makeover
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
@@ -16,24 +16,24 @@ related:
   - pergola-builder-austin-tx | Pergola Builder in Austin, TX | Build new in steel, or rebuild the pergola you have.
   - backyard-renovation-guide-austin-tx | Backyard Renovation Guide for Austin | How to plan a renovation from start to finish.
 ---
-**Red Agave Landscape designs and builds backyard makeovers in Austin, TX, and the best ones keep what is worth keeping.** Here are three yards before and after: a bare slope in Circle C that became steel terraces, a failing pergola in Circle C that became a dining room, and a flat lawn in Southeast Austin that became a patio with water and fire. Each one was drawn by the owner and built by our own crew.
+**Red Agave Landscape designs and builds backyard makeovers in Austin, TX, and the best ones keep what is worth keeping.** Here are three yards before and after: a bare slope at the Overlook at Lewis Mountain in Southwest Austin that became steel terraces, a failing pergola in Circle C that became a dining room, and a flat lawn in Southeast Austin that became a patio with water and fire. Each one was drawn by the owner and built by our own crew.
 
 ## What Can You Do With a Bare Slope?
 
-Cut it into levels. This Circle C backyard was bare ground under a live oak, and it dropped away from the house with nothing to hold it. None of it was level enough to use.
+Cut it into levels. This Lewis Mountain backyard was bare ground under a live oak, and it dropped away from the house with nothing to hold it. None of it was level enough to use.
 
-[[fig images/projects/blazyk/before-800.webp | Bare sloped backyard under a live oak before the makeover in Circle C, Austin ;; images/projects/blazyk/hero-800.webp | Steel terraces of gravel, boulders, and grasses below two fire features after a backyard makeover in Circle C, Austin || Circle C, before and after: bare ground, then three steel terraces below a fire court.]]
+[[fig images/projects/blazyk/before-800.webp | Bare sloped backyard under a live oak before the makeover at the Overlook at Lewis Mountain, Southwest Austin ;; images/projects/blazyk/hero-800.webp | Steel terraces of gravel, boulders, and grasses below two fire features after a backyard makeover at the Overlook at Lewis Mountain, Southwest Austin || Lewis Mountain, before and after: bare ground, then three steel terraces below a fire court.]]
 
 We cut the slope into five level planes: three steel terraces that step down through gravel and boulders, and two deck levels off the house. Quarter-inch steel edges every transition. A gravel court with two fire features sits between the decks and the terraces.
 
 - **What stayed:** the live oak. Lanterns now hang in its canopy.
 - **What changed:** every square foot of ground under it
 
-See [the full Circle C case study](../projects/blazyk), and the plan this yard was built from in our post on [landscape design build](landscape-design-build-austin-tx).
+See [the full Lewis Mountain case study](../projects/blazyk), and the plan this yard was built from in our post on [landscape design build](landscape-design-build-austin-tx).
 
 ## What Can You Do With a Failing Pergola?
 
-Keep it and rebuild it. This second Circle C yard had a wood pergola that was sun-bleached and failing, over an old flagstone patio.
+Keep it and rebuild it. This Circle C yard had a wood pergola that was sun-bleached and failing, over an old flagstone patio.
 
 [[fig images/projects/hopeland/before-pergola-800.webp | Sun-bleached wood pergola over bare ground in a Circle C backyard before the makeover ;; images/projects/hopeland/after-pergola-800.webp | Rebuilt pergola with a steel top over a composite deck and dining table after a backyard makeover in Circle C, Austin || Circle C, before and after: the same pergola, kept, reframed, and capped in steel.]]
 
@@ -65,7 +65,7 @@ See [how this yard was built](water-feature-fire-pits-southeast-austin-tx), and 
 
 No. In all three yards, something stayed: a live oak, a pergola frame, a lawn. Keeping it is often the better design.
 
-Trees are the clearest case. Inside Austin city limits, the City Arborist program protects trees with a diameter of 19 inches or more, so the layout works around them. In Circle C the live oak stayed, and the terraces step down beneath it.
+Trees are the clearest case. Inside Austin city limits, the City Arborist program protects trees with a diameter of 19 inches or more, so the layout works around them. At Lewis Mountain the live oak stayed, and the terraces step down beneath it.
 
 ## What Comes First in a Makeover?
 
@@ -85,7 +85,7 @@ No. In these three makeovers we kept a live oak, a pergola frame, and a lawn. We
 Yes. In Circle C we kept a failing wood pergola, reframed it, and capped it with custom-cut steel triangles.
 
 ### Can a sloped backyard be made usable?
-Yes. In Circle C we cut a bare slope into three steel terraces and two deck levels.
+Yes. At the Overlook at Lewis Mountain in Southwest Austin we cut a bare slope into three steel terraces and two deck levels.
 
 ### Who does the work?
 Our own crew. Red Agave Landscape designs and builds every project.

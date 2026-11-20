@@ -4,10 +4,10 @@ date: 2026-11-12
 format: project
 target: landscape design services austin; landscape design austin tx; landscape design austin; residential landscape design austin; landscape design build austin
 title: Landscape Design Services in Austin, TX | Red Agave
-description: Landscape design services in Austin, TX: see a real Red Agave plan next to the Circle C yard built from it, and what every plan shows before we build.
+description: Landscape design services in Austin, TX: see a real Red Agave plan next to the Southwest Austin yard built from it, and what every plan shows.
 h1: Landscape Design Services in Austin, TX: The Plan Next to the Finished Yard
 crumb: Landscape Design Services
-excerpt: A real plan from our files next to the Circle C yard built from it, and what a Red Agave design puts on paper before anyone digs.
+excerpt: A real plan from our files next to the Southwest Austin yard built from it, and what a Red Agave design puts on paper before anyone digs.
 image: images/designs/circle-c-steel-terraces-plan.webp
 cta_title: Start With a Free Design Consultation
 cta_sub: Owner-designed &middot; Built by our own crew &middot; Free consultation and CAD plan
@@ -16,13 +16,13 @@ related:
   - landscape-designer-austin-tx | Landscape Designer in Austin, TX | Who draws the plan, and how you see it on your own house.
   - landscape-design-cost-austin-tx | Landscape Design Cost in Austin, TX | What drives the price of a design and a build.
 ---
-**Red Agave Landscape provides landscape design services in Austin, TX, and every plan is drawn by the owner after a free on-site consultation.** This post puts one of those plans next to the yard built from it: a sloped backyard in Circle C that became two deck levels and three steel terraces. The plan carries the layout, the square footage of each surface, the materials, and the height of every steel edge. Then our own crew built it.
+**Red Agave Landscape provides landscape design services in Austin, TX, and every plan is drawn by the owner after a free on-site consultation.** This post puts one of those plans next to the yard built from it: a sloped backyard at the Overlook at Lewis Mountain in Southwest Austin that became two deck levels and three steel terraces. The plan carries the layout, the square footage of each surface, the materials, and the height of every steel edge. Then our own crew built it.
 
-[[fig images/designs/circle-c-steel-terraces-plan.webp | Landscape design plan for a sloped Circle C backyard in Austin, with two deck levels, three gravel terraces, boulders, a fire pit, and steel edging marked by height || The plan for our Circle C project. Brown is deck and the pale areas are gravel. The dashed lines are steel: orange for 4 to 8 inches tall, blue for 1 to 2 feet.]]
+[[fig images/designs/circle-c-steel-terraces-plan.webp | Landscape design plan for a sloped backyard at the Overlook at Lewis Mountain in Southwest Austin, with two deck levels, three gravel terraces, boulders, a fire pit, and steel edging marked by height || The plan for our Lewis Mountain project. Brown is deck and the pale areas are gravel. The dashed lines are steel: orange for 4 to 8 inches tall, blue for 1 to 2 feet.]]
 
 ## What Is on a Landscape Design Plan?
 
-Everything the crew needs to build the yard, and everything you need to approve it. On the Circle C plan you can read six things:
+Everything the crew needs to build the yard, and everything you need to approve it. On the Lewis Mountain plan you can read six things:
 
 - **The layout:** two deck levels off the house, joined by a run of steps, and three gravel areas that step down the slope
 - **The dimensions:** the length of each main run is written on the drawing
@@ -37,11 +37,11 @@ Square footage is what turns a drawing into a materials list. The gravel, the de
 
 Close enough to trace. The two deck levels, the court with the fire pit, and the steel terraces below it are all where the plan put them.
 
-[[fig images/projects/blazyk/IMG_3193-800.webp | Finished Circle C backyard in Austin with steel terraces of dark gravel, boulders, and grasses stepping up to a gravel court with a fire pit ;; images/projects/blazyk/IMG_3161-800.webp | Fire pit set on boulders in a gravel court beside a slatted wood bench and a deck in Circle C, Austin || The finished yard in Circle C: the terraces stepping up to the court, and the fire pit in the court seen from the deck.]]
+[[fig images/projects/blazyk/IMG_3193-800.webp | Finished backyard at the Overlook at Lewis Mountain in Southwest Austin with steel terraces of dark gravel, boulders, and grasses stepping up to a gravel court with a fire pit ;; images/projects/blazyk/IMG_3161-800.webp | Fire pit set on boulders in a gravel court beside a slatted wood bench and a deck at the Overlook at Lewis Mountain, Southwest Austin || The finished yard at Lewis Mountain: the terraces stepping up to the court, and the fire pit in the court seen from the deck.]]
 
 One thing changed between the drawing and the build: a gravel. The plan lists Tex Mex gravel for the largest terrace, and the finished terraces are dark gravel. The court kept the pea gravel the plan called for. We bring material and color samples, and you approve every selection before we order.
 
-Our post on [landscape design build](landscape-design-build-austin-tx) walks this yard from the drawing to the finished build, by day and after dark. See also [our Circle C case study](../projects/blazyk), and how the walls were planned in our post on [choosing a retaining wall contractor](retaining-wall-contractor-austin-tx).
+Our post on [landscape design build](landscape-design-build-austin-tx) walks this yard from the drawing to the finished build, by day and after dark. See also [our Lewis Mountain case study](../projects/blazyk), and how the walls were planned in our post on [choosing a retaining wall contractor](retaining-wall-contractor-austin-tx).
 
 ## What Do Landscape Design Services Include?
 
@@ -62,7 +62,7 @@ More of our drawings are on the [design plans](../designs) page.
 
 ## Why Draw the Whole Yard Before Building Any of It?
 
-Because the parts depend on each other. On a slope, the height of each deck sets the height of each steel edge, and the steel sets where the gravel stops. The Circle C plan fixes all of that before any steel is cut.
+Because the parts depend on each other. On a slope, the height of each deck sets the height of each steel edge, and the steel sets where the gravel stops. The Lewis Mountain plan fixes all of that before any steel is cut.
 
 We draw the whole property at once, even when it is built in phases. Drainage, electrical, and gas are planned first, so a later phase never tears up finished work.
 
@@ -94,4 +94,4 @@ Design development takes 2 to 4 weeks, depending on the scope of the project.
 The owner of Red Agave draws every plan, and our own crew builds it, so nothing gets lost between the drawing and the yard.
 
 ### Does the finished yard match the plan?
-On our Circle C project, the two deck levels, the fire pit court, and the steel terraces were built where the plan drew them. One gravel changed, and you approve every selection before we order.
+On our Lewis Mountain project, the two deck levels, the fire pit court, and the steel terraces were built where the plan drew them. One gravel changed, and you approve every selection before we order.

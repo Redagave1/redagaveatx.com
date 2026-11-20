@@ -1239,6 +1239,30 @@
   force = true
 
 [[redirects]]
+  from = "/services/fences-gates-austin-tx.html"
+  to = "/services/fences-gates-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/paver-patios-austin-tx.html"
+  to = "/services/paver-patios-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/patio-covers-pavilions-austin-tx.html"
+  to = "/services/patio-covers-pavilions-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services/lawn-service-austin-tx.html"
+  to = "/services/lawn-service-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/services/steel-retaining-walls-austin-tx.html"
   to = "/services/steel-retaining-walls-austin-tx"
   status = 301

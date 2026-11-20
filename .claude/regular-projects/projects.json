@@ -1,0 +1,73 @@
+{
+  "index": {
+    "date": "2026-11-20",
+    "title": "Landscape Projects in Austin, TX | Red Agave",
+    "desc": "Finished yards by Red Agave Landscape across the Austin area. Each project page shows the photos and lists what was built. Built since 2009.",
+    "lead": "Yards designed and built by Red Agave Landscape across the Austin area, each named for its street. Every page shows the finished work and lists what was built. The longer builds, with their plans and progress photos, are on the <a href=\"../featured\">signature projects</a> page.",
+    "sig_img": "../images/projects/southeast-austin-triangle-planter/13-floating-triangle-planter-dusk-1125.webp",
+    "sig_alt": "Floating triangle steel planter with a variegated century agave at dusk, lit from its rim, in Southeast Austin"
+  },
+  "projects": [
+    {
+      "slug": "signal-point",
+      "name": "Signal Point",
+      "area": "East Austin",
+      "year": "2018",
+      "date": "2026-11-20",
+      "title": "Signal Point: Concrete Fire Pit, East Austin | Red Agave",
+      "desc": "East Austin backyard by Red Agave, built in 2018: a poured concrete fire pit on a steel-framed gravel court, with a steel trellis carrying jasmine.",
+      "headline": "Signal Point: Poured Concrete Fire Pit, Steel Court and Jasmine Trellis in East Austin, TX",
+      "schema_desc": "A custom formed and poured concrete fire pit on a raised gravel court framed in steel, with a steel trellis that wraps around the seating and carries jasmine. Built in East Austin in 2018. Designed and built by Red Agave Landscape.",
+      "kicker": "Poured Concrete &middot; Steel &middot; Gravel &middot; Jasmine",
+      "h2": "A poured concrete fire pit, a steel court, and jasmine on the trellis.",
+      "paras": [
+        "Red Agave Landscape designed and built this backyard fire court on Signal Point in East Austin in 2018. The <a href=\"../services/fire-pits-austin-tx\">fire pit</a> is concrete, custom formed, framed and poured for this yard. It sits on a raised court of dark gravel framed in steel, and a steel trellis wraps around the seating and carries jasmine.",
+        "The lines of the form boards show on the faces of the fire pit. The steel frame holds the gravel above the lawn, and a second, lower steel frame makes the step up from the grass. The trellis is steel posts and rails with wire grid panels. It runs along two sides of the court, and the jasmine climbs the panels behind the seating."
+      ],
+      "img_dir": "images/projects/signal-point/",
+      "share": "signal-point-share.webp",
+      "hero": {
+        "file": "01-concrete-fire-pit-steel-court-jasmine-trellis",
+        "alt": "Square poured concrete fire pit on a raised court of dark gravel framed in steel, with a steel and wire trellis carrying jasmine behind the seating, in East Austin"
+      },
+      "figs": [
+        {
+          "file": "02-poured-concrete-fire-pit-steel-step",
+          "alt": "Poured concrete fire pit showing the lines of its form boards, on a steel-framed gravel court with a lower steel-framed step at the lawn, in East Austin",
+          "cap_a": "01 &middot; Fire Pit",
+          "cap_b": "Poured concrete / steel-framed court"
+        },
+        {
+          "file": "03-steel-trellis-jasmine-gravel-court",
+          "alt": "Steel trellis with wire grid panels and jasmine at the corner of a steel-framed gravel court, with the concrete fire pit behind it, in East Austin",
+          "cap_a": "02 &middot; Trellis",
+          "cap_b": "Steel and wire grid / jasmine"
+        }
+      ],
+      "built": [
+        {"eb": "01 / Fire", "h": "Fire Pit", "items": ["Custom formed and framed", "Poured concrete", "Square fire pit", "Form board lines left in the faces"]},
+        {"eb": "02 / Steel", "h": "Gravel Court", "items": ["Raised court framed in steel", "Dark gravel", "Lower steel-framed step at the lawn"]},
+        {"eb": "03 / Green", "h": "Trellis", "items": ["Steel posts and rails", "Wire grid panels", "Wraps two sides of the court", "Jasmine"]}
+      ],
+      "meta": [["Built", "2018"], ["Area", "East Austin"], ["Fire", "Poured Concrete"], ["Trellis", "Steel + Jasmine"]],
+      "faqs": [
+        ["What is the fire pit made of?", "Poured concrete. Red Agave formed and framed it for this yard, and the lines of the form boards show on its faces."],
+        ["What holds the gravel court?", "Steel. The court is a raised bed of dark gravel framed in steel, with a second, lower steel frame as the step up from the lawn."],
+        ["What grows on the trellis?", "Jasmine. The trellis is steel with wire grid panels, and it wraps around two sides of the seating area."],
+        ["Who built it, and when?", "Red Agave Landscape built it in 2018, with our own crew. Every project starts with a free consultation, and the CAD plan is included."]
+      ],
+      "links": [
+        ["../services/fire-pits-austin-tx", "Custom fire pits"],
+        ["../services/steel-edging-austin-tx", "Steel edging"],
+        ["../services/masonry-concrete-austin-tx", "Masonry and concrete"],
+        ["../blog/custom-fire-pits-austin-tx", "How we design fire pits"],
+        ["../featured", "Signature projects"],
+        ["../contact", "Free consultation"]
+      ],
+      "card_img": "01-concrete-fire-pit-steel-court-jasmine-trellis-800.webp",
+      "card_alt": "Poured concrete fire pit on a steel-framed gravel court with a jasmine trellis in East Austin",
+      "card": "A poured concrete fire pit on a steel-framed gravel court, wrapped by a steel trellis with jasmine.",
+      "llms": "Custom formed and poured concrete fire pit on a raised gravel court framed in steel, with a wrap-around steel trellis carrying jasmine."
+    }
+  ]
+}

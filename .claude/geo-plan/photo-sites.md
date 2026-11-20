@@ -32,6 +32,16 @@ Jensen sent a screenshot of Meta Business Suite for the business portfolio "Red 
 
 Same day, Jensen said "i am in insta do you want to take a look". Looked only, changed nothing: Instagram's Accounts Center lists Facebook "Red Agave", Instagram `redagaveatx`, Threads `redagaveatx` and the business WhatsApp number. So Instagram is tied to the same "Red Agave" profile that has no page access; the guess that a different profile was linked there was wrong. The sharing detail screen ("Sharing across profiles", redagaveatx) answered "This page isn't available right now" twice. Page transparency for Red Agave ATX: Page ID 300265880695553, created December 13, 2018, "can have multiple admins", no names shown. The admin is therefore a Facebook login that is not in Chrome: whoever set the page up in December 2018. Next step is Jensen's: check the Facebook app on the phone (profile switcher) and any older personal login for "Red Agave ATX".
 
+**New page asked for (2026-11-20):** Jensen then asked "can can create a new redagaveatx facebook and link to insta". This replaces the earlier "do not create a new Page" note: Jensen knows the old page stays up and wants a new one. Not started, because Facebook had signed itself out in Chrome by then (login screen with the remembered "Red Agave" profile and a Continue button; Claude does not sign in). Plan once Jensen is signed in again:
+1. facebook.com/pages/creation: name "Red Agave Landscape" (same as every other listing), category Landscape Company, bio from the master description.
+2. Phone, website, 820 Indian Tree Trail, hours daily 6 AM to 8 PM (Tuesday to 8:30 PM); logo and banner from the BuildZoom set; leave the email field empty unless Jensen says to add it.
+3. Project albums named as on Houzz.
+4. Link Instagram `redagaveatx` from the new page's settings (Linked accounts). An Instagram account connects to one page, so its posts then go to the new page. Stop if it asks for a password.
+5. Then point the site's Facebook links (schema `sameAs`, footers) and the BuildZoom link at the new page.
+The address facebook.com/redagaveatx stays with the old page; the new one needs another username (try `redagavelandscape`).
+
+Lead for the old page: on the logged-out facebook.com/pages/creation screen, Chrome fills the login box with a saved Facebook login under a personal Gmail address that is not the business one (address not written down here). It may be the 2018 admin account. Jensen can see it in Chrome's saved passwords.
+
 ## Architizer: done 2026-11-19
 
 Jensen created the account and the firm (company type "Construction Firm"). Jensen asked for all the signature projects, so the target is all twelve.

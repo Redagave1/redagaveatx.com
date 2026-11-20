@@ -3,7 +3,7 @@
     "date": "2026-11-20",
     "title": "Landscape Projects in Austin, TX | Red Agave",
     "desc": "Finished yards by Red Agave Landscape across the Austin area. Each project page shows the photos and lists what was built. Built since 2009.",
-    "lead": "Yards designed and built by Red Agave Landscape across the Austin area, each named for its street. Every page shows the finished work and lists what was built. The longer builds, with their plans and progress photos, are on the <a href=\"../featured\">signature projects</a> page.",
+    "lead": "Yards designed and built by Red Agave Landscape across the Austin area, most named for their street. Every page shows the finished work and lists what was built. The longer builds, with their plans and progress photos, are on the <a href=\"../featured\">signature projects</a> page.",
     "sig_img": "../images/projects/southeast-austin-triangle-planter/13-floating-triangle-planter-dusk-1125.webp",
     "sig_alt": "Floating triangle steel planter with a variegated century agave at dusk, lit from its rim, in Southeast Austin"
   },
@@ -448,6 +448,50 @@
       "card_alt": "Oversized concrete pavers and square steel planters with barrel cacti in marble gravel in Central Austin",
       "card": "Oversized poured concrete pavers with basalt joints, marble gravel, and welded quarter-inch steel planters with barrel cacti.",
       "llms": "Front walk of oversized poured concrete pavers with basalt gravel joints, white marble gravel, welded quarter-inch steel edging and square steel planters, sky pencil holly and barrel cacti."
+    },
+    {
+      "slug": "pool-ipe-deck-bamboo-screen",
+      "external": true,
+      "name": "Pool With Ipe Deck and Bamboo Screen",
+      "area": "Austin",
+      "date": "2026-11-20",
+      "img_dir": "images/projects/pool-ipe-deck-bamboo-screen/",
+      "card_img": "ipe-deck-dark-pool-loungers-bamboo-800.webp",
+      "card_alt": "Ipe deck around a dark pool with a row of loungers and a bamboo screen along the fence in Austin",
+      "card": "An ipe deck built around a dark pool, with a row of loungers and a bamboo screen along the fence."
+    },
+    {
+      "slug": "boulder-stream-steel-fire-trough",
+      "external": true,
+      "name": "Boulder Stream and Steel Fire Trough",
+      "area": "Austin",
+      "date": "2026-11-20",
+      "img_dir": "images/projects/boulder-stream-steel-fire-trough/",
+      "card_img": "steel-fire-trough-boulder-stream-dusk-800.webp",
+      "card_alt": "Steel fire trough burning above a stream that runs through boulders at dusk in Austin",
+      "card": "A stream running through boulders, with a steel fire trough set among the stones and lighting along the steel edging."
+    },
+    {
+      "slug": "courtyard-stream-japanese-maple",
+      "external": true,
+      "name": "Courtyard Stream With a Japanese Maple",
+      "area": "Austin",
+      "date": "2026-11-20",
+      "img_dir": "images/projects/courtyard-stream-japanese-maple/",
+      "card_img": "courtyard-stream-share.webp",
+      "card_alt": "Japanese maple with red leaves over a small stream running between boulders beside a glass wall in an Austin courtyard",
+      "card": "A small stream through boulders in a courtyard beside a glass wall, planted with a Japanese maple, ferns, and shade plants."
+    },
+    {
+      "slug": "triangle-fire-pit-stock-tank-pool",
+      "external": true,
+      "name": "Triangle Fire Pit and Stock Tank Pool",
+      "area": "Austin",
+      "date": "2026-11-20",
+      "img_dir": "images/projects/triangle-fire-pit-stock-tank-pool/",
+      "card_img": "triangle-fire-pit-share.webp",
+      "card_alt": "Triangle steel fire pit burning at the edge of a stock tank pool, with water falling from its spillway, in Austin",
+      "card": "A triangle steel fire pit set at the edge of a stock tank pool, with a steel spillway that pours into the water."
     }
   ]
 }

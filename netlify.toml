@@ -1005,6 +1005,48 @@
   force = true
 
 [[redirects]]
+  from = "/projects/southeast-austin-water-feature.html"
+  to = "/projects/southeast-austin-water-feature"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/south-austin-screened-room.html"
+  to = "/projects/south-austin-screened-room"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/east-austin-steel-edging-boulders.html"
+  to = "/projects/east-austin-steel-edging-boulders"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/pool-ipe-deck-bamboo-screen.html"
+  to = "/projects/pool-ipe-deck-bamboo-screen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/boulder-stream-steel-fire-trough.html"
+  to = "/projects/boulder-stream-steel-fire-trough"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/courtyard-stream-japanese-maple.html"
+  to = "/projects/courtyard-stream-japanese-maple"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/triangle-fire-pit-stock-tank-pool.html"
+  to = "/projects/triangle-fire-pit-stock-tank-pool"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/projects/chrysler-bend.html"
   to = "/projects/chrysler-bend"
   status = 301

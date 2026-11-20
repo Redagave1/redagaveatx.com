@@ -28,6 +28,8 @@ Jensen asked on 2026-11-19 to also add this address. Done on Architizer (firm pa
 
 Jensen sent a screenshot of Meta Business Suite for the business portfolio "Red Agave Landscape": "No ad accounts" and "No Pages". The Red Agave ATX page is not in that portfolio, and the signed-in profile is not an admin of it. Jensen asked "Can you add pages": tried Business settings, Pages, Add an existing Facebook Page with facebook.com/redagaveatx. Facebook answered "Unable to add Facebook Page. Only people with full control access of the Page can add it into this business portfolio." Do not create a new Page (it would duplicate the existing one with 136 followers and its reviews). Jensen has to log in with the account that is admin of Red Agave ATX, or add the page to the portfolio from that account.
 
+2026-11-20, after Jensen said "i am logged into meta": Chrome is still on the same profile, "Red Agave". "Pages you manage" is empty, Pages, Invites shows no pending invites, the profile switcher lists only "Red Agave", and business.facebook.com answers "Unable to access Meta Business Suite with this account". The page itself shows Follow and Message, not Manage. Clue: the page's newest post (2 Nov) is one of the Instagram carousels, so the page is fed from the Instagram account; the Facebook profile linked to that Instagram account (Instagram, Settings, Accounts Center) is most likely the one with full control. Claude does not open Instagram settings (hands off).
+
 ## Architizer: done 2026-11-19
 
 Jensen created the account and the firm (company type "Construction Firm"). Jensen asked for all the signature projects, so the target is all twelve.

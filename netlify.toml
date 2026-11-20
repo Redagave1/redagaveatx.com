@@ -117,6 +117,36 @@
   force = true
 
 [[redirects]]
+  from = "/blog/modern-landscaping-austin-tx.html"
+  to = "/blog/modern-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/deck-or-patio-under-oaks-austin-tx.html"
+  to = "/blog/deck-or-patio-under-oaks-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steel-pergola-rebuild-circle-c-austin-tx.html"
+  to = "/blog/steel-pergola-rebuild-circle-c-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/artificial-grass-installation-austin-tx.html"
+  to = "/blog/artificial-grass-installation-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/paver-patio-installation-austin-tx.html"
+  to = "/blog/paver-patio-installation-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/sabal-uresana-blue-sonoran-palm-austin-tx.html"
   to = "/blog/sabal-uresana-blue-sonoran-palm-austin-tx"
   status = 301

@@ -36,9 +36,13 @@ A = {
 
 FAQS = [
  ("What is a floating planter?",
-  "A planter held off the ground, with open space under it. This one is a welded steel triangle shaped like an upside-down pyramid, carried on one post above a terraced steel bed."),
+  "A planter held off the ground, with open space under it. This one is a welded steel triangle shaped like an upside-down pyramid. It is mounted on square steel tubing set in concrete above a terraced steel bed, and mirrors at the base make it look like it floats."),
+ ("What was in this yard before?",
+  "Hammer-together edging that curved across a slope, filled with mulch and scattered plants. We took the slope out and built three steel terraces in its place."),
+ ("How do water and power reach the planter?",
+  "They run up the middle of the planter. The planter is mounted on square steel tubing set in concrete."),
  ("What is a light rim?",
-  "A steel rim with the light hidden under it. On this project a custom light rim runs around the outside of the terraced steel, and an angle iron light rim circles the planter. You see the glow on the gravel and the lawn, and the light itself stays out of sight."),
+  "A steel rim with the light hidden in it. On this project the rim around the three terraces is square steel tubing with the center cut out, welded to the outline of the terraces. It houses the COB lights and makes the steel look heavier. An angle iron rim with lights in it circles the planter. You see the glow on the gravel and the lawn, and the light itself stays out of sight."),
  ("What is planted in the floating triangle planter?",
   "One variegated century agave, with silver ponyfoot trailing around its base. Three silver santolina grow under the planter, with maiden grass and artichoke agave in the terraced beds. Every bed is finished in basalt gravel."),
  ("How is the steel finished black?",
@@ -95,9 +99,9 @@ BODY = f"""<body>
         <h2 class="line-mask" data-delay="1"><span class="nar-title">One agave, held above the ground. Light under every rim.</span></h2>
         <span class="line-mask" data-delay="2"><span class="ps-pulse" style="margin-top:6px">Steel &middot; Angle Iron &middot; Basalt &middot; Light</span></span>
         <div class="nar-body">
-          <p class="line-mask" data-delay="3"><span>Red Agave Landscape designed and built this front yard in Southeast Austin: terraced black steel beds with a custom light rim around the exterior, and a floating triangle planter above them. The planter is welded steel shaped like an upside-down pyramid. It is carried on one post, and a variegated century agave grows in it.</span></p>
-          <p class="line-mask" data-delay="4"><span>The beds step toward the front door. Each one is steel set on edge, sealed with a black penetrating sealer, and filled with basalt gravel. The light rim runs around the outside of the steel. The light sits under the rim, out of sight, and washes down the black face onto the ground. At dusk the steel reads as a dark band with a warm line of light under it.</span></p>
-          <p class="line-mask" data-delay="5"><span>The planter has an angle iron rim, and its light rim is angle iron too. The light shines down on the basalt, so the planter looks like it hangs above the rock. Silver ponyfoot trails around the agave, and three silver santolina grow under the edge of the planter. In the beds, maiden grass and <a href="../blog/artichoke-agave-austin-tx" style="text-decoration:underline;text-underline-offset:3px">artichoke agave</a> grow in the gravel.</span></p>
+          <p class="line-mask" data-delay="3"><span>Red Agave Landscape designed and built this front yard on Chrysler Bend in Easton Park, Southeast Austin. Before, the slope held hammer-together edging that curved across it, filled with mulch and scattered plants. We took the slope out with three terraces of black steel, put a custom light rim around them, and floated a triangle planter above. The planter is welded steel shaped like an upside-down pyramid, and a variegated century agave grows in it.</span></p>
+          <p class="line-mask" data-delay="4"><span>The beds step toward the front door. Each one is steel set on edge, sealed with a black penetrating sealer, and filled with basalt gravel. The light rim is square steel tubing with the center cut out, welded to the outline of the three terraces. It houses the COB lights, and it makes the steel look heavier. The light stays out of sight and washes down the black face onto the ground. At dusk the steel reads as a dark band with a warm line of light under it.</span></p>
+          <p class="line-mask" data-delay="5"><span>The planter has an angle iron rim with lights in it. It is mounted on square steel tubing set in concrete, with mirrors at the base, so it looks like it floats. Water and power run up the middle of the planter. The light shines down on the basalt, so the planter looks like it hangs above the rock. Silver ponyfoot trails around the agave, and three silver santolina grow under the edge of the planter. In the beds, maiden grass and <a href="../blog/artichoke-agave-austin-tx" style="text-decoration:underline;text-underline-offset:3px">artichoke agave</a> grow in the gravel.</span></p>
         </div>
       </div>
     </aside>
@@ -205,11 +209,14 @@ BODY = f"""<body>
         <div class="bp-chap-eb">01 / Steel</div>
         <div class="bp-chap-h">Terraces + Planter</div>
         <ul>
-          <li>Terraced black steel beds</li>
+          <li>Three terraced black steel beds</li>
+          <li>Slope taken out</li>
           <li>Beds step toward the front door</li>
           <li>Floating triangle planter</li>
           <li>Three plates welded to a point</li>
-          <li>One post under the point</li>
+          <li>Mounted on square steel tubing set in concrete</li>
+          <li>Mirrors at the base</li>
+          <li>Water and power up the middle</li>
           <li>Angle iron rim</li>
           <li>Black penetrating sealer</li>
         </ul>
@@ -218,9 +225,10 @@ BODY = f"""<body>
         <div class="bp-chap-eb">02 / Lighting</div>
         <div class="bp-chap-h">Light Rims</div>
         <ul>
-          <li>Custom light rim around the terraces</li>
-          <li>Angle iron light rim on the planter</li>
-          <li>Light hidden under the steel</li>
+          <li>Light rim of square tubing with the center cut out</li>
+          <li>Welded to the outline of the three terraces</li>
+          <li>COB lights housed in the rim</li>
+          <li>Angle iron rim with lights on the planter</li>
           <li>Warm wash on basalt and lawn</li>
         </ul>
       </div>
@@ -325,7 +333,7 @@ def main():
     e = lambda x: html.escape(x, quote=True)
     article = {"@context": "https://schema.org", "@type": "Article",
                "headline": "Chrysler Bend: Floating Triangle Planter and Terraced Steel in Southeast Austin, TX",
-               "description": "Terraced steel beds finished in a black penetrating sealer with a custom light rim around the exterior, a floating welded steel triangle planter with an angle iron rim and an angle iron light rim, a variegated century agave, silver ponyfoot, silver santolina, maiden grass, artichoke agave, and basalt gravel. Designed and built by Red Agave Landscape.",
+               "description": "Three terraced steel beds finished in a black penetrating sealer, with a custom light rim of square steel tubing welded to their outline, a floating welded steel triangle planter with an angle iron rim and an angle iron light rim, a variegated century agave, silver ponyfoot, silver santolina, maiden grass, artichoke agave, and basalt gravel. Designed and built by Red Agave Landscape.",
                "image": [ABS + "floating-triangle-project-share.webp", ABS + "13-floating-triangle-planter-dusk-1125.webp", ABS + "09-terraced-steel-light-rim-triangle-planter-1125.webp"],
                "datePublished": "2026-11-18", "dateModified": "2026-11-18",
                "author": {"@type": "Organization", "name": "Red Agave Landscape", "url": "https://www.redagaveatx.com"},

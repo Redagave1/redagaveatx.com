@@ -1,13 +1,17 @@
 """Cuts the zoom-in bands (1125 by 640, plus 800 by 455) and share images (1200 by 630) for the project pages
 built with proj_lib.py. Sources are the site's own photos. Output is WebP with no EXIF.
 Run: python3 -I .claude/service-pages/cut_project_zooms.py .
+One project only (leaves every other project's files untouched): add a part of its folder name,
+    python3 -I .claude/service-pages/cut_project_zooms.py . madison/
 """
 import os, sys
 from PIL import Image
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "."
+ONLY = sys.argv[2] if len(sys.argv) > 2 else ""
 P = "images/projects/"
 G = "images/gallery/"
+MAD = P + "madison/"
 SE, SR, EA = P + "se-austin-fire-water/", P + "south-austin-screened-room/", P + "east-austin-steel-boulders/"
 POOL, STREAM, COURT, TRI = (P + "pool-ipe-deck-bamboo-screen/", P + "boulder-stream-steel-fire-trough/",
                             P + "courtyard-stream-japanese-maple/", P + "triangle-fire-pit-stock-tank-pool/")
@@ -35,6 +39,9 @@ BANDS = [
  (G + "IMG_8347.webp", (0, 860, 1440, 1679), TRI + "zoom-steel-spillway-into-stock-tank"),
  (G + "IMG_8339.webp", (0, 330, 1440, 1149), TRI + "zoom-fire-lava-rock-dark-stone"),
  (G + "IMG_8343.webp", (0, 330, 1200, 1013), TRI + "zoom-triangle-fire-pit-point"),
+ (MAD + "IMG_9053.webp", (0, 790, 1200, 1473), MAD + "zoom-boulder-fire-pit-obsidian-look-fire-glass"),
+ (MAD + "IMG_9065.webp", (250, 400, 1150, 912), MAD + "zoom-tapered-planter-lit-rim-cutout"),
+ (MAD + "IMG_9027.webp", (0, 700, 1200, 1383), MAD + "zoom-marbled-concrete-formed-in-steel"),
 ]
 # portrait zoom for a narrative figure: (source, box, output path with suffix, output size)
 FIGS = [
@@ -46,6 +53,7 @@ SHARES = [
  (G + "IMG_5474.webp", (0, 180, 1600, 1020), STREAM + "boulder-stream-fire-trough-share.webp"),
  (G + "IMG_8283.webp", (0, 290, 1200, 920), COURT + "courtyard-stream-share.webp"),
  (G + "IMG_8345.webp", (0, 330, 1200, 960), TRI + "triangle-fire-pit-share.webp"),
+ (MAD + "IMG_9065.webp", (0, 440, 1200, 1070), MAD + "floating-boulder-fire-pit-tapered-planter-share.webp"),
 ]
 
 # plain resizes to 800 wide (and 1200 wide for landscape heroes): (source, output, width)
@@ -72,7 +80,17 @@ RESIZE = [
  (G + "IMG_8339.webp", TRI + "triangle-fire-pit-from-above-spillway-800.webp", 800),
  (G + "IMG_8343.webp", TRI + "triangle-fire-pit-point-turf-concrete-800.webp", 800),
  (G + "IMG_8347.webp", TRI + "steel-spillway-tapered-base-stock-tank-800.webp", 800),
+ (MAD + "IMG_9096.webp", MAD + "IMG_9096-800.webp", 800),
+ (MAD + "IMG_8976.webp", MAD + "IMG_8976-800.webp", 800),
+ (MAD + "IMG_9083.webp", MAD + "IMG_9083-800.webp", 800),
+ (MAD + "IMG_9007.webp", MAD + "IMG_9007-800.webp", 800),
+ (MAD + "IMG_8997.webp", MAD + "IMG_8997-800.webp", 800),
 ]
+if ONLY:
+    BANDS = [x for x in BANDS if ONLY in x[2]]
+    FIGS = [x for x in FIGS if ONLY in x[2]]
+    SHARES = [x for x in SHARES if ONLY in x[2]]
+    RESIZE = [x for x in RESIZE if ONLY in x[1]]
 
 def save(im, path, q=82):
     os.makedirs(os.path.dirname(path), exist_ok=True)

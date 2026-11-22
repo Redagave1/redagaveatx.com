@@ -1,9 +1,9 @@
 """Builds projects/madison.html (Signature Project 02, Crestview, Austin).
 Facts: only the owner's words of 2026-11-20 (memory file project_madison.md), his added line of 2026-11-21
-("we made a floating boulder benches mirrors on that and also the floating fire pit"), and the photos in images/projects/madison/.
+("we made a floating benches mirrors on that and also the floating fire pit"), and the photos in images/projects/madison/.
 The pool was already there: never say or imply Red Agave built it. No sizes, no deck wood, no redbud variety.
 The photos show two boulders raised off the ground (one in the lawn, one long flat one by the left planter). Which one is the
-bench, or whether both are, is not confirmed, so the text says "a floating boulder bench" and the alt texts only describe them.
+bench, or whether both are, is not confirmed, so the text says "a floating bench" and the alt texts only describe them.
 The page is already registered (featured.html card, sitemap, netlify, llms.txt), so there is no register step.
 Run: python3 -I .claude/service-pages/make_madison.py .
 """
@@ -41,7 +41,7 @@ FAQS = [
  ("What are the V-shaped steel planters, and how are they lit?",
   "They are tapered steel planters, and there are two of them. Each one has a light in its upper rim and a cutout with a second low voltage light. The COB lights are BTF. Each planter sits on two turf steps."),
  ("How does the boulder fire pit float?",
-  "The fire pit is a black diamond boulder. The owner of Red Agave drilled a hole in the bottom of it and mounted it on an oil field pipe. Mirrors are mounted under the boulder, at the base, so the boulder looks like it is floating. The gas line goes through the pipe and through a hole drilled through the boulder. The top is carved out and filled with fire glass that looks like obsidian. The floating boulder bench has mirrors under it too."),
+  "The fire pit is a black diamond boulder. The owner of Red Agave drilled a hole in the bottom of it and mounted it on an oil field pipe. Mirrors are mounted under the boulder, at the base, so the boulder looks like it is floating. The gas line goes through the pipe and through a hole drilled through the boulder. The top is carved out and filled with fire glass that looks like obsidian. The floating bench has mirrors under it too."),
  ("How was the concrete formed?",
   "With 1/4-inch by 4-inch steel, and the steel remains in place. The concrete was finished smooth with a marbling effect."),
  ("What is planted in this yard?",
@@ -59,7 +59,7 @@ SPEC = {
  "desc": "Crestview, Austin backyard by Red Agave: terraced turf, two lit tapered steel planters, a floating boulder fire pit and bench, and marbled concrete.",
  "og_title": "Madison: Floating Boulder Fire Pit and Tapered Steel Planters | Red Agave",
  "headline": "Madison: Floating Boulder Fire Pit, Tapered Steel Planters, and Terraced Turf in Crestview, Austin, TX",
- "schema_desc": "A bare piece of dirt next to an existing pool in Crestview, Austin, terraced slightly down to the seating area and finished in Ultra Real turf by American Synthetic Turf. Two tapered steel planters, each on two turf steps, each with a light in its upper rim and a cutout with a second low voltage light. A floating fire pit made from a black diamond boulder, drilled and mounted on an oil field pipe that carries the gas line, with mirrors mounted under the boulder and the top carved out and filled with fire glass that looks like obsidian. A floating boulder bench, also with mirrors under it. Smooth concrete with a marbling effect, formed with 1/4-inch by 4-inch steel that remains in place. BTF COB lights, low voltage lighting, and a deck stained with Ready Seal. Planted with weeping redbud, native sedge, variegated cast iron plant, gayfeather, Japanese yews, Japanese maple, cherry laurel, ferns, and philodendron. Designed and built by Red Agave Landscape in 2024.",
+ "schema_desc": "A bare piece of dirt next to an existing pool in Crestview, Austin, terraced slightly down to the seating area and finished in Ultra Real turf by American Synthetic Turf. Two tapered steel planters, each on two turf steps, each with a light in its upper rim and a cutout with a second low voltage light. A floating fire pit made from a black diamond boulder, drilled and mounted on an oil field pipe that carries the gas line, with mirrors mounted under the boulder and the top carved out and filled with fire glass that looks like obsidian. A floating bench, also with mirrors under it. Smooth concrete with a marbling effect, formed with 1/4-inch by 4-inch steel that remains in place. BTF COB lights, low voltage lighting, and a deck stained with Ready Seal. Planted with weeping redbud, native sedge, variegated cast iron plant, gayfeather, Japanese yews, Japanese maple, cherry laurel, ferns, and philodendron. Designed and built by Red Agave Landscape in 2024.",
  "schema_images": [D + "floating-boulder-fire-pit-tapered-planter-share.webp", D + "IMG_9096.webp", D + "IMG_9007.webp"],
  "share": D + "floating-boulder-fire-pit-tapered-planter-share.webp",
  "area": "Crestview, Austin, TX",
@@ -75,9 +75,9 @@ SPEC = {
  "h2": "Bare dirt by the pool. Now turf, steel, and fire.",
  "pulse": "Turf &middot; Steel &middot; Boulder &middot; Concrete",
  "paras": [
-  'Red Agave Landscape designed and built this backyard in Crestview, Austin, in 2024: a slightly terraced yard in <a href="../services/turf-installation-austin-tx">artificial turf</a>, with two lit tapered steel planters, a floating boulder fire pit, a floating boulder bench, and marbled concrete formed in steel. It started as a bare piece of dirt next to the pool. The ground had a slight slope, so we terraced it slightly, stepping down to the seating area. The turf is Ultra Real, made by American Synthetic Turf.',
+  'Red Agave Landscape designed and built this backyard in Crestview, Austin, in 2024: a slightly terraced yard in <a href="../services/turf-installation-austin-tx">artificial turf</a>, with two lit tapered steel planters, a floating boulder fire pit, a floating bench, and marbled concrete formed in steel. It started as a bare piece of dirt next to the pool. The ground had a slight slope, so we terraced it slightly, stepping down to the seating area. The turf is Ultra Real, made by American Synthetic Turf.',
   'There are two <a href="../services/custom-planters-austin-tx">tapered steel planters</a>, each shaped like a V. Each one sits on two turf steps. Each has a light in its upper rim, and a cutout in the steel with a second low voltage light. The COB lights are BTF, and the <a href="../services/landscape-lighting-austin-tx">lighting</a> in this yard is low voltage. A weeping redbud grows in each planter.',
-  'The <a href="../services/fire-pits-austin-tx">fire pit</a> is a black diamond boulder. The owner of Red Agave drilled a hole in the bottom of the boulder and mounted it on an oil field pipe. Mirrors are mounted under the boulder, so it looks like it is floating. The gas line goes through the pipe. A hole was drilled through the boulder for the gas line. The top was carved out and filled with fire glass that looks like obsidian. The yard also has a floating boulder bench, with mirrors mounted under it as well.',
+  'The <a href="../services/fire-pits-austin-tx">fire pit</a> is a black diamond boulder. The owner of Red Agave drilled a hole in the bottom of the boulder and mounted it on an oil field pipe. Mirrors are mounted under the boulder, so it looks like it is floating. The gas line goes through the pipe. A hole was drilled through the boulder for the gas line. The top was carved out and filled with fire glass that looks like obsidian. The yard also has a floating bench, with mirrors mounted under it as well.',
   'The <a href="../services/marbled-concrete-patios-austin-tx">concrete</a> was finished smooth with a marbling effect. It is formed with 1/4-inch by 4-inch steel, and the steel remains in place. The planting is weeping redbud, native sedge, variegated cast iron plant, gayfeather, Japanese yews, Japanese maple, cherry laurel, ferns, and philodendron. The deck is stained with Ready Seal.',
  ],
  "figs": [
@@ -103,7 +103,7 @@ SPEC = {
     "top": IM("Bare dirt under a large tree next to a pool with a black safety fence, before the build, in Crestview, Austin",
               (D + "before-800.webp", 800), (D + "before.webp", 1200)),
     "eb": "Before &middot; After", "h": "Bare Dirt", "pulse": "Next to the Pool",
-    "text": "Before the build, this was a bare piece of dirt next to the pool. The ground had a slight slope, so we terraced it slightly, stepping down to the seating area. Now it is turf, two steel planters, a floating boulder fire pit, a floating boulder bench, and marbled concrete."},
+    "text": "Before the build, this was a bare piece of dirt next to the pool. The ground had a slight slope, so we terraced it slightly, stepping down to the seating area. Now it is turf, two steel planters, a floating boulder fire pit, a floating bench, and marbled concrete."},
   ],
  },
  "statement": ("Boulders That Float", "Oil field pipe. <em>Mirrors below.</em>"),
@@ -127,7 +127,7 @@ SPEC = {
    ("01 / Ground", "Turf + Terraces", ["Bare piece of dirt next to the pool", "Slight slope", "Slight terracing down to the seating area", "Ultra Real artificial turf", "Made by American Synthetic Turf"]),
    ("02 / Steel", "Tapered Planters", ["Two tapered steel planters", "V shape", "Light in the upper rim", "Cutout with a second low voltage light", "Each on two turf steps"]),
    ("03 / Fire", "Floating Fire Pit", ["Black diamond boulder", "Hole drilled in the bottom", "Mounted on an oil field pipe", "Mirrors mounted under the boulder", "Gas line through the pipe", "Hole drilled through the boulder for the gas line", "Top carved out", "Fire glass that looks like obsidian"]),
-   ("04 / Stone", "Floating Bench", ["Floating boulder bench", "Mirrors mounted under the bench"]),
+   ("04 / Stone", "Floating Bench", ["Floating bench", "Mirrors mounted under the bench"]),
    ("05 / Concrete", "Marbled", ["Finished smooth", "Marbling effect", "Formed with 1/4-inch by 4-inch steel", "Steel remains in place"]),
    ("06 / Lighting", "Low Voltage", ["Low voltage lights", "BTF COB lights", "Light in the upper rim of each planter", "Second low voltage light in each cutout"]),
    ("07 / Plant Palette", "Nine Plants", PLANTS),

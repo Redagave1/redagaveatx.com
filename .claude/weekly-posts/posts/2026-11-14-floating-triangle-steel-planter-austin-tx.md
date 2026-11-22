@@ -16,9 +16,13 @@ related:
   - water-feature-fire-pits-southeast-austin-tx | Water Feature and Fire Pits in Southeast Austin | A round water feature, two steel fire pits, and a steel planter welded on site.
   - cold-hardy-agaves-central-texas | Cold-Hardy Agaves for Central Texas | Which agaves take an Austin winter, and how big each one grows.
 ---
-**Red Agave Landscape built a floating triangle planter in Southeast Austin: a welded steel planter shaped like an upside-down pyramid, carried on one post above a raised steel bed.** It stands in the front yard, below a front window. A variegated century agave grows in it, and a light rim made of angle iron shines down on the basalt gravel below. The sketch, the build, and the finished planter are all on this page.
+**Red Agave Landscape built a floating triangle planter in Easton Park, Southeast Austin: a welded steel planter shaped like an upside-down pyramid, carried on one post above a raised steel bed.** It stands in the front yard, below a front window. A variegated century agave grows in it, and a light rim made of angle iron shines down on the basalt gravel below. The sketch, the build, and the finished planter are all on this page.
 
 [[fig images/projects/southeast-austin-triangle-planter/03-floating-triangle-planter-agave-lit-800.webp | Black triangle steel planter with a variegated century agave floating above a raised steel bed of basalt gravel, lit from its rim, in a front yard in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/04-floating-triangle-planter-side-view-800.webp | Side view of a black steel planter shaped like an upside-down pyramid, holding a variegated century agave above silver santolina and lit basalt gravel in Southeast Austin || Southeast Austin: the triangle planter above its raised steel bed, lit from its rim.]]
+
+## What Was in the Yard Before?
+
+Hammer-together edging that curved across a slope, filled with mulch, a crape myrtle, and a mix of store-bought plants. We took the slope out with three terraces of black steel and floated the triangle planter above them.
 
 ## What Is a Floating Planter?
 
@@ -27,7 +31,8 @@ A planter held off the ground, so there is open space under it. Most planters ar
 This one is a triangle. Three steel faces slope down from an angle iron rim to a single point, and the point sits on one post. The post is short and stands under the middle of the planter. From the lawn you see the planter and the light from its rim.
 
 - **Shape:** a triangle from above, an upside-down pyramid from the side
-- **Support:** one post, under the point
+- **Support:** one post of square steel tubing set in concrete, under the point
+- **Mirrors:** at the base of the post, so the planter looks like it floats
 - **Rim:** angle iron around the top edge
 - **Finish:** a black penetrating sealer
 - **Below:** a raised steel bed filled with basalt gravel
@@ -47,9 +52,10 @@ More of our drawings are on the [design plans page](../designs).
 In steel plate, cut and welded. Our June photos show the planter and the bed in steel, before the black penetrating sealer and before any planting.
 
 - **The bed:** steel plate set on edge to make a raised square bed
-- **The post:** one post standing in the middle of the bed
+- **The post:** one post of square steel tubing, set in concrete in the middle of the bed
 - **The planter:** three steel plates welded into a point, with an angle iron rim welded around the top
 - **The second bed:** a steel bed beside the first, lined with landscape fabric
+- **Water and power:** both run up the middle of the planter. The water comes from a sprinkler line we tapped, with the pressure reduced.
 
 The two beds meet at a corner. The second bed is set back from the first, so the front of the steel has a step in it. You can see that step in the finished photo at the top of this page.
 
@@ -88,7 +94,7 @@ See our guide to [cold-hardy agaves for Central Texas](cold-hardy-agaves-central
 
 From its rim. The planter has an angle iron rim, and its light rim is made of angle iron too. The light sits under the steel, out of sight, and shines down on the basalt gravel and the plants. In the evening the rock glows warm, and the black steel stands out above it.
 
-The raised beds are terraced, and a custom light rim runs around the outside of them. It washes down the black steel onto the lawn.
+The raised beds are three terraces, and a custom light rim runs around the outside of them. It is square steel tubing with the center cut out, welded to the outline of the terraces. It houses the COB lights, and it makes the steel look bulkier. The light washes down the black steel onto the lawn. The COB lights plug into a 24-volt power pack, and the power pack plugs into an outdoor outlet.
 
 [[fig images/projects/southeast-austin-triangle-planter/09-terraced-steel-light-rim-triangle-planter-800.webp | Black triangle steel planter with a variegated century agave floating above terraced steel beds of basalt gravel, with the light rim glowing along the outside of the steel, in Southeast Austin ;; images/projects/southeast-austin-triangle-planter/13-floating-triangle-planter-dusk-800.webp | Floating triangle steel planter with a variegated century agave at dusk, lit from its rim above basalt gravel, with terraced steel beds running to the front door, in Southeast Austin || The light rim around the terraced steel, and the planter at dusk.]]
 
@@ -118,13 +124,13 @@ Every Red Agave project starts with a free consultation, and the CAD plan is inc
 A planter held off the ground, so there is open space under it. Ours in Southeast Austin is a welded steel triangle carried on one post above a raised steel bed.
 
 ### What holds a floating planter up?
-One post under its point. The planter narrows from a wide rim to a single point, and the point sits on the post.
+One post under its point. The planter narrows from a wide rim to a single point, and the point sits on the post. The post is square steel tubing set in concrete, and mirrors at its base make the planter look like it floats.
 
 ### Can a steel planter be black instead of rusted?
-Yes. Raw mild steel develops a natural rust patina over 6 to 12 months, and a planter can be finished in a color instead. This one is sealed with a black penetrating sealer.
+Yes. Uncoated mild steel develops a natural rust patina over 6 to 12 months, and a planter can be finished in a color instead. This one is sealed with a black penetrating sealer.
 
 ### What do you plant in a steel planter in Austin?
 In Southeast Austin we planted a variegated century agave with silver ponyfoot around its base. An agave holds its shape all year and takes full sun.
 
 ### Do you build in Southeast Austin?
-Yes. Red Agave Landscape designs and builds across the Austin area, and every project is built by our own crew.
+Yes. This planter stands in Easton Park. Red Agave Landscape designs and builds across the Austin area, and every project is built by our own crew.

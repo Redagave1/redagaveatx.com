@@ -117,6 +117,30 @@
   force = true
 
 [[redirects]]
+  from = "/blog/flagstone-patio-austin-tx.html"
+  to = "/blog/flagstone-patio-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/retaining-wall-materials-austin-tx.html"
+  to = "/blog/retaining-wall-materials-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/privacy-fence-austin-tx.html"
+  to = "/blog/privacy-fence-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/concrete-patio-austin-tx.html"
+  to = "/blog/concrete-patio-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/outdoor-kitchen-builders-austin-tx.html"
   to = "/blog/outdoor-kitchen-builders-austin-tx"
   status = 301

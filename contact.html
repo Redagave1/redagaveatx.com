@@ -679,8 +679,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   }
 
   // ── REVEAL ──
-  var obs=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},{threshold:0.06});
-  document.querySelectorAll('.rev').forEach(function(el){obs.observe(el)});
+  var obsf=function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},obs=new IntersectionObserver(obsf,{threshold:0.06}),obst=new IntersectionObserver(obsf,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?obst:obs).observe(el)});
 
   // ── HERO TITLE ──
   setTimeout(function(){

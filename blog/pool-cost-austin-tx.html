@@ -413,8 +413,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   window.addEventListener('scroll',function(){nav&&nav.classList.toggle('scrolled',scrollY>60)},{passive:true});
   var hbg=document.getElementById('hbg'),mob=document.getElementById('mob-menu');
   if(hbg&&mob){hbg.addEventListener('click',function(){var o=mob.classList.toggle('open');hbg.classList.toggle('open',o)});mob.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){mob.classList.remove('open');hbg.classList.remove('open')})})}
-  var obs=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},{threshold:0.1});
-  document.querySelectorAll('.rev').forEach(function(el){obs.observe(el)});
+  var obsf=function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},obs=new IntersectionObserver(obsf,{threshold:0.1}),obst=new IntersectionObserver(obsf,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?obst:obs).observe(el)});
 })();
 </script>
 

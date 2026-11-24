@@ -1,0 +1,702 @@
+{
+ "_how": "Edit this file, then run: python3 .claude/plants-we-love/build_catalogue.py",
+ "plants": [
+  {
+   "slug": "gulf-muhly",
+   "common": "Gulf muhly",
+   "botanical": "Muhlenbergia capillaris",
+   "post": "blog/gulf-muhly-austin-tx",
+   "where": "A nursery, in bloom (Jensen sent them 2026-11-24; which nursery and the date are not given)",
+   "carousel": [
+    "`~/Desktop/Red_Agave_Gulf_Muhly_Instagram (1)/` (5 slides)"
+   ],
+   "notes": "Seven plain photos came through chat at 1125x1500, so there is no larger original in the repo. `pink-haze` and `pink-haze-wide` are two frames of the same clump. Slide 1 and 4 use `clumps-drift`, slide 2 uses `pink-haze`, slide 3 uses `backlit-plume`, slide 5 uses `plumes-oak`. A real planting of the white form, White Cloud muhly, is in `images/projects/blazyk/IMG_3199` (Overlook at Lewis Mountain).",
+   "describe": {
+    "gulf-muhly-pink-haze": "Gulf muhly in bloom: a pink haze of flower heads over green wiry blades, with one stem arching across the top",
+    "gulf-muhly-pink-haze-wide": "Second frame of the same clump as pink-haze, framed a little wider",
+    "gulf-muhly-clump-blades": "One clump in a black nursery pot: green blades fanning out from the base with a pale pink plume rising through the middle",
+    "gulf-muhly-backlit-plume": "Close view of one flower head with the sun behind it, the fine branches glowing pink and white",
+    "gulf-muhly-plumes-oak": "Pink and tan plumes with green stems standing through them, an oak and blue sky behind",
+    "gulf-muhly-tall-plume": "A tall column of pink plumes in a row of gulf muhly, nursery ground and a greenhouse behind",
+    "gulf-muhly-clumps-drift": "Several clumps side by side: separate green mounds below, the pink flower heads running together above"
+   }
+  },
+  {
+   "slug": "sabal-uresana",
+   "common": "Blue Sonoran palm",
+   "botanical": "Sabal uresana",
+   "post": "blog/sabal-uresana-blue-sonoran-palm-austin-tx",
+   "where": "Jensen's home, South Austin: all six photos show the largest of his six palms (10 years old in 2026)",
+   "carousel": [
+    "`~/Desktop/Caroulsel/Red_Agave_Blue_Sonoran_Carousel-5/` (6 slides, facts and sources file)",
+    "`~/Desktop/Red_Agave_Sonoran_Instagram_5_Slides/` (5 newer PNG slides)"
+   ],
+   "notes": "Full guide, the model for long plant guides."
+  },
+  {
+   "slug": "whales-tongue-agave",
+   "common": "Whale's tongue agave",
+   "botanical": "Agave ovatifolia",
+   "post": "blog/whales-tongue-agave-austin-tx",
+   "where": "Far South Austin, in river gravel",
+   "carousel": [
+    "`~/Desktop/Caroulsel/Whales_Tongue_Agave_Typography/` (5 slides, caption, sources, manifest)"
+   ]
+  },
+  {
+   "slug": "artichoke-agave",
+   "common": "Artichoke agave",
+   "botanical": "Agave parryi",
+   "post": "blog/artichoke-agave-austin-tx",
+   "where": "A front-yard terrace in South Austin, and a steel planter on a Tarrytown project"
+  },
+  {
+   "slug": "yucca-rostrata",
+   "common": "Yucca rostrata (beaked yucca)",
+   "botanical": "Yucca rostrata",
+   "post": "blog/yucca-rostrata-austin-tx",
+   "where": "A steel terrace in South Austin, and one specimen at a nursery",
+   "carousel": [
+    "`~/Desktop/Red Agave Clean/CLEAN_Rostrata_Dusk_Clean_Type.jpg` (single slide)"
+   ]
+  },
+  {
+   "slug": "giant-hesperaloe",
+   "common": "Giant hesperaloe",
+   "botanical": "Hesperaloe funifera",
+   "post": "blog/giant-hesperaloe-austin-tx",
+   "where": "South Austin, and two potted plants at a nursery"
+  },
+  {
+   "slug": "texas-tuberose",
+   "common": "Texas tuberose",
+   "botanical": "Manfreda maculosa",
+   "post": "blog/texas-tuberose-austin-tx",
+   "where": "A front-yard gravel terrace in South Austin, and one potted plant at a nursery"
+  },
+  {
+   "slug": "firecracker-fern",
+   "common": "Firecracker fern",
+   "botanical": "Russelia equisetiformis",
+   "post": "blog/firecracker-fern-austin-tx",
+   "where": "Along a black steel edge on a South Austin terrace, and one potted plant at a nursery"
+  },
+  {
+   "slug": "red-fairy-duster",
+   "common": "Red fairy duster",
+   "botanical": "Calliandra californica",
+   "post": "blog/red-fairy-duster-austin-tx",
+   "where": "A black steel planter on a Circle C project (originals taken 2026-10-06)",
+   "carousel": [
+    "`~/Desktop/Caroulsel/Red_Fairy_Duster_Type_Refined/` (5 slides, caption, sources)"
+   ],
+   "notes": "Full-size originals: `~/Desktop/plants to make carousel/IMG_8557` to `IMG_8560`."
+  },
+  {
+   "slug": "arroyo-sweetwood",
+   "common": "Arroyo sweetwood",
+   "botanical": "Myrospermum sousanum",
+   "post": "blog/arroyo-sweetwood-austin-tx",
+   "where": "A tree in far South Austin"
+  },
+  {
+   "slug": "dioon",
+   "common": "Dioon (with sago palm for comparison)",
+   "botanical": "Dioon edule",
+   "post": "blog/dioon-vs-sago-palm-austin-tx",
+   "where": "A shaded gravel courtyard in East Austin",
+   "carousel": [
+    "`~/Desktop/Red Agave Clean/Dioon_Carousel/` (4 slides and a poster)"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "plant": "Gulf muhly",
+   "folder": "~/Desktop/Red_Agave_Gulf_Muhly_Instagram (1)/",
+   "files": "`01_Gulf_Muhly`, `02_Panicle`, `03_Low_Sun`, `04_Drifts`, `05_Seed_Heads` (1080x1350 JPG). A copy sits in `~/Desktop/Red Agave Clean/`. Captions: `Captions.txt` inside `~/Desktop/Red_Agave_Gulf_Muhly_GBP (1).zip`"
+  },
+  {
+   "plant": "Blue Sonoran palm",
+   "folder": "~/Desktop/Caroulsel/Red_Agave_Blue_Sonoran_Carousel-5/",
+   "files": "`Blue_Sonoran_01` to `06`, a preview, and `Blue_Sonoran_Facts_and_Sources.md`"
+  },
+  {
+   "plant": "Blue Sonoran palm (newer set)",
+   "folder": "~/Desktop/Red_Agave_Sonoran_Instagram_5_Slides/",
+   "files": "`Sonoran_01` to `05` (PNG)"
+  },
+  {
+   "plant": "Whale's tongue agave",
+   "folder": "~/Desktop/Caroulsel/Whales_Tongue_Agave_Typography/",
+   "files": "`01` to `05`, `caption.txt`, `Sources.txt`, `manifest.json`"
+  },
+  {
+   "plant": "Red fairy duster",
+   "folder": "~/Desktop/Caroulsel/Red_Fairy_Duster_Type_Refined/",
+   "files": "`01` to `05`, `caption.txt`, `Sources.txt`"
+  },
+  {
+   "plant": "Dioon",
+   "folder": "~/Desktop/Red Agave Clean/Dioon_Carousel/",
+   "files": "`CLEAN_02` to `CLEAN_05` and one poster"
+  },
+  {
+   "plant": "Yucca rostrata",
+   "folder": "~/Desktop/Red Agave Clean/",
+   "files": "`CLEAN_Rostrata_Dusk_Clean_Type.jpg`"
+  },
+  {
+   "plant": "Agave (green agave posters)",
+   "folder": "~/Desktop/Caroulsel/Green agave 1/ and Green Agave 2/",
+   "files": "8 PNG posters made with image generators (not photographs, so never shown as our planting)"
+  }
+ ],
+ "desktop_library": {
+  "note": "Checked 2026-11-24: 100 pictures, named by plant, kept for plan sheets. 18 carry iPhone camera data, so they are Jensen's own photos and can go on the site once he says where each was taken. 64 are small pictures with no camera data, saved from the web: never publish those. 3 are full-size pictures with no camera data, source not known. 15 could not be checked (13 sit in iCloud only, plus one HEIC and one JXL file).",
+  "files": [
+   {
+    "plant": "Agapanthus",
+    "file": "Agapanthus.jpeg",
+    "camera": "none (388x388): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Agave American Variegated",
+    "file": "Agave American Variegated.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Agave rough leaf",
+    "file": "Agave rough leaf .jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Agave Weberi",
+    "file": "Agave Weberi.webp",
+    "camera": "none (1200x946): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Anacacho Orchid",
+    "file": "Anacacho Orchid.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Artemesia",
+    "file": "Artemesia.jpeg",
+    "camera": "none (259x194): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Artichoke Agave",
+    "file": "Artichoke Agave .jpeg",
+    "camera": "none (750x484): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Bamboo Muhly",
+    "file": "Bamboo Muhly.jpeg",
+    "camera": "none (259x194): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "beach vitex",
+    "file": "beach vitex.jpeg",
+    "camera": "none (678x452): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Beauty Berry Pearl Glam",
+    "file": "Beauty Berry Pearl Glam.jpeg",
+    "camera": "none (800x534): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Bi-Color Iris",
+    "file": "Bi-Color Iris.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Big Muhly",
+    "file": "Big Muhly.jpeg",
+    "camera": "none (365x547): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Blue Dune Grass",
+    "file": "Blue Dune Grass.webp",
+    "camera": "none (582x582): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Blue Fescue",
+    "file": "Blue Fescue.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Blue Spiral Cypress",
+    "file": "Blue Spiral Cypress.jpeg",
+    "camera": "none (365x547): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Brodie Juniper",
+    "file": "Brodie Juniper .jpeg",
+    "camera": "Jensen's photo (iPhone 11, 2024-01-25, 4032x3024)"
+   },
+   {
+    "plant": "Carpet Juniper",
+    "file": "Carpet Juniper.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "cherry laurel",
+    "file": "cherry laurel .jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Chilean Mesquite",
+    "file": "Chilean Mesquite .jpeg",
+    "camera": "none (3024x4032): full-size picture with no camera data, source not known; ask Jensen before publishing"
+   },
+   {
+    "plant": "Chilean Mesquite Tree",
+    "file": "Chilean Mesquite Tree.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2023-11-08, 4032x3024)"
+   },
+   {
+    "plant": "Chocalte mimosa",
+    "file": "Chocalte mimosa.jpeg",
+    "camera": "none (838x1334): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Common Tree Senna",
+    "file": "Common Tree Senna .jpeg",
+    "camera": "none (2560x1920): full-size picture with no camera data, source not known; ask Jensen before publishing"
+   },
+   {
+    "plant": "Compact Sage",
+    "file": "Compact Sage .jpeg",
+    "camera": "none (224x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "crossvine",
+    "file": "crossvine.jpeg",
+    "camera": "none (365x547): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Desert Bird Paradise",
+    "file": "Desert Bird Paradise.jpeg",
+    "camera": "none (554x554): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Desert Mallow",
+    "file": "Desert Mallow.webp",
+    "camera": "none (554x476): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Desert Museum palo verde",
+    "file": "Desert Museum palo verde.jpeg",
+    "camera": "none (473x648): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Desert Willow",
+    "file": "Desert Willow.jpeg",
+    "camera": "none (245x206): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "DianellaClarity Blue",
+    "file": "DianellaClarity Blue.webp",
+    "camera": "none (300x273): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "dwarf palmeto",
+    "file": "dwarf palmeto .jpeg",
+    "camera": "none (480x414): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Dwarf Sky Pencil",
+    "file": "Dwarf Sky Pencil.webp",
+    "camera": "none (1214x1214): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Eaglestone Holly",
+    "file": "Eaglestone Holly.heic",
+    "camera": "not checked (HEIC file)"
+   },
+   {
+    "plant": "elephant ear",
+    "file": "elephant ear.jpg copy.tiff",
+    "camera": "none (1588x1335): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Firecracker fern",
+    "file": "Firecracker fern.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Forsythia Sage",
+    "file": "Forsythia Sage.jpeg",
+    "camera": "none (1024x768): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Giant Green Agave",
+    "file": "Giant Green Agave .jpeg",
+    "camera": "none (168x148): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Giant Hesperaloe",
+    "file": "Giant Hesperaloe.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "green maple",
+    "file": "green maple.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Gulf Muhly",
+    "file": "Gulf Muhly .jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "holly fern",
+    "file": "holly fern.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "IMG_4377",
+    "file": "IMG_4377.jpeg",
+    "camera": "Jensen's photo (iPhone 17 Pro, 2026-03-11, 5712x4284)"
+   },
+   {
+    "plant": "Japanese Aurelia",
+    "file": "Japanese Aurelia.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "john creech sedum",
+    "file": "john creech sedum.jpeg",
+    "camera": "none (312x312): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Korean Grass",
+    "file": "Korean Grass .webp",
+    "camera": "none (1588x1588): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Lambs ear",
+    "file": "Lambs ear.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Leopard Plant",
+    "file": "Leopard Plant.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Little Bunny Dwarf Grass",
+    "file": "Little Bunny Dwarf Grass .webp",
+    "camera": "none (1588x1099): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Little Gem Magnolia",
+    "file": "Little Gem Magnolia.heic",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Maiden Grass",
+    "file": "Maiden Grass.webp",
+    "camera": "none (388x388): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Mangave_PrayingHands_PP345080000highres.jpg",
+    "file": "Mangave_PrayingHands_PP345080000highres.jpg.webp",
+    "camera": "none (1080x1080): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Med Fan Palm  Blue 15g",
+    "file": "Med Fan Palm  Blue 15g.JPG",
+    "camera": "Jensen's photo (iPhone 17 Pro, 2026-11-13, 5712x4284)"
+   },
+   {
+    "plant": "Med Fan palm blue",
+    "file": "Med Fan palm blue.webp",
+    "camera": "none (512x512): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Mex Sage",
+    "file": "Mex Sage.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Mexican Taragon",
+    "file": "Mexican Taragon.jpeg",
+    "camera": "none (387x516): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Ming Fern",
+    "file": "Ming Fern.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "nelson nolina",
+    "file": "nelson nolina.jpeg",
+    "camera": "none (480x640): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "ocotillo",
+    "file": "ocotillo.jpeg",
+    "camera": "none (447x447): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Olive tree",
+    "file": "Olive tree .jpeg",
+    "camera": "none (388x389): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Painted WHale togue",
+    "file": "Painted WHale togue.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-09-17, 4032x3024)"
+   },
+   {
+    "plant": "Pindo Palm",
+    "file": "Pindo Palm.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Pink Guara",
+    "file": "Pink Guara .jpeg",
+    "camera": "none (399x501): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Purple skullcap",
+    "file": "Purple skullcap.jpeg",
+    "camera": "none (267x189): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Red Banana",
+    "file": "Red Banana.jpg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Red fairy duster",
+    "file": "Red fairy duster.jpeg",
+    "camera": "none (225x224): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Rosemary copy",
+    "file": "Rosemary copy.jpeg",
+    "camera": "none (388x388): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Ruby falls redbud",
+    "file": "Ruby falls redbud .jpeg",
+    "camera": "none (304x304): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Russian Sage",
+    "file": "Russian Sage.jpeg",
+    "camera": "none (284x284): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Salvia forsythia",
+    "file": "Salvia forsythia .jxl",
+    "camera": "not checked (JXL file)"
+   },
+   {
+    "plant": "Salvia White",
+    "file": "Salvia White.webp",
+    "camera": "none (600x900): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Silver Bush Germander",
+    "file": "Silver Bush Germander.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "silver saw palmeto",
+    "file": "silver saw palmeto.webp",
+    "camera": "none (900x900): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "silver saw",
+    "file": "silver saw.jpeg",
+    "camera": "Jensen's photo (iPhone 11, 2023-09-14, 4032x3024)"
+   },
+   {
+    "plant": "Skullcap Purple",
+    "file": "Skullcap Purple.jpeg",
+    "camera": "none (399x501): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Skyline Holly",
+    "file": "Skyline Holly.jpeg",
+    "camera": "none (447x447): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "skyrocket juniper",
+    "file": "skyrocket juniper .jpeg",
+    "camera": "none (554x554): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Soft leaf Yucca",
+    "file": "Soft leaf Yucca.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Soft-Caress-Mahonia",
+    "file": "Soft-Caress-Mahonia.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "ss 2026-11-08 at 12.42.00 PM",
+    "file": "ss 2026-11-08 at 12.42.00 PM.png",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Taylor juniper",
+    "file": "Taylor juniper .jpeg",
+    "camera": "none (399x501): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Taylor Juniper",
+    "file": "Taylor Juniper.jpeg",
+    "camera": "none (377x530): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Texas Tuberose",
+    "file": "Texas Tuberose.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Unknown-1",
+    "file": "Unknown-1.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Unknown-2",
+    "file": "Unknown-2.jpeg",
+    "camera": "none (183x276): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "variegated sedge",
+    "file": "variegated sedge.avif",
+    "camera": "none (1588x1587): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Virginia Creeper",
+    "file": "Virginia Creeper.jpeg",
+    "camera": "none (630x487): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Vitex",
+    "file": "Vitex.jpeg",
+    "camera": "not checked (file is in iCloud only)"
+   },
+   {
+    "plant": "Wax myrtle",
+    "file": "Wax myrtle.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Whale tongue",
+    "file": "Whale tongue.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "White Cloud Muhly",
+    "file": "White Cloud Muhly.jpeg",
+    "camera": "none (284x177): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "White Drift Rose",
+    "file": "White Drift Rose.jpeg",
+    "camera": "none (268x188): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "White gaura",
+    "file": "White gaura .avif",
+    "camera": "none (1588x1588): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "White Stripe Agave",
+    "file": "White Stripe Agave .jpeg",
+    "camera": "none (554x554): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Windmill Palm",
+    "file": "Windmill Palm.jpeg",
+    "camera": "Jensen's photo (iPhone 17 Pro, 2026-03-11, 5712x4284)"
+   },
+   {
+    "plant": "Winecup",
+    "file": "Winecup.jpeg",
+    "camera": "none (615x498): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Wisteria",
+    "file": "Wisteria.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   },
+   {
+    "plant": "Wooly Stemodia",
+    "file": "Wooly Stemodia.jpeg",
+    "camera": "none (225x225): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Yellow Bells Sangria",
+    "file": "Yellow Bells Sangria .webp",
+    "camera": "none (1800x1200): full-size picture with no camera data, source not known; ask Jensen before publishing"
+   },
+   {
+    "plant": "Yellow bells sangria",
+    "file": "Yellow bells sangria.jpeg",
+    "camera": "none (259x194): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "yellow shrimp plant",
+    "file": "yellow shrimp plant.jpeg",
+    "camera": "none (259x194): small picture saved from the web, never publish"
+   },
+   {
+    "plant": "Yucca Rostrada",
+    "file": "Yucca Rostrada.jpeg",
+    "camera": "Jensen's photo (iPhone 14 Pro, 2024-03-29, 4032x3024)"
+   }
+  ]
+ },
+ "raw_photos": {
+  "note": "iPhone originals in `~/Desktop/plants to make carousel/` (13 files, 2026-10-05 and 2026-10-06; `IMG_8537` is in iCloud only). Jensen has not named the two purple plants, so the names below describe what the photos show.",
+  "sets": [
+   {
+    "folder": "~/Desktop/plants to make carousel/",
+    "files": "`IMG_8536`, `8538`, `8539`, `8540`, `8545` (and `8537`, not checked)",
+    "shows": "A large shrub covered in purple flowers on upright stems, planted beside a concrete curb in gravel. Not named by Jensen yet; no post yet"
+   },
+   {
+    "folder": "~/Desktop/plants to make carousel/",
+    "files": "`IMG_8550`, `8551`, `8553`",
+    "shows": "A potted shrub with lilac flowers over round silver-green leaves, at a nursery. Not named by Jensen yet; no post yet"
+   },
+   {
+    "folder": "~/Desktop/plants to make carousel/",
+    "files": "`IMG_8557` to `8560`",
+    "shows": "Red fairy duster in the Circle C steel planter: the originals of the photos already in `images/plants/red-fairy-duster/`"
+   }
+  ]
+ },
+ "wanted": {
+  "note": "Each city page features one plant and none has its own photo set. A photo set for any of these fills the city page and gives Plants We Love another entry.",
+  "plants": [
+   "Texas mountain laurel (Westlake Hills)",
+   "Damianita (Lakeway)",
+   "Twistleaf yucca (Tarrytown)",
+   "Mexican buckeye (Rollingwood)",
+   "Rock rose (Circle C)",
+   "'Henry Duelberg' sage (Pflugerville)",
+   "Sideoats grama (Mueller)",
+   "Seep muhly UNDAUNTED (Round Rock)",
+   "Red yucca (Georgetown)",
+   "Evergreen sumac (Bee Cave)",
+   "Texas sacahuista (Barton Creek)",
+   "Agarita (Dripping Springs)",
+   "Desert willow and four-nerve daisy (Steiner Ranch)",
+   "Texas persimmon (Buda and Kyle)",
+   "Lacey oak (Cedar Park)",
+   "Cedar sage (Great Hills)",
+   "Flame acanthus (Leander)"
+  ]
+ }
+}

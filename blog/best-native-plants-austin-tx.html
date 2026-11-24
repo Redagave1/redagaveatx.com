@@ -191,7 +191,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
 <p><strong>Size:</strong> 3&ndash;5 ft tall with flower stalks &bull; <strong>Sun:</strong> Full sun &bull; <strong>Water:</strong> Low &bull; <strong>Deer:</strong> Resistant</p>
 
-<p>The finest native ornamental grass for Austin. Upright blue-green foliage topped with silvery flower plumes in fall that catch the light beautifully. Named for Ferdinand Lindheimer, the &ldquo;Father of Texas Botany.&rdquo; Excellent as a specimen, in masses, or as a soft screen. Cut to 6 inches in late February before new growth emerges. Thrives in clay, limestone, and sandy soil. One of our most-used plants for adding movement and texture to Austin landscapes.</p>
+<p>The finest native ornamental grass for Austin. Upright blue-green foliage topped with silvery flower plumes in fall that catch the light beautifully. Named for Ferdinand Lindheimer, the &ldquo;Father of Texas Botany.&rdquo; Excellent as a specimen, in masses, or as a soft screen. Cut to 6 inches in late February before new growth emerges. Thrives in clay, limestone, and sandy soil. One of our most-used plants for adding movement and texture to Austin landscapes. For the pink fall grass, see our guide to <a href="gulf-muhly-austin-tx">gulf muhly</a>.</p>
 
 <h3>19. Mexican Feather Grass (Nassella tenuissima)</h3>
 
@@ -375,8 +375,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   if(hbg&&mob)hbg.addEventListener('click',function(){hbg.classList.toggle('open');mob.classList.toggle('open')});
   var nav=document.getElementById('nav');
   window.addEventListener('scroll',function(){nav&&nav.classList.toggle('scrolled',scrollY>60)},{passive:true});
-  var ro=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},{threshold:.15});
-  document.querySelectorAll('.rev').forEach(function(el){ro.observe(el)});
+  var rof=function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},ro=new IntersectionObserver(rof,{threshold:.15}),rot=new IntersectionObserver(rof,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?rot:ro).observe(el)});
 })();
 </script>
 

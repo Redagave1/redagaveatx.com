@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/gulf-muhly-austin-tx.html"
+  to = "/blog/gulf-muhly-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/flagstone-patio-austin-tx.html"
   to = "/blog/flagstone-patio-austin-tx"
   status = 301

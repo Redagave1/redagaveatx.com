@@ -390,8 +390,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   var hbg=document.getElementById('hbg'),mob=document.getElementById('mob-menu');
   if(hbg&&mob){hbg.addEventListener('click',function(){var o=mob.classList.toggle('open');hbg.classList.toggle('open',o)});mob.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){mob.classList.remove('open');hbg.classList.remove('open')})})}
   // Reveal on scroll
-  var obs=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},{threshold:0.1});
-  document.querySelectorAll('.rev').forEach(function(el){obs.observe(el)});
+  var obsf=function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},obs=new IntersectionObserver(obsf,{threshold:0.1}),obst=new IntersectionObserver(obsf,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?obst:obs).observe(el)});
   // Glass card mouse tracking
   document.querySelectorAll('.glass-card').forEach(function(card){
     card.addEventListener('mousemove',function(e){var r=card.getBoundingClientRect();card.style.setProperty('--mouse-x',(e.clientX-r.left)+'px');card.style.setProperty('--mouse-y',(e.clientY-r.top)+'px')});

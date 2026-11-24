@@ -126,7 +126,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <table class="cost-table">
 <thead><tr><th>Grass</th><th>Size</th><th>Sun</th><th>Water</th><th>Notes</th></tr></thead>
 <tbody>
-<tr><td>Gulf muhly</td><td>3&ndash;4 ft &times; 3&ndash;4 ft</td><td>Full sun</td><td>Very low</td><td>Pink-purple plumes in fall &mdash; spectacular</td></tr>
+<tr><td><a href="gulf-muhly-austin-tx">Gulf muhly</a></td><td>3&ndash;4 ft &times; 3&ndash;4 ft</td><td>Full sun</td><td>Very low</td><td>Pink-purple plumes in fall &mdash; spectacular</td></tr>
 <tr><td>Lindheimer muhly</td><td>3&ndash;5 ft &times; 3&ndash;4 ft</td><td>Full sun</td><td>Very low</td><td>Silver plumes, larger than Gulf muhly</td></tr>
 <tr><td>Inland sea oats</td><td>2&ndash;3 ft &times; 2&ndash;3 ft</td><td>Part shade to shade</td><td>Low</td><td>The shade grass &mdash; oat-like seed heads, spreads</td></tr>
 </tbody>
@@ -243,8 +243,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   if(hbg&&mob)hbg.addEventListener('click',function(){hbg.classList.toggle('open');mob.classList.toggle('open')});
   var nav=document.getElementById('nav');
   window.addEventListener('scroll',function(){nav&&nav.classList.toggle('scrolled',scrollY>60)},{passive:true});
-  var ro=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},{threshold:.15});
-  document.querySelectorAll('.rev').forEach(function(el){ro.observe(el)});
+  var rof=function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},ro=new IntersectionObserver(rof,{threshold:.15}),rot=new IntersectionObserver(rof,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?rot:ro).observe(el)});
 })();
 </script>
 

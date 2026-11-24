@@ -299,8 +299,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   if(hbg&&mob)hbg.addEventListener('click',function(){hbg.classList.toggle('open');mob.classList.toggle('open')});
   var nav=document.getElementById('nav');
   window.addEventListener('scroll',function(){nav&&nav.classList.toggle('scrolled',scrollY>60)},{passive:true});
-  var ro=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},{threshold:.15});
-  document.querySelectorAll('.rev').forEach(function(el){ro.observe(el)});
+  var rof=function(entries){entries.forEach(function(e){if(e.isIntersecting)e.target.classList.add('in')})},ro=new IntersectionObserver(rof,{threshold:.15}),rot=new IntersectionObserver(rof,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?rot:ro).observe(el)});
 })();
 </script>
 

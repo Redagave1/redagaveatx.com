@@ -338,7 +338,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   <div class="sec-inner rev">
     <div class="s-eye">Planting</div>
     <h2 class="s-title">A Prairie Palette<br>for a Narrow Lot</h2>
-    <p class="body-text">Mueller's design guidelines favor natives, and the Blackland Prairie supplies them: Gulf muhly and Lindheimer muhly for movement, little bluestem for fall color, Texas sage and blackfoot daisy for bloom, and <a href="../blog/pink-fairy-duster-austin-tx">pink fairy duster</a> for the hummingbirds. All on our <a href="../blog/best-native-plants-austin-tx">native plants list</a>.</p><p class="body-text">Structure comes from agaves in the steel planters, where drainage is perfect: Whale's Tongue, Artichoke, and Agave weberi. Our <a href="../blog/cold-hardy-agaves-central-texas">cold-hardy agave guide</a> covers winter.</p>
+    <p class="body-text">Mueller's design guidelines favor natives, and the Blackland Prairie supplies them: <a href="../blog/gulf-muhly-austin-tx">Gulf muhly</a> and Lindheimer muhly for movement, little bluestem for fall color, Texas sage and blackfoot daisy for bloom, and <a href="../blog/pink-fairy-duster-austin-tx">pink fairy duster</a> for the hummingbirds. All on our <a href="../blog/best-native-plants-austin-tx">native plants list</a>.</p><p class="body-text">Structure comes from agaves in the steel planters, where drainage is perfect: Whale's Tongue, Artichoke, and Agave weberi. Our <a href="../blog/cold-hardy-agaves-central-texas">cold-hardy agave guide</a> covers winter.</p>
   </div>
 </section>
 <section class="sec" style="background:var(--dark3)">
@@ -408,8 +408,8 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   window.addEventListener('scroll',function(){nav&&nav.classList.toggle('scrolled',scrollY>60)},{passive:true});
   var hbg=document.getElementById('hbg'),mob=document.getElementById('mob-menu');
   if(hbg&&mob){hbg.addEventListener('click',function(){var o=mob.classList.toggle('open');hbg.classList.toggle('open',o)});mob.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){mob.classList.remove('open');hbg.classList.remove('open')})})}
-  var obs=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},{threshold:0.1});
-  document.querySelectorAll('.rev').forEach(function(el){obs.observe(el)});
+  var obsf=function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add('in')})},obs=new IntersectionObserver(obsf,{threshold:0.1}),obst=new IntersectionObserver(obsf,{threshold:0});
+  document.querySelectorAll('.rev').forEach(function(el){(el.offsetHeight>innerHeight?obst:obs).observe(el)});
 })();
 </script>
 </body>

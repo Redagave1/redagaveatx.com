@@ -117,6 +117,24 @@
   force = true
 
 [[redirects]]
+  from = "/blog/circle-c-hoa-landscape-approval-austin-tx.html"
+  to = "/blog/circle-c-hoa-landscape-approval-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/steiner-ranch-hoa-landscape-approval-austin-tx.html"
+  to = "/blog/steiner-ranch-hoa-landscape-approval-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/mueller-hoa-landscape-approval-austin-tx.html"
+  to = "/blog/mueller-hoa-landscape-approval-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/gulf-muhly-austin-tx.html"
   to = "/blog/gulf-muhly-austin-tx"
   status = 301

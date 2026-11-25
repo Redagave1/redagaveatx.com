@@ -199,7 +199,7 @@ S += sec("Phases + Approvals", "Can a Design Be Built in Phases?", """    <p>Yes
     <ul>
       <li><strong>One plan:</strong> the front yard, the back yard, and the side yards are drawn together, so each phase fits the next</li>
       <li><strong>Infrastructure first:</strong> drainage, electrical, and gas lines go in before the surfaces above them</li>
-      <li><strong>HOA review:</strong> every project starts with a custom CAD design the committee can review</li>
+      <li><strong>HOA review:</strong> every project starts with a custom CAD design the committee can review. See our approval guides for <a href="../blog/circle-c-hoa-landscape-approval-austin-tx">Circle C</a>, <a href="../blog/steiner-ranch-hoa-landscape-approval-austin-tx">Steiner Ranch</a>, and <a href="../blog/mueller-hoa-landscape-approval-austin-tx">Mueller</a></li>
     </ul>
     <p>For what drives the price of a design and a build, see our <a href="../blog/landscape-design-cost-austin-tx">landscape design cost guide</a>.</p>""")
 

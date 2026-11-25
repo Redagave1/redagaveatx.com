@@ -10,6 +10,9 @@ Builds a single-service page under `services/` from the shell (head, nav, footer
   `register(ROOT, slug, card_html, llms_line, date)` adds the hub card, sitemap entry,
   netlify redirect and llms.txt line. Run it once per page.
 - `make_hardscape.py`, `make_edging.py`: one script per page. Copy one to start a new page.
+- `make_landscape_design.py` rebuilds the landscape design page (2026-11-25): six plans beside the finished yards.
+  It adds its own CSS for the plan and photo pairs (`.pb`), reads image sizes with Pillow, and has no `--register` step
+  because the page already had its card, sitemap line and redirect.
 - `services/retaining-walls-austin-tx.html` was built by an earlier one-off script and then
   edited by hand (limestone photo, hardscaping link). Edit that file directly.
 

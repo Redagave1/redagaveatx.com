@@ -287,7 +287,7 @@ BODY = f"""<body>
 
 <!-- 6. HORIZON: NEXT PROJECT -->
 <a class="hz" href="dormarion" id="hz-link">
-  <div class="hz-media"><img loading="lazy" src="../images/projects/dormarion/IMG_6319.webp" alt="Cantilevered steel planters with a lit address sign at a front entry in Tarrytown, Austin TX"></div>
+  <div class="hz-media"><img loading="lazy" src="../images/projects/dormarion/IMG_6363.webp" alt="Cantilevered steel planters, boulders, and river rock at a front entry in Tarrytown, Austin TX"></div>
   <div class="hz-scrim"></div>
   <div class="hz-inner">
     <span class="t-eyebrow with-line">Next / 08</span>

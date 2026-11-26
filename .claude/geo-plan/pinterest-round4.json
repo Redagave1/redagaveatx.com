@@ -1,0 +1,105 @@
+{
+  "note": "Round 4 (asked 2026-11-26): one board per signature project. Every pin links to the project page. Description = text + ' ' + area + '. Red Agave Landscape.' (plus the photo credit where given).",
+  "boards": [
+    {"key": "b01", "board": "Chrysler Bend, Easton Park: Triangle Planter", "link": "https://www.redagaveatx.com/projects/chrysler-bend", "area": "Easton Park, Southeast Austin", "dir": "images/projects/southeast-austin-triangle-planter/", "pins": [
+      ["13-floating-triangle-planter-dusk-1125.webp", "Floating triangle steel planter at dusk", "A welded steel triangle planter floats on one post above terraced steel beds of basalt gravel, with a variegated century agave lit from the rim."],
+      ["04-floating-triangle-planter-side-view-1200.webp", "Variegated century agave in a floating steel planter", "A variegated century agave in a welded steel triangle planter, above a bed of basalt gravel."],
+      ["08-tapered-triangle-planter-faces-lit-1200.webp", "Tapered faces of a welded steel triangle planter", "The planter is shaped like an upside-down pyramid and carried on one post."],
+      ["09-terraced-steel-light-rim-triangle-planter-1125.webp", "Terraced steel beds with a light rim", "Terraced black steel beds with a light rim around the outside, and a triangle planter floating above them."],
+      ["10-floating-triangle-planter-angle-iron-rim-side-1125.webp", "Angle iron rim on a floating steel planter", "The planter has an angle iron rim and an angle iron light rim."],
+      ["11-terraced-steel-beds-toward-front-door-1125.webp", "Steel beds stepping toward the front door", "Raised steel beds of basalt gravel step toward the front door, with the triangle planter at the corner."],
+      ["12-angle-iron-rim-light-basalt-gravel-1125.webp", "Light rim over basalt gravel", "Light from the planter's rim falls on the plants and basalt gravel in the steel bed below."],
+      ["06-tapered-triangle-planter-profile-bare-steel-1200.webp", "Triangle planter on its post during the build", "The welded triangle planter set on its single post above the new steel bed, before the black penetrating sealer."]
+    ]},
+    {"key": "b02", "board": "Madison, Crestview: Turf Terraces + Fire Boulder", "link": "https://www.redagaveatx.com/projects/madison", "area": "Crestview, Austin", "dir": "images/projects/madison/", "pins": [
+      ["IMG_8949.webp", "Tapered steel planter on turf steps", "A lit tapered steel planter with a weeping redbud sits on two turf steps, with a boulder fire pit behind it."],
+      ["IMG_9047.webp", "Floating boulder fire pit", "A black diamond boulder drilled for gas and mounted on a pipe, with mirrors under it so it looks like it floats."],
+      ["IMG_8976.webp", "Terraced turf yard with boulders", "A bare yard terraced in artificial turf, with marbled concrete, boulders, and two tapered steel planters."],
+      ["IMG_9007.webp", "Boulder fire pit on a turf pad", "The top of the boulder is carved out and filled with fire glass that looks like obsidian."],
+      ["IMG_9083.webp", "Tapered steel planter lit at dusk", "Each V-shaped steel planter has a light in its upper rim and a second light in a cutout in the steel."],
+      ["IMG_9096.webp", "Marbled concrete formed in steel", "Concrete finished smooth with a marbling effect, formed with quarter-inch steel that stays in place."],
+      ["IMG_8997.webp", "Marbled concrete pads in turf", "Marbled concrete pads step through artificial turf toward the fire pit and the planters."],
+      ["IMG_9065.webp", "Fire boulder and steel planter at dusk", "The boulder fire pit on its turf pad, with a lit tapered steel planter behind it."]
+    ]},
+    {"key": "b03", "board": "Dormarion, Tarrytown: Cantilevered Planters", "link": "https://www.redagaveatx.com/projects/dormarion", "area": "Tarrytown, Austin", "dir": "images/projects/dormarion/", "pins": [
+      ["IMG_6363.webp", "Cantilevered steel planters at a front entry", "Two cantilevered steel planters frame the entry above gravel, boulders, and Mexican beach pebbles."],
+      ["IMG_6345.webp", "Steel planter along a front walk", "Agaves and succulents in a long steel planter, with lighting on the angle iron rim."],
+      ["IMG_6295.webp", "Stacked cantilevered steel planters", "Stacked, offset steel planters on welded legs, above boulders and Mexican beach pebbles."],
+      ["IMG_6356.webp", "Agave in a steel planter lit under the rim", "An agave in a steel planter, lit from the angle iron rim at dusk."],
+      ["IMG_6297.webp", "Boulders and beach pebbles below steel planters", "Boulders, grasses, and Mexican beach pebbles below the planters, with a path light at the edge of a concrete pad."],
+      ["IMG_6225.webp", "Darkened steel retaining wall", "A steel retaining wall in the back yard, darkened and sealed like the planters."]
+    ]},
+    {"key": "b04", "board": "Hopeland, Circle C: Deck, Pergola + Fire", "link": "https://www.redagaveatx.com/projects/hopeland", "area": "Circle C, Austin", "dir": "images/projects/hopeland/", "pins": [
+      ["IMG_9687.webp", "Deck platform with a boulder fire pit", "A composite deck steps down to a low platform with a boulder fire pit, in front of a slatted cabana."],
+      ["IMG_9566.webp", "Pergola capped with steel triangles", "The original pergola, reframed and capped with custom-cut steel triangles that throw shadows across the deck."],
+      ["IMG_9652.webp", "Slatted cabana, deck step and fire boulder", "A boulder fire pit set into the deck step, with concrete pavers and river rock in front."],
+      ["IMG_9645.webp", "Lit steel planter beside the dining deck", "A steel planter with lighting under its rim, with the dining table and pendant lights behind it."],
+      ["IMG_9584.webp", "Diagonal concrete pavers and a steel planter", "Concrete pavers cut on the diagonal with river rock joints, beside a lit steel planter."],
+      ["IMG_9638.webp", "Inside the slatted cabana", "Woven pendant lights over the seating inside the slatted cabana."],
+      ["IMG_9683.webp", "Pendant lights over the dining table at dusk", "Black dome pendants hang under the pergola beams over the dining table."],
+      ["IMG_9622.webp", "Long steel planter along the house", "A long steel planter with a light rim runs along the house beside diagonal concrete pavers."]
+    ]},
+    {"key": "b05", "board": "Riverview, East Austin: Floating Fire Pit", "link": "https://www.redagaveatx.com/projects/riverview", "area": "Holly, East Austin", "dir": "images/projects/riverview/", "pins": [
+      ["IMG_9999.webp", "Floating concrete fire pit lit from below", "A concrete fire pit on hidden legs floats above marbled concrete slabs, with light underneath."],
+      ["hero.webp", "Fire pit on marbled concrete slabs", "Large concrete slabs poured to look like marble, each edged in quarter-inch welded steel, around a floating fire pit."],
+      ["IMG_9839.webp", "Marbled concrete slabs in turf", "Large format concrete poured to look like marble, with a floating fire pit at the center."],
+      ["IMG_9912.webp", "Black cantera wall with light under a steel ledge", "Black cantera stone set on a welded steel ledge, with strip lights under the steel."],
+      ["IMG_0011.webp", "Maiden grass in a steel-edged bed", "Maiden grass in a lit, steel-edged bed along the fence."],
+      ["IMG_9899.webp", "Side passage with concrete slabs", "Concrete slabs set in turf lead along the side of the house to a gravel bed."],
+      ["IMG_0001.webp", "Fire court at dusk", "The floating fire pit and marbled slabs at dusk, with the planting beds lit along the fence."]
+    ]},
+    {"key": "b06", "board": "Axehandle, Pearson Ranch: Boulder Fountains", "link": "https://www.redagaveatx.com/projects/axehandle", "area": "Pearson Ranch, Northwest Austin", "dir": "images/projects/axehandle/", "pins": [
+      ["hero.webp", "Concrete pads with lit joints and a floating fire pit", "Custom poured concrete pads framed in steel, with lighting in the joints, beside a floating fire pit and boulder fountains."],
+      ["IMG_8520.webp", "Floating steel fire pit over boulders and mist", "A square steel fire pit set on the diagonal floats above the planting bed, beside two drilled boulder fountains."],
+      ["IMG_8504.webp", "Boulder fountains with ferns", "Two boulders drilled and plumbed to run water, with river fern, creeping Jenny, and horsetail reed around them."],
+      ["IMG_8512.webp", "Fire pit set on the diagonal", "The square steel fire pit seen from above, over river rock and ferns."],
+      ["IMG_8575.webp", "Tree planter set into the patio", "A steel-framed planter in the concrete holds an Anacacho orchid tree, with lighting around the frame."],
+      ["IMG_8591.webp", "Patio at dusk with lit joints", "Lighting runs in the joints between the concrete pads, around the fire pit and the boulders."],
+      ["IMG_8584.webp", "Fire pit and boulder on the patio", "The floating fire pit burning beside the fern bed, with a boulder set on its own concrete pad."],
+      ["IMG_8485.webp", "Boulders, ferns and a steel fire pit", "An existing patio expanded with poured concrete pads around a planting bed of boulders and ferns."]
+    ]},
+    {"key": "b07", "board": "Blazyk, Lewis Mountain: Steel Terraces", "link": "https://www.redagaveatx.com/projects/blazyk", "area": "Overlook at Lewis Mountain, Southwest Austin", "dir": "images/projects/blazyk/", "pins": [
+      ["IMG_3193.webp", "Steel terraces stepping down a slope", "Three terraces in quarter-inch steel step down through gravel and boulders below a fire court."],
+      ["IMG_3205.webp", "Steel terraces with boulders and grasses", "Each steel level holds gravel, boulders, and ornamental grasses."],
+      ["IMG_3161.webp", "Stone fire pit with a timber slat bench", "A stone fire pit in the gravel court, with timber slat benches around it."],
+      ["IMG_8667.webp", "Terraces under a live oak at dusk", "The steel terraces at dusk under the live oak, with the fire court above."],
+      ["IMG_8693-1200.webp", "Fire court outlined in light", "Light lines trace the deck and the gravel court around the fire pit at night."],
+      ["IMG_8699.webp", "Deck and fire court at night", "A deck off the house leads to the gravel fire court, edged in light."],
+      ["IMG_8703.webp", "Fire court at night", "The stone fire pit and benches in the gravel court, lit along the steel edges."],
+      ["IMG_3241.webp", "Cantilevered steel planter above the terraces", "A cantilevered steel planter filled with crushed turquoise glass, above the steel terraces."]
+    ]},
+    {"key": "b08", "board": "Fly Catcher, Cedar Creek: Pool + Fire Pits", "link": "https://www.redagaveatx.com/projects/flycatcher", "area": "Double Eagle Ranch, Cedar Creek", "dir": "images/projects/flycatcher/", "pins": [
+      ["IMG_8836.webp", "Large pavers in turf beside a pool", "Large format concrete pavers poured with synthetic turf joints, with steel-edged steps down to the lawn."],
+      ["IMG_8782.webp", "Long floating steel fire pit with amber glass", "A long welded steel fire pit floats off the ground on a recessed base, filled with amber fire glass."],
+      ["IMG_8804.webp", "Floating steel fire pit with aqua glass at the pool", "A square steel fire pit with aqua fire glass floats at the pool edge."],
+      ["IMG_8807.webp", "Fire pit at the pool edge at sunset", "The aqua glass fire pit burning at the corner of the pool."],
+      ["IMG_8798.webp", "Pool with pavers in turf and a fire court beyond", "The pool, with large pavers in turf beside it and the long fire pit beyond."],
+      ["IMG_8854.webp", "Pool edge with two fire pits", "The aqua glass fire pit at the pool edge, with the long amber fire pit burning beyond."],
+      ["hero.webp", "Pavers in turf at night", "Large pavers with turf joints and steel-edged steps at night, with the fire pits lit."],
+      ["IMG_8788.webp", "Amber fire glass lit from below", "Amber fire glass in the long steel fire pit, with light under the floating edge."]
+    ]},
+    {"key": "b09", "board": "Ulit, East Austin: Pool, Porch + Kitchen", "link": "https://www.redagaveatx.com/projects/ulit", "area": "Chestnut, East Austin", "credit": "Photo: Kieran Reeves Photography.", "dir": "images/projects/ulit/", "pins": [
+      ["031.webp", "Pool, teak deck and lounge at dusk", "A teak deck wraps the pool, with a lounge and a cedar privacy fence strung with lights."],
+      ["029.webp", "Screened dining porch beside the pool", "A glass-wall screened room with a cedar ceiling looks onto the pool."],
+      ["030.webp", "Screened porch, pool and sail shade", "The teak deck runs from the screened porch to the kitchen under a red sail shade."],
+      ["033-wide.webp", "Outdoor kitchen with a perforated steel screen", "A built-in grill in front of a perforated steel screen lit from behind, under a red sail shade."],
+      ["032-1200.webp", "Screened room and pool from the yard", "The screened room, the pool, and the sail shade seen from the yard at dusk."]
+    ]},
+    {"key": "b10", "board": "Southeast Austin: Water Feature + Fire Pits", "link": "https://www.redagaveatx.com/projects/southeast-austin-water-feature", "area": "Southeast Austin", "dir": "images/projects/se-austin-fire-water/", "pins": [
+      ["21-water-feature-curved-fire-pit-dusk-1200.webp", "Round water feature with a curved fire pit", "A round raised water feature fed by a steel channel from a boulder, with a floating steel fire pit curving along the front."],
+      ["24-water-feature-fire-pits-overview-1200.webp", "Water feature and fire pit from above", "Water runs down a steel channel to a pool finished black inside, with a curved fire pit below."],
+      ["18-finished-steel-planter-1200.webp", "Steel planter welded on site", "A tapered steel planter welded on site, with river rock in its base."],
+      ["28-zoom-steel-channel-black-water-1125.webp", "Steel channel over black water", "Water falls from an open steel channel into the black pool, above the curved fire pit."],
+      ["13-pool-interior-black-1200.webp", "Water feature shell finished black", "The round concrete shell with its interior finished black, during the build."],
+      ["16-floating-fire-pit-curved-steel-1200.webp", "Curved steel fire pit being set", "The floating steel fire pit, curved to follow the wall of the water feature, during the build."],
+      ["29-zoom-planter-base-river-rock-light-1125.webp", "Planter base with river rock", "River rock fills the open seam in the base of the tapered steel planter."]
+    ]},
+    {"key": "b11", "board": "South Austin: Steel-Framed Screened Room", "link": "https://www.redagaveatx.com/projects/south-austin-screened-room", "area": "South Austin", "dir": "images/projects/south-austin-screened-room/", "pins": [
+      ["08-screened-room-interior-door-seating-1200.webp", "Screened room with a cedar ceiling", "A welded steel frame finished black, with a cedar plank ceiling, a ceiling fan, and black-framed screens."],
+      ["07-cedar-skylight-well-ceiling-fan-1200.webp", "Skylight with a cedar-lined well", "One of two skylights, each with a cedar-lined well, beside the ceiling fan."],
+      ["05-finished-screened-room-exterior-1200.webp", "Steel-framed screened room from the yard", "The screened room on its concrete slab at the back doors, with a ribbed metal roof."],
+      ["10-zoom-skylight-cedar-well-1125.webp", "Cedar skylight well", "Cedar planks line the skylight well and the ceiling."],
+      ["12-zoom-screen-door-pet-door-1125.webp", "Screen door with a pet door", "Black-framed screens on three sides, and a screen door with a pet door."]
+    ]}
+  ]
+}

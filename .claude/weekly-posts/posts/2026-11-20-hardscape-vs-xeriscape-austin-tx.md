@@ -1,6 +1,7 @@
 ---
 slug: hardscape-vs-xeriscape-austin-tx
 date: 2026-11-20
+modified: 2026-11-26
 format: decision
 target: hardscape vs xeriscape; difference between hardscaping and xeriscaping; hardscaping vs xeriscaping austin; what is xeriscaping; what is hardscaping; is gravel hardscape
 title: Hardscape vs Xeriscape in Austin, TX | Red Agave
@@ -39,7 +40,7 @@ Everything that is built and not grown. The University of Nebraska-Lincoln's [Ba
 
 Red Agave builds hardscape in five materials: steel, concrete, stone, wood, and gravel. Hardscape goes in first, because it sets the levels of the yard. Our post on [hardscaping in Austin](hardscaping-austin-tx) shows each material on a real build, and our [hardscaping](../services/hardscaping-austin-tx) page lists what we build.
 
-One Austin rule applies to hardscape. [Austin Development Services](https://www.austintexas.gov/development-services/glossary-terms) defines impervious cover as any human-made surface that does not absorb rainfall. Walkways, impermeable driveways, rooftops, parking areas, and some decks count toward it, and the share a lot is allowed is set by its zoning. That is one reason we pour patios as separate concrete pads with gravel joints, so rain soaks in between them.
+One Austin rule applies to hardscape. [Austin Development Services](https://www.austintexas.gov/development-services/glossary-terms) defines impervious cover as any human-made surface that does not absorb rainfall. Walkways, impermeable driveways, rooftops, parking areas, and some decks count toward it, and the share a lot is allowed is set by its zoning. Our [impervious cover guide](impervious-cover-austin-tx) lists what the City counts. We pour patios as separate concrete pads with gravel joints, so rain soaks in between them.
 
 ## What Counts as Xeriscaping?
 

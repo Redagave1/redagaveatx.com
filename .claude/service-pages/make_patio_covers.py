@@ -24,7 +24,7 @@ FAQS = [
     ("Does a patio cover need a permit in Austin?",
      "A solid roof attached to the house needs a building permit with structural drawings. The City of Austin exempts a one-story detached accessory structure of 200 square feet or less and 15 feet tall or less, with no plumbing, outside a flood hazard area. We handle the permit and the plans."),
     ("Does a patio cover count as impervious cover in Austin?",
-     "Yes. A solid roof counts toward the impervious cover limit of the lot. An open pergola with no solid roof does not."),
+     "Yes. A solid roof counts toward the impervious cover limit of the lot. The City of Austin's text does not name an open pergola with no solid roof, and what is on the ground under it counts by its own rule."),
     ("Do you build outdoor kitchens under a roof?",
      "Yes. In West Lake Hills the kitchen stands under its own flat roof with a wood ceiling. In East Austin an L-shaped kitchen runs along the walls of a covered patio."),
     ("What does a patio cover cost in Austin?",
@@ -108,10 +108,10 @@ S += sec("Permits", "Does a Patio Cover Need a Permit in Austin?", f"""    <p>At
       <tr><td>Solid roof attached to the house</td><td>Building permit, with structural drawings</td></tr>
       <tr><td>One-story detached structure, 200 square feet or less and 15 feet tall or less, with no plumbing, outside a flood hazard area</td><td>On the city's list of work exempt from a building permit</td></tr>
       <tr><td>Any structure with a solid roof</td><td>Counts toward the impervious cover limit of the lot</td></tr>
-      <tr><td>Open pergola with no solid roof</td><td>Does not count as impervious cover</td></tr>
+      <tr><td>Open pergola with no solid roof</td><td>Not named in the City's impervious cover text. What is on the ground under it counts by its own rule</td></tr>
       </tbody></table>
     <p>Exempt work still has to meet the building code and the city code. Cedar Park and the other cities around Austin have their own rules, and many HOA communities review exterior changes from a drawn plan.</p>
-    <p>We handle the permit and the plans. Our <a href="../blog/patio-cover-permit-austin-tx">patio cover permit guide</a> covers setbacks, impervious cover, and what the city asks for.</p>""")
+    <p>We handle the permit and the plans. Our <a href="../blog/patio-cover-permit-austin-tx">patio cover permit guide</a> covers setbacks and what the city asks for, and our <a href="../blog/impervious-cover-austin-tx">impervious cover guide</a> lists what the City counts.</p>""")
 
 S += sec("The Build", "How Is a Patio Cover Built?", f"""    <p>From the plan up. These are the steps, in the order we built the South Austin room.</p>
     {step(1, "Consultation and Plan", "Free and on site. We walk the yard with you, and the owner draws the structure on a CAD plan, which is included. See our <a href=\"landscape-design-austin-tx\">landscape design</a> page.")}

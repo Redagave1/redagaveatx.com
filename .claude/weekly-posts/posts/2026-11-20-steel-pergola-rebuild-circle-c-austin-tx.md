@@ -1,6 +1,7 @@
 ---
 slug: steel-pergola-rebuild-circle-c-austin-tx
 date: 2026-11-20
+modified: 2026-11-26
 format: project
 target: pergola contractor austin; pergola austin; pergola rebuild austin tx; steel pergola austin tx; pergola builder circle c
 title: Steel Pergola Rebuild in Circle C, Austin, TX | Red Agave
@@ -34,7 +35,7 @@ Tearing all of it out was the obvious route. We did not lift a single stone. The
 
 Because it already stands where the shade is wanted. A rebuild keeps the footprint that is there, so the design work goes into the frame and the top.
 
-In Circle C there is a second reason. The neighborhood sits over the Edwards Aquifer, and every lot there has a cap on impervious cover. Austin's Save Our Springs ordinance sets the limits over the aquifer, at 15 percent of net site area in the recharge zone and 20 to 25 percent in the contributing zone, and it allows no variances. Every new slab counts toward the cap on the lot.
+In Circle C there is a second reason. The neighborhood sits over the Edwards Aquifer, and every lot there has a cap on impervious cover. Austin's Save Our Springs ordinance limits impervious cover over the aquifer to 15 percent of net site area in the recharge zone and 20 to 25 percent in the contributing zone, and it allows no variances. Those percentages are not each lot's limit: the City's code says its watershed requirements "apply to the subdivision as a whole." The cap on a single lot is set lot by lot, and every new slab counts toward it. Our [impervious cover guide](impervious-cover-austin-tx) quotes the City's text.
 
 So the question in Circle C is how to add a room without adding ground cover. The answer is to build over surfaces that already exist. Here that meant the pergola that was standing and the patio that was already on the ground. Our [Circle C](../locations/circle-c-tx) page covers the limits.
 
@@ -92,7 +93,7 @@ See [the full Circle C project](../projects/hopeland). For materials and cost ra
 Yes. In Circle C we kept a sun-bleached wood pergola, reframed it, and capped it with custom-cut steel triangles.
 
 ### Why rebuild a pergola instead of tearing it down?
-A rebuild keeps the footprint that is already there. In Circle C that matters, because Austin's Save Our Springs ordinance caps impervious cover and allows no variances.
+A rebuild keeps the footprint that is already there. In Circle C that matters, because every lot there has a cap on impervious cover.
 
 ### What do the steel triangles on the pergola do?
 They make the shade. Through the afternoon they throw geometric shadows across the deck, and from below they read as a pattern against the sky.
@@ -101,4 +102,4 @@ They make the shade. Through the afternoon they throw geometric shadows across t
 Yes. In Circle C we laid Dekorators Sea Salt composite decking over the old flagstone patio in one continuous plane.
 
 ### What is the impervious cover limit in Circle C?
-It is set lot by lot. Austin's Save Our Springs ordinance limits impervious cover over the Edwards Aquifer to 15 percent of net site area in the recharge zone, 20 percent in the Barton Creek part of the contributing zone, and 25 percent in the rest of the contributing zone, and it allows no variances. The cap on a single lot comes from the City's code and the section's plat. In the GreyRock Ridge sections, the Declaration's amendments set it at 45 percent of the lot.
+It is set lot by lot. Austin's Save Our Springs ordinance limits impervious cover over the Edwards Aquifer to 15 percent of net site area in the recharge zone, 20 percent in the Barton Creek part of the contributing zone, and 25 percent in the rest of the contributing zone, and it allows no variances. The City's code says its watershed requirements "apply to the subdivision as a whole." The cap on a single lot comes from the City's code and the section's plat. In the GreyRock Ridge sections, the Declaration's amendments set it at 45 percent of the lot.

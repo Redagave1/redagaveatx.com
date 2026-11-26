@@ -121,7 +121,7 @@ S += sec("Curing", "When Can You Drive on New Concrete?", f"""    <p>After 7 to 
     <p>We apply curing compound right after finishing, so the concrete cures properly and reaches its strength.</p>""", alt=True)
 
 S += sec("Lot Limits", "Does a Driveway Count as Impervious Cover?", f"""    <p>Yes. A driveway counts toward the impervious cover of a lot, together with the house, the garage, the walks, and the patios.</p>
-    <p>Where the lot sits sets the limit. Over the Barton Springs Zone, Austin's Save Our Springs ordinance caps impervious cover at 15 percent of net site area in the recharge zone and 20 to 25 percent in the contributing zone. On a lot near its limit, the size of the drive is settled on the plan before anything is built. See our <a href="../locations/barton-creek-tx">Barton Creek</a> page.</p>""")
+    <p>The zoning district sets the limit. Under the City of Austin's code it is 40 percent of the lot in SF-1 and 45 percent in SF-2 and SF-3. On a lot near its limit, the size of the drive is settled on the plan before anything is built. See our <a href="../blog/impervious-cover-austin-tx">impervious cover guide</a> and our <a href="../locations/barton-creek-tx">Barton Creek</a> page.</p>""")
 
 S += sec("How We Build", "How Is a Concrete Driveway Poured?", f"""    {step(1, "Consultation and Plan", "Free and on site. We walk the property with you, and the owner draws the driveway on a CAD plan, which is included. See our <a href=\"landscape-design-austin-tx\">landscape design</a> page.")}
     {step(2, "Grade and Compact", "We set the layout, grade for drainage, and compact the subgrade. This is the work that decides whether a slab stays flat.")}

@@ -1,6 +1,7 @@
 ---
 slug: paver-patio-installation-austin-tx
 date: 2026-11-20
+modified: 2026-11-26
 format: project
 target: paver patio installation austin tx; paver patio austin; patio contractor austin tx; patio pavers austin; large format pavers austin
 title: Paver Patio Installation in Austin, TX | Red Agave
@@ -84,7 +85,7 @@ Our post on [pavers with artificial turf](pavers-with-artificial-turf-austin-tx)
 
 Most ground-level patios do not need a building permit. A permit is needed when the patio has a roofed structure, attaches to the home's foundation, or includes electrical or plumbing work.
 
-Cover is a separate question. Over the Edwards Aquifer, Austin's Save Our Springs ordinance caps impervious cover at 15 to 25 percent of the site, and a new patio counts toward the cap. Our [Circle C](../locations/circle-c-tx) page explains the limits.
+Cover is a separate question. The City of Austin's permit application counts paved areas toward a lot's impervious cover, so a new patio adds to it. The limit on a house lot comes from its zoning district: 45 percent of the lot in SF-2 and SF-3. Our [impervious cover guide](impervious-cover-austin-tx) quotes the City's text, and our [Circle C](../locations/circle-c-tx) page covers a neighborhood where each lot has a cap of its own.
 
 ## How Long Does a Paver Patio Last?
 

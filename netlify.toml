@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/austin-water-rebates-landscaping-austin-tx.html"
+  to = "/blog/austin-water-rebates-landscaping-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/impervious-cover-austin-tx.html"
   to = "/blog/impervious-cover-austin-tx"
   status = 301

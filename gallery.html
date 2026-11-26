@@ -383,7 +383,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   <div class="page-header-inner">
     <div class="page-eyebrow rev">Red Agave Landscape &nbsp;&middot;&nbsp; Austin, TX</div>
     <h1 class="page-title rev">Photo Gallery</h1>
-    <div class="page-count-line rev">750+ Projects &nbsp;&middot;&nbsp; Austin &amp; Surrounding Areas</div>
+    <div class="page-count-line rev">250+ Photos &nbsp;&middot;&nbsp; From More Than 750 Projects in Austin &amp; Surrounding Areas</div>
   </div>
 </div>
 
@@ -415,7 +415,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 <div class="gallery-wrap">
   <div class="gallery-header">
     <span class="gallery-label">All Projects &nbsp;&middot;&nbsp; Austin, TX</span>
-    <span class="gallery-showing" id="showing-label">Showing 16 of 262</span>
+    <span class="gallery-showing" id="showing-label">Showing 16 of 259 photos</span>
   </div>
   <div class="g-grid" id="g-grid"></div>
   <div class="load-more-wrap" id="lm-wrap">
@@ -437,7 +437,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   <button id="lb-close">&#10005;</button>
   <button id="lb-prev">&#8592; Prev</button>
   <div id="lb-img-wrap">
-    <img id="lb-img" src="" alt="">
+    <img id="lb-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Red Agave Landscape project photo, Austin TX">
     <div id="lb-gold-border"></div>
   </div>
   <button id="lb-next">Next &#8594;</button>
@@ -913,7 +913,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
 
     // update labels
     var showing = Math.min(loaded, TOTAL);
-    showLabel.textContent = 'Showing ' + showing + ' of ' + TOTAL;
+    showLabel.textContent = 'Showing ' + showing + ' of ' + TOTAL + ' photos';
     var remaining = TOTAL - loaded;
     if (remaining <= 0) {
       lmWrap.classList.add('done');
@@ -955,7 +955,7 @@ footer{background:#040503;padding:72px 60px 28px;border-top:1px solid rgba(201,1
   function closeLB() {
     lb.classList.remove('open');
     document.body.style.overflow = '';
-    setTimeout(function(){ lbImg.src = ''; }, 400);
+    setTimeout(function(){ lbImg.src = 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='; }, 400);
   }
   function lbNav(dir) {
     currentIdx = (currentIdx + dir + TOTAL) % TOTAL;

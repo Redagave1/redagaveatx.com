@@ -117,6 +117,12 @@
   force = true
 
 [[redirects]]
+  from = "/blog/landscaping-cost-austin-tx.html"
+  to = "/blog/landscaping-cost-austin-tx"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog/circle-c-hoa-landscape-approval-austin-tx.html"
   to = "/blog/circle-c-hoa-landscape-approval-austin-tx"
   status = 301

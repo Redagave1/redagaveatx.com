@@ -47,6 +47,8 @@ Jensen supplies the facts for each (which decking we install, which kitchens we 
 - [ ] Lengthen the 19 older service pages and open each with the answer.
 - [ ] Finish the service pages still on the list: driveways, fences and gates, patio covers and pavilions, paver patios (waiting on photos).
 - [ ] Three more city pages: Leander, Oak Hill, Spicewood.
+- [ ] **Hidden FAQs (found 2026-11-26):** about 60 older posts carry FAQ data in the page code (8 to 10 questions each) that is not shown on the page. Search engines want the questions visible, and AI reads the visible text. Show them on each post and re-check every answer while doing it (several repeat old numbers). Find them by comparing the first FAQ question in the data block with the visible text. Done so far: deck cost post.
+- [ ] Pixis page audits (read 2026-11-26): pergola page, deck cost post and gallery fixed the same day. The other older service pages have the same kinds of gaps (no outside source, no date, unsupported numbers).
 
 ## Step 4. Build citations off the site, without paying for them (weeks 2 to 12)
 

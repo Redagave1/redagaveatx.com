@@ -44,3 +44,12 @@ Then: the 11 city pages, the four signature project pages, /reviews, the other f
 
 - Rank tracker, eight searches tracked for Southern Love: every one of their top positions carries the map pin and points at their home page, so those are map box placements. Red Agave in regular results (Search Console, 28 days): austin landscapers 33.4 (135 impressions), landscape design austin 30.0 (220), landscaping austin tx 31.4 (164), austin landscape design 32.3 (232), hardscaping services no impressions.
 - AI visibility tool, "Top prompts you're losing": outdoor kitchen companies, deck materials, pergola and shade options, IPE vs cedar vs composite, outdoor kitchens and value. Each has a page on the site since 2026-11-20 (two are reworks of July posts); none of the new versions was in Google yet.
+
+## Requests made, and the daily run (2026-11-26)
+
+Jensen said yes to requesting indexing through Search Console in Chrome, and then asked for it to run by itself every day until done.
+
+- Requested 2026-11-26 (each one answered "Indexing requested"): the ten pages in the order above, then /locations/westlake-hills-tx. Tarrytown and Lakeway were tried in a batch that timed out, so their result was not seen. Cedar Park turned out to be on Google already. Google answered "Quota Exceeded" after that, so the daily cap is about 11 to 13.
+- The five page addresses in the sitemap box were removed the same day; only /sitemap.xml is listed now (Success, 200 pages).
+- Daily run: scheduled task `red-agave-indexing` (9:11 AM every day, runs while the Claude desktop app is open). Its instructions are in `~/.claude/scheduled-tasks/red-agave-indexing/SKILL.md` and its progress file is `queue.tsv` in the same folder (204 rows: todo, requested, indexed). `indexing-queue.tsv` in this folder is the starting copy only. The task turns itself off when no row is left.
+- A URL typed straight into the address bar as `/search-console/inspect?...&id=<url>` gives a 404; the inspection has to be started from the box at the top of Search Console.

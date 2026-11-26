@@ -116,7 +116,7 @@ Learned in round 3 (2026-11-19):
 - If the draft count has not dropped 45 seconds after one Publish click, reload the pin tool. If the titled draft is still there, the click did not register: select it, check the fields, and click Publish once.
 - After a reload the draft thumbnails load at full size, so match drafts by height divided by width, not by height alone.
 
-## Round 4: one board per signature project (asked 2026-11-26, upload in progress)
+## Round 4: one board per signature project (asked and finished 2026-11-26)
 
 Jensen: "on pintrest should we do our signanture projects" and then "so all the signature projects". Plan: 78 pins on 11 new boards, each pin linking to its project page. Board names use the street and neighborhood (confirmed streets) or the area: Chrysler Bend, Madison, Dormarion, Hopeland, Riverview, Axehandle, Blazyk, Fly Catcher, Ulit, Southeast Austin water feature, South Austin screened room.
 
@@ -125,8 +125,9 @@ Jensen: "on pintrest should we do our signanture projects" and then "so all the 
 - Left off the Dormarion board: the four photos that show the house number (Jensen allows the address on the site's Dormarion page and card; Pinterest was not asked).
 - Ulit pins end with "Photo: Kieran Reeves Photography."
 - Jensen signed Chrome in to Pinterest on 2026-11-26 ("ok pintrest signed in") and the upload started the same day.
-- **Published 2026-11-26 (37 pins, boards 1 to 5):** Chrysler Bend (8), Madison (8), Dormarion (6), Hopeland (8), Riverview (7).
-- **Still to upload (41 pins, boards 6 to 11):** Axehandle (8), Blazyk (8), Fly Catcher (8), Ulit (5), Southeast Austin water feature (7), South Austin screened room (5).
+- **Published 2026-11-26: all 78 pins on 11 new boards**, checked on the profile's Boards page afterwards: Chrysler Bend (8), Madison (8), Dormarion (6), Hopeland (8), Riverview (7), Axehandle (8), Blazyk (8), Fly Catcher (8), Ulit (5), Southeast Austin water feature (7), South Austin screened room (5). The profile now holds 215 pins on 26 boards.
+- Every round 4 pin links to its own project page (`/projects/<name>`), and every title and description is the one in `pinterest-round4.json`.
+- Chrome restarted once mid-upload (board 6); the drafts were kept by Pinterest and showed again after reopening the pin tool. One upload (board 10) showed only 1 of 7 drafts until the page was reloaded.
 - **Faster method found in this round (pin creation tool, Chrome window 1344x896):**
   1. Upload the board's files to the "File Upload" input (find a fresh ref each time). Wait about 20 seconds; the bulk edit pencil does nothing while uploads are still processing.
   2. Read each draft's picture ratio with JS (drafts have no file names) and match it to `manifest.json`.

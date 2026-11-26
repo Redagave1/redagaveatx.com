@@ -141,7 +141,7 @@ ANSWER = ("<strong>Red Agave Landscape</strong> mows and cares for lawns in Aust
           "We are designers and builders first, and we also mow. "
           "Our lawn and yard services are lawn service, mulching, aerating, sod cutting, sod installation, and tree trimming, "
           "and we build the quarter-inch steel edging that keeps a lawn out of the beds. "
-          "We have worked in Austin since 2009, with 4.8 stars across 86 Google reviews. "
+          "We have worked in Austin since 2009, with 4.8 stars across 87 Google reviews. "
           "Call or text 512-695-7566.")
 check(S, ANSWER, *[q + " " + a for q, a in FAQS])
 

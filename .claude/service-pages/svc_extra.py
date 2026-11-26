@@ -21,6 +21,6 @@ AREAS = ("<p>We build across the Austin area, including <a href=\"../locations/w
          "<a href=\"../locations/tarrytown-tx\">Tarrytown</a>, <a href=\"../locations/cedar-park-tx\">Cedar Park</a>, "
          "<a href=\"../locations/round-rock-tx\">Round Rock</a>, and <a href=\"../locations/pflugerville-tx\">Pflugerville</a>.</p>")
 
-STANDING = ("<p>Red Agave Landscape has built in Austin since 2009, with more than 750 projects. We hold 4.8 stars across 86 Google "
+STANDING = ("<p>Red Agave Landscape has built in Austin since 2009, with more than 750 projects. We hold 4.8 stars across 87 Google "
             "reviews, and we won the Best of Houzz Service award in 2019 and 2020. Every project starts with a free consultation, "
             "and the CAD plan is included. Call or text (512) 695-7566.</p>")

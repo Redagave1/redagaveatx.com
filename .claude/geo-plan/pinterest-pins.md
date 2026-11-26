@@ -115,3 +115,13 @@ Learned in round 3 (2026-11-19):
 - If the board list opens unfiltered (the typed name did not land in the search box), stop and click the board's row directly. Wait three seconds after opening the list before typing.
 - If the draft count has not dropped 45 seconds after one Publish click, reload the pin tool. If the titled draft is still there, the click did not register: select it, check the fields, and click Publish once.
 - After a reload the draft thumbnails load at full size, so match drafts by height divided by width, not by height alone.
+
+## Round 4: one board per signature project (asked 2026-11-26, not uploaded yet)
+
+Jensen: "on pintrest should we do our signanture projects" and then "so all the signature projects". Plan: 78 pins on 11 new boards, each pin linking to its project page. Board names use the street and neighborhood (confirmed streets) or the area: Chrysler Bend, Madison, Dormarion, Hopeland, Riverview, Axehandle, Blazyk, Fly Catcher, Ulit, Southeast Austin water feature, South Austin screened room.
+
+- Plan with every title, description and link: `pinterest-round4.json`. Images: run `make_pins_round4.py <folder>` (reads the committed photos; some working-tree copies are iCloud-only and hang when read).
+- These are fresh uploads, not re-saves of the round 1 to 3 pins, so each one carries the project page link.
+- Left off the Dormarion board: the four photos that show the house number (Jensen allows the address on the site's Dormarion page and card; Pinterest was not asked).
+- Ulit pins end with "Photo: Kieran Reeves Photography."
+- Blocked 2026-11-26: Chrome was signed out of Pinterest (profile page showed "Log in"). Jensen has to sign in before the upload.

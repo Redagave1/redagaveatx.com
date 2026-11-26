@@ -48,6 +48,9 @@ Jensen supplies the facts for each (which decking we install, which kitchens we 
 - [ ] Finish the service pages still on the list: driveways, fences and gates, patio covers and pavilions, paver patios (waiting on photos).
 - [ ] Three more city pages: Leander, Oak Hill, Spicewood.
 - [ ] **Hidden FAQs (found 2026-11-26):** about 60 older posts carry FAQ data in the page code (8 to 10 questions each) that is not shown on the page. Search engines want the questions visible, and AI reads the visible text. Show them on each post and re-check every answer while doing it (several repeat old numbers). Find them by comparing the first FAQ question in the data block with the visible text. Done so far: deck cost post.
+- [x] Three reference guides published 2026-11-26, each from primary sources: landscaping cost in Austin (hub over our cost guides), impervious cover in Austin (City code), Austin Water rebates and watering rules. All three are in the daily indexing queue.
+- [x] Corrections from the same research, 2026-11-26: 12 pages with old Austin Water rebate amounts or the wrong watering stage, and 10 pages that gave the Save Our Springs percentages as a lot's limit or called pergolas, permeable pavers or composite decks exempt.
+- [ ] **Prices disagree between our own cost guides** (patio pavers, retaining walls, outdoor kitchens, pools, sod, fire pits, pergolas, whole-yard totals). The cost hub leaves those rows without a number. Needs Jensen's current price list; then correct each guide and fill the hub.
 - [ ] Pixis page audits (read 2026-11-26): pergola page, deck cost post and gallery fixed the same day. The other older service pages have the same kinds of gaps (no outside source, no date, unsupported numbers).
 
 ## Step 4. Build citations off the site, without paying for them (weeks 2 to 12)
